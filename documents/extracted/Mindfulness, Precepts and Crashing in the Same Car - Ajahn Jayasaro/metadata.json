@@ -1,0 +1,81 @@
+{
+  "title": "Mindfulness, Precepts and Crashing in the Same Car",
+  "author": "Ajahn Jayasaro",
+  "language": "en",
+  "total_chapters": 12,
+  "total_words": 7072,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 347,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Foreword",
+      "word_count": 230,
+      "file": "chapter_02_Foreword.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Further resources",
+      "word_count": 92,
+      "file": "chapter_03_Further resources.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Note to the reader",
+      "word_count": 77,
+      "file": "chapter_04_Note to the reader.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Mindfulness of the Present Moment",
+      "word_count": 1225,
+      "file": "chapter_05_Mindfulness of the Present Moment.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Opening up to the Truth of Things",
+      "word_count": 998,
+      "file": "chapter_06_Opening up to the Truth of Things.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Liberation and Precepts",
+      "word_count": 1397,
+      "file": "chapter_07_Liberation and Precepts.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Crashing in the Same Car",
+      "word_count": 692,
+      "file": "chapter_08_Crashing in the Same Car.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Samadhi and Kammatthana",
+      "word_count": 747,
+      "file": "chapter_09_Samadhi and Kammatthana.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Conclusion",
+      "word_count": 800,
+      "file": "chapter_10_Conclusion.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Ajahn Jayasaro",
+      "word_count": 92,
+      "file": "chapter_11_Ajahn Jayasaro.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Panyaprateep Foundation",
+      "word_count": 375,
+      "file": "chapter_12_Panyaprateep Foundation.txt"
+    }
+  ]
+}

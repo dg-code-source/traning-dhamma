@@ -1,0 +1,286 @@
+=== Copyright ===
+
+## Copyright
+
+Mindfulness, Precepts and Crashing in the Same Car
+
+Panyaprateep Foundation or Thawsi School 1023/47 Soi Pridi Banomyong 41 Sukhumvit 71, Bangkok, 10110 THAILAND,www.thawsischool.com, www.panyaprateep.org
+
+Cover Design: Tul Hongwiwat
+
+Design: Parinya Pathawinthranont
+
+This electronic edition published 2012
+
+Digital Edition 1.0
+
+Copyright © Ajahn Jayasaro 2012
+
+This book is offered as a gift of Dhamma. It has been made available through the faith, effort and generosity of people who wish to share the understanding it contains with whomever is interested. This act of freely offering is itself part of what makes this a ‘Dhamma publication,’ a book based on spiritual values. Please do not sell this book in any form, nor otherwise use it for commercial purposes.
+
+This work is licenced under the Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK: England & Wales Licence. To view a copy of this licence, visit: http://creativecommons.org/licenses/by-nc-nd/2.0/uk/
+
+Summary:
+
+You are free:
+
+to copy, distribute, display and perform the work
+
+Under the following conditions:
+
+Attribution: You must give the original author credit.
+
+Non-Commercial: You may not use this work for commercial purposes.
+
+No Derivative Works: You may not alter, transform, or build upon this work.
+
+With the understanding that:
+
+Waiver: Any of the above conditions can be waived if you get permission from the copyright holder.
+
+Public Domain: Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+
+Other Rights: In no way are any of the following rights affected by the license:
+
+Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+
+The author's moral rights;
+
+Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+
+Notice: For any reuse or distribution, you must make clear to others the licence terms of this work.
+
+Ajahn Jayasaro asserts his moral right to be identified as the author of this book.
+
+Ajahn Jayasaro requests that you attribute ownership of the work to him on copying, distribution, display or performance of the work.
+
+
+=== Foreword ===
+
+## Foreword
+
+It has always been my intention to share the teachings of Phra Ajahn Jayasaro with other lay followers and those who are seeking the best way to live their lives. In every attendance of the teachings, I have always received good thoughts and advice to help disentangle frustrations in my normal busy life, and most of all, I somehow regain my sati to realize and reconsider the other angles of view and life. I did share this moment of findings with my family, and do hope that I can cultivate more thorough understandings and practices of Dhamma to my son, Pordee, from the teachings of Phra Ajahn. Dhamma book is another channel to share the teachings with others, friends and Dhamma friends, and hope that they will have their own approach to appreciate the teachings and apply to their everyday life as well.
+
+In this regard, I would like to express my deepest appreciation and profound gratitude to Phra Ajahn Jayasaro for all of his teachings and for his permission to have this booklet published for free distribution. I thank Baanaree Foundation for kindly hosting the dhamma talk by Phra Ajahn Jayasaro in November 2009 which formed the basis of this booklet. Finally, I wish to express appreciation to my friends and family who also joined this Dhamma book publication.
+
+Chutima Mokkhasmit
+
+On behalf of the lay supporters
+
+
+=== Further resources ===
+
+## Further resources
+
+This book and many others from Venerable Ajahn Chah, Ajahn Sumedho, and their disciples are freely offered and available in various electronic formats as well as in print. You can find them via our monasteries and through the websites listed below, along with other resources such as audio talks, meditation instruction and retreats. Everything is free of charge, and everyone is welcome.
+
+For books and audio:www.forestsanghapublications.orgwww.amaravati.org
+
+For a list of Ajahn Chah community monasteries worldwide:www.forestsangha.org
+
+For further Theravada Buddhist literature including English translations of much of the Pali Canon:www.accesstoinsight.org
+
+
+=== Note to the reader ===
+
+## Note to the reader
+
+In order to make this e-book readable in a variety of electronic formats a simplified form of representing Pali words has been used; some of the diacritical marks have therefore not been included in this edition.
+
+To check the spelling of any particular Pali word, please consult the Pali Text Society's Pali-English Dictionary, the Buddhist Publication Society’s Buddhist Dictionary: Manual of Buddhist Terms and Doctrines, or other resources available on the Internet.
+
+
+=== Mindfulness of the Present Moment ===
+
+## Mindfulness of the Present Moment
+
+(Baanaree, Bangkok, 9th November 2009)
+
+I’d like to begin by telling a short story concerning a very diligent scholar. This man put great effort into studying the scriptures, and the Suttas, and the commentaries, and the sub-commentaries, and the sub-sub-commentaries. He was always looking for the one special profound teaching which would unlock the inner chamber of his mind and reveal the true splendour of the Dhamma. He became greedy for knowledge and for some special information. He was always on the lookout to find some new source of knowledge with which he was unfamiliar.
+
+Then one day, when he was already middle-aged, he heard of a wonderful master who lived in a tree in the middle of a very dense forest in a remote mountain range. He decided to leave home and endure whatever great hardships the journey required in order to study some special profound presentation of the Dhamma which he had never heard before.
+
+He set off on his journey and he climbed mountains and crossed rivers and trekked through thick malarial forests and eventually he came to a huge tree. The monk was sitting up above in a tree house (or tree kuti). The scholar bowed three times and said, ‘Master, I have come a very long way with great difficulties. Please give me the profound essence of the Buddha’s teachings.’
+
+The monk looked down on him and chanted this verse in Pali -
+
+Sabba papassa akaranamkusalassa upasampadasacitta pariyodapanametam buddhanusasanam
+
+- which translates as, ‘The not doing of all evil (or all unwholesome things); the perfection of wholesome dhammas; the purification of the mind - this is the teaching of all the Buddhas.’
+
+And the scholar...his face fell. He said, ‘But master, even a child of five has heard that verse.’ The teacher said, ‘Yes, but even a man of fifty finds it difficult to practice.’
+
+The profound teaching is whatever you can’t do yet. It’s not something that’s always intellectually difficult, but it’s profound if you haven’t yet penetrated it, you haven’t yet reached it. Indeed, it’s often the simplest and most straightforward teachings which are the most effective and produce the most meaningful change in our lives. This is a point to observe about the Dhamma - that the study and the practice of the Dhamma changes you. It leads somewhere. In the Pali it is called ‘opanayiko’ that is it leads onwards - or it leads inwards, depending on how you translate the term.
+
+In contrast, accumulating normal worldly knowledge often leads to an increase of complexity. Perhaps we can take knowledge from here and there and put it all together and come up with something new that somebody hasn’t thought of before, but whether it actually leads onwards or leads inwards is questionable.
+
+The practice of Dhamma, the Dhamma itself, is something which stands up to scrutiny. It’s something which invites investigation, invites scepticism, invites questions - delights in them. This is not a teaching in which we adopt a certain book and use its teaching as a code by which we translate the meanings of experience, and take refuge in the sense of security that comes from having a book that explains everything. In Buddhadhamma we’re encouraged to be brave enough to challenge ourselves, challenge what monks say, challenge the things that we read. As we practice more and more, we have this confidence that the Dhamma stands up to intense scrutiny and intense investigation.
+
+There is a principle, a simple rule of thumb which I’ve always found very useful in deciding what is true and what is false - if something is false, the closer you look at it the more diffuse, the less clear it becomes. Whereas if something is true, the closer you look, the clearer it becomes.
+
+So the teachings of the Buddha need to be brought within, need to be looked at closely and put to the test.
+
+In some ways, Buddhism is similar to a science. In scientific discourse it’s important that something can be proved experimentally before it can be taken on as a theory. But not every law or scientific theory can be proved by everyone, simply because so much scientific research uses technology which is extremely expensive. If you don’t have the financial resources, no matter how clever, how smart you are, you can’t ever prove that theory for yourself without access to that technology. Similarly, in Buddhadhamma, although theoretically you can prove the truth of all the teachings (or the core teachings, at least), it is dependent on having a mind which is sufficiently mature to act as a vessel for dhamma. Most importantly the mind needs a certain sense of stability and clarity.
+
+In contrast with most of the major world religions which I would characterize as belief systems, I’m fond of characterizing Buddhism as an education system. But if Buddhism is an education system, then where is the classroom? The answer is— in the present moment.
+
+You embark upon this education system when you develop the ability to be awake and aware in the present moment.
+
+The word ‘Buddha’ means ‘the awakened one’, or means the quality of wakefulness. That is the essence of practice on every level - the ability to be awake. I’m sure you’ve had an experience of suddenly waking up in the middle of the night. Maybe there’s been a bang or some disturbance, and all of a sudden you’re wide awake. You haven’t yet thought anything. There’s no conceptual thought in your mind, there’s just this clear bright clarity of wakefulness. In Buddhist practice, that’s the kind of state of mind which you are trying to develop more systematically, so that an alert clarity becomes part of your way of living in the world.
+
+Being mindful in daily life is one of those phrases that you hear an awful lot and sounds quite attractive, but it’s very difficult to do. Perhaps some of you will say it’s too difficult in a very busy city and living the kind of lives that you do. But I have a simile here that I’d like to share with you, which may be useful. Consider a woman who has a small child. There are very few mothers, no mothers, that could be totally focused on their child twenty-four hours a day. They have other duties to perform. But a mother who is working at home - it might be cleaning, or cooking, or working on the computer, or writing, or whatever - would at the same time always have a sense of exactly where her child is, whether the child is safe or in danger, whether the child is happy or sad, and exactly what is going on with her child - even though to an observer she would seem to be doing something else altogether.
+
+I think that the mother’s awareness of her child is analogous to the kind of awareness of mind that one seeks to develop in everyday life - that sensitivity to the changes that are going on throughout the day. The short-term changes, the fluctuations of thoughts and feelings, and the more subtle moods which fluctuate throughout the day, or throughout a week even. This is where we begin to study and learn and practice the Buddha’s teachings more and more effectively.
+
+
+=== Opening up to the Truth of Things ===
+
+## Opening up to the Truth of Things
+
+It’s quite natural for most of us to consider the world divided into two things; the things we like, and the things we don’t like. Although we may not like to consider it so bluntly, a great deal of our lives even as adults is taken up with trying to maximize the experience of things we like, and trying to minimize contact with things or people that we don’t like. Our sense of ease in life is often measured by our success in that endeavour. We think, ‘Oh, things are wonderful these days. I don’t have to work with anybody I don’t like. I don’t have to do the things that I don’t like. I can do what I want when I want.’ Of course this is one of the reasons why wealth and money are so coveted, because it does give us the power to set up conditions for ourselves in which we can, to a certain extent, reduce or eliminate the necessity to experience things and people we don’t like, and to maximize the experience of things and people we do like.
+
+But in the end it’s a frustrating way to live our lives, because even if we are experiencing a lot of things that we like, the intensity of pleasure that we receive from them is not stable. Anything that is pleasant is subject to the law of diminishing returns. You get a certain amount of pleasure out of it the first time, and then after a few times you don’t get so much pleasure, so you have to increase the stimulus to get the same amount of pleasure. This goes on and on. In the coarsest expression of this, people who take drugs find a certain level of drug taking gives them the feeling that they crave, then after a while they have to increase the dose.
+
+This dynamic not restricted to drug use. It’s the story of the whole sensual realm. Our nervous system cannot stand too much pleasure. Our bodies need change. We can’t sit still for more than a few seconds at a time without having to move the body slightly. So the search for ‘the pleasant’ always has a certain admixture of pain. The shadow of separation always hangs over our pleasure.
+
+In romantic movies and books the young couple looking up at the full moon in the garden say, ‘I wish this night could last forever!’ Why say that? You would only say that if you knew that it’s not going to last forever. There’s a sense that even when things are wonderful, in the back of our minds we’re thinking, ‘It’s all downhill from here. It’s probably never going to be any better than this.’ That sense of exhilaration (‘Wow! This is the best it’s ever been!’) is very hard to separate from that flickering, sad thought, ‘Yes, but it’s never going to be any better than this, and perhaps it’s never going to be as good as this again.’ It’s just normal, isn’t it? It’s just a normal part of life.
+
+Of course, when separation does take place, often it’s a shock. People say, ‘I just never thought that would ever happen.’ Why not? Why is it so impossible to imagine? Every kind of separation takes place all the time, all around us. But part of our strategy for dealing with that decline of pleasure and happiness and fulfilment and that shadowy sense of pending separation and pain and grief is that we just try to shut our minds down - don’t think about it. ‘I don’t want to think about that. It’s morbid. That’ll just make you depressed. Look on the bright side of life.’
+
+The idea in Buddhism is opening up to the truth of things, both the side we find pleasant and the side that we find unpleasant. The moment we start to censor our experience, when we say, ‘I only want to think about this’, or, ‘that just makes me anxious, that just makes me fearful’, you are creating paper tigers in your mind and you give energy to those negative qualities. By not thinking about these things you defeat the purpose you set out to achieve.
+
+Being in the present moment is not a goal in itself, and it‘s not about being blissed out. Being in the present moment is just basic mental health. It’s the conditioning factor for growth in Dhamma in order to really know what life is all about - not as a philosophy, not as a complex intellectual structure, but as direct experience. What is body? What are feelings? What are perceptions? What are thoughts? What is sense-consciousness? Not as some elaborate abhidhamma exercise, but as a direct experience.
+
+Being in the present moment is a revolution in our way of living life. We begin to notice the process-nature of experience, rather than obsessing about the content of experience. The emphasis shifts naturally. We find things arising by themselves. For instance, you experience a yawn or a sneeze as something that just arises. You don’t decide to sneeze. You don’t decide to yawn. It just happens. And so, in the same way, do thoughts, feelings and emotions.
+
+And this is the weird thing - intention, thought, and feeling arise first, and the one who is thinking and feeling arises subsequent to the thought. From a philosophical point of view this could be debatable, but this is something we can observe very clearly by being in the present moment. Common sense says that first there is someone who is thinking, and then you have a thought. Is that what really happens? Have you ever developed a clarity, stability, a sharpness of mind with which you can really look directly at what is going on? Some of our most cherished assumptions are overturned quite radically when we’re willing to do that, to really look and see what’s going on here. It’s liberating.
+
+
+=== Liberation and Precepts ===
+
+## Liberation and Precepts
+
+Liberation is the word that the Buddha used to sum up all of his teachings. In the traditional presentation of Buddhadhamma it is said that there are 84,000 teachings, and they all have a single flavour. Just as all the waters of all the oceans of the world have a single salty flavour, all the teachings of the Buddha have this single flavour of liberation.
+
+When we’re practicing generosity, sharing, giving to others, that is a liberating practice if done in the sense that the Buddha taught it. There has to be a liberation from attachment to material things, a liberation from meanness, a liberation from stinginess. This is how we develop this very first stage of letting go. We let go on a material level, letting go of our attachment to money and to wealth. When we practice generosity wisely we have to start thinking about other people. It’s a meditation in itself. If you are going to give something to somebody you have to think about what they might want. What would make them happy? You are liberating yourself from the self-centred point of view. You’re taking somebody else’s wishes, someone else’s happiness, into consideration. It’s liberating and that’s why there’s so much joy that comes from giving and sharing.
+
+When you can share and not want anyone else to know about it— that’s the most wonderful kind of sharing. Many of you may know that the Thai idiom for this practice is ‘attaching gold leaf to the back of the Buddha.’ If you put the gold leaf on the front of the Buddha everyone can see it. If you put the gold leaf on the back of the Buddha nobody can see it, but you know it’s there. That’s a more liberating kind of giving than one in which someone expects something. Basking in words of praise and appreciation can lessen the liberating power of giving. If you give and you desire something in return then you get less merit than if you give without expecting anything.
+
+Keeping precepts is also a practice of liberation. There’s a great deal of misunderstanding of the role of precepts and sila, or ‘morality’, in Buddhist practice. Keeping precepts and leading a moral life is not some sort of preliminary practice. It is in itself the practice of dhamma. It is in itself the development of mindfulness.
+
+In the practice of meditation one takes a particular object - it might be a word, a mantra, or it might be one part of the body, the breath, the image of a skeleton or whatever, and then one lets go of everything else except for that one thing. You can’t just jump from attaching to all kinds of things to attaching to nothing. You need a halfway house to give a sense of stability and confidence. So you take a meditation object as your halfway house. It gives you a focus, and you let go of everything else except for that one thing. Eventually you can let go of that one thing.
+
+Earlier I mentioned the practice of being in the present moment in daily life, and being mindful. The Thai word for sati, which is usually translated into English as mindfulness, is ‘kwahm raleuk dy’ or ‘recollection’. One important aspect of mindfulness is the recollecting of what needs to be recollected at any time and place. It is a form of non-forgetting and may include not only the bearing in mind of a meditation object, but also certain teachings or appropriate information. Mindfulness is not a floating nebulous ‘awareness’. You can’t just be mindful. You always have to be mindful of something. In meditation you’re mindful of a particular object, but in daily life what can you be mindful of? It is the failure to ask this question and so being left with a lack of clear objects for mindfulness that helps explain why it is so easy to get distracted in daily life.
+
+On a more subtle level one can be mindful of thoughts and emotions and so on, but it’s important to have an object of recollection that’s a little more concrete and coarse. And its the precepts which provide this function. We’re mindful of precepts. In other words, when we’re keeping precepts we’re practicing mindfulness.
+
+The Buddha said that the essence of sila, or ‘morality’, is cetana or ‘intention’. It is also the essence of kamma. From this we can see the fundamental importance of cetana. We are only going to be effective in our efforts to avoid creating bad kamma, and our efforts to create good kamma, when we have some real time awareness of cetana or ‘intention’.
+
+So how are you aware of intention? It’s difficult.
+
+It’s very difficult to keep track of a moving object, if the background for that moving object is multi-coloured and unstable. But if you have a plain background and you have a grid, then you can follow the movements of a moving object much more easily. We can plot it moving say from square A3 to B4 to C6. Having that grid is extremely helpful, and the precepts form the same kind of grid - a matrix or framework in which one can see the complex movements of the mind when they start to lead on to actions of body and speech which constitute bad kamma and create problems both for one’s self and others in the present and the future.
+
+Take the first precept. We make a clear-cut determination not to not harm any living creature, even if it’s frightening or dangerous or irritating, Now we are no longer taking seriously or identifying with the intention to harm. By consciously, willingly, voluntarily taking on as a life principle the intention not to harm, we immediately illuminate, whenever it arises, the intention to harm. We become mindful of the arising of the intention to harm because we are sincere in our intention not to harm. Similarly with the other precepts. This is why keeping precepts is not a preliminary to the practice of dhamma, it lies right at the very heart of practice.
+
+We can expand this practice from the five precepts, which forms its most basic level. In monk’s life we have an incredible number of precepts that we use as pegs for mindfulness. Notice how I’ve put my bag here. That’s not just by accident. I’ve been taught that I have to fold it like that. If I don’t then it’s an offence against the korwat, the ways of practice. There are many so rules like this that monks keep, many of them not directly concerned with refraining from unwholesome activities, but designed to bolster mindfulness and keep us grounded in the present moment.
+
+In the West, we tend to have a rather difficult, dysfunctional relationship with rules. We feel that rules are something imposed upon us, and we often feel impelled to rebel against them, and that there’s something noble in doing so – and indeed, sometimes there is.
+
+But my idea about practising with rules, and this is speaking from the experience of living within the boundaries of the Buddhist monastic code for over thirty years now, is that I would compare it to a musician playing a piece of classical music. If you listen to a violin concerto, I doubt if you feel ‘that poor violinist, he’s got no freedom at all. Every single note that comes from his musical instrument was decided for him two or three hundred years ago by Mozart.’ We don’t consider that someone’s creativity in that context is constrained or compromised by the necessity to follow the score. On the contrary, the score becomes for the musician, the vehicle of expression. This is true in other arts as well. There’s a famous quote by Robert Frost about free verse. He rejected it. He liked to write rhyming verse. He said writing free verse would be like playing tennis with the net down. The very constraints of having a net makes tennis interesting.
+
+When we voluntarily take on certain restraints, deciding not to do certain things, with a clear understanding of the value of doing so and the sufferings inherent in not doing so, I would suggest that we don’t feel imprisoned or constrained at all. Quite the opposite.
+
+The practice of sila is liberating.
+
+
+=== Crashing in the Same Car ===
+
+## Crashing in the Same Car
+
+Liberation in the psychological realm, begins with the reduction or elimination of the sense of guilt and remorse. The liberation from guilt and remorse is a wonderful thing and is reliant upon sila. You freely set boundaries for yourself. Not having precepts imposed upon you, you willingly take them on. Through a practice in which you consistently are able to live within those boundaries a growing confidence in yourself arises. You know that you have certain principles that you can uphold even in situations or circumstances in which it might be quite difficult to do so. As a result, you don’t have to be constantly going over and over in your mind, ‘Why did I say that?!? Why did I do that?!?’
+
+If any of you have done meditation retreats, you may have encountered a phenomenon in which a certain song arises in your brain and it won’t go away. This happened to me during a long retreat when I was a young monk. My song was by David Bowie and it was one that I had been very fond of as a layman. The song is called Always Crashing in the Same Car, and it sums up the idea that we make the same mistakes over and over and over again. You say, ‘Never again! Never am I going to be so stupid! Never am I going to do this ever again!’ Until the next time you do it, and so you crash in the same car over and over and over again. At that time I was in this state where I felt that I was making the same mistake again and again, and then suddenly, out of nowhere, popped up this song from the mid-seventies.
+
+This is a real problem in meditation. If you are consistently acting is ways which undermine your principles and your goals and your ideals, then you lose a lot of energy and self-confidence. It’s then very easy to start looking on yourself in a very demeaning way. You lose your self-respect and self-esteem. If you’re not careful you start creating a harmful sense of self. ‘I’m a bad person. I’m hopeless. I can’t do this’. You believe in that little voice in your head, and you create this person - ‘me’ - who is no good. Sometimes even, in a chronic state, you see a path towards an increased happiness and growth, and you think, ‘Well I’m not good enough to deserve that.’ This is an awful, twisted state of mind. You finally see some sort of happiness in life, and then say to yourself, ‘But I don’t deserve this.’ The question that needs to be asked straight away is ‘Why not?’
+
+These days, efforts have made to counter this kind of negativity with its opposite. But they has been focused on the most basic kinds of pleasure. ‘You deserve it! Buy this because you deserve it. Consume this because you deserve it. You deserve all the sense pleasures, the fame, the success that you crave’. The result is a wide spread sense of entitlement, a form of heedlessness. You do deserve happiness, but not quite in the way that the advertisers are intending. It’s not in a way that requires a credit card. You deserve happiness because you’ve done all the hard work to be born as a human being. You’d be surprised at how difficult it is to be born like this in the first place. Given that you have a body and mind, you do deserve to be able to realise true happiness in life. If there is a fundamental article of faith in Buddhism, it is a faith in the capacity of the human being for liberation - whether we’re men or women, Westerners or Easterners. Our gender, our backgrounds are irrelevant. Just by virtue of the fact that we were born as human beings we do have the capacity to find liberation and to find true freedom and happiness. We have earned our chance to create the causes and conditions for these things through a constant and patient application of the Buddhas’s teachings.
+
+
+=== Samadhi and Kammatthana ===
+
+## Samadhi and Kammatthana
+
+The practice of samadhi is the one in which we are developing the tools to liberate ourselves, even if only temporarily, from the negative emotions that so often cloud our minds. We develop the effort, and develop the sense of knowing and wakefulness, together with the breath - being totally awake and aware for the duration of one in-breath and one out-breath, and then starting again. Being totally awake, totally aware for one in-breath and one out-breath, and starting again, again and again. Recognising when the mind is drifting - drifting into thought, drifting into dullness, and re-establishing attention. This is the basic work that we have to do. There are no shortcuts. There’s no way around this. It’s difficult because we’ve neglected it in the past. It’s not impossible, but it’s hard work.
+
+There’s another word: kammatthana. Kamma means ‘work’ and thana is ‘base.’ So your meditation object is your kammatthana. It’s where you do your work. It’s tough, you know, because you’re going against the grain. You’re developing new habits, and old habits die hard. But look closely and see the extent to which you suffer unnecessarily in life simply because you’ve never done this work. We are rarely able to recognise when we’re starting to get tense, anxious, fearful, angry, hurt, and so on. We’ve never developed a repertoire of skilful means to deal with negative emotion. If we never develop tools and a repertoire of skilful means to create, sustain, and bring to maturation wholesome dhammas, then we’re always going to be a victim of circumstance. There’s never going to be any true spiritual independence in our life. Our wellbeing is always going to depend upon circumstance, depend upon people, depend upon this, depend upon that. No true inner freedom or liberation.
+
+The Buddha says we can find an inner refuge in which we become like an island unto ourselves, like a mountain which is unmoved by wind and rain and weather. This kind of stability and integrity of mind is not found by turning our backs on certain experiences and trying to create some special blissed-out state. If you practice meditation because you’re fed up with life, or you’re fed up with yourself, and you just want to go somewhere else where you don’t have to put up with all this stuff, then you’re already on the wrong path. That is the practice that may lead to heaven. But it’s not the practice for liberation.
+
+You might be able to enter some heavenly realm where you can just close your eyes and feel good for a while, but the ability to do that is conditioned by health, by external circumstances and so on, and it’s not something we can ultimately rely upon. The immediate understanding of things as they are, of highs as highs, lows as lows, thoughts as thoughts, perceptions as perceptions, this is where the stability comes. We begin to see things less as solid entities, we perceive less in terms of personalities and people, and more and more in terms of a stream, a conditioned flow of phenomena.
+
+Sometimes we read dhamma books and they say, ‘There’s no self. There’s just forms, feelings, perceptions, and mental consciousness arising and passing away.’ It can all sounds so mechanical and a bit off-putting. We’re not being presented with an obviously enticing realization. Its certainly not as attractive a picture as those found in the words of the works of the great mystics in theistic traditions. But our great teachers stress just how normal how obvious this all seems when the mind is clear of obscurations. Everything is just like this. I remember feeling that Ajahn Chah didn’t seem an abnormally wise or peaceful person, at least as far as I understood those terms. It was rather that he seemed completely normal and everybody else seemed more or less skewed and distorted.
+
+Anatta - people write long books about it and it’s really hard to understand. But if you’re just willing to come into the classroom, into the present moment, then ‘Ahhh, it’s so simple. Isn’t there something more to it than this? It’s just quite normal.’ But it’s the normal that we overlook. As I said at the beginning, the most profound things are the simplest, the most down to earth. As one teacher said, more marvellous than developing a psychic power to fly through the air, is the ability to walk normally with mindfulness and awareness.
+
+
+=== Conclusion ===
+
+## Conclusion
+
+started off with a story, and I would like to end with another one. It is a story about a teenage boy who got in with a bad crowd, one devoted to wildness, drinking drugs and so on. In this group there was one lad, an orphan, who was more violent and more extreme than anyone else. In the course of a fight this vicious lad killed the new member of the group. As a result he was arrested and eventually sentenced to a long term in prison.
+
+In the courtroom, at the sentencing, the mother of the teenage boy who’d been killed was extremely overwrought and very angry. She felt that the prison sentence given to the murderer of her son was far too lenient. She completely lost control and started screamed at this boy, ‘I’ll kill you! I’m going to kill you!’
+
+So the lad went to prison and since he didn’t have any family, and no real friends, he had no visitors.
+
+Some months passed, and then one day he was told that he had a visitor. He went out wondering who it could be. You can imagine his shock when he saw that his visitor was none other than the mother of the boy he’d killed. What to say to her? It was a very weird and awkward meeting. After some tense words the woman left - but she came back another day. She came again and again and became a regular visitor over a period of years. A relationship developed which became warmer and warmer until eventually the young man changed himself. He became a model prisoner and was let out on parole much earlier than might have been expected.
+
+Of course, on leaving prison he didn’t have anywhere to go and the woman said, ‘You can come and live with me. You can come and live with me as if you were my son.’ So he did.
+
+One day they were sitting at their kitchen table and the woman said, ‘Do you remember in the court when I screamed out I was going to kill you?’ He said, ‘Yes, how could I forget? But that’s all in the past now. Don’t worry about it.’ She said, ‘Well I’ve done it. I’ve had my revenge.’ He said, ‘What do you mean?’
+
+‘After the trial I spent a long time thinking about it and I realised it wasn’t you who killed my son, it was the evil in your heart. I didn’t need to kill you. If I was going to have my revenge I would have to kill the evil in your heart. That’s why I started to visit you and give you my love and kindness and understanding over a period of many years. Now I see you and I’m very proud of you and I don’t see that anger and hatred and violence in you at all. I’ve killed it. I’ve killed it with my love, and now I’ve had my revenge.’
+
+I really like this story. It’s a very practical, down-to-earth expression of wisdom. Seeing that there are not ‘these people’ who do things, but there are negative emotions on the rampage because people have never developed the dhamma. They have never developed this liberating practice of generosity, precepts, meditation - of learning, of looking, of enquiring, of challenging one’s assumptions and one’s way of looking at things. They have never developed this wakefulness, this ability to learn what’s what in life rather than just believing what we’re told.
+
+When this woman, through this traumatic experience, really looked at the cause of the terrible thing that happened to her, it wasn’t this bad person, it was the anger and the hatred and the violence in his heart. The more we move away from this kind of ‘person’ base, this way of looking at things in terms of personalities and people, and look more and more at what’s really going on, then some really revolutionary liberating effects can be felt . And we can be our own guinea pigs. We learn about the human condition most effectively by looking at our own condition. We’re a human being, and we want to learn about greed and non-greed, hatred and forgiveness, delusion and wisdom. We learn best by looking within. We learn how to protect the mind from harmful qualities and how to deal with those that have arisen We learn how to create noble qualities and how to nurture those that have already arisen. It’s a wonderful path that we can all follow. I certainly feel very honoured and wonderfully blessed to be able to follow in the Buddha’s footsteps in this way. I hope that all of you too can benefit from the peace, wisdom and compassion of the Buddha’s teachings.
+
+
+=== Ajahn Jayasaro ===
+
+## Ajahn Jayasaro
+
+Born in England in 1958.
+
+Ajahn Jayasaro joined Ajahn Sumedho’s community for the Rains Retreat as an anagarika in 1978.
+
+In November 1980 he ordained as a Buddhist monk at Wat Nong Pah Pong, Ubon Ratchathani Province, Thailand with Venerable Ajahn Chah as his preceptor.
+
+From 1997 until 2002 Ajahn Jayasaro was the Abbot of Wat Pah Nanachat.
+
+He is now living alone in a hermitage at the foot of Kow Yai mountains in the northeast and offers dhamma teachings at Bahn Boon, Rai Thawsi on a regular basis.
+
+
+=== Panyaprateep Foundation ===
+
+## Panyaprateep Foundation
+
+Panyaprateep Foundation, as a non-profit organization, has been set up by the founders, administrators, teachers and friends of Thawsi Buddhist School community since early 2008. It is officially registered by the Ministry of Interior with Registration Number of Kor Thor 1405 since 1st April 2008. Panyaprateep Foundation will be tasked to help with fund-raising activities, and has helped set up Panyaprateep Boarding School since academic year starting in May 2009.
+
+Objectives of Panyaprateep Foundation
+
+1) To support the development of Buddhist education based on the Buddhist principle of the Three Fold Training of conduct, emotional intelligence and wisdom (sīlasamādhi and paññā).
+
+2) To propagate Buddhist wisdom and developmental principles through organization of retreat programs, training workshops and through the dissemination of Dhamma media such as books, CDs, DVDs etc.
+
+3) To create understanding of humanity’s relationship to the natural world, to promote eco-friendly learning activities, and renewable energy for sustainable development, and a way of life based on His Majesty the King’s Philosophy of Sufficiency Economy.
+
+Organizational Structure of Panyaprateep Foundation
+
+Members of the Executive Committee
+
+Phra Ajahn Jayasaro - Chairman of the Advisory BoardAssoc. Prof. Prida Tasanapradit, M.D. - Chairman of CommitteeDr. Witit Rachatatanun - Vice ChairmanMrs. Srivara Issara - MemberMrs. Busarin Ransewa - MemberMiss Patchana Mahapan - MemberMrs. Apapatra Chaiprasit - MemberMrs. Pakkawadee Svasti-Xuto - Member and TreasurerMrs. Bupaswat Rachatatanun - Member and Secretary-General
+
+The Chief Spiritual Advisor of the Foundation is Venerable Ajahn Jayasaro, a monk disciple of Ajahn Chah of the Thai Forest Tradition, and leading figure in the Buddhist education movement. The Foundation is also honoured to have Assoc. Prof. Prida Tasanapradit, M.D. as Chairman of the Executive Committee. Furthermore, the Foundation has sought and received the kind blessing and pledges of support from a number of distinguished experts in diverse fields to help as advisors.
+
+These include Professor Rapee Sakrig, Dr. Snoh Unakul, Ajahn Naowarat Pongpaiboon, Associate Professor Prapapatra Niyom, Assoc. Prof. Opas Panya, Mr. Suparb Vongkiatkachorn, Mr. Kanoksak Bhinsaeng, local community leaders in the field of sustainable agriculture, such as Por Khamduueng Phasi and Mr. Apichart Jaroenma from Buriram Province, and Mr. Varisorn Raksphan, a dedicated businessman determined to show concrete examples of a way of life based on the King’s Philosophy of Sufficiency Economy.
