@@ -1,0 +1,381 @@
+{
+  "title": "The Collected Teachings of Ajahn Chah - Single Volume",
+  "author": "Ajahn Chah",
+  "language": "en",
+  "total_chapters": 62,
+  "total_words": 279034,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 363,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Preface",
+      "word_count": 460,
+      "file": "chapter_02_Preface.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Introduction",
+      "word_count": 6333,
+      "file": "chapter_03_Introduction.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "A Note On The Text",
+      "word_count": 928,
+      "file": "chapter_04_A Note On The Text.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "The Middle Way Within",
+      "word_count": 2673,
+      "file": "chapter_05_The Middle Way Within.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "The Peace Beyond",
+      "word_count": 4075,
+      "file": "chapter_06_The Peace Beyond.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Convention And Liberation",
+      "word_count": 2497,
+      "file": "chapter_07_Convention And Liberation.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "No Abiding",
+      "word_count": 2449,
+      "file": "chapter_08_No Abiding.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Evening Sitting",
+      "word_count": 4085,
+      "file": "chapter_09_Evening Sitting.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "About Being Careful",
+      "word_count": 7114,
+      "file": "chapter_10_About Being Careful.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Understanding Dukkha",
+      "word_count": 3479,
+      "file": "chapter_11_Understanding Dukkha.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "The Dhamma Goes Westward",
+      "word_count": 5753,
+      "file": "chapter_12_The Dhamma Goes Westward.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Even One Word Is Enough",
+      "word_count": 4741,
+      "file": "chapter_13_Even One Word Is Enough.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Making The Heart Good",
+      "word_count": 2978,
+      "file": "chapter_14_Making The Heart Good.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Why Are We Here?",
+      "word_count": 4378,
+      "file": "chapter_15_Why Are We Here.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Our Real Home",
+      "word_count": 4433,
+      "file": "chapter_16_Our Real Home.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "The Four Noble Truths",
+      "word_count": 4294,
+      "file": "chapter_17_The Four Noble Truths.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Living In The World",
+      "word_count": 3241,
+      "file": "chapter_18_Living In The World.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Tuccho Pothila",
+      "word_count": 4547,
+      "file": "chapter_19_Tuccho Pothila.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Transcendence",
+      "word_count": 5824,
+      "file": "chapter_20_Transcendence.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "Timeless Teachings",
+      "word_count": 1500,
+      "file": "chapter_21_Timeless Teachings.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "Fragments of a Teaching",
+      "word_count": 2771,
+      "file": "chapter_22_Fragments of a Teaching.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "A Gift of Dhamma",
+      "word_count": 2377,
+      "file": "chapter_23_A Gift of Dhamma.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "Living with the Cobra",
+      "word_count": 1257,
+      "file": "chapter_24_Living with the Cobra.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "Reading the Natural Mind",
+      "word_count": 6785,
+      "file": "chapter_25_Reading the Natural Mind.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "Just Do It!",
+      "word_count": 3073,
+      "file": "chapter_26_Just Do It!.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "Questions and Answers",
+      "word_count": 5493,
+      "file": "chapter_27_Questions and Answers.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "Steady Practice",
+      "word_count": 5376,
+      "file": "chapter_28_Steady Practice.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "Detachment Within Activity",
+      "word_count": 4647,
+      "file": "chapter_29_Detachment Within Activity.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "Training This Mind",
+      "word_count": 403,
+      "file": "chapter_30_Training This Mind.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "Tranquillity and Insight",
+      "word_count": 1933,
+      "file": "chapter_31_Tranquillity and Insight.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "The Path in Harmony",
+      "word_count": 1961,
+      "file": "chapter_32_The Path in Harmony.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "The Place of Coolness",
+      "word_count": 1703,
+      "file": "chapter_33_The Place of Coolness.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "Monastery of Confusion",
+      "word_count": 6124,
+      "file": "chapter_34_Monastery of Confusion.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "Knowing the World",
+      "word_count": 5786,
+      "file": "chapter_35_Knowing the World.txt"
+    },
+    {
+      "chapter_index": 36,
+      "title": "Supports for Meditation",
+      "word_count": 3918,
+      "file": "chapter_36_Supports for Meditation.txt"
+    },
+    {
+      "chapter_index": 37,
+      "title": "Still, Flowing Water",
+      "word_count": 4902,
+      "file": "chapter_37_Still, Flowing Water.txt"
+    },
+    {
+      "chapter_index": 38,
+      "title": "Toward the Unconditioned",
+      "word_count": 6599,
+      "file": "chapter_38_Toward the Unconditioned.txt"
+    },
+    {
+      "chapter_index": 39,
+      "title": "Clarity of Insight",
+      "word_count": 9511,
+      "file": "chapter_39_Clarity of Insight.txt"
+    },
+    {
+      "chapter_index": 40,
+      "title": "Learning to Listen",
+      "word_count": 595,
+      "file": "chapter_40_Learning to Listen.txt"
+    },
+    {
+      "chapter_index": 41,
+      "title": "Unshakeable Peace",
+      "word_count": 17579,
+      "file": "chapter_41_Unshakeable Peace.txt"
+    },
+    {
+      "chapter_index": 42,
+      "title": "Just This Much",
+      "word_count": 637,
+      "file": "chapter_42_Just This Much.txt"
+    },
+    {
+      "chapter_index": 43,
+      "title": "What is Contemplation?",
+      "word_count": 1480,
+      "file": "chapter_43_What is Contemplation.txt"
+    },
+    {
+      "chapter_index": 44,
+      "title": "Dhamma Nature",
+      "word_count": 2833,
+      "file": "chapter_44_Dhamma Nature.txt"
+    },
+    {
+      "chapter_index": 45,
+      "title": "Two Faces of Reality",
+      "word_count": 5459,
+      "file": "chapter_45_Two Faces of Reality.txt"
+    },
+    {
+      "chapter_index": 46,
+      "title": "The Training of the Heart",
+      "word_count": 4379,
+      "file": "chapter_46_The Training of the Heart.txt"
+    },
+    {
+      "chapter_index": 47,
+      "title": "The Wave Ends",
+      "word_count": 2995,
+      "file": "chapter_47_The Wave Ends.txt"
+    },
+    {
+      "chapter_index": 48,
+      "title": "Dhamma Fighting",
+      "word_count": 1846,
+      "file": "chapter_48_Dhamma Fighting.txt"
+    },
+    {
+      "chapter_index": 49,
+      "title": "Understanding Vinaya",
+      "word_count": 4821,
+      "file": "chapter_49_Understanding Vinaya.txt"
+    },
+    {
+      "chapter_index": 50,
+      "title": "Maintaining the Standard",
+      "word_count": 3627,
+      "file": "chapter_50_Maintaining the Standard.txt"
+    },
+    {
+      "chapter_index": 51,
+      "title": "The Flood of Sensuality",
+      "word_count": 3910,
+      "file": "chapter_51_The Flood of Sensuality.txt"
+    },
+    {
+      "chapter_index": 52,
+      "title": "In The Dead Of Night ...",
+      "word_count": 7200,
+      "file": "chapter_52_In The Dead Of Night.txt"
+    },
+    {
+      "chapter_index": 53,
+      "title": "The Fountain of Wisdom",
+      "word_count": 6109,
+      "file": "chapter_53_The Fountain of Wisdom.txt"
+    },
+    {
+      "chapter_index": 54,
+      "title": "Not Sure",
+      "word_count": 5395,
+      "file": "chapter_54_Not Sure.txt"
+    },
+    {
+      "chapter_index": 55,
+      "title": "Wholehearted Training",
+      "word_count": 10500,
+      "file": "chapter_55_Wholehearted Training.txt"
+    },
+    {
+      "chapter_index": 56,
+      "title": "Right Restraint",
+      "word_count": 5358,
+      "file": "chapter_56_Right Restraint.txt"
+    },
+    {
+      "chapter_index": 57,
+      "title": "Suffering on the Road",
+      "word_count": 12203,
+      "file": "chapter_57_Suffering on the Road.txt"
+    },
+    {
+      "chapter_index": 58,
+      "title": "Opening the Dhamma Eye",
+      "word_count": 5591,
+      "file": "chapter_58_Opening the Dhamma Eye.txt"
+    },
+    {
+      "chapter_index": 59,
+      "title": "The Path to Peace",
+      "word_count": 9294,
+      "file": "chapter_59_The Path to Peace.txt"
+    },
+    {
+      "chapter_index": 60,
+      "title": "Toilets on the Path",
+      "word_count": 9345,
+      "file": "chapter_60_Toilets on the Path.txt"
+    },
+    {
+      "chapter_index": 61,
+      "title": "A Message From Thailand",
+      "word_count": 864,
+      "file": "chapter_61_A Message From Thailand.txt"
+    },
+    {
+      "chapter_index": 62,
+      "title": "It Can Be Done",
+      "word_count": 6250,
+      "file": "chapter_62_It Can Be Done.txt"
+    }
+  ]
+}
