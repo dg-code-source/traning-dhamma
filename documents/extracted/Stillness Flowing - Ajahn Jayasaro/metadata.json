@@ -1,0 +1,129 @@
+{
+  "title": "Stillness Flowing",
+  "author": "Ajahn Jayasaro",
+  "language": "en",
+  "total_chapters": 20,
+  "total_words": 287231,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Dedication",
+      "word_count": 54,
+      "file": "chapter_01_Dedication.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Acknowledgements",
+      "word_count": 108,
+      "file": "chapter_02_Acknowledgements.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Abbreviations",
+      "word_count": 50,
+      "file": "chapter_03_Abbreviations.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Foreword",
+      "word_count": 454,
+      "file": "chapter_04_Foreword.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Preface",
+      "word_count": 1246,
+      "file": "chapter_05_Preface.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "A Life Expired",
+      "word_count": 4574,
+      "file": "chapter_06_A Life Expired.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "A Life Inspired",
+      "word_count": 39990,
+      "file": "chapter_07_A Life Inspired.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Off the Beaten Track",
+      "word_count": 13372,
+      "file": "chapter_08_Off the Beaten Track.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "A Life Inspiring",
+      "word_count": 16943,
+      "file": "chapter_09_A Life Inspiring.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Lifeblood",
+      "word_count": 36429,
+      "file": "chapter_10_Lifeblood.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "The Heart of the Matter",
+      "word_count": 22674,
+      "file": "chapter_11_The Heart of the Matter.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Polishing the Shell",
+      "word_count": 34936,
+      "file": "chapter_12_Polishing the Shell.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "From Distant Lands",
+      "word_count": 25565,
+      "file": "chapter_13_From Distant Lands.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Dying to the World",
+      "word_count": 9475,
+      "file": "chapter_14_Dying to the World.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Out of Compassion",
+      "word_count": 41668,
+      "file": "chapter_15_Out of Compassion.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Ice in the Sun",
+      "word_count": 9921,
+      "file": "chapter_16_Ice in the Sun.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "A Broader Canvas",
+      "word_count": 20829,
+      "file": "chapter_17_A Broader Canvas.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Appendix II Photographs",
+      "word_count": 179,
+      "file": "chapter_18_Appendix II Photographs.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Glossary",
+      "word_count": 8328,
+      "file": "chapter_19_Glossary.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Copyright",
+      "word_count": 436,
+      "file": "chapter_20_Copyright.txt"
+    }
+  ]
+}
