@@ -1,4 +1,4 @@
-﻿# Future Functionality Roadmap — Dhamma Training Pipeline
+# Future Functionality Roadmap — Dhamma Training Pipeline
 
 *Written: 2026-08-23*
 
@@ -127,19 +127,68 @@ python generate_train_config.py --framework axolotl --output configs/axolotl_con
 
 ## Implementation Priority
 
-| # | Feature                            | Effort    | Impact | Status |
-|---|------------------------------------|-----------|--------|--------|
-| 1 | Near-duplicate semantic detector   | Medium    | High   | [ ]    |
-| 2 | 4-part structural compliance check | Low       | High   | [ ]    |
-| 3 | Pāli term coverage report          | Low       | Medium | [ ]    |
-| 4 | Token length distribution          | Low       | Medium | [ ]    |
-| 5 | Question paraphrase augmentation   | Medium    | Medium | [ ]    |
-| 6 | Multi-turn conversation converter  | Medium    | Medium | [ ]    |
-| 7 | DPO preference pairs generator     | High      | High   | [ ]    |
-| 8 | Git pre-commit hook                | Very Low  | Medium | [ ]    |
-| 9 | Batch EPUB/PDF processor           | Low       | Low    | [ ]    |
-|10 | Hugging Face Hub uploader          | Low       | Medium | [ ]    |
-|11 | Training config generator          | Low       | Medium | [ ]    |
+| # | Feature                            | Effort    | Impact | LLM Cost | Status |
+|---|------------------------------------|-----------|--------|----------|--------|
+| 1 | Near-duplicate semantic detector   | Medium    | High   | Zero     | [ ]    |
+| 2 | 4-part structural compliance check | Low       | High   | Zero     | [ ]    |
+| 3 | Pāli term coverage report          | Low       | Medium | Zero     | [ ]    |
+| 4 | Token length distribution          | Low       | Medium | Zero     | [ ]    |
+| 5 | Question paraphrase augmentation   | Medium    | Medium | Zero     | [ ]    |
+| 6 | Multi-turn conversation converter  | Medium    | Medium | Zero     | [ ]    |
+| 7 | DPO preference pairs generator     | High      | High   | High     | [ ]    |
+| 8 | Git pre-commit hook                | Very Low  | Medium | Zero     | [ ]    |
+| 9 | Batch EPUB/PDF processor           | Low       | Low    | Zero     | [ ]    |
+|10 | Hugging Face Hub uploader          | Low       | Medium | Zero     | [ ]    |
+|11 | Training config generator          | Low       | Medium | Zero     | [ ]    |
+
+---
+
+## Budget-Aware Build Order
+
+> **Context**: LLM tokens are a scarce resource. The order of work must maximize
+> protection of existing investment before spending tokens on new generation.
+> 10 of the 11 features cost zero LLM tokens — build those first.
+
+### Phase 1 — Protect and Audit (Zero LLM Cost)
+
+Build these before generating a single new QA pair. They audit what you already have
+and tell you exactly where the gaps are, so no future token is wasted on guesswork.
+
+| Step | Feature | Why first |
+|---|---|---|
+| 1 | **#2 `audit_structure.py`** | Reveals which existing answers are structurally weak before you decide what to regenerate |
+| 2 | **#1 `check_duplicates.py`** | Reveals which topics are already saturated so you don't cover the same ground twice |
+| 3 | **#3 `pali_coverage.py`** | Gives a precise list of untaught Pāli concepts — turns guesswork into targeted generation |
+| 4 | **#8 Git pre-commit hook** | One-time setup; prevents malformed records from slipping in and requiring costly fixes later |
+
+### Phase 2 — Multiply Existing Pairs (Zero LLM Cost)
+
+You have 571 high-quality pairs representing significant token investment.
+These features multiply that value at zero additional token cost.
+
+| Step | Feature | Multiplier effect |
+|---|---|---|
+| 5 | **#5 `augment_dataset.py`** | Rule-based question rephrasing: 571 pairs → ~1,400 training records, no LLM calls |
+| 6 | **#6 `make_multiturn.py`** | Restructure related pair clusters into 2-turn dialogues; zero LLM calls |
+
+### Phase 3 — Infrastructure (Zero LLM Cost, Do When Ready to Train)
+
+| Step | Feature | When |
+|---|---|---|
+| 7 | **#4 Token distribution** | Before first training run — catch truncation risks |
+| 8 | **#10 HF Hub uploader** | When ready to push to Hugging Face for training |
+| 9 | **#11 Training config generator** | Immediately before first training run |
+| 10 | **#9 Batch extractor** | When adding many new source books at once |
+
+### Phase 4 — Defer Until Token Budget Opens
+
+These require LLM calls to generate new content. Only begin after Phase 1 has
+identified specific, targeted gaps — so every token spent fills a real need.
+
+| Step | Feature | Token cost |
+|---|---|---|
+| 11 | **New source QA generation** | High — only for gaps identified by `pali_coverage.py` and `audit_structure.py` |
+| 12 | **#7 DPO pair generation** | High — generates "rejected" answers via LLM; highest ROI for alignment quality |
 
 ---
 
@@ -148,3 +197,5 @@ python generate_train_config.py --framework axolotl --output configs/axolotl_con
 > *Quality is paramount. Do not force-fit.* Every enhancement must serve authentic,
 > deeply grounded Dhamma instruction. Augmented and generated pairs must be reviewed
 > for doctrinal accuracy before merging into training data.
+>
+> *Spend tokens on gaps, not on ground already covered.*

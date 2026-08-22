@@ -1,0 +1,27 @@
+{
+  "title": "It's Like This: 108 Dhamma Similes",
+  "author": "Venerable Ajahn Chah",
+  "language": "en",
+  "total_chapters": 3,
+  "total_words": 20757,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "copyright",
+      "word_count": 173,
+      "file": "chapter_01_copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Introduction",
+      "word_count": 358,
+      "file": "chapter_02_Introduction.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "A Bird in a Cage",
+      "word_count": 20226,
+      "file": "chapter_03_A Bird in a Cage.txt"
+    }
+  ]
+}

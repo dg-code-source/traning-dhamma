@@ -1,0 +1,33 @@
+{
+  "title": "In Simple Terms: 108 Dhamma Similes",
+  "author": "Venerable Ajahn Chah",
+  "language": "en",
+  "total_chapters": 4,
+  "total_words": 17836,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "copyright",
+      "word_count": 176,
+      "file": "chapter_01_copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Chapter 2",
+      "word_count": 96,
+      "file": "chapter_02_Chapter 2.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Introduction",
+      "word_count": 444,
+      "file": "chapter_03_Introduction.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Your Real Home",
+      "word_count": 17120,
+      "file": "chapter_04_Your Real Home.txt"
+    }
+  ]
+}

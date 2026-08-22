@@ -127,6 +127,7 @@ def main():
         "without and within": "Without_and_Within_qa.jsonl",
         "Aj Jaya The Real Practice": "The_Real_Practice_qa.jsonl",
         "In Simple Terms: 108 Dhamma Similes": "In_Simple_Terms_Similes_qa.jsonl",
+        "It's Like This: 108 Dhamma Similes": "Its_Like_This_108_Dhamma_Similes_qa.jsonl",
         "Still Flowing Water": None,  # Micro extract (136 words)
     }
 
