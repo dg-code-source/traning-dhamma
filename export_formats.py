@@ -99,14 +99,14 @@ def main():
     parser.add_argument(
         "--input",
         "-i",
-        required=True,
-        help="Path to input Chat SFT .jsonl file.",
+        default=None,
+        help="Path to input Chat SFT .jsonl file (defaults to datasets/splits/master_dhamma_qa.jsonl).",
     )
     parser.add_argument(
         "--output",
         "-o",
-        required=True,
-        help="Path to output file (.json for JSON array or .jsonl for JSON Lines).",
+        default=None,
+        help="Path to output file (.json or .jsonl). If omitted, saves beside input file.",
     )
     parser.add_argument(
         "--format",
@@ -115,14 +115,39 @@ def main():
         default="sharegpt",
         help="Target export format (default: 'sharegpt').",
     )
+    parser.add_argument(
+        "--all-splits",
+        action="store_true",
+        help="Export all train, val, and master splits into exports/ folder.",
+    )
 
     args = parser.parse_args()
+    root_dir = os.path.abspath(os.path.dirname(__file__))
 
-    if not os.path.exists(args.input):
-        print(f"[Error] Input file not found: {args.input}")
+    if args.all_splits:
+        splits = ["master_dhamma_qa", "train", "val"]
+        splits_dir = os.path.join(root_dir, "datasets", "splits")
+        exports_dir = os.path.join(root_dir, "datasets", "exports")
+        os.makedirs(exports_dir, exist_ok=True)
+        for s in splits:
+            in_file = os.path.join(splits_dir, f"{s}.jsonl")
+            if os.path.exists(in_file):
+                out_file = os.path.join(exports_dir, f"{s}_{args.format}.json")
+                export_dataset(in_file, out_file, args.format)
+        return
+
+    input_file = args.input or os.path.join(root_dir, "datasets", "splits", "master_dhamma_qa.jsonl")
+    if not os.path.exists(input_file):
+        print(f"[Error] Input file not found: {input_file}")
         sys.exit(1)
 
-    export_dataset(args.input, args.output, args.format)
+    if args.output:
+        output_file = args.output
+    else:
+        base, _ = os.path.splitext(input_file)
+        output_file = f"{base}_{args.format}.json"
+
+    export_dataset(input_file, output_file, args.format)
 
 
 if __name__ == "__main__":

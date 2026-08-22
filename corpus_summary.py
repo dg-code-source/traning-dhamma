@@ -69,7 +69,7 @@ def main():
 
     # 2. Extracted Books Inventory
     print("\n" + "-" * 80)
-    print("[Extracted EPUB Books]")
+    print("[Extracted Books (EPUB / PDF)]")
     if os.path.exists(extracted_dir):
         books = sorted(os.listdir(extracted_dir))
         for b in books:

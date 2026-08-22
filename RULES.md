@@ -102,6 +102,14 @@ dhamma/
    - If generating in parallel batches, always merge into a single master file and remove intermediate batch files.
 3. **Verify**: `python dhamma/verify_dataset.py "dhamma/datasets/<dataset_name>.jsonl"`.
 
+### C. PDF Document Workflow
+1. **Extract**: `python dhamma/extract_pdf.py "<path_to_pdf>"`
+   - Automatically saves copy to `dhamma/documents/raw_pdfs/`.
+   - Extracts chapter texts / sections, `full_book.txt`, and `metadata.json` into `dhamma/documents/extracted/<book_name>/`.
+2. **Generate QA Pairs**:
+   - Process substantive sections into `dhamma/datasets/<book_name>_qa.jsonl`.
+3. **Verify**: `python dhamma/verify_dataset.py "dhamma/datasets/<dataset_name>.jsonl"`.
+
 ---
 
 ## 5. QA Quality Guidelines
