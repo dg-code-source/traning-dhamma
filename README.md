@@ -12,22 +12,38 @@ When committing this repository to GitHub, the root directory of your repository
 dhamma/
 ├── datasets/                 # [COMMIT] Generated Chat SFT JSONL training pairs (*.jsonl)
 │   ├── Daughters_and_Sons_qa.jsonl
+│   ├── In_Simple_Terms_Similes_qa.jsonl
 │   ├── Knowing the mood of the mind_qa.jsonl
 │   ├── Luang Por Viradhammo - Reflections on the Dhamma, Seeking Happiness_qa.jsonl
 │   ├── Mindfulness_Precepts_and_Crashing_in_the_Same_Car_qa.jsonl
+│   ├── Seen_in_Their_True_Light_qa.jsonl
+│   ├── Stillness_Flowing_qa.jsonl
 │   ├── The_Contemplatives_Companion_qa.jsonl
 │   ├── The_Contemplatives_Craft_qa.jsonl
+│   ├── The_Real_Practice_qa.jsonl
 │   ├── The_Stillness_of_Being_qa.jsonl
-│   └── Without_and_Within_qa.jsonl
+│   ├── Without_and_Within_qa.jsonl
+│   ├── splits/               # [COMMIT] Merged master + train/val splits
+│   │   ├── master_dhamma_qa.jsonl
+│   │   ├── train.jsonl
+│   │   └── val.jsonl
+│   └── exports/              # [COMMIT] Format-converted exports (ShareGPT, Alpaca)
+│       ├── master_dhamma_qa_sharegpt.json
+│       ├── train_sharegpt.json
+│       └── val_sharegpt.json
 ├── documents/
 │   ├── raw_epubs/            # [OPTIONAL / .gitignore] Source .epub files
 │   ├── raw_pdfs/             # [OPTIONAL / .gitignore] Source .pdf files
-│   └── extracted/            # [COMMIT] Extracted chapter texts, full_book.txt, and metadata.json
+│   └── extracted/            # [COMMIT] Extracted chapter texts and metadata.json
+│       ├── Aj Jaya The Real Practice (WPN)/
 │       ├── Daughters & Sons - Ajahn Jayasaro/
+│       ├── In Simple Terms 108 Dhamma Similes - Venerable Ajahn Chah/
 │       ├── Mindfulness, Precepts and Crashing in the Same Car - Ajahn Jayasaro/
+│       ├── SiTTL_Cover-B - Thai Forest Tradition/
 │       ├── Still Flowing Water - Ajahn Chah/
-│       ├── The contemplative’s companion - Ajahn Viradhammo/
-│       ├── The Contemplative’s Craft - Ajahn Viradhammo/
+│       ├── Stillness Flowing - Ajahn Jayasaro/
+│       ├── The contemplative's companion - Ajahn Viradhammo/
+│       ├── The Contemplative's Craft - Ajahn Viradhammo/
 │       ├── The Stillness of Being - Viradhammo Bhikkhu/
 │       └── without and within - Ajahn Jayasaro/
 ├── transcripts/              # [COMMIT] Extracted talk transcripts (*.txt)
@@ -36,7 +52,7 @@ dhamma/
 ├── build_dataset.py          # [COMMIT] Standardized Chat SFT JSONL builder
 ├── merge_and_split_dataset.py# [COMMIT] Dataset merger, deduplicator & train/val splitter
 ├── export_formats.py         # [COMMIT] Format converter (ShareGPT, Alpaca)
-├── corpus_summary.py         # [COMMIT] Corpus inventory & health check
+├── corpus_summary.py         # [COMMIT] Corpus inventory & quality/coverage health audit
 ├── eval_prompts.py           # [COMMIT] Post-training evaluation benchmark suite
 ├── extract_epub.py           # [COMMIT] EPUB metadata and chapter extractor
 ├── extract_pdf.py            # [COMMIT] PDF metadata and chapter extractor
