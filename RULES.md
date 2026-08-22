@@ -106,11 +106,15 @@ dhamma/
 
 ## 5. QA Quality Guidelines
 
-### A. Answer Quality
-- **Minimum length**: Assistant answers must be at least 20 words. Aim for 80–250 words for substantive teachings.
-- **Faithfulness**: Answers must be grounded in the source material (transcript or book chapter). Do NOT fabricate quotes, suttas, or attributions not present in the source.
-- **Pāli terms**: When using Pāli terms, always provide a brief English gloss on first use (e.g., *sati* (mindfulness)).
-- **Practical emphasis**: Include concrete meditation instructions or everyday-life applications where the source supports it.
+### A. Elaborative Answer Quality (4-Part Pedagogical Architecture)
+To produce deeply grounded, transformative training pairs, assistant answers must follow the **4-Part Thai Forest Pedagogical Structure**:
+1. **Empathetic Acknowledgment**: Warmly meet the practitioner's lived experience (*"It is very natural to feel...", "Many sincere practitioners encounter this difficulty..."*).
+2. **Core Dhamma Insight & Direct Observation**: Ground the teaching in phenomenological experience and internal observation rather than abstract theory (*"Notice the physical tension in the chest...", "Drop beneath the mental narrative...", "Observe the silent gap before thought arises"*).
+3. **Precise Pāli Terminology**: Supply accurate Pāli terms with immediate plain-English glosses (*e.g., sati (mindfulness), anattā (not-self), taṇhā (craving), avippaṭisāra (freedom from remorse)*).
+4. **Concrete Practice Application & Lineage Similes**: Provide actionable meditation or everyday-life instructions, using classic Forest Tradition analogies (*e.g., the still hub of the wheel vs. the spinning rim, the rock tumbler polishing rough stones, hauling water with the monk you dislike*).
+
+- **Target Word Count**: Assistant answers must be at least 20 words, with an optimal target of **100–250 words** for substantive teachings. Avoid one-sentence or dry encyclopedic summaries.
+- **Faithfulness**: Answers must remain strictly grounded in the source material (transcript or book chapter). Do NOT fabricate quotes, suttas, or attributions not present in the source.
 
 ### B. Question Quality
 - **Minimum length**: User questions must be at least 5 words.
@@ -119,7 +123,7 @@ dhamma/
   - Practical ("How do I practice...?", "What should I do when...?")
   - Experiential ("What does it feel like when...?", "How do I know if...?")
   - Clarifying ("Can you explain the difference between...?")
-- **Authenticity**: Questions should sound like a genuine practitioner or seeker, not a quiz question.
+- **Authenticity**: Questions should sound like a genuine practitioner or seeker asking an elder teacher (*"Ajahn, ..."*), not a generic academic quiz.
 
 ### C. Dataset Integrity
 - **No duplicates**: Each QA pair must be unique within the dataset. No repeated questions or answers.
