@@ -1,0 +1,33 @@
+{
+  "title": "Daughters & Sons",
+  "author": "Ajahn Jayasaro",
+  "language": "en",
+  "total_chapters": 4,
+  "total_words": 7390,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 104,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Daughters and Sons",
+      "word_count": 6816,
+      "file": "chapter_02_Daughters and Sons.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Ajahn Jayasaro",
+      "word_count": 92,
+      "file": "chapter_03_Ajahn Jayasaro.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Panyaprateep Foundation",
+      "word_count": 378,
+      "file": "chapter_04_Panyaprateep Foundation.txt"
+    }
+  ]
+}
