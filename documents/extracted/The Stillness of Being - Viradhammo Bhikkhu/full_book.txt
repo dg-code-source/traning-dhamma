@@ -1,0 +1,890 @@
+=== Glossary of Terms ===
+
+# Glossary of Terms
+
+Pali is the scriptural language of the Theravada tradition and several Pali words (printed in italics) are used throughout the book. This glossary defines some of those words.
+
+Ajahn: Teacher. A Thai term. From the Pali “acariya.”
+
+anapanasati: Mindfulness of in-and out-breathing. A core meditation technique for mental concentration.
+
+anatta: Non-self, impersonality. Absence of any personal essence. The central Buddhist doctrine.
+
+anicca: Impermanent, inconstant – the nature of all experiential phenomena.
+
+Bhante: Venerable Sir.
+
+bhavana: Mental development, cultivation.
+
+bhikkhu: Monk.
+
+dana: Almsgiving, liberality, generosity. A virtue practised to counter greed and egoism.
+
+dhammavicaya: Investigation of the natural Law (dhamma).
+
+dukkha: Pain, suffering, stress. It may be physical or mental. The term is quite broad and includes: pain; the suffering due to change and instability; and the unsatisfactoriness or unreliability of all formations.
+
+Four Noble Truths: The most concise synthesis of the Buddhist teaching: Suffering, its cause, its end, the Path to the end.
+
+khandhas: Groups, heaps, aggregates (of clinging). Five aspects summarising physical and mental experience. Rupa (form), vedana (feeling), sañña (perception), sankhara (formations), viññana (consciousness).
+
+kamma: (skt. karma) (intentional) Action (of body, speech and mind). These actions ripen as result (vipaka).
+
+magga: Path. The last of the Four Noble Truths. Right: view (understanding), thought, bodily action, livelihood, effort, mindfulness, concentration.
+
+metta: Loving-kindness. One of the four Sublime Abodes.
+
+nirodha: Ending, cessation (of the cause of suffering). The Third Noble Truth. See “Nibbana.”
+
+Nibbana: (skt. nirvana) Extinction, cessation, unbinding, liberation (of the passions; greed, aversion, delusion). The ultimate goal of Buddhist aspirations.
+
+parajika: Defeat. Four rules for monks requiring disrobal if any one is transgressed. The monk is “defeated.”
+
+pañña: Wisdom, knowledge.
+
+precepts: Moral (or renunciate) standards. The basic five are to refrain from: killing, stealing, sensual indulgence, wrong speech and intoxication.
+
+refuges: Buddha (Enlightenment), Dhamma (Truth), Sangha (community). These are sometimes referred to as the “Three Jewels” or the “Triple Gem.”
+
+samudaya: Arising, origin (of suffering). The Second Noble truth. Opposite of “nirodha.”
+
+samsara: The repeated “Round of Rebirth” – birth, growth, aging and death – that chains beings to existance. Literally: perpetual wandering.
+
+sankhara: Fabrication, formation. Referring both to the volitional activity of “forming” things, and the things formed. As the fourth khandha it is primarily mental.
+
+sukha: Pleasant, happy, joyful. One of the three kinds of feelings. Opposite of “dukkha.”
+
+tanha: Craving, desire (literally “thirst”); the cause of suffering, as defined in the Four Noble Truths.
+
+Theravada: The Southern School. (literally “The Way of the Elders.”) Generally found in S.E. Asia. and Sri Lanka.
+
+vipassana: Insight, intuitive wisdom. Penetration (of Truth).
+
+
+=== Chapter 2 ===
+
+The concept of this book was originally developed by the lay sangha in New Zealand to commemorate Ajahn Viradhammo’s thirty years as a monk. Many people in New Zealand and Canada have given generously, both of time and money, to make this publication possible. May their kind generosity bring them happiness and freedom.
+
+
+=== Sabbadanam dhammadanam jinati ===
+
+Sabbadanam dhammadanam jinati
+
+The gift of Dhamma surpasses all other gifts.
+
+This book has been printed for free distribution.
+
+© 2005 Viradhammo Bhikkhu. All commercial rights reserved. This book may be copied or reprinted for free distribution without permission from the publisher.
+
+An online version may be viewed at:
+
+www.tisarana.ca
+
+Inquiries concerning this book can be sent from this site.
+
+
+=== Introduction ===
+
+# Introduction
+
+Welcome! For those of you who don’t know him, what you have in your hands is an introduction, a sampling of teachings from Ajahn Viradhammo. For those of you who do, I’m sure it will be a pleasure to be reminded of “Ajahn V” and to have a collection of his talks that you can carry around and dip into from time to time.
+
+I’ll let the teachings speak for themselves. My part in this is just to offer a brief introduction to a good Dhamma friend. I met Ajahn V. in 1978, when I came over to England from Thailand. I was then a bhikkhu of two “Rains” (we count our seniority in the Sangha by the number of Rains Seasons we have spent in the Order), and he had passed three. We were living in London, under the guidance of Ajahn Sumedho, who had eleven Rains. The tiny community that he was supervising had only been in Britain for little more than a year at that time, so it was early days for all of us. Fortunately we were all offered the opportunity to spend the Rains (approximately the Summer) on a country estate in Oxfordshire, where things would be quieter than London, and we could focus more fully on meditation and training.
+
+In the “elder brother” set-up of our group, Ajahn V. became a mentor to me, coaching me in the do’s and don’ts of the training, as well as being someone I could check in with from time to time through the ups and downs of spiritual life. A friend indeed; so I was grateful for that, especially as I had determined that the Rains we spent there was going to be my big push to get up to speed with the more austere modes of practice. In particular, I had determined to refrain from lying down at any time, day or night, for this period. This practice, to encourage effort, has some side effects: because one barely sleeps, one can feel drowsy at any time, and often cat-naps whilst sitting up.
+
+Anyway, out of gratitude to my elder brother, I decided to offer a little service in washing the cover for his alms bowl, a lovely piece of crochet-work that he had fashioned over many hours. And having done so, I planned to dry it by my fire as I sat through the night so that it would be ready to use the next morning. So I hung it on the fire-guard as I took up the night-meditation vigil – alert, ardent and mindful. . . . Can you imagine my horror when I came to and realized what a certain smell signified? There, dangling over the fire-guard, was Ajahn V’s beautiful bowl cover – burnt to a crisp.
+
+Oh, no. Only one thing for it. First thing after daybreak, I knocked on his door, and as he opened it, I bashfully waved the heap of frazzled yarn. “I have no excuse,” was all I could say. He looked at me, with my head down and this sorry item in my hand. “I want you to let go of that,” he said, with a gentle smile.
+
+Laconic, that’s his style; those few words expressing no concern for himself, let alone his belongings, just an immediate empathy for the other person’s predicament. And a pragmatic response that was utterly simple, genuine, and right on the mark. That’s Ajahn Viradhammo’s Dhamma, and over the years I came to see and appreciate a lot more of it. I hope this book can bring a taste of it your way.
+
+Bhikkhu Sucitto
+
+
+=== So What ===
+
+# So What
+
+The following teaching on the Four Noble Truths is taken from a talk given by Venerable Viradhammo during a ten-day retreat conducted in Bangkok for Thai lay people, in June 1988.
+
+This teaching is not aimed at just getting another kind of experience. It is about complete freedom within any experience. This evening we might begin by considering the legend of the life of the Lord Buddha. Now we could consider this story as factual history. Or we could also look at it as a sort of myth – a story that reflects back on our own development as beings seeking truth.
+
+In the story we are told that before his enlightenment, the Bodhisatta (Buddha-to-be) lived in a royal family with a lot of power and influence. He was a very gifted person, and had all that any human being could wish for: wealth, intelligence, charm, good looks, friendship, respect, and many skills. He lived the princely life of luxury and ease.
+
+The legend has it that when the Bodhisatta was first born, his father the king received a prediction from the wise men. They said there were two possibilities: Either this son would become a world-ruling monarch, or he would become a perfectly enlightened Buddha. Of course the father wanted his son to carry on the business of being a monarch; he didn’t want him to become a renunciate. So everybody in the palace was always trying to protect the prince. Whenever anyone grew vaguely old or sick they were taken away; nobody wanted the prince to see the reality of old age, sickness and death for fear that he would become disenchanted with sensuality and power and turn his mind to deeper thoughts.
+
+But then at the age of twenty-nine, curiosity struck. The prince wanted to see what the world outside was like. So off he went with his charioteer and, what did he see? The first thing he saw was a sick person, all covered with sores, in pain, and lying in his own filth. A thoroughly wretched human condition.
+
+“What’s that?” the prince asked his attendant. The attendant replied, “That’s a sick person.” The prince realized, for the first time, that these human bodies can become sick and painful. The attendant pointed out that all bodies had this potential. This came as a great shock to the prince.
+
+The following day he went out again. This time he saw an old person: all bent over with age, shaking, wrinkled, grey-haired, barely able to hold himself up. Again, shocked by what he saw, the prince asked, “What’s that?” “That’s an old person,” the attendant replied. “Everybody grows old.” So the prince realized that his body too had this potential to become old. With that he went back to the palace, quite bewildered by it all.
+
+The third time he went out, he saw a dead person. Most of the townsfolk were busy, happily waving at their attractive prince, thinking he was having a great time. But behind the crowds, there were people carrying a stretcher with a corpse on it, going to the funeral pyre. “And what is that?!” he asked. So the attendant replied: “That’s a corpse. All bodies go that way. Your body, my body, they all die.” That was a really powerful one for him. That really shocked him.
+
+The next time the Bodhisatta went out he saw a mendicant monk sitting under a tree meditating. “And who is that?” he asked. The attendant replied, “That’s a sadhu, someone who is seeking the answers to life and death.”
+
+So we have this legend. Now what does this mean for you and me? Is it just a historical tale to tell our children, a tale about a person who didn’t see old age, sickness or death until he was twenty-nine?
+
+For me, this story represents the awakening of a human mind to the limitations of sensory experience. Personally I can relate to this from a time when I was at university. I questioned life a lot: “What is it all about? Where is this all going to?” I used to wonder about death, and started thinking: “What is the point of getting this university degree? Even if I become a famous engineer, or if I become rich, I’m still going to die. If I become the best politician, or the best lawyer, or the best whatever. . . . Even if I was to become the most famous rock star that ever existed. . . . Big deal.” At that time, I think Jimi Hendrix had just taken too much heroin and died.
+
+Nothing I thought of could answer the question of death. There was always: “So what? … So if I have a family? So if I am famous? So if I’m not famous? So if I have a lot of money? So if I don’t have a lot of money?” None of these things resolved this doubt: “What about death? What is it? Why am I here? Why seek any kind of experience if it all goes to death anyway?”
+
+Questioning all the time like this made it impossible for me to study. So I started to travel. I managed to distract the mind for a time, because travelling was interesting: Morocco, Turkey, India. . . . But I kept coming back to this same conclusion: “So what? So if I see another temple, if I see another mosque, if I eat yet another kind of food – so what?”
+
+Sometimes this doubt arises for people when somebody they know dies, or if they become sick, or old. It can also come from religious insight. Something in the mind clicks, and we are awakened to the fact that no matter what experiences we have, they all change, they come to an end, they die. Even if I’m the most famous, powerful, richest, most influential person in the world, all that is going to die. It’s going to cease.
+
+So this question – “So what?” – is an awakening of the mind. If we were to do this ten-day retreat with the idea of getting “a meditation experience,” then “So what?” We still have to go back to work, still have to face the world, still have to go back to Melbourne, still have to go back to New Zealand. . . . So what! What is the difference between “a meditation experience”  and doing a cruise on The Queen Elizabeth II? A bit cheaper maybe!
+
+The Buddhist teaching is not aimed at just getting another kind of experience. It is about understanding the nature of experience itself. It is aimed at actually observing what it means to be a human being. We are contemplating life, letting go of delusion, letting go of the source of human suffering and realizing truth, realizing Dhamma. And that’s a different process altogether.
+
+When we’re doing mindfulness of breathing (anapanasati) we’re not doing it with the effort to get something later. We’re doing it to simply be with what is: just being with an in-breath, being with an out-breath.
+
+And what is the result when we’re being mindful in this way? Well, I think we can all see. The mind becomes calm, our attention is steady; we are aware and with the way things are.
+
+So already we are able to see that calming the mind is a healthy and compassionate thing to do for ourselves. Also, notice how this practice creates space in the mind. We can see now the potential for really being attentive to life. Our attention is not caught up. We’re not being “kidnapped” all the time. We can really work with attention. If we are obsessed with something, then our attention is absorbed into the object of obsession. When we’re worried, exhausted, upset, excited, desiring, depressed and so on, our attention energy is lost. So by calming the mind we’re creating space and freeing attention.
+
+And there is a beauty in that. When we go outside after this meditation period, maybe we’ll notice things in a different way – the green trees, the smells, what we’re walking on, the little lotuses in bloom. These pleasant experiences calm and relax us and are very helpful – the same as going on a cruise. In New Zealand they go trekking in the mountains for relaxation.
+
+But this kind of happiness, or sukha, is not the full potential of the Buddha. A lot of joy can come with this level of practice, but that is not enough. The happiness of a relatively calm mind is not complete freedom. This is still just another experience. It’s still caught in “So what!”
+
+The complete freedom of the Buddha comes from the work of investigation (dhammavicaya). It is completely putting an end to all conflict and tension. No matter where we are in life, there are no more problems.
+
+It’s called “the unshakeable deliverance of the heart” – complete freedom within any experience.
+
+One of the wonderful things about this Way is that it can be applied in all situations. We don’t have to be in a monastery, or even have a happy feeling, to contemplate Dhamma. We can contemplate Dhamma within misery. We often find that it is when people are suffering that they start coming to the monastery. When they’re happy and successful it probably wouldn’t occur to them. But if their partner leaves home, or they lose their job, get cancer, or something, then they say, “Oh, what do I do now?”
+
+So for many of us, the Buddha’s teaching begins with the experience of suffering (dukkha). This is what we start contemplating. Later on we find we also need to contemplate happiness (sukha). But people don’t begin by going to the Ajahn, saying, “Oh Venerable Sir, I’m so happy! Help me fix this happiness.” Usually we begin when life says, “This hurts.” Maybe it’s just boredom; for me it was the contemplation of death – this “So what?” Maybe it’s alienation at work. In the West we have what’s called “the mid-life crisis.” Men around the age of forty-five or fifty start to think, “I’ve got it all,” or, “I haven’t got it all, so what?” “Big deal.”
+
+Something awakens and we begin to question life. And since everybody experiences dukkha, in its gross and refined aspects, it’s beautiful that the teaching begins here. The Buddha says, “There is dukkha.” No one can deny that. This is what the Buddhist teaching is based upon – actually observing these experiences we have – observing life.
+
+Now the worldly way of operating with dukkha is to try to get rid of it. Often we use our intelligence to try and maximize sukha and minimize dukkha. We are always trying to figure out how to make things more convenient.
+
+I remember a discourse that Ajahn Chah once gave about this. In the monastery we used to all join in hauling water from the well. There would be two cans of water on a long bamboo pole, and a bhikkhu at each end to carry them. So Ajahn Chah said, “Why do you always carry water with the monk that you like? You should carry water with the monk you dislike!”
+
+This was true. I was a very speedy novice and would always try to avoid carrying water with a slow old bhikkhu in front. It drove me crazy. Sometimes I’d get stuck behind one of them, and I’d be pushing away.
+
+So having to carry water with a monk I disliked was dukkha. And, as Ajahn Chah said, I would always try to figure out how to have things the way I wanted. That’s using intelligence to try to maximize sukha and minimize dukkha. But of course even if we do get what we want, we still have dukkha, because the pleasure of gratification is not permanent – it is anicca. Imagine eating something really delicious. In the beginning it would feel pleasurable. But, if you had to eat that for four hours! It would be awful.
+
+So what do we do with dukkha? The Buddhist teaching encourages us to use intelligence to really look at it. That’s why we put ourselves in a retreat situation like this with the Eight Precepts. We’re actually looking at dukkha rather than just trying to maximize sukha. Monastic life is based on this also; we’re trapped in these robes. But then we have an incredible freedom to look at suffering, rather than just ignorantly trying to get rid of it.
+
+Wearing these robes in the West can be really difficult. It’s not like wearing a robe in Thailand! When we first moved to London I felt so out of place. As a lay person I always dressed to not be noticed, but in that situation we were up front all the time. That was dukkha for me; I felt very self-conscious. People were looking at me all the time. Now, if I had had the freedom to maximize sukha and minimize dukkha, I would have put on a pair of jeans, a brown shirt, grown a beard and been one of the mob. But I couldn’t do that because I had renunciation precepts. Renunciation is giving up the tendency to always try to maximize pleasure. I really learned a lot in that situation.
+
+We all have responsibilities: family, job, career and so on. And these are kinds of limitations, aren’t they? What do we do with them? Rather than resent these limitations and say, “Oh if only it were different, I would be happy,” we can consider: “Now this is a chance to understand.” We say, “This is the way it is now. There is dukkha.” We actually go towards that dukkha; we make it conscious, bring it into mind.
+
+We don’t have to create dukkha especially; there’s already enough suffering in this world. But the encouragement of the teachings is to actually feel the dukkha that we have in life. Maybe on this retreat you find during a sitting that you are bored and restless, and waiting for the bell to ring. Now you can actually notice that. If we didn’t have this form, then we could just walk out. But what happens if I walk out on restlessness? I might think I’ve gotten rid of restlessness, but have I? I go and watch TV or read something; I keep that restlessness going. And then I find my mind is not peaceful; it’s filled with activity. Why? Because I’ve followed sukha and tried to get rid of dukkha. That is the constant, painful, restlessness of our lives. It is so unsatisfactory, so unpeaceful – not Nibbana.
+
+The First Noble Truth of the Buddhist teaching is not saying, “Get this experience.” It says look at the experience of dukkha. We are not expected to merely believe in Buddhism as a teaching, but to look at dukkha, without judging. We are not saying I shouldn’t have dukkha. Nor are we just thinking about it. We’re actually feeling it, observing it. We’re bringing it to mind. So, there is dukkha.
+
+The teaching then goes on to consider that dukkha has a cause and also that it has an end.
+
+So, the Buddha wasn’t just talking about dukkha. He was also talking about the cause of dukkha, the end of dukkha and a path to that end. This teaching is about enlightenment – Nibbana. And that is what the Buddha-image is saying. It’s not an image of the Buddha suffering. It’s an image of his enlightenment; it’s all about freedom. But to be enlightened we have to take what we’ve got, rather than try to get what we want. In the worldly way we usually try to get what we want. All of us want Nibbana – right? – even though we don’t know what it is. When we’re hungry, we go to the fridge and get something, or we go to the market and get something. Getting, getting, always getting something. But if we try to get enlightenment like that, it doesn’t work. If we could get enlightenment the same way as we get money, or get a car, it would be rather easy. But it’s more subtle than that. It takes intelligence (pañña). It takes investigation (dhammavicaya).
+
+So now we’re using intelligence not to maximize sukha and minimize dukkha, but to actually look at dukkha. We’re using intelligence to consider things skilfully: “Why am I suffering?” So you see, we’re not dismissing thought; thought is a very important faculty. But if we can’t think clearly then it’s not really possible to use the Buddhist teachings. However, you don’t need a Ph.D. in Buddhism either.
+
+Once when I was in England, we went to see a chap in Lancaster. He had just finished a Master’s thesis on sunyata – ten thousand words on emptiness. He wanted to make us a cup of coffee. So he put the coffee in the cups with the sugar and milk, and offered them to us – forgetting to put in the water. He could do a Master’s degree on emptiness, but it was more difficult to mindfully make a cup of coffee. So intelligence in Buddhism isn’t just an accumulation of ideas. It’s more grounded than that. It’s grounded in experience.
+
+Intelligence is the ability to observe life and to ask the right questions. We’re using thought to direct the mind in the right way. We’re observing and opening the mind to the situation. And it is in this openness, with the right questions, that we have vipassana practice: insight into the way we are. The mind is taking the concepts of the teaching, and channelling intelligence towards human experience. We’re opening, being attentive, and realizing the way things are. This investigation of the Four Noble Truths is the classic application of intelligence in Theravada Buddhism.
+
+So simply observing dukkha is not trying to get an experience, is it? It is accepting responsibility for our dukkha – our inner conflict. We feel the inner conflict – “I am suffering.” And we ask, “What is the cause?” The teaching says: dukkha begins and ends – it’s not permanent.
+
+Suppose I’m feeling uncomfortable during the sitting, and I turn to that dukkha and ask: “What is the cause of this suffering?” “It’s because the body is uncomfortable,” comes the answer. So I decide to move.
+
+But after five minutes, I find the body is uncomfortable again. So this time, I look at the feeling a little more closely. And I notice something more: “I don’t want discomfort. I want pleasant feeling.” Ah! So it’s not the painful feeling that’s the problem; it’s the not wanting the painful feeling. Now that is a very useful insight, isn’t it? That’s a bit deeper. I find that now I can be at peace with painful feeling and I don’t have to move. I don’t get restless and the mind becomes quite calm.
+
+So I’ve seen that the cause of the problem isn’t the painful feeling; it’s the “not wanting” that particular feeling. “Wanting” is quite tricky stuff. It comes in many forms. But we can always apply this same investigation: What is it I want now? The Second Noble Truth – samudaya – says that the cause of suffering is attachment to wanting (tanha). It makes us feel that if we get what we want we’ll be fulfilled: “If I have this” or “If I become that” or “If I get rid of this and don’t have that. . . .” And that’s samsara rolling on. Desire and fear, pushing beings into always becoming: always seeking rebirth, leading endlessly busy lives.
+
+But the Buddha says that there is also a way out. There is an end to suffering. The end of suffering we call nirodha – cessation – or Nibbana.
+
+When I first read about Nibbana, I understood it to mean no greed, no hatred and no delusion. So I thought if only I can get rid of all greed, hatred and delusion, then that would be Nibbana. It seemed that way. I tried and it didn’t work. I got more confused.
+
+But as I continued to practise, I found that the cessation of suffering meant the ending of these things in their own time; they have their own energy. I couldn’t say to myself, “OK, tomorrow I’m not going to be greedy or afraid.” That was a ridiculous idea. What we have to do is to contain these energies until they die, until they cease. If I felt angry and were to act on it, maybe I would kick someone in the shins. Then they’d kick me back, and we’d have a fight. Or, I’d go back to my hut and meditate, and hate myself. It goes on and on because I’ve reacted to it. If I’m either following it or trying to get rid of it, then it doesn’t cease. The fire doesn’t die.
+
+The teaching of the Four Noble Truths says then: We have suffering – dukkha; there is a cause – samudaya; there is an end – nirodha; and a path to that end – magga. This is such a practical teaching. In any situation of inner conflict we can take responsibility for what we’re feeling. Why am I suffering? What am I wanting now? We can investigate, using dhammavicaya.
+
+It is important that we actually apply these teachings. Ajahn Chah used to say, “Sometimes people who are very close to Buddhism are like ants that crawl around on the outside of the mango. They never actually taste the juice.” Sometimes we hear the structure of the teachings and think we understand – “It’s just a way of observing life,” we say.
+
+But the teachings are not just an intellectual structure. They are saying that experience itself has a structure, which must be understood. So we’re not merely using intelligence to maximize sukha and minimize dukkha. We are using it to free the mind, to go beyond, to realize the unshakeable deliverance of the heart, to realize Nibbana.
+
+We’re using intelligence for freedom, not just frivolity; to liberate the mind, not just to be happy. We’re going beyond happiness and unhappiness. We’re not just trying to get another experience; it is a different attitude altogether.
+
+I’ll leave you with that for tonight.
+
+
+=== Bringing the Teachings Alive ===
+
+# Bringing the Teachings Alive
+
+This teaching is based on a talk given at Chithurst Monastery in July 1989.
+
+For me, monastic life is a model that the Buddha has offered of how we can all practise. Sometimes lay people ask: “But how do I do it as a lay person?” Lay life is so varied. Life situations vary so much; some people have families, some don’t. There are all kinds of lifestyles, so it’s hard to set up any specific model.
+
+Certain general suggestions are given for lay practice: to keep the precepts, to live a moral life, to practise generosity. Right Speech, Right Action, Right Livelihood are offered, but lay practice has to be creative in using life itself as a vehicle for freedom, and that’s very individual. Monastic life has a more uniform quality because we live together according to rules; as lay practitioners you can contemplate how this model works for reflection and contemplation.
+
+Now the basic and fundamental prerequisite of monastic life is surrender, a giving up to a certain form and discipline. We take the precepts and accept this lifestyle; that’s the choice we make.
+
+But then it becomes a situation where we no longer have that many choices. We live in a hierarchy. We have a prescribed way of relating between men and women. We have rules about taking care of our robes and the equipment of the monastery. We have rules that govern the sharing of things. We have various ways of admonishment and of ordination, legal processes. As a monastic order we give up to this training and form.
+
+Some people think that rules are an infringement on freedom, but actually what this surrender or commitment does is give us the opportunity to watch, rather than a freedom to always do what we want.
+
+Before I ordained as a bhikkhu I lived in India for some time and had a tremendous amount of physical freedom. I managed to live on about ten dollars a month. I didn’t have the constraints of my old culture so there was enormous freedom.
+
+But I became very confused. I got confused because at that time I still believed that if I did what I wanted, I’d reach some kind of fulfilment. Instead I found that doing what I wanted to do just made me more and more frustrated, because it did not put an end to wanting. It did not put an end to that fundamental restlessness which I kept trying to overcome by obtaining an experience: travel, a relationship or whatever.
+
+That kind of freedom actually was fun for a while, but it led to despair – the more I went out into the world of situations and events, the more I realized that this was not working. Then, through some stroke of good fortune I managed to become a bhikkhu.
+
+I didn’t find it easy, but of course that’s not the point. The first year of monastic life was terribly frustrating, the second year was terribly frustrating, and the third year was terribly frustrating! I couldn’t shuffle the pieces on the chessboard around. I couldn’t go to the monastery I wanted.
+
+I’d go to Ajahn Chah, and I’d say; “Luang Por, I’d like to go to such and such a monastery.” He’d say, “What’s wrong with this one? Don’t you like me?” Ajahn Chah’s way was very much one of frustrating desire – and he was fearless in that. He didn’t mind if his disciples got angry with him! That’s the kind of compassion he could exhibit: the compassion to frustrate. That takes a lot of courage, doesn’t it? So I decided that if I was going to get anywhere near the Truth that the Buddha was trying to point out, I just had to stop and look. I couldn’t just keep rearranging things according to my desires. I had already given that a good go and I knew it didn’t work. The reason I took up this model, this vehicle, was not just to have fun, nor was it because I wanted to get something out of it. It was because I wanted to be able to observe the nature of frustrated desire as well as fulfilled desire.
+
+So this fundamental commitment to a structure allows for the freedom to watch. Can you translate that into your own life? For example, your family, your job, your social structure: these can be vehicles for spiritual understanding if you begin to accept that within them there will be frustrations – rather than always trying to rearrange situations to fulfill personal desires and needs. Obviously, if the situation is harmful in some way, then you have to make a change. But the usual humdrum, boring, annoying stuff of life is actually the stuff of enlightenment, if we are willing to observe how it is.
+
+So commitment is very important; and this is what the robe is – it’s a symbol of commitment. Responsibility can be used as commitment, or it can be seen as a burden. I can take on the responsibility of being the senior monk and have kind of a martyr syndrome about it: “Oh, poor me, I have to be the senior monk…” or I can feel great about it: “Wow! Look at me, I’m the senior monk…” or I can just see it as a convention: “I’m senior monk. I’d prefer to be a fly on the wall actually, but there I am: senior monk.”
+
+Then I watch what it does to me – whether there’s like or dislike, or feeling that I’m doing it well or that I’m hopeless – beginning to observe how the mind functions within that situation, rather than changing or rearranging the situation according to some personal opinion.
+
+So, applying this to your own situation, ask yourself: “What happens to me at work?” “What happens to me at home?” Work is just not always going to be fulfilling. It can be boring, interesting or annoying, but we can make use of this commitment. If we’re always shifting according to personal desire, we can never really understand how it operates in the mind. So commitment is fundamental to understanding our human mind.
+
+Now within commitment there are three themes that I find very helpful in my own practice: discovery, training and purification.
+
+Discovery (sometimes called vipassana) is fundamental because the Buddhist way is the way of awakening. It’s not the way of getting rid of, or attaining to something in the future. These are bound up with ego, aren’t they, with what we call “self-view.” Awakening is always something immediate: we awaken. . . . What do we awaken to? To things we haven’t seen before. We discover things we haven’t seen before. So the Buddha’s teaching is pointing out things which are always there, but which perhaps we have not seen before.
+
+This is how Buddhist concepts can help us. They can awaken us to certain things about human experience which we need to understand in order to be free. They are not just ideas that we put away until our next exam in Buddhism; they are principles and concepts through which we look at life, like lenses. So can you take a conceptual structure like the three characteristics of existence: impermanence, unsatisfactoriness and not-self (anicca, dukkha, anatta) – and explore how you might apply that to your life?
+
+For example, anatta, not-self: the teaching that this mind and body are not self. But if I’m not this body and I’m not this mind, then who am I?
+
+The mind begins to question. The question directs the mind, it starts to awaken us. The beauty of the Buddha’s teaching is that it allows for and uses doubt in a way to liberate the mind.
+
+Or take a teaching like anicca: “That which has a nature to arise has a nature to cease.” Begin to look at life through that. Life’s experiences are varied, so if I’m always involved in experiences it’s very confusing. But if I use this teaching as a lens to look through, I see that that which has the nature to arise also has the nature to cease, and is not personal.
+
+So I begin to discover the nature of my conscious experience, because I’m no longer attached to it. I begin to discover things about experience that I’ve never noticed before. An angry thought is not mine, it’s a condition of nature; it arises and ceases. Perhaps I can then begin to let go of guilt, anger and things like that, seeing them as not personal, not-self. I have discovered something.
+
+Often we talk about dukkha, unsatisfactoriness, in terms of conflict. We all have conflict in our lives, but before I came across this teaching I was always just trying to get rid of conflict: trying to be a nice guy if I was angry; trying to get rid of greed if I was obsessed with greed; trying to distract my mind if I got bored. So there was this random attempt to get around it somehow. But when I heard the teaching that says conflict has a cause I began to question, and to discover, the cause of suffering.
+
+Now the delusion of our life is that we tend to get fascinated by particular types of experience. If I get angry at the bus being late, I think it’s the bus driver’s problem, or it’s my problem. I’m always looking outside to figure out what the problem is, but I’m not looking at the anger itself.
+
+The teaching that we use is one of being more objective: “Okay, this is an experience of anger, but that is something which arises and ceases. What’s causing the suffering here?” So we’re detaching now from the seeming urgency and complexity and fascination of our experiences. In this process, it doesn’t matter what we’re angry at. What matters is that we look more deeply into these basic mental patterns in order to understand.
+
+If we are willing to look into our conflicts, to open our minds to conflict, then we can discover something, can’t we? Whereas if we make a judgement that we should be someone who never has fear or anger – should always be bright and beautiful and charming – then when the opposite comes, we tend to try to push it away. There is no reflection. There is just some kind of idea or expectation that we attach to and then frustration when this can’t be met. But if we look at it differently we see that experience is just a process, and in that process there is something that we have to discover, something we have to look at. We have to understand what the cause of conflict is.
+
+So it’s not the experience that is the problem: lust is not the problem, fear is not the problem, boredom is not the problem. The problem is the attachment to these.
+
+What does this word attachment mean? What is attachment? Attachment is always bound up with a sense of “I”. Letting go is an open acceptance of this moment the way it is. This is something that we have to discover, we have to see it quite clearly. This is the path of insight.
+
+Undertaking training (bhavana) requires us to make effort. Sometimes this teaching of letting go can sound like a sort of complacent acceptance. I might get angry and punch someone in the nose and say to myself, “It’s all right, just let go. No problem!” Then get angry again and punch someone else in the eye, and say, “I’m an angry person. That’s just the way it is!” But that’s not it, is it? That’s not what we mean by letting go. There is training to be done.
+
+Two points that I find very helpful in training are:
+
+1) to see cause and effect, and 2) intention. We can always reflect upon cause and effect, asking, for example, “What is the result of my practice? How long have I been practising and what’s the result? Am I more at ease with life than I was ten years ago? Or a year ago? Or am I more uptight?” If I’m more uptight, then I need to consider my practice! If I’m more at ease, then also I should consider my practice.
+
+So we look at cause and effect, asking quite simply, “What is the result of my life, the way I live my life?” Not as a judgement, saying, “There I go, getting angry again.” That kind of attitude is not reflective.
+
+Instead notice: The way I speak – what’s the result of that? The way I consume the objects of the sense world, whether it’s ideas in books or ham sandwiches: What is the result of that? What is the result of my sitting meditation? What’s the effect on my mind and body, on the society around me? These are things we can contemplate. It’s simple, but very important – to see what works and what doesn’t work.
+
+It’s because we don’t understand that we make mistakes, so the trick is to make as few mistakes as possible, and not to make the same mistakes again and again. Yet sometimes we have this blindness, and we don’t see why we have suffering in our lives. Ignorance blinds us. So then what can we do? Wherever there is suffering or confusion, we can begin to look at that pattern in our lives. If we look at this whole pattern, we can discover the causes of suffering, and begin to make intentions to not allow those causes to come up all the time.
+
+Let’s say I’m a person who is always making wise-cracks. I watch people cringe, I begin to notice that no one likes me, and end up hating myself. So I reflect: This kind of speech brings me remorse and regret. This kind of speech brings other people suffering. And then I see: Ah, that’s the result. So then what can I do?
+
+Now this is when it’s important to know the difference between remorse and guilt. Remorse is a healthy response to inappropriate action or speech or thought. It’s a healthy response, because it’s telling me, “This is painful.” But most of us probably turn that into guilt. There is remorse, but also an inappropriate amount of self-flagellation. This is the unhealthy nature of guilt.
+
+For me, it seems that guilt is a kind of cover-up of the pain. I numb the pain, covering it over with these thoughts of guilt: “Yes. You are rotten to the core, Viradhammo!” But this is self-view. What does it feel like when we just go to the pain? If I say something which is unkind to someone, and then see them get hurt, I think: “Oh, I did it again!” – and there’s the jab. There’s the pain. There’s the result of my action.
+
+This is why meditation is so important, because when we sit we get the results of our life. Sometimes it’s difficult to sit when there is suffering, because we want to get away from that suffering. If we actually sit and feel the pain, without judgement – really feel the physical and emotional feeling of that – we can contemplate: This is the result of that. With this, there is that. We see dependent origination: that the origin of this feeling depends on a certain action, or condition. If we really feel the pain that registers in our minds in a way that is intuitive, in a way that is quite fundamental, we understand that when we do certain things we are going to suffer. We realize cause and effect.
+
+So, then what can we do? Well, we can use skilful thinking rather than guilt thinking. We can say, “From now on, I’m going to try not to speak in those ways.” We can make that intention; and establishing that intention in the mind helps to make us more mindful.
+
+So, five days later when I say the same thing again, instead of thinking, “There you go again. You’re no good, you’re rotten to the core!” I can go back and examine: What’s the result? It hurts, it really hurts! I feel it.
+
+That pain can teach me: With the arising of this condition you get that condition, but when this condition isn’t there you won’t get that. If I go through that process again and again and again, with those habitual patterns of suffering, eventually I begin to see the arising of that unwholesome condition. Mindfulness is now established.
+
+Mindfulness is very powerful. It’s like recollection or remembering. It sees: “Ah, there it is… the impulse to wisecrack… but I’m not going to react to it, I’m not going to follow that one.” I button my lip, I don’t say it. Then there’s the joy: “I didn’t do it! I didn’t get sucked in.” The heart is freed from that particular habit.
+
+Now in all of that there has been no hatred. There has been intention but it hasn’t been bound up with self-view; there has been no activity of desire. I’m not trying to become a person who doesn’t do that. There is no activity of aversion. There is mindfulness, awakeness. That’s training, always working from awakeness and intention: I’m going to be awake, not become anything, just be awake and aware of the way things are.
+
+Purification, the third consideration that I find helpful, is probably one of the most difficult parts, because it’s so boring. Of course, I can only speak for monastic life, because I never really developed the training as a lay person. I know that monastic life is not fun; it’s not meant to be. Though I love the brotherhood and find the monks inspiring, there are times when I don’t like the people, or I feel annoyed or intimidated or fed up. But I have the freedom to watch that, and this is the purification.
+
+This is where we have to have tremendous patience. A favourite reflection of mine is: “Infinite patience, boundless compassion.” This is the practice. When it all begins to surface – when you start to feel annoyed at the apartment and the marriage, or fed up with the kids – desire manifests as frustration. But then if we can bear with the frustration, not judge it, we go through a purification. So we have to allow this stuff to surface into the mind; we have to allow the rubbish to become conscious.
+
+This is why the teaching of anatta and anicca, non-personality and change, is so important, because if we didn’t have that teaching, we would take it personally. But the more we contemplate this teaching and discover that it’s true, the more courage we have to allow these things to come up into consciousness. The more courage we have to let them up into consciousness, the more patience we have to bear with them, the more we realize the underlying peace of the mind.
+
+That peace is not something we get by becoming anything. Instead it happens by letting go, by allowing things to cease. That’s why we talk so much about cessation. Say, when I’m feeling grumpy, I remember the teaching: “That’s going to change. Don’t make it a problem.”
+
+So I allow myself to be grumpy, which isn’t an indulgence in being grumpy or laying that mood onto the other monks, but neither is it a denial of that grumpiness. It’s just recognising that that which has a nature to arise has a nature to cease: I can awaken to that, and then it does cease. I realize that more and more, and it becomes a path of courage and confidence. There is the confidence to allow these things to be there, to make them fully conscious – to allow fear, anger or whatever to be fully conscious.
+
+The tendency to repress unpleasant experiences is powerful. We are panicked by conditions and then they can become a threat. We try to push them away, but they come back. So if we find that conditions keep coming up in our lives, we have to consider: “Am I really allowing them to be conscious, or am I pushing them away?” This balance between indulgence and repression is hard to find, although actually it’s very simple – it’s just awakening to the way it is right now.
+
+It’s a very moment-to-moment practice, so when the question comes up: “Am I repressing or am I indulging?” see that as doubt, just a condition in the mind. “This is the way it is now, I feel this way now” – awakening, making things conscious. Notice that there is no desire in that, no aversion. It’s not bound up with the desire to become anything or to get rid of anything. There is no movement away from this moment towards another moment. It’s timeless. It’s immediate. It’s awakening here and now.
+
+
+=== Trying to Find a Sweet One ===
+
+# Trying to Find a Sweet One
+
+Based on a talk given during the June 2002 retreat at Bodhinyanarama Monastery, New Zealand.
+
+I’ll just read a bit first. This is an extract from Ken Wilber’s book No Boundary:
+
+The movement of descent and discovery begins at the moment you consciously become dissatisfied with life. Contrary to most professional opinion, this gnawing dissatisfaction with life is not a sign of “mental illness,” nor an indication of poor social adjustment, nor a character disorder. For concealed within this basic unhappiness with life and existence is the embryo of a growing intelligence, a special intelligence usually buried under the immense weight of social shams. A person who is beginning to sense the suffering of life is, at the same time, beginning to awaken to deeper realities, truer realities. For suffering smashes to pieces the complacency of our normal fictions about reality and forces us to become alive in a special sense – to see carefully, to feel deeply, to touch ourselves and our worlds in ways we have heretofore avoided. It has been said, and truly I think, that suffering is the first grace. In a special sense, suffering is almost a time of rejoicing, for it marks the birth of creative insight. But only in a special sense. Some people cling to the suffering as a mother to its child, carrying it as a burden they dare not set down. They do not face suffering with awareness. . . .
+
+Now that, of course, comes from a well-fed, middle-class American. I wouldn’t apply it to a Palestinian refugee in Hebron. We can, however, see that if one has the basic requisites of life and one lives in a civil society, then one has the opportunity to contemplate Dhamma. In that case suffering, stress and various forms of discontent can be instructive and hence sources of growth and maturity. Our cynical side might joke, “One more growth experience and I’ll be dead.” Our more sincere side, however, is inspired by the aspiration to free our selves from delusion: to see carefully, to feel deeply, to touch ourselves and our worlds in ways we have heretofore avoided.
+
+We may be confronted by some species of fear that we have historically avoided but, at long last, for various reasons, we are willing to observe and inquire, in order to understand it. Insight is given a chance to surface and deeper truths are realized. These truer, more profound realities constitute Right Understanding, the first factor of the Noble Eightfold Path.
+
+I would like to contemplate a part of our morning chanting in order to deepen this Right Understanding. Specifically let us consider the five khandhas.
+
+Right Understanding is in part the insight we need in order to undertake the Buddhist project of liberation – in the same way that we need some understanding to start any project such as creating a garden or building a new home. Perhaps our understanding is very rough at first (we learn as we go) but at least we have some sense of the work involved for the development of our lives in line with the teachings of the Buddha. We need to understand the logic of how to proceed.
+
+This is not simply a matter of accumulating knowledge or acquiring information. The knowledge has to enter our hearts so that we have the right faith, right conviction and right intelligence to develop our lives in a skilful and liberating manner. To do this we need to understand the teachings concerning the five khandhas.
+
+If we turn to our chanting books we find these teachings explained in detail:
+
+…birth is dukkha, ageing is dukkha, and death is dukkha, sorrow, lamentation, pain, grief and despair are dukkha, association with the disliked is dukkha, separation from the liked is dukkha, not attaining one’s wishes is dukkha. In brief the five focuses of attachment are dukkha.
+
+Dukkha is translated as: stress, suffering, pain, distress, discontent. The five focuses of attachment are the five khandhas. The khandhas are the physical and mental components of the personality and of sensory experience in general. According to Buddhism, then, the problem of human suffering arises because of attachment to the five khandhas.
+
+The khandhas are categories of the mind-body experience defined by the following five groups:
+
+• Rupa means body; physical phenomenon.
+
+• Vedana is feeling, pleasure (ease), pain (stress), or neither pleasure nor pain.
+
+• Sañña is perception, that is based on memory. For example, if I speak about Ajahn Chah, most of you probably know who he is; some of you don’t. If you know him you have a particular perception but your perception is different from mine because our experiences of Ajahn Chah are different. Our memories are different so our perceptions are different.
+
+• Sankhara has a very broad meaning: formation, compound, fashioning, fabrication. In the context of the five khandhas it is defined as mental formations, all the mental constructs that make up the processes of thinking and pondering, planning and worrying and so forth.
+
+• Finally, viññana is consciousness, cognizance, the act of taking note of sense data and ideas as they occur in the mind. Thus we have eye consciousness, nose conscious-ness, ear consciousness, tongue consciousness, body consciousness, and mind consciousness.
+
+When one first comes upon these definitions they can be a bit daunting or confusing. But we need to go into Right Understanding so that our perspective of observing sense consciousness is in line with the teachings.
+
+The problem is attachment to the five khandhas. We attach to sense experience. We attach to the body. We attach to feeling. We attach to perceptions. We attach to concepts and ideas. We attach to sense consciousness. Conversely, non-attachment is one way of describing liberation, the freedom from suffering.
+
+Continuing with the chanting, we have:
+
+rupupadanakkhandho (attachment to form), vedanupadanakkhandho (attachment to feeling), saññupadanakkhando (attachment to perception), sankharupadanakkhando (attachment to mental formations),  viññanupadanakkhando (attachment to sense consciousness).
+
+Upadana translates as attachment. So we have:
+
+rupa + upadana + khandha = rupupadanakkhandha.
+
+This is attachment to the bodily group, to form – with the same structure applying to the other four groups. These five then: rupa (form), vedana (feeling), sañña (perception), sankhara (mental formations), and viññana (sense consciousness) are the focuses of attachment.
+
+Thus to have Right View or Right Understanding we must understand this crucial element of the Buddhist project. To seek the deepest spiritual fulfillment in the khandhas or in sense experience is a mistake. It’s like searching in the fridge for a hot meal. And if you don’t really understand that, if you don’t have a good grasp of that intellectually, then you can spend all of your time trying to get it right but looking for it in the wrong place. It’s like that delightful story of Nasrudin, the Sufi mystic.
+
+Nasrudin is sitting outside an Arabian spice shop. He’s sitting beside a huge basket of red hot “dynamite chillies.” Nasrudin’s eyes are filled with tears as he takes chillies from the basket and bites into one after another. His friend comes along and sees Nasrudin sweating and crying. “Nasrudin, what are you doing. You’re crying and sweating. Why are you chewing on those chillies?” Nasrudin answers, “I’m trying to find a sweet one.”
+
+Let’s look again at the chanting book and consider the teachings regarding non-attachment to the khandhas, as outlined in the traditional Pali:
+
+Rupam aniccam (form is impermanent),
+
+vedana anicca (feeling is impermanent),
+
+sañña anicca (perception is impermanent),
+
+sankhara anicca (mental formations are impermanent),
+
+viññanam aniccam (sense consciousness is impermanent).
+
+And then:
+
+rupam anatta (form is not self),
+
+vedana anatta (feeling is not self),
+
+sañña anatta (perception is not self),
+
+sankhara anatta (mental formations are not self),
+
+viññanam anatta (sense consciousness is not self).
+
+The teachings on impermanence and “not self” are, without doubt, primary to an understanding of Buddha-Dhamma. Anicca (impermanence and uncertainty) seems to be self-evident. We can all see change, can’t we? Or at least we think we see what the Buddha was pointing to. We may not have a profound grasp of that idea but we have some inkling of what it might mean.
+
+And we certainly see lots of stress and suffering, so dukkha also seems self-evident. Again perhaps our vision is not as profound as the Buddha’s but we can relate to that aspect of the teaching. But anatta, that’s difficult. One of the mistakes that is commonly held about the teachings on anatta is that there is no self, thus implying there is nothing. But obviously I am conscious. If you kick me in the leg, I feel pain, not you. There is a story of a monk who tells his teacher that if there is no self then nothing matters. The teacher then smacks the fellow in the head and he cries out in pain, “Hey, that hurts.” The teacher answers, “You said nothing matters, so what’s the problem?”
+
+The teachings on anatta do not state there is nothing. Not nothing… but no-self. Form is not self, feeling is not self, perception is not self, mental formations are not self, consciousness is not self. There is no abiding essence or person in that. In the khandhas there is no self. We ask ourselves, “So who feels the pain? If I break my leg, it’s my pain not yours. I don’t understand.” Exactly. We don’t understand. If it was easy to understand we wouldn’t need a Buddha to offer his insights to help us. The Buddha’s realisation was deep and profound so it’s not surprising if we come across some part of the teaching and say, “I don’t get it.” This is where we need to investigate, to contemplate the teachings, to study the texts and our own minds and bodies until we see in line with the Buddha’s seeing. To understand anatta is to understand attachment and non-attachment. It’s the heartwood of the bodhi tree.
+
+To reach a deeper understanding of anatta we simplify our perspective on life’s events by observing our experiences as bodily sensations, feelings, perceptions, mental constructs, sensory phenomena. In other words we observe the changing nature of the khandhas. If this objective perspective is missing we easily get caught up with the narrative or story line that each life situation generates. For instance, not only is there a feeling of annoyance because of some disturbance in our lives, but there are also all the thoughts, stories, justifications, past resentments and guilt trips that proliferate from that energy of annoyance. All of this will have a strong smell of self and other. This is full-blown attachment.
+
+If we are practising non-attachment we observe the physical sensations that are conditional upon annoyance. We observe the thoughts that are conditional upon annoyance. Most importantly we observe the craving that is conditional upon annoyance. This might be the craving that manifests as a desire to hurt someone else through cruel speech or the feelings of guilt and harsh self-judgments.
+
+By indulging in these story lines, the annoyance would become a personal problem. However, when emotions such as annoyance are observed as objects of mind rather than ultimately true realities, then we are inclining to right understanding and non-attachment.
+
+The khandhas are the changing conditions that come and go, are born and die. This is not the whole story, however: there is the uncreated, the unoriginated, the unformed, Nibbana, the deathless. The realisation of the deathless or Nibbana is the goal of Buddhism. The way to realize that goal is through non-attachment to the five khandhas. Non-attachment thus has depths of meaning that become apparent as we develop the path. A novice’s understanding of letting go changes and becomes both more subtle and more accurate over the years.
+
+Why do we get so wrapped up in the five khandhas – in our thoughts, emotions, passions, relationships, bodies and all the rest of it? When we seek to maximize pleasant experiences and minimize unpleasant experiences we become enmeshed in our desires. And our desires are focused on the khandhas. This is the magnetic attraction that conditions attachment. If we refer to the Four Noble Truths then in the Second Truth we have the cause of suffering as attachment to craving. The Third Noble Truth is that the end of suffering is the abandonment of craving. Craving is concerned with trying to get these khandhas happy or pleasant or nice or comfortable or good –  or whatever. Craving is this energy that is always going out from the heart, out from the mind, trying to reorganize something or get rid of something or figure something out or own something.
+
+Craving can be future-oriented – trying to become successful, powerful, thin, or beautiful; dreaming about being with the perfect partner; worrying about losing your job and so on. It can be fixed on the past, replaying a painful incident over and over again, stirring up old hurts with resentment and revenge, or dwelling on nostalgic replays of the good old days. It can be violent or it can be petty. It takes many shapes and forms but its hallmark is a lack of peace. If our attention is taken up with this energy of dissatisfaction we are not available for spiritual inquiry. This is the struggle with craving that focuses on the khandhas; this is preoccupation with the khandhas.
+
+When our attention is preoccupied with bodily things, with feelings, with perceptions, preoccupied with things mental, preoccupied with sense consciousness, that preoccupation is a symptom of attachment. As long as we are preoccupied we are distracted by experiences that come and go, preoccupied with changing experiences, preoccupied with being born and dying. This precludes any possibility of noticing deeper realities.
+
+To understand the Buddhist project we must understand what is meant by non-attachment. Buddhists will sometimes take a position that they shouldn’t be attached but are not clear about what that implies. From a wrong understanding they then feel guilty about negative emotions, rather than simply observing negativities coming and going as a natural part of the conditioned mind. The meditation practices that we develop help us train in this simple witnessing to things as they arise and pass. For instance, watching the breath can be an exercise of patiently observing change and discovering or remembering the still centre of witnessing. In this practice, awareness (witnessing or observing) is more important than the object that is being observed. Awareness takes precedence over the object of awareness, the object of awareness being some aspect of the khandhas. We stress the knowing rather than the object.
+
+Compare this to worldly endeavours that are mesmerized and addicted to the quality of the experience. Here the object of attention becomes all important and that importance is governed by craving. The worldly person tries to acquire pleasant experiences, to get rid of some aspect of experience, is obsessing about some idea and gets lost in dreams about this and that.
+
+Craving is always pulling us into objects, be it mental objects, emotional objects or material objects. This is conditioned by memories of past pains and pleasures, pulling our attention here and there with the energy of fear and desire. This creates a tension in the mind: attraction and repulsion, liking and disliking. In the practice of awareness and clear understanding we try to observe that push and pull of the world and not buy into it.
+
+Let’s consider another concrete example. I’m told that my company will be reducing its work force by ten percent and I may lose my job. Naturally enough this triggers anxiety. I feel it both physically and in my brain, my thoughts being conditioned by anxiety. How will I pay for my mortgage? Should I work more overtime? And so on. On a social level I need to make contingency plans and think through the problem. Having done all that, I still feel anxiety.
+
+But if I can observe this emotion as one of the khandhas, as bodily tensions that move and change in consciousness – if I can witness to anxiety rather than be obsessed with anxious thoughts – then already I have some space and freedom. This is the first step in non-attachment. I notice anxiety as an object, rather than being the subject of anxiety. There is a difference between being an anxious person and knowing anxiety as an object of mind.
+
+Anxiety arises and with the anxiety comes the craving not to feel anxious. This is natural enough. But in the practice of non-attachment this craving is also observed as yet another manifestation of the khandhas. We witness to this craving, the craving for security and a happy future. If we pay attention to the craving rather than seeking a distraction or compensation to replace the anxiety, then we are practising non-attachment. Knowing anxiety as a sankhara; knowing it as anicca, dukkha, anatta, knowing it as a condition that has arisen, that stays for a while, that is not a personal problem and is not worth grasping. This is the art of letting go.
+
+It’s not something that you have to believe, it’s something that you have to understand and then implement in your daily life. It’s not a belief system. This practice has a goal that is known as liberation from the khandhas. So it’s a project; it’s a wonderful hobby. If you are going to spend your time on a hobby you might as well take liberation. There is work to be done; there is a point to this.
+
+Craving is the magnet that draws us to the khandhas. Knowing the limitations of the khandhas and hence the limitations of craving puts life into a perspective in line with Right Understanding. Then craving is okay. There is nothing right or wrong about craving but knowing its limitations prevents us from being deluded by those magnetic pulls. We can drink our fruit juice and enjoy the warmth and light of a sunny day but we realize that liberation does not lie in the object, in the fruit juice or the beautiful weather. It doesn’t lie in an experience per se; it does not lie in the khandhas.
+
+Not pursuing the dictates of craving is the meaning of renunciation, abandoning the belief that fulfillment can be found in an objective experience. When we renounce that movement towards the khandhas, what is left? If we’re not pursuing bodily experiences, and feelings of pleasure, pain or indifference; nor perceptions; nor thoughts, nor ideas, nor emotions; nor sights, sounds, smells, tastes, bodily sensations nor mental phenomena – what remains? Are we bankrupt? What is left? Is there anything left? Is it just nothing?
+
+What remains is knowing the way things are – or simply being aware. This may not sound like much but if we give awareness a chance we find in it the resolution of our deepest yearnings. Awareness is the path to the Deathless.
+
+When we follow our desires in attempting to maximize pleasure and minimize pain our attention is preoccupied with the khandhas. Attention is always out, away from the still centre of knowing. If, however, we are following a path of awareness, our attitude is receptive rather than controlling, domineering or manipulative.
+
+The Buddhist project is one of waiting and letting go rather than becoming, getting or getting rid of. Renunciation is based upon this kind of understanding. This requires patience, courage, and a willingness to allow life to unfold. This in turn implies a kind of love and respect for life in all its manifestations.
+
+Right View guides our efforts on the path and keeps our intellect in harmony with the Dhamma. Once we understand the project – that it’s about the letting go of the khandhas – then there’s still a lot of work to do. But at least it becomes much more clear how to do it, what to do. Focusing on the khandhas as a way out of suffering is doomed to failure. The liberation from stress can’t be realized by the pursuit of craving.
+
+But what about my desire to be free from stress? Isn’t that craving? Let’s say there is wise wanting and stupid craving.
+
+Wise wanting concerns our aspiration to freedom both for ourselves and others. We want to live in a society that is decent and fair. So wise wanting addresses the various issues we face in the world: our social life, our relationships, duties, the expressive side of our life, our cultural joys and interests. We want the environment to be protected so that we have good water to drink and clean air to breathe.
+
+These are natural and wholesome desires. Good governance, artistic beauty, universal health care, moral and spiritual education – and so many other issues come to mind. These kinds of wishes and aspirations for ourselves, our families and our societies are healthy and fall into the societal teachings of the Buddha. These teachings include ethics, altruism, right relationships, right communication and a range of guidelines that help us with the various choices we must make throughout the days of our lives. We desire to be free from suffering and we wish the same for others. These suggestions from the teachings guide us in the way of smart desire.
+
+Parallel to these social teachings, we also have the inner teachings – among which an understanding of attachment to and letting go of the khandhas is very important. We reflect on the contemplative teachings about our inner world and the workings of consciousness. As part of that we observe life as a stream of conscious events, or we might say a stream of khandha events. The task is to witness this stream of consciousness with the wisdom of non-attachment.
+
+These two aspects of the Buddha’s words, the social and the inner, define the Buddhist Path. In a social sense we have to try and get it right. If there’s immorality we try to address that. If there is starvation we try to address that. We try to be altruistic and help the world as best we can according to our capabilities and resources. We gain encouragement and support from our spiritual friends and companions and we develop attitudes and skills that hopefully give joyous expression to our lives.
+
+At the deepest level of realisation, however, we know that no external condition or relationship is ultimately stable or reliable. These are all the movements of the khandhas within which there is no utopian perfection.
+
+Right View thus implies an understanding of skilful living as well as the wisdom of letting go. Not a letting go that is dismissive, repressive or alienating, but rather a letting go that is empathetic to life and yet not deluded by attachment to life’s changes.
+
+This is what understanding attachment to the five khandhas implies. Call it the five khandhas, the psycho-physical process, the mind-body experience – or life. If it moves, don’t grasp it. Let go and respond to life from empathy and generosity rather than from craving, grasping and all the stress that entails. This path of letting go of the khandhas then becomes an art form, the art of skilful living.
+
+
+=== Affectionate Living ===
+
+# Affectionate Living
+
+Based on a talk given at Bodhinyanarama Monastery in December 1998.
+
+Good evening. It is nice to see so many people here in this lovely space to sit quietly and contemplate Dhamma. We have just finished a ten-day retreat with about thirty lay people and the monastic community.
+
+It is a privilege to live without competition, worldly things or the usual struggle of life. At times like these, one can just observe the way things are. One sees spaciousness, and a trusting and moral environment where silence is encouraged and the beauty of nature is present. To be in this environment is a great privilege.
+
+What one develops in a period of time like that is a strong sense of community and of relating to people. There’s a common activity because the life of community is cooperative, not competitive. There is no, “I want to get to Nibbana before you and if you get ahead of me I’m going to trip you.”
+
+I know that if I work on myself, practise in this particular way, live morally and uphold the principles of the retreat and the teaching, then that encourages you to do the same thing. And if you do that too, it encourages me. There’s a reciprocity of encouragement, affection and aspiration. This, of course, is something that is often lacking in a society which is geared to competition, money and ease, where life is a vicarious existence of watching rugby games or other forms of entertainment.
+
+Community life is, I think, an art form which is being much lost these days. It is hard to do if one has been conditioned to individuality. I certainly was. I had my own room. My brother had his own room. I had my records. He had his records. If he touched my records he’d be finished.
+
+The life of community is something that I have learned by being a Buddhist monk. As you know, we chant, “Sangham vandeh / I revere the Sangha.” In Buddhism “Sangham vandeh / I revere the Sangha” is seen to be the “Sangha of Enlightened Beings.” Where do you find one of those these days? But if you bring Sangha to the ordinariness of life, you contemplate community.
+
+To me community implies a sense of affection for one’s place, for the trees, for the water one uses, for the air one breathes, for the food one eats, for governance, for the streets one uses, for one’s neighbour, for the shoemaker, for the greengrocer, and so on. A Buddhist culture implies the sense of developing community by being responsible for all these very real things.
+
+To live and work in community requires us to give. One of the great virtues of a Buddhist culture is dana, giving. Sometimes there can be a form of spiritual materialism, where giving is linked to a better material status in the next life. We need to think about what dana, or generosity, actually implies.
+
+And what does metta, the idea of kindness and compassion, imply, other than being nice to my dog or my kids? Like community, metta also implies a deep commitment to affection at a very real and pervasive level. Affection for one’s roads, for the air, for New Zealand.
+
+This monastery of course brings that up. When you come to this environment you notice the affection: affection for architecture, for workmanship, for a path which is laid out with beautiful stones you can walk along. There is also a sense of responsibility for the overall harmony of the community. So that I see it’s not for you to make me happy but rather for me to try to participate with affection in your life, my own life and in our community life in order to create harmony. That’s what an elder does.
+
+The school of Buddhism this monastery is a part of is called “Theravada” which means “The Way of the Elders.” Of course traditionally that means the elder members of the ordained Sangha who have much wisdom. All of us are moving towards that because one of the directions of a spiritual life is a movement towards maturity and the taking of responsibility for one’s community. That includes the family and all our associations.
+
+Often the problems of society are pronounced in terms of a global or national problem. But there are no national problems, just individual problems. It’s always individuals disagreeing or individuals fighting. That can be a national problem if the whole national psyche is geared towards that. But the solutions are always individual. They are about you and I working together with each other. People often say, “Well I’m gonna wait for the other guy to recycle the plastic and then I’ll start.” But why wait? Why not begin oneself?
+
+The Buddhist teaching around compassion and empathy and affectionate participation in life puts up strong mirrors. We try to have universal empathy but it can be a challenge. The first monk I met said to me, “Don’t worry about the parts of Buddhism you agree with. It is the bits you find difficult to follow which are the tough ones.” These are like mirrors which present a challenge to the mind.
+
+So if I have a disagreement with someone or if I hate the polluters and I dwell in continual hatred for even that which is evil – then the Buddha’s teaching says, “No, that’s not my teaching. You can call yourself a Buddhist but that’s not what I’m teaching.” Then we can look inwards and ask, “Why can’t I live up to those high standards; what is it about my life that I am unable to do that?”
+
+Participation in the difficulties of the community as a spiritual practice is the great challenge. To use the committee meeting as your monastery or to use your adversary as your teacher is a way of introducing spiritual practice into problem solving. This is very rewarding. It’s hard work. It’s much easier to slope off and say, “Well let them do it, I’m going to watch the ball game tonight.” Sometimes we need to do that, but that kind of participation in community, where we think we’ll let someone else take care of the trees or the water, doesn’t bring many rewards.
+
+Sometimes Buddhism can seem to involve an attitude of, “Leave me alone, I’m trying to get enlightened.” Even metta practice can be like that. You can be sitting there saying, “May all beings be well, may they be free from suffering,” when someone interrupts your meditation and you snap at them. It’s easier to idealize universal compassion than to actually live it. To be in a relationship with someone who really presses your buttons and to be aware of that is a spiritual practice.
+
+Now that doesn’t mean that we don’t feel alienation, resentments, anger or fear. These are natural conditions of the human heart. But to take alienation or resentment as my refuge or as something that I pursue, of course defeats community. It also defeats my own spiritual practice.
+
+To witness in ourselves that which is unwholesome and unskilful in an affectionate way is the Buddhist path because we have both in our hearts – that which is divisive and that which is unifying. We have both because we’re human beings and to have affection for one’s inner worlds means to take responsibility for the whole business. But we don’t have to take refuge in it all.
+
+Sometimes when we do metta bhavana practices of loving kindness we begin with ourselves and our loved ones, then we radiate that love outwards to more neutral kinds of people and then we try to bring up into consciousness beings we think are our enemies. That can be hard because it’s tied into memory. It’s very interesting how memory works. When you mention someone who has harmed you, your memory pattern goes right to that, doesn’t it? To not pursue or feed that memory pattern is a way of ending the whole sense of alienation and separation.
+
+The monastery I come from has about fifty residents, often another fifty on retreat and maybe another hundred on a busy Sunday. So it’s a pretty big outfit. Sometimes you get a clique of whingers. They’re usually the “behind the wood-shed smoker” types, complaining that the Abbot talks too much or that the monks took all the cakes again. They usually walk out the door and are never seen again. That’s not how you form community.
+
+When we hear that kind of divisive speech, maybe we can listen without buying into it. We can say, “Yeah, it sounds like you’ve got a problem.” To disagree is fine, but we want to avoid feeding that continual tendency of the human mind to become negative.
+
+To take responsibility in community for right speech is again one of these mirrors that the Buddha’s teaching is presenting to us. Right speech is speech which is in concord, brings harmony, is truthful, beautiful and according to Dhamma. Wrong speech is speech which is divisive, untruthful, ugly, cruel, harsh or swearing – and speech which is just foolish.
+
+If we’re really working with Buddhism as a spiritual teaching, then when our speech enters into disharmony and divisiveness we’ll awaken to that because we’re taking this training seriously. We’ll say, “Why do I need to do that? Why do I need to create disharmony?”
+
+Inherent in this is a joyous awakening to the peacefulness of relating, and to intimacy. Intimacy is more than just about a relationship between two people. It’s about non-alienation with and affection for all sentient beings. It’s not an easy thing to do but that noble aspiration is worth it because it does bring joy. Not the joy of consumerism or the easy way out. It’s a deeper sense of nobility in the human heart.
+
+I’ve lived in community for 25 years and I find that community takes a lot of work. The image Ajahn Sumedho uses is of fifty rough semi-precious stones in one of those polishing machines. They come out all nice and shiny and you can buy them in the shop. The process is grinding. It’s like being with someone you find irksome and with whom it’s okay to disagree, but taking responsibility for that. Or like being with someone you find intimidating and working with that. It is a kind of grinding which requires time, stability and commitment.
+
+We have to ask ourselves why there is so much depression and suicide in our society. For me it seems the problem is that we don’t have community and that we don’t relate in a non-alienating way. We relate in a competitive way.
+
+We cut the trees down in order to use the land. We become alienated from our own bodies and they become bloated, overfed things that we have to carry around. What is a body? It is one of the environments we live in. What does it feel like? What kind of food does it need? A life of affection for your community of emotional beings, for what you’re putting into your body and into your mind is a more complete way of living your life.
+
+But what is an affectionate relationship to the emotions? Even within a spiritual practice we can have a cruel self-hating attitude towards the very real difficulties that we face. We can demand that we be loving, or forgiving. The spiritual part of community also includes an affectionate participation in one’s own inner being and an understanding of one’s own emotions. Within that inner affection or inner awareness one sees all kinds of limitations. One sees that one does resent, get angry and have fears.
+
+This process is a more complete, integrated way of living your life. A life lived for a weekend of golf doesn’t make sense to me. To push one’s body hard in some way and then have a few hours of pleasure a week seems to me to be disassociated and alienated from life. But a life of immediacy where we’re living moment by moment in this kind of affectionate and caring way makes a lot of sense and has very good results.
+
+This can lend a new quality to one’s existence, because the process of existence is just as important as any other goal we might have. The doing is important because the doing involves affection for all the little things.
+
+If the means are right the ends will be right. If the way I’m living this moment now is not conjoined with affection – then how can I have affection later on? If my spiritual contemplations are bound by self-hatred and self-judgment and put-downs of myself, how can there be affectionate love at the end of the road? There can’t be. It just doesn’t work. The law of karma doesn’t work that way. So this life of Buddhism is a life of responsibility, maturity and affection. A life of caring for oneself and for one’s community.
+
+I wish you well in your own spiritual journey and I hope this place is helpful for you in developing community in your own spiritual life.
+
+
+=== Dhamma and Family Life ===
+
+# Dhamma and Family Life
+
+Based on a talk given by Ajahn Viradhammo at the Auckland Vihara in 1987.
+
+I just returned yesterday from a trip to visit my mother and brother in Ottawa, and then I was in Toronto, teaching for a couple of weeks. So today’s topic of Dhamma and Family Life is very relevant to me now.
+
+Dhamma is the truth of the way things are, so Dhamma in family life is the practice of understanding truth in the context of family situations. The feelings that we have in the family are very powerful. The feelings that I have for my mother and brother and his children, and for my father who died several years ago, are very powerful conditions of the human heart, and these have to be understood.
+
+Our lives are both individual and social. We have an inner world which is very personal, but we function in an outer world of people, things and situations.
+
+As individuals we are alone. For instance, when we are born into this world we come from a nice, warm, cozy womb out into the bright lights of an operating theatre, and then we might even get slapped on the bottom. It’s quite a shocking experience. We then live our lives and we have our sorrows, joys, hopes and expectations, fears, anxieties, worries, successes and failures.
+
+All of this goes on in a very personal way. Often it is a very lonely experience. Although we do share some of these aspects with each other, there is much we can’t share, which we have to feel ourselves. And then death comes, and that is something that we have to do alone also. No one is going to do that for us. Death is a personal experience. Others may be with us to give comfort and support but still we die alone.
+
+As well as the individual aspect, we have the social aspect which is related to the world around us: to the family, to the environment, to social conditioning, to education, to the kind of culture that we are born into, to the values of society that are put upon us and that we imbibe, to the literature that we read, to the food that we eat, to television programmes, and so many other things. All of these affect the inner life. That is pretty obvious, isn’t it? The inner life and outer life are not separate. They are connected. We have a responsibility to understand the inner world, and we have a responsibility to live skilfully in the outer world. These two are not in any way mutually exclusive; they are interdependent.
+
+In Canada there is a lot of talk of racism. It’s unfortunate to see this raising its ugly head. Consider a person who has a racist upbringing which causes him to perceive one part of society in a racist or bigoted way. Then the view he has alters his world, doesn’t it? It alters the world he sees. It is a world of hatred and bigotry. His reality is actually created by his inner world.
+
+Or we could say, the way I view you is the way I’ll affect you, and the way you affect me is the way I’ll view you. The outer becomes what the inner dictates. And that perceptual construction can seem very real. This bigoted or racist viewpoint can seem like ultimate truth. As much as one might argue, this person would hold onto his view and thus be fixed in his own creation, suffer accordingly from that view, and never really understand why. To this person the world would be that reality.
+
+In Buddhist contemplation both of these aspects have to be considered. And what we try to see is that our life is this interdependence. It is not just me, alone in the world, floating around as a kind of a satellite, but also not just the outer world.
+
+Now when the inner is not paid attention to in the proper way, or when it is obsessively paid attention to in an improper way, then that creates all kinds of problems in family life. If the inner isn’t paid attention to, then we either act on impulses which are unskilful, or we deny aspects of our heart through constant distraction. This lack of attention to our inner world creates confusion around us.
+
+The Buddhist teaching encourages us to take responsibility for the inner world. Basically it means that when we relate to each other we should speak from compassion, not from greed, hatred, or delusion. All right – that is a pretty easy thing to say, but it is often quite hard to do. Confusion, delusion, fear, all kinds of expectations that we have for each other, demands we make of each other – all of these come from a place which is not compassionate. For instance, I can make demands on you because I want you to be a certain kind of person, not because I feel compassionate and care for you.
+
+I remember as a child, being from a refugee family and wanting my parents to be ordinary (whatever that was in Canada) and feeling embarrassed at speaking a foreign language. Rather than seeing the suffering of my parents and their tremendous courage, my own fears and my own insecurities projected demands on them, which was very painful. Even though I had terrific parents who were really very kind and generous, my own fears created suffering in my heart as well as theirs.
+
+Several years ago a friend told me of a meeting he had with his father. They went for a long walk together and the father said, “Why didn’t you ever listen to me when you made your decisions?” The son’s perception was, “Why didn’t you ever ask?” Here were two good people who had lived together for many years but hadn’t really communicated – one expecting the other to say something but nothing ever happening. Who was right and who was wrong? I don’t know; there is no blame. These are the kinds of problems that arise in the family when we’re not awake, not aware. Strangely enough, however, when we awaken to our own inner world we also become more sensitive to those around us.
+
+What happens if we don’t do that? If we don’t understand our inner being, then what? Let’s say we’re acting from greed. If I want status, recognition, or power, then this is a form of wanting for myself. The result is that the other people in the family are no longer human; they become objects. If I don’t take responsibility for greed at least in some way, then what happens? Then I look at you in order to fulfil my greed. I don’t look at you as a human being anymore; instead you are an object of my desires. You are no longer a person who wants to be happy; you are something that is either in the way of my happiness, or some kind of a tool to fulfil my needs. This is how we lose our humanity and begin to manipulate each other. The consequence is that we suffer.
+
+When I don’t take responsibility for anger in my heart, then what happens? If you are the person who is making me angry, then again you become an object. That is, you are no longer a person who suffers as I suffer and who wants happiness as I want happiness. Since you are an object that is doing something wrong, I therefore have to somehow change you. Making you the object of my anger, we both lose our humanity.
+
+Fear, doubt and worry function in the same way. They take away from our humanity and our ability to relate sincerely with others. And yet these are very human qualities. It is very human to have anger. It is very human to feel fear.
+
+So in one sense we have to accept our inner feelings, but also we have to take responsibility for them. Taking responsibility means we awaken to the unskilfulness of living on energies based upon greed, hatred and delusion.
+
+Even when we do act from greed, hatred or confusion, we still want to be happy. We all have desires, don’t we? All of us have a yearning in our hearts to be happy. If we didn’t we would not be human.
+
+It’s not that wanting is bad. This is just the nature of our lives. But we must want in a skilful manner. I want to be happy and that’s why I’m a monk. Sometimes Buddhists say we can’t have any wanting. Well, that’s silly. When we come here to the temple we want knowledge, we want to contemplate Dhamma. Wanting is natural.
+
+However, we must ask ourselves, “What is the deepest fulfilment of wanting? Where do we find true fulfilment?” Buddhism describes true fulfilment in terms of wisdom and compassion. Look at the times when you have been able to relate to others with no demands or expectations, with an open and generous heart. Didn’t you also feel liberated from wanting? The end of wanting has to do with giving and unconditional love, rather than acquiring something I want or getting rid of something I don’t want.
+
+But how do you manage to love unconditionally when it is human to feel fear, when it is human to have anger, and to worry? Just how in the world can a person succeed in this? The answer to how we can love unconditionally is found within the Buddhist way of transformation, which means actually understanding and practising with all that is negative in the mind. It doesn’t come for free. When you take the precepts you don’t get your Buddhist badge and then think, “Okay, now I’m going to be a nice Buddhist, and love everyone, and love my kids all the time, and my kids will love me, and we’ll live happily ever after.”
+
+To facilitate inner transformation, our lifestyle is tremendously important. If our standards of outer behaviour are confused and insensitive to others, then inner transformation is not possible. If I cheat on my taxes I will be fearfully waiting for the knock of the tax collector on my door. Thus our responsibility to the outer world – those with whom we live and the environment we dwell in – is based on the basic moral principles of not harming oneself or others with action or speech.
+
+As well as moral responsibility, we need to be careful about our business affairs. If we are continually living on bank overdrafts our minds will be preoccupied with financial survival rather than inner transformation. Thus the practical aspects of making a living and paying the bills are very important to the spiritual life.
+
+Most of you who are here tonight have been very diligent in acquiring worldly skills so that you can live comfortably and provide good opportunities for your children. This is very good. As an end in itself though, it will not bring fulfilment. A stable lifestyle does, however, give you the opportunity to observe the inner world and practise the transformation of the heart. This is part of the good kamma of all your diligent efforts to establish a stable household life.
+
+The practice of Dhamma is the way of transformation and is the priority in healthy family life. It’s really understanding the heart and using family life as a spiritual vehicle. And as a Dhamma vehicle, what we mean is that the family is not there to make me happy. The family is not there to make me secure, the kids aren’t there to fulfil my desires, and my parents aren’t there to cook my meals and wash my clothes. Rather, the family is an opportunity for me to let go of selfishness and develop the compassionate heart.
+
+When family life is a vehicle for self-gratification, however, everyone becomes a loser. We sometimes project onto children or parents what we think they should be. We forget their humanity, and we don’t touch their hearts. And how do we touch each other’s humanity? It’s when we can look beyond our own expectations, projections, demands, and fears, and say, “This person is a human being. This person suffers like I suffer. This person has moods, this person wants to be happy, this person doesn’t like pain.” This ability to change our perception is the essence of the Buddhist transformation of the heart.
+
+Whether it is monastic life or family life, the same kind of transformation applies. I can only talk from my own experience, but if one of my fellow monks is in a bad mood and I don’t want that, then he becomes an object of my irritation. The trick is for me to change that perception in that moment and to think, “Well, although he’s irritating me now, he’s also probably suffering, and he wants to be happy. I’ve been there, he’s like me.”
+
+Now to actually change one’s mind in order to perceive the world differently is very difficult. Why is it so difficult? Because we get so pulled by the negative emotions that arise. So this is the Buddhist work of transformation: to actually feel the sense of fear, anger, or worry, and in that moment to transform it. This transformation really takes place in friction, in argument, in contention, when we don’t get along. We can then begin to feel these things arise, become more conscious of them, and then change our perceptions.
+
+That’s real practice. It’s what we call “marketplace practice,” or “watching TV practice,” or “sitting at the dinner table practice,” or whatever. It’s not in the temple; it’s in our hearts. Sitting meditation will not necessarily heal that for you. It has be done when our buttons get pressed.
+
+Now, on the external level, there is still the requirement that society has legal systems, and we have to be responsible within these laws. Similarly, parents are responsible for kids, and they have to lay down the law. It’s necessary because they have more experience; and they’re paying the bills too! Parents must direct children, but the direction must be from wisdom, not from anger. It has to be directed from freedom rather than from enslavement, otherwise it doesn’t work. We don’t just say, “May you be happy, may you be happy,” and just let things happen. Instead, we direct, we say, “Yes!” or “No!” But it’s the attitude that’s behind the words which really counts.
+
+Dhamma is the first priority and good decisions are made from this foundation. I think the clarity of a parent saying “no” or “yes” comes from the compassionate heart. It is not compassionate, however, to say “yes” to everything that a child wants. That’s one of the worst things that you can do for a child, isn’t it? “Yes, yes, yes, yes, yes, Johnny,”… and Johnny is going to hate you when he is 28! The idea that compassion is some kind of indulgence – that’s not it. Compassion is a strength.
+
+People are often unsure about what compassion means. They sometimes mistake infatuation or attachment for compassion. When we love someone in a passionate way the love may easily change to anger or jealousy. If this is what’s happening we can’t call it compassion. Attachment is very up and down but compassion is calm. It is not a demand that you make me happy. It is not an expectation of fulfilment from someone else. Instead compassion is a concern for the welfare of others, irrespective of one’s own desires. Thus, when we are compassionate we make the best choices and decisions – because we have a clarity that isn’t prejudiced by personal desires and fears.
+
+Much of the work of transformation involves patience, because we often don’t get what we want or expect from life. For example, if I have to catch a train or a plane to come up here to Auckland I can get very impatient when we are late. In the monastery I’ll say, “Okay, I’ve got to be at the airport and I want the car ready at such and such a time.” Life is unpredictable, and invariably something goes wrong and I can get very impatient – justifiably so, of course! But that’s where I can develop patience. Where else can I develop patience except in the midst of frustration? I won’t develop patience when all my desires are being satisfied. The work of transformation takes place right there where I can’t get what I want.
+
+Many people expect the world to be a place that’s always going to make them happy. Within a family, people may think, “If my kids were always good, if they weren’t so difficult,” or “If my parents were always calm, and if they weren’t so old-fashioned, then life would be great,” or “If my partner was different, I’d be happy.” If we think this way we’re going to be waiting a long time before we’re satisfied.
+
+It’s a foolish view, isn’t it? To think that if the whole world was just right then I wouldn’t suffer. In other words, if the whole world would fit around my desire patterns, if it met all my expectations, then I’d be happy. Well, the world isn’t that way, is it?
+
+One of the greatest difficulties in using family life as a spiritual vehicle is the tendency to project our passions and inner turmoil onto the members of our family. For instance, I might feel bored in a marriage and project this onto my partner. Rather than contemplating boredom as Dhamma, I might easily blame my partner – thinking that I was unable to realize true fulfilment because of him or her. This wouldn’t be very honest; in fact we would call it delusion.
+
+The same holds true for anger, jealousy, fear and worry. These things seem so real and we can thus easily create a world of suffering around them. Look at the times we have been angry. Hasn’t the anger seemed very true? “Yes, you are a fool. You are wrong,” and the mind goes on and on. Perhaps we have yelled at someone, and afterwards felt embarrassed by our own foolishness. Yet at the time it seemed that the world was really that way.
+
+This is the nature of delusion. The confusion of the inner world projects onto those around us, creating family situations which become even more confusing. Let’s take greed. How many times have we felt we really needed something? Then we go and buy it and a few months later it’s collecting dust in a corner of the room. We didn’t really need it but it certainly seemed that way at the time. It is this tendency to believe in greed or anger or fear as a reality that we call delusion or ignorance.
+
+The interdependence between inner and outer means that when I believe in anger my world is an angry world; when I believe in worry my world is an anxious world; when I believe in fear it is a threatening world. This tendency to believe and hence follow all the whims and passions of the inner world is the greatest source of family strife. And yet because we are human, the tendencies of anger, greed and worry are bound to come up in family life. What are we to do?
+
+For me the secret is to see the arising of inner suffering as a chance for transformation, a chance to see old patterns of ignorance. By not believing them, I can watch them fade away and their power to delude me will diminish.
+
+In Buddhism we say that ignorance is not knowing, or not seeing clearly. This is not a lack of academic understanding but a lack of insight into the way things are, a lack of heartfelt understanding. If we can be fully sensitive to our inner world and yet not blindly believe in our projections, then family life is a wonderful possibility for inner freedom and outer harmony.
+
+When we speak of awareness or mindfulness being the path to freedom, it means that we are fully aware of things like anger, fear, and jealousy. But we see them as conditions of mind rather than concrete realities. If these things change and we don’t believe in them, then our world is not conditioned by them. So whether I’m angry at the kids, the dog, the government or my in-laws, it’s just anger. Don’t attach and don’t create a world around it. Be patient; it will pass.
+
+If I crave a new car, a new computer, or a better stereo, then it’s all just craving. Better to be patient and watch craving cease, rather than feed the endless cravings that our consumer society stimulates. What do television adverts tell people all day long? – “If you get this you’ll really be happy, you’ll really be satisfied.” And so you get it, and you get it, and you get it, and you never look at the getting. It never leads to an end of craving.
+
+It’s not that we deny the desire to want things, but to actually move to something more peaceful, you have to act in that moment, you have to give that up. How do you do that? If you can say, “ I don’t need that, I can do without that,” then that’s a transformation of the heart and mind. This is not repression, but a movement towards the peace of the mind.
+
+Whatever it is, whether it is the greed for things, or the anger at people, or the fears and worries that we have – to make it conscious, to transform, and to let go, is an arduous practice. It’s not ascetic in the sense that you have to torture yourself, but transformation does mean that you have to give up a lot. The idea that we can be free and peaceful and follow any old mood – it can’t work that way.
+
+Family life can at times flow with love and harmony, but it can also be fraught with difficulties. Even if everything is relatively safe and comfortable, the future is uncertain and so worry is a common problem in family life. We may be made redundant. Our children may fail at school. We may get sick in the future. The worry-mind is not proud, it will grab at anything and worry. So whether it’s my job, my mortgage, the size of my middle-age stomach or what my neighbours think of me – it’s all just worry.
+
+The complications of life can be accommodated by skilful living and adapting to life’s changes. If, however, worry is a strong habit, it will keep muttering away in the back of our minds no matter what we do. So how can we go beyond worry? How can we move to a more trusting and peaceful heart, and what actually can we trust in?
+
+Well, you can’t trust in anything that is subject to change; that’s all uncertain. You can’t trust in your body staying healthy. You can’t trust in the economy. You can’t trust in having a permanent job. So what can you trust in?
+
+In Buddhism we say you can trust in the Three Refuges. You can trust in your capacity to be awake and to be aware. This is Buddha. You can trust in the Truth of the way things are. This is Dhamma. You can trust in the goodness of your intentions, in the goodness of your moral and generous actions. This is Sangha.
+
+For instance, if you feel angry and you trust that anger, what happens? In a word – suffering! But if you trust in knowing that this is the feeling of anger, that this is an object of mind and not a permanent reality, then this is wise knowing, our refuge in Buddha. If you trust that this anger will pass and you need not repress nor indulge, then this is in harmony with nature and is our refuge in Dhamma. Even though the anger may pull you towards violence, you trust in the virtue of not harming others. This is refuge in Sangha.
+
+This third refuge of Sangha stands for the practice of transformation; that is, being a good person and actually doing the work. Having an idea of being a good person is easy, but actually being a good person is very difficult.
+
+Perhaps I sit there in the morning and say to myself, “Today I’ll be a good person and I won’t make any mistakes. I’ll listen to Bhante’s talk, trust everything, won’t overeat, be fearless, and have compassion for my kids.” So you set up your programme but feel very disappointed at the end of the day and even end up hating yourself.
+
+Instead, if one says, “When fear arises I’m going to develop trust. I’m going to observe it and know it as a condition of mind rather than believing in it as a permanent reality,” then what happens? Then we are beginning to trust in transformation rather than fear. In the same way, when anger arises we can try to transform that into patience and compassion. When greed arises we can be aware and transform that into renunciation, giving up what we don’t need. It’s not just an ideal, it’s something we can do.
+
+You can’t get it perfect immediately, but you can make an intention. Buddhist practice is very much based on right intention or right suggestion. We have to make the right suggestions to ourselves and to our families. If I make this suggestion to you: “You’re a no-good creep!”, then what’s that going to do to you? Well, you’re going to feel like a no-good creep, or you’re going to hate me. So that’s not a healthy suggestion. If I make that suggestion to myself, “I’m a no-good creep!”, that’s not healthy either. What I must do is to make compassionate suggestions such as, “May I be free from anger. May I be free from greed. May I be free from fear.” These are good suggestions to make.
+
+On the other hand, if I wake up in the morning, and it’s winter, and it’s rainy and grey, and the economy is going down the tube, and I’ve just heard about another six rapes in Auckland, and 14 murders, and I’m very depressed, and then I turn on the radio to get more news, and I get more depressed, then my first thought is of course: “Life is miserable but I have to go to work, and oh, what a terrible country it is. . . .”
+
+What kind of suggestion is that? That’s a suggestion of misery. And that’s what I create in my world. Therefore I must move away from that kind of suggestion. When my mind says, “I can’t take it anymore,” I wake up! Then I can say, “So that’s what it’s like to feel miserable.” And as I see this, then the misery just becomes an object. It has no power, and it is something that can be known.
+
+So I have a choice. I can believe in my misery, or I can let go. The way to let go is to say, “I’m going to try to be more aware today. I’m going to try to be more sensitive to the people around me. I’m going to try to be more compassionate to myself.” These are beautiful suggestions to the heart.
+
+This doesn’t sound like much, but contemplate your own mind. How often in the day do you make skilful suggestions to yourself and how often do you just go on automatic pilot? Being on automatic pilot is very dangerous because you can crash into a mountain. And the way we think when we are on automatic pilot is often negative: “Life is miserable… mumble… groan… these kids, or these parents… nah, nah. . . .”
+
+But to awaken means that we no longer run on automatic pilot. It means we are fully alive. To notice a thought which is unskilful, such as the thought of worry, the thought of fear, the thought of anger, is the way of mindfulness. And then the way of transformation is to not invest any energy into all of that. It’s a lifetime’s work and we keep having to do it. Because it is a lifetime’s work we must always be patient and compassionate with ourselves. If we judge ourselves all the time, it just does not work.
+
+The way of transformation means that we take responsibility for our wrong actions and wrong speech. We develop right intention by thinking, “That’s an area where I need to work, I need to make more effort, I need to be more awake, I need to transform.” There is a sense of personal responsibility, isn’t there?
+
+If I blame the world around me, if I’m never awake to the fact that I’m angry, if I’m never awake to the fact that I’m full of worry, or if I’m never aware that I always want something else – then I can’t be at peace. I will always need something else. I will always need some kind of distraction or I will always need to get rid of something. There will be no peace for me or for my family.
+
+If we are to realize our human potential and not just live at the animal level, we must fully awaken to life. Being awake to our inner world with all of its passions and energies is part of being truly alive. We sometimes call this the practice of Buddha knowing Dhamma. If we can’t be fully awake, then the life of the individual and the life of the family become an aimless succession of actions and reactions. The joyous possibility of family life as spiritual transformation is lost.
+
+So what is the Middle Way? It means we honestly look at tendencies that cause confusion in our own hearts and that create suffering in our families. We put forth the effort to practise transformation; being willing to work on that for a lifetime.
+
+
+=== The End of Rebirth ===
+
+# The End of Rebirth
+
+Based on a talk given given at Amaravati in 1996.
+
+In Buddhism we speak of two levels of contemplation. The first is the conventional level of “me,” as a person, and “you,” as a person. For example, there is “Viradhammo” – fifty-ish, quickly getting out of shape, has duties, is a senior monk at Amaravati; his Mom is in Canada, and he has a little scar on his head with three stitches. That is “me,” as a person. There is the sense here of a person, of social responsibility, of a position in society, of the age of the body and of its genetic and cultural make-up. This is the packaged sense of self that a typical person works with, which is quite valid.
+
+At this level, the teachings are about morality, right livelihood, responsibility for the environment, social action, expression and creativity. This is one level we operate on, where we can find all kinds of fulfilment; it is a very rewarding thing to be able to work, to express and create something.
+
+However, it is not liberating, because things change. We really notice that it is not liberating when someone criticizes what we are doing. You might think you are doing a great job but when someone pokes a few holes in it, then you see how unliberating it is – how bound one can be to it.
+
+If all we are trying to do is to find fulfilment on the level of family, social action and creativity, then of course our hearts are never fully appeased, because those conditions are always changing and they depend on so many other factors which are beyond our control. If my whole sense of fulfilment is my family, but then my kids leave home, or someone dies, or my child comes home with a red Mohican hairstyle – what do I do if my whole life is dependent on that?! So we would say that fulfilment on this level is not where liberation lies; it is not a refuge, although that is not to put it down.
+
+The second level is the Dhamma level, the level of liberation of the heart. When we develop a Buddhist life-style, we can see how our families and our social positions can actually be our “monasteries.” They are the situations in which we practise inner vigilance and contemplation. Whether you are an artist, a doctor, a photographer or unemployed, that is your monastery, that is the place where you practise.
+
+I was in New Zealand for nine years and was involved with a very beautiful monastery building project. During that time there was the necessity to function on the social level – I had to work and to organize things – but, through all that, the most important issues to consider were suffering and non-suffering: the inner world.
+
+We built this lovely meditation hall (half my monastic life has been spent on building sites!). One whole side of it was open, and we had doors that were ten feet by ten feet – pretty big doors! However, the joiner who was making the doors was not very efficient. He would always tell us that the doors were coming next week, and this went on for four months! On the worldly level, we had to say to him, “Hey, listen! We have a contract, you are not meeting your responsibilities.” But on the inner level, we all had to take responsibility for our annoyance at this joiner. So both levels were operating.
+
+This meditation hall is convertible. There is a cloister at the front, onto which these huge doors open. On top of the cloister we had a marquee custom-made so that we could double the size of the hall on big occasions. We got the best tentmaker in New Zealand to make this marquee, but it was faulty. We had to take tough steps to ensure he didn’t rip us off, but we still could not hate him. Sometimes we wanted to. The mind was saying, “What a rip-off! What are we paying this man all this money for?”
+
+Our practice was right there. The tentmaker was our monastery. So without denying the necessity and the challenge of living in the world, we also recognize the inner world. If we view those two worlds skilfully we find a balance between conventional reality and the inner work. Then the tentmaker becomes a person with whom I learn to stand up for what is right, rather than putting my tail between my legs and running away. He helps me learn to be patient, clear and assertive.
+
+This inner world is what we work with on a retreat. Although we should not forget the conventional world, we remember that Buddhism is not just a weird experience called retreat! We cannot spend our life on a retreat; we have to live in the world. The gift of a retreat though, is that we don’t have to do so much social reorganizing. If the toast is burned, it’s burned; we don’t sue the cooks. So we work with whatever we have, and we have the freedom to observe. A retreat offers the opportunity to look at suffering and non-suffering. The hub of the wheel is the centre of knowing and being; the stillness of being. This is where the unconditioned lies.
+
+Maybe in your own lives you have difficulties to deal with – mortgages or recalcitrant teenagers? Don’t try to solve those problems now! Instead, I suggest you work with that very feeling of anxiety or worry as a present condition. This is the skill of moving from the conventional, social level of “me” as a person, to the impersonal level of basic Dhamma elements. This level of the teaching then breaks down our conscious experience to fundamentals which we can look at, no matter what our social situation is.
+
+For example, thought – mental activity – is one of the fundamental things we have been looking at. If this activity is always kept on the personal level, it’s, “Well, what am I going to do tomorrow? I don’t know. . . . We need to do this, but what if we do that? Yes, let’s try this, then we’ll do that. . . .” All that is on the personal level – but on the Dhamma level this is simply planning, worry, thought.
+
+If we remain on the personal level, there will always be this to-ing and fro-ing – struggling. It is only on that impersonal level of consciousness that we can understand not-self – anatta. It’s not that life itself is impersonal – we still have our individual kamma – but it is on this level that we can penetrate to a liberating understanding, by going beyond ignorance. We are not going to avoid the tentmakers and the joiners altogether; life is always going to be that way.
+
+There are many teachings that can help us – for example, the Four Noble Truths or Dependent Origination (paticca-samuppada). We might feel overwhelmed if we try to figure these out, but in time we come to see that it’s a really beautiful package, intellectually very lovely.
+
+More than that, these teachings encourage us to look in the right place, and show us the path to freedom. They take us away from the personal situation with the joiner or the tentmaker, directly to a fundamental sense of what stress is. So we develop the ability to examine on this level all the time. If I can look at the annoyance I feel towards the joiner and take it out of the personal realm by simply looking at it as stress, then I will be able to understand any annoyance I may have for the rest of my life and know how to deal with it.
+
+Last night we talked about craving (tanha), the sense of wanting: wanting to become, wanting to get rid of, or simply wanting something essentially nice. Craving is a fundamental human characteristic, neither right nor wrong, just part of the package. The three kinds of tanha – bhava tanha, vibhava tanha and kama tanha – should be understood.
+
+Bhava tanha is the craving for being. Notice when we are on retreat how much we are being something or someone? Sometimes there is a feeling of being kidnapped by the memory; we find ourselves back in time. Or maybe it is a future possibility. In thought, there is the sense of being a person, of becoming, through anticipation and expectation. If we are not aware of that, then our attention will be preoccupied, kidnapped by a constant level of stress in the mind. Then there is vibhava tanha, which is a repression. We have a lot of ideals about what we should not be and what we should not have. Vibhava tanha is the desire to get rid of those things.
+
+Kama tanha is the craving for sense pleasure. Around the body there is a lot of kama tanha. We like comfort in this body; we don’t like arthritis or pain. Yet one of the lessons in this life, for some seemingly cruel reason, is that we need to witness to bodily pain. That is part of life. So, on the social level, we deal with the pain. We find some Chinese herbs or get the acupuncturist to poke us, whatever we have faith in; we work on that level. But, on the Dhamma level, we reflect: there is sickness. Why is there sickness? Because there is birth. That is just the way it is, like it or not. So sickness is something which needs to be learned about, as is pain.
+
+On a retreat you get pain. I hope you don’t get too sick or pained, but you will probably feel some pain – in the knees or the back, or somewhere. So there is pain, and there is craving for comfort. That is a basic, fundamental instinct which needs to be understood.
+
+Now if one can understand the craving for non-pain and be at peace with pain, then one obviously has done oneself a great service. So try to use the feeling of pain to examine craving, to understand the wanting and see the end of wanting. The same holds true for the emotions and the way sense-consciousness works.
+
+The Buddha encouraged us to consider how human consciousness and the human body are involved with pleasant, unpleasant and neutral feelings and sensations; to use feeling (vedana) as a framework for contemplation or investigation. When you are thirsty, you drink a glass of orange juice. It is pleasant. When you are sitting here and your knees hurt, that is unpleasant. That is very obvious. So no matter what you are finding pleasant or unpleasant – the body, the weather, a person, or the content of your mind – notice the feeling of pleasant-unpleasant-neutral and then consider these feelings in relation to  the arising of attraction-repulsion-neutrality.
+
+When we are not in touch with Dhamma we often don’t consider these fundamental states of mind. We just enjoy the pleasant and try to minimize the unpleasant, which seems like a logical thing to do. But then that keeps us very restless because no matter how hard we try to do this, there will always be pleasant, unpleasant and neutral. Sense-consciousness is this way.
+
+Seeking the pleasant, trying to be rid of the unpleasant is samsara. The more we do this, the more we want to do it, and the more we have to do it. We become addicted to this way of operating. We get into this very restless phenomenon called rebirth – becoming, doing, all the time. And this takes us away from our real home. This takes us away from the unconditioned, because pleasure and pain are always conditioned. As they change, we feel the need to change. As we grasp pleasure and pain, we find ourselves being spun around the samsaric wheel.
+
+The wheel is one of our traditional images. The rim of the wheel represents sense experience – the contacts we experience, pleasant and unpleasant – all of it spinning around. Grasping the rim of a wheel simply swings us around with the general momentum.
+
+So grasping the pleasant, then trying to hold onto it and being afraid of losing it; we make tremendous effort to keep it going. Getting angry at the unpleasant. In both cases we continue to spin around endlessly.
+
+But the hub of the wheel is the centre of knowing and being, and this point of stillness can contain it all. This is where the unconditioned lies. If we can summon awareness and be that still centre of knowing, there are still comings and goings – but we have a refuge. This is what Ajahn Chah called “our real home.”
+
+This is the basic structure that the Buddha asks us to look at. Our sensitive body contacts objects. That contact produces pleasant, unpleasant, neutral feelings (vedana). From there comes craving (tanha), the grasping of craving (upadana), and the whole process of becoming (bhava) and rebirth (jati). If one carries on like this over time, it becomes a habit. It is then very difficult to return to the still centre of being, because one is so restlessly engaged with that which moves, with the emotions and the thoughts.
+
+Why are we kidnapped so much? Even though we sit here determining, “I will not get kidnapped!”, it’s very hard, isn’t it? Don’t think you are alone in this. We are all in the same boat! It is very difficult because of our habits, our conditioning. Even though we might have really good intentions, situations arise where we feel anger or fear.
+
+What we are trying to do is to break up all these kammic patterns. The way to do this is by beginning to look at Dhamma, rather than remaining stuck on the level of personality. The contemplation of feelings (vedanupassana) is one of the Four Foundations of Mindfulness.
+
+It requires careful attention to notice this basic structure of the way that some things attract our attention, while others repel us. We can try it with an emotion, with a bodily feeling, with a thought – or with people. On this retreat maybe you experience difficulty with another person, or maybe you fall in love with someone. Notice how some people are physically very attractive, while some are not. Some people have a lot of charisma, and others don’t. Notice how you are attracted or repelled. Look at that very simple movement of the heart. This is where our habitual emotions are really arising from.
+
+Sometimes when you are sitting, the mind is bored, the eyes look around, and you find yourself attracted to someone... ah!... and then you start to create. Romance. There is the creation of “me” and “that person,” and what “we” are going to do, what is going to happen to “us” – sometimes this is called a “vipassana marriage” – and then, unexpectedly, the bell rings!
+
+It can happen with hatred too – for example when there is something unappealing about someone. Rather than just noticing our desire to pull away from them, sitting with that until it reaches neutrality – we become very critical, caught in aversion, and try to push them away. But in contemplation of feelings, we can simply bring up an image of a person and be mindful of the attraction or aversion. That takes us to peace of the mind, to neutrality, rather than identification with the feeling itself.
+
+If you can know that movement of feelings and learn to not follow or react, then you begin not to suffer. For example, your own psyche, the things you don’t like about yourself, the emotions you think should not be there – all these come up as very unpleasant. So ask yourself, “What does an unpleasant emotion feel like?”
+
+Or in meditation you might sometimes experience tranquillity, bliss or bright lights, or notice how beautiful silence is, how really attractive that is… but then comes the coarse sound of an earth-moving machine! So we attach to the pleasant and the refined, and we try to get rid of the ugly. But what is it that knows pleasant and unpleasant?
+
+Quite often we are so caught up with the craving for pleasure that we don’t even notice neutrality, which we find boring. As Ajahn Chah said, the neutral, the ordinary, is like the space between the end of the out-breath and the beginning of the in-breath. It is very calming but we don’t tend to notice it, because we want excitement; we seek to react to interesting, difficult or frightening things.
+
+The practice of vedanupassana requires refined attention: taking this theme for contemplation in order to break down the whole self-structure. So no matter what you may be as a self, as a person, suggest to yourself that today you are going to simply try to notice attraction and repulsion in the mind. That way you are contemplating Dhamma, instead of just being a person. Then ask, “What is it that knows that which I am noticing?” That knowing is where we find our freedom. The structure is very analytical – but in Buddhism we need a certain amount of analysis.
+
+You have a body with senses; you live in an environment with which you have contact; that contact produces pleasant, unpleasant and neutral feelings. Right there is where you work. Then you have tanha: wanting the pleasant, not wanting the unpleasant or the sleepiness and delusion around the neutrality. When that wanting arises, there might be grasping of it, believing in it. You really think that if you follow it you will be truly happy, or that to get rid of it will be the right thing to do.
+
+So there is belief in the wanting, and the grasping (upadana). From the grasping comes the sense of becoming. One gets involved in this whole process and is reborn into the new situation. From there emerges the sense of dissatisfaction, and you get lost in that: “Oh, here I go again!”
+
+Notice how “birth” and “death” operate moment by moment. I am bored with meditation, knees hurting and so I want to get up and do something interesting. Suddenly a creative idea that is really going to help the world pops into my mind. Rather than simply noticing this as an idea with a pleasant feeling, I want to stay interested – so craving and involvement keep the idea fermenting in my mind. From the boredom my attention gets “reborn” into pleasant or exciting thoughts. Eventually the pleasant thoughts get boring and so the cycle goes on and on. Each arising of a “birth” means there must eventually be a “death.”
+
+It is important to notice the point where the mind moves to yet another interesting topic – for this is where we have a choice. If I can see the craving to get away from the boredom and in turn not grasp the clever and seemingly important ideas, then the mind settles down into silence and the cycle of “rebirth” has been abandoned. If, however, I choose to grasp the pleasant idea as a way of escaping the boredom then the mind stays busy with many little cycles of “birth” and “death.”
+
+Disillusionment, disappointment and boredom bring us into the same kind of cyclic thinking. That is why it is important to notice these as states of mind and be patient until they subside of their own accord. In this way we develop mindful forbearance and that is what brings us to the peace of non-becoming.
+
+So we choose. Sometimes we are able to notice the movement towards pleasure and we can say to ourselves, “Is this necessary? Will it lead to peace?” We don’t just react heedlessly to the feelings of boredom and disappointment. Our choices are based upon wisdom rather than ignorance. In a very immediate way we can realize the ending of the restless cycles of discontent in our inner world. We are then walking on the path of peace and the end of rebirth.
+
+
+=== Acceptance and Responsibility ===
+
+# Acceptance and Responsibility
+
+Based on a talk given at Bodhinyanarama Monastery in 2000.
+
+Namo tassa Bhagavato Arahato Samma Sambuddhasa
+
+Namo tassa Bhagavato Arahato Samma Sambuddhasa
+
+Namo tassa Bhagavato Arahato Samma Sambuddhasa
+
+Buddham, Dhammam, Sangham namasami
+
+Last week I was speaking about acceptance as a spiritual quality. Acceptance can be misunderstood if it’s taken as an absolute social philosophy. It might then imply a state of apathy or complacency with no urge to act for the good of our society. Instead, I am speaking about a quality of the heart. This quality of the heart exists in the social contexts of a society, a community and a family. The social context defines what is socially acceptable and unacceptable.
+
+I like to compare the social commitment of being a Buddhist to that of being a member of a guild. If you have a guild of master builders, if you belong to the craftspeople in that guild, then you have certain obligations, certain skills that you have to develop before you are accepted and accredited by that guild. Your work has to be maintained at the standards that all the members agree upon; you have to have a certain ability to do your craft; you have certain obligations to fulfil and standards to uphold. And if you do not meet those standards then the guild will strike you off its books. But the guild will also protect your interests and it will encourage you to sustain good standards or use better designs or whatever might be the case.
+
+And I think monasticism, or any kind of Buddhist culture, is like that. It is an association of people who undertake to live according to certain values, who undertake a lifestyle commitment. They undertake the responsibility of being a Buddhist. This kind of responsibility or commitment gives form to our participation in community and supports all of us in our spiritual work.
+
+Our monastic community has just finished what is known as the “Rains Retreat.” It has indeed been raining. On Thursday, full moon day, we had our “pavarana day,” which is the last day of the Rains Retreat. On that day we gathered and performed a ceremony handed down to us from the time of the Buddha. All the monks and novices came together in a kind of sharing circle and each of us individually repeated a phrase in Pali which roughly translates as, “For anything that I have done which is against my obligations as a Buddhist monk, which is contrary to the training I am undertaking, please admonish me or please offer me some reflection or feedback.”
+
+This creates an opening, an invitation to hear how we are seen by our peers. It’s a reflection for each of us. We have lived together for these three months, practising meditation and sharing in the goodness of this sanctuary, all of which has been made possible through the generosity of our lay community. It has been a good time and I feel grateful for these three months.
+
+We also use reflections such as, “Have I used my time wisely? Have I honoured the alms food of the lay people and have I honoured my monastic rule? Have I been sensitive to my fellow monastics?” All of these are healthy reflections which help us to remember our heart commitment to the path of peace and our commitment to helping each other on this journey.
+
+Our life in community is thus a training in body, speech and mind which encourages us to let go of selfishness and yet also encourages us to do our own spiritual work.
+
+The Buddha and his disciples were unable to design as detailed a code of life for the laity as they did for the monastics because the lifestyles of the lay community were too diverse. Thus the various teachings on ethics and social commitment were given in the context of social structures that already existed in the societies of those times. In those cultures, for example, if a couple got married, it was not only a relationship with another person, but also it was a marriage that brought the couple within the community of married people. They weren’t just an isolated couple, but rather a couple who had joined a “guild of married people.” And that implied an obligation. It implied a moral obligation, a familial obligation and a communal obligation.
+
+The whole community understood that obligation. And so the whole community could support marriage, through encouragement, through admonishment, through helping in times of sickness, and so on and so forth. So it wasn’t just something that happened in isolation.
+
+These kinds of supportive structures are harder to find in modern urban society. For instance we might ask, “What is a partnership? Is there a guild of partners? What are the obligations in a partnership? How is that defined and are there like-minded people who support such obligations?” There are no clear answers and I think this is a very real difficulty in our culture.
+
+A place like this monastery and a group like this, where many people come on a Sunday and meditate and reflect on Dhamma, is a vehicle for creating a supportive social environment for our Dhamma work. We, as a community, as a group of human beings, can uphold certain traditional values. We can honour these values, and we can give each other feedback when traditional values are not honoured, when behaviour becomes unacceptable. If we see someone who comes to the monastery and is abusive, if we see a monastic who is not living by agreed monastic standards, then that is unacceptable. We need to express our disagreement in an appropriate manner.
+
+When we speak of acceptance, we usually mean at the heart level. Acceptance is an inner strategy that allows us to be with life and respond to life with clarity.
+
+But acceptance is not an absolute social philosophy. At the social level some kinds of behaviour are unacceptable. Our duty as members of this spiritual community is to go to the person who we feel is not living according to our agreed-upon standards, whether it is a lay person or a monk, and say that we have to talk about this, and try to resolve the issue.
+
+Inner acceptance allows for clarity of action. But if we are not aware of our inner world and attack from positions of righteous indignation and anger, then the results will be messy and confused. So we always need to awaken to and honestly accept our own passions and defilements of mind. This is an inner obligation and commitment. Self-righteous indignation is a very destructive energy, an energy which can be used to justify anger, hatred and jealousy. We need the courage to speak out when necessary but we also need honesty to know our own feelings and intentions.
+
+In a Buddhist community the accepted ethical framework is the five precepts. The third precept, for example, encourages moderation with regard to sensuality. This is a very broad precept which asks us to reflect on the way we conduct ourselves around sensual experience. Specifically, it encourages us to be sexually faithful to our partners. Adulterous relationships are thus clearly outside the boundaries of this precept.
+
+It is a precept which draws very clear boundaries so that anyone in a marriage or in a permanent relationship, or anyone who is engaged, or anyone who is under age, or anyone who is a monastic, or anyone who is living under the eight precepts – all of these people are out of bounds in terms of sexual relationships. In observing this precept our responsibility, our obligation, is to promote the harmony of existing social contracts and to care for those who are not of age or who are living under renunciant precepts.
+
+Those who are committed to a religious life based on Buddhist principles have these kinds of obligations to each other. If anyone in our community, be it a monastic person or a lay person, is not fulfilling this principle of impeccability in relationship, or if someone is being in any way promiscuous or abusive, it is our duty as a community to talk about that, to reflect on that. Not in a gossiping manner but in a way which honours the precepts. This requires courage and compassion.
+
+This is a kind of social activism. It means speaking about things which are important. This kind of honesty can be very helpful if it is done correctly, not from self-righteousness, not from anger, but from the fact that we have an obligation to the well-being of our community and its individuals.
+
+The one quality the Buddha could never go against in his spiritual journey was the quality of truthfulness. Truthfulness is the heart of the religious life because enlightenment is about truth. Freedom is about truth and suffering is about ignorance, about not understanding. If there is someone in our community, be it in the monastic community or in the lay community, whose mind is justifying immoral behaviour – it’s very dangerous for that person. Unfortunately we humans have the ability to rationalize our delusions. We can be very clever with knowledge and ideas. Perhaps we have all seen occasions when one person is trying to admonish another and the other person is more clever with language and twists it all around. So cleverness ends up winning the day rather than truthfulness. Words and language are manipulated to suit the desires and fears of the ego. It is a cleverness which has the potential to do great harm to a person’s spiritual life.
+
+Precepts and moral guidelines are a common body of knowledge, a common agreement of obligations. When someone is acting in a way which is breaking apart existing relationships and they are using some kind of clever language, we can say, “Perhaps, but what about the third precept. . . .” It is important that we have a common body of knowledge so that there are references beyond personal preferences.
+
+For instance, our monastic rules are a body of knowledge, available not only to the monks and nuns but also to the laity. In a non-Buddhist culture most lay people don’t understand the monastic rules but in Buddhist Asia people tend to be familiar with them and then everyone knows the monastic and lay boundaries. When the boundaries are transgressed then there is a skilful reference point, a body of common agreements. This helps both those in positions of authority as well as those who seek guidance and leadership.
+
+Sometimes teachers step outside the boundaries of their own culture, outside of the constraints and obligations that help them reflect on their responsibilities. This can lead to situations where a teacher gets lost in selfish delusions and gets burnt out or oversteps the boundaries of propriety.
+
+Teachers and leaders will sometimes lose the plot and blunder into areas of confusion. They get lost in their own over-estimations. If, however, there is a cultural knowledge of boundaries, roles and expectations, then it is more difficult for teachers to follow self-deceptions. They need protection too, don’t they? We all need protection, we all need help because delusion is there, it deludes us into doing unskilful things.
+
+Contemplating the first precept, the precept on not harming living beings, we see how difficult that is in New Zealand. To create the Karori and Kapiti bird sanctuaries many possums, rats, cats and stoats were killed. Without the killing, the native birds die off. What to do?
+
+One thing we can do is to make sure we don’t throw out the first precept. If someone feels they have to transgress the precept they must think long and hard, reflecting on the necessity and value of taking life. Then they must be responsible for their decisions. If, however, the precept is completely thrown out, it is easy for attitudes to arise that dismiss certain forms of life. The animal and plant realms are then considered purely in terms of human desires and human economies rather than in terms of compassion and care.
+
+Have you ever perceived a spider as a pet? Children do this easily. Have you ever changed your perceptions from “this is a useless thing” to actually looking at an animal with empathy, seeing it is a sentient creature that is trying to be happy in its own interesting way? This creates an entirely different relationship. It is quite beautiful. This can sound very utopian and impractical but the Buddha’s teaching encourages us to cultivate a heart of love and turn away from the heart of alienation. Yes, we need to protect the environment from noxious weeds and so forth but let’s not brutalize our minds with insensitive and violent attitudes.
+
+The second precept is about non-corruption: I undertake the training rule to refrain from taking that which is not given. In our monastic rule we have various refinements around this basic principle of not stealing. For instance, if someone gave a monk a valuable object here in New Zealand worth $1,000 and then the monk went to Canada, by Canadian law that article would have to be declared and customs duties paid on it. But if he were to take that object, put it in his carrier bag and walk through without declaring it at the customs desk, fully knowing that he was trying to evade taxes, the monk would have committed an offence of “defeat.” This is known as a parajika offence. We have four parajika offences. When a monk has committed a parajika offence he has to disrobe – very serious. That kind of cheating would be an impediment to his spiritual life, so the rule helps him to be very careful. Being careful in this way leads to a mind which is free from remorse and self-hatred and free of the fear of blame.
+
+These precepts point to a sense of impeccability as the standard of the spiritual life. The ethical teachings encourage us to understand the laws of the land and to support those laws, because if we don’t, who will?
+
+This is our commitment to community. It is not just taking the easy way out or just going with the popular mood of the day, “Well, everyone else is taking things off the back of the lorry, why not? The office has lots of stationery.”
+
+That kind of mind is not an impeccable mind. A mind which follows dishonesty becomes a mind which is afflicted by guilt, fear or arrogance. It is not a mind that is going to experience the beauty of a peaceful heart.
+
+The precept on speech is a very useful mirror to help us notice the motivations and intentions that lie behind our words. Wrong speech is lying, swearing, destructive gossip, and stupid talk. Right speech is speech which is truthful, speech which is beautiful, speech which is harmonious rather than divisive. It is speech which accords with Dhamma.
+
+Speech can be very uplifting. For example, when the Dalai Lama came to New Zealand his words were tremendously inspiring for so many people. On the other hand, when we hear someone speaking with a heart of hate and cruelty it can be very disturbing. So speech is very powerful either for the good of our society or for its detriment.
+
+Now, with the precepts themselves, we can’t always get it right, but we can reflect: speech which is truthful, speech which is beautiful, speech which is harmonious, speech which is according to Dhamma – Right Speech. We can take that into our hearts and minds.
+
+By reading over and contemplating a precept every day for some extended period of time, that precept begins to echo in our minds. And then if we are talking with someone and discover ourselves distorting the truth, exaggerating it or covering it up, the precept awakens us with the questions, “Why am I doing that? Why am I lying? Why do I need to distort the truth?” It awakens us to the truth of our motivations. But if we have no clear ethical boundaries or moral standards we can slide into unwholesome and unskilful behaviour that is harmful to both ourselves and others.
+
+The precepts thus become a way to protect us from the inner urges of insensitivity and selfishness, urges which we all experience but which only become harmful when we believe in their voices.
+
+Using the precepts in this way we are able to ask ourselves, “What are my intentions?” If I am being manipulative with someone or I am trying to cover up something that I’ve been doing or I am just exaggerating to make myself look better, where is that coming from? Is it coming from fear, from greed, or from some other unskilful place? And what’s the result of that? Is the result good? Is the result peaceful? Is the result happy? When I speak in this way, is my mind confused?
+
+On the other hand, when we encourage people, when we are sensitive to them, when we tell the truth, when we are able to own up to our mistakes, what is the result of that? Is that a good result or a bad result?
+
+Right speech thus becomes part of the path to freedom. This is not easy. Most people find it difficult. We can easily believe deluded projections and dismiss someone with insensitivity and unkindness. Or we can believe in some petty complaint and then poke someone in a heartless manner. Or we might feel jealous of someone’s success and tear them down behind their backs – so many ways to close the heart and get lost in wrong speech. The empathy and love in the heart get smothered and we end up feeling more and more alienated.
+
+The precept on drugs and intoxicants is obviously very important, because a truly religious and spiritual life requires intelligence and focus – both of which are harmed by alcohol and various recreational drugs. We are not asked to adopt a puritanical attitude, “Thou shalt not have a glass of wine with granny on her birthday.” It is not that. Rather it helps us reflect on why we turn to these things and what effects they have on our lives. Do these things make us better people and more responsible members of our communities? And what about our poor old bodies? Is it a kindness to fill the body with various chemicals for the sake of pleasure or for the need to escape?
+
+So the framework for a Buddhist guild, a religious guild, is the five precepts. Each one of us is slowly refining and deepening our use and understanding of the precepts.
+
+For example, the precept on harmlessness not only encourages us to live a life of non-violence but also a life of compassion. We work towards a deepening of that possibility. Much of Buddhist social philosophy is based on empathy.
+
+Empathy is a marvellous attitude which helps lift us out of selfishness and self-obsession. When we have a chance to give to someone and we feel the joy of helping and caring for someone, then they are actually giving us a lot. It’s an irony, isn’t it? I have sometimes said to couples who have adopted a baby that the baby is very fortunate. They invariably answer, “No, no, we are the lucky ones.”
+
+We only have about 100 years to live on this planet, 80 to 100 maximum. What is the purpose of life? If we can do something good for our society, for our planet and the beings on it, then that gives life meaning. If that is the basis of our social philosophy, then we can see more clearly our own manipulativeness or the rationalising of our actions to justify selfish ends. When harmful impulses arise we learn to be patient and not follow these energies. But we also cultivate wholesome states of mind, encouraging compassion and kindness to blossom in our hearts. This is a lovely process in the spiritual life.
+
+The advances in science in terms of medical and agricultural technologies have created a complicated array of moral dilemmas that didn’t exist at the time of the Buddha. For instance, what is the Buddhist position on genetic engineering? Where is that covered in the five precepts?
+
+Perhaps there need not be a fixed position. What is important, however, is that our hearts and minds be freed from personal agendas based on greed and arrogance. Part of Right Speech might then be the ability to debate the issues that arise, to participate in the process of education that our whole society is undertaking. This would imply a personal commitment to become informed about the issues – and then to think very carefully how one feels about them in the light of one’s own ethical standards. This would give us the requisite qualities of heart and intelligence to enter into discussion and make a meaningful contribution to the moral direction of our society.
+
+In a guild of craftspeople there are responsibilities to uphold the standards that are encouraged by the guild but also there are the joys of creating something of beauty that is an expression of one’s craft.
+
+In the same way, our Buddhist community has standards that we should live by and encourage in each other – but there is also the expressive part of our being which is a part of the craft or art of living. To give something of oneself for the benefit of other beings is truly marvellous.
+
+At times our Buddhist emphasis on the practice of awareness can sound as though we are constantly thinking about ourselves; a very uninspiring way to live this life. If I’ve got nothing to give to, nothing to serve, no one to love, no one to care for, life isn’t balanced. The other extreme, of course, is to be so out there, so caring, so loving that I end up in hospital with a nervous breakdown. We need the balance of love for ourselves as well as the love of others.
+
+Perhaps then, the deepest standard that our Buddhist community can encourage is quite simply love for one another. Our sense of acceptance and our commitment to good ethics are always underpinned by the heart of loving kindness.
+
+
+=== Short Biography ===
+
+# Short Biography
+
+Venerable Viradhammo was born in Esslingen, Germany in 1947 to Latvian refugee parents. They moved to Toronto when he was four years old. He studied engineering at the University of Toronto but became disillusioned with academic life and left in 1969 to see the world and experience other cultures. Later, while living in India, he encountered Buddhism, meeting the late Samanera Bodhesako, who introduced him to the teachings of the Buddha. He eventually travelled to Thailand to become a novice at Wat Mahathat in 1973 and took bhikkhu ordination the following year at Wat Pah Pong with Ven. Ajahn Chah. He was one of the first residents at Wat Pah Nanachat, the international monastery in north-east Thailand.
+
+Having spent four years in Thailand, he went back to Canada to visit his family in 1977. Instead of returning to Thailand, he was asked by Ajahn Chah to join Ajahn Sumedho at the Hampstead Vihara in London. Later, he was involved in the establishment of both the Chithurst and Harnham monasteries in the UK.
+
+In 1985, invited by the Wellington Theravada Buddhist Association, he moved to New Zealand, accompanied by Venerable Thanavaro, where he lived for 10 years, setting up Bodhinyanarama monastery.
+
+In 1995 he came to the UK to assist Ajahn Sumedho at Amaravati and stayed for four years before returning to New Zealand, where he lived until 2002. From that time until 2011 he lived in Ottawa caring for his mother. In 2006 he founded Tisarana Buddhist Monastery in Perth, Ontario, where he is currently the abbot.
+
+
+=== Chapter 13 ===
+
+Buddhist concepts can help us. They can awaken us to certain things about human experience which we need to understand in order to be free. They are not just ideas that we put away until our next exam in Buddhism; they are principles and concepts through which we look at life, like lenses.
+
+
+=== Chapter 14 ===
+
+Being awake to our inner world with all of its passions and energies is part of being truly alive. If we can’t be fully awake, then the life of the individual and the life of the family become an aimless succession of actions and reactions. The joyous possibility of family life as spiritual transformation is lost.

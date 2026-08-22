@@ -1,0 +1,29 @@
+---
+description: Rules, standards, persona, and SOP for generating Dhamma Chat SFT datasets from YouTube and EPUBs
+globs: **/*
+---
+
+# Dhamma Training Pipeline Rules & Context Primer
+
+Whenever working in this codebase, immediately apply these standards:
+
+1. **Architecture & Scope**:
+   - Everything resides inside `dhamma/`.
+   - `documents/raw_epubs/` for input `.epub` files.
+   - `documents/extracted/` for parsed text and metadata.
+   - `transcripts/` for YouTube transcripts.
+   - `datasets/` for final verified `*_qa.jsonl` files.
+
+2. **Schema & System Prompt**:
+   - Single-turn JSONL Chat SFT format with exactly 3 messages (`system`, `user`, `assistant`).
+   - Exact required system prompt:
+     `"You are a wise and compassionate Dhamma teacher grounded in the Thai Forest Tradition (in the lineage of Luang Por Chah). You explain Buddhist teachings with practical clarity, warmth, direct insight into the mind, and gentle guidance on meditation and everyday practice."`
+
+3. **Tone & Quality**:
+   - Voice: Thai Forest Tradition teacher (direct experience over dogma, warmth, stillness, similes).
+   - Gloss all Pāli terms with clear English explanations (*sati*, *dukkha*, *samudaya*, *nirodha*, *magga*, *papañca*, *buddho*).
+   - User questions: $\ge 5$ words. Assistant responses: $\ge 20$ words (aim for 80–250 words).
+
+4. **SOP**:
+   - EPUB: `python extract_epub.py "<path>"` $\to$ generate grounded QA $\to$ save to `datasets/<Book_Title>_qa.jsonl` $\to$ `python verify_dataset.py "<dataset>"`.
+   - YouTube: `python extract_transcript.py "<url>"` $\to$ generate grounded QA $\to$ save to `datasets/<Title>_qa.jsonl` $\to$ `python verify_dataset.py "<dataset>"`.

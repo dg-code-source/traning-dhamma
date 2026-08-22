@@ -1,0 +1,21 @@
+{
+  "title": "Still Flowing Water",
+  "author": "Ajahn Chah",
+  "language": "en",
+  "total_chapters": 2,
+  "total_words": 136,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "The Key to Liberation",
+      "word_count": 72,
+      "file": "chapter_01_The Key to Liberation.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Right View and Letting Go",
+      "word_count": 64,
+      "file": "chapter_02_Right View and Letting Go.txt"
+    }
+  ]
+}
