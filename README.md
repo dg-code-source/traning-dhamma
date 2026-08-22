@@ -14,7 +14,9 @@ dhamma/
 │   ├── Knowing the mood of the mind_qa.jsonl
 │   ├── Luang Por Viradhammo - Reflections on the Dhamma, Seeking Happiness_qa.jsonl
 │   ├── The_Contemplatives_Companion_qa.jsonl
-│   └── The_Contemplatives_Craft_qa.jsonl
+│   ├── The_Contemplatives_Craft_qa.jsonl
+│   ├── The_Stillness_of_Being_qa.jsonl
+│   └── Without_and_Within_qa.jsonl
 ├── documents/
 │   ├── raw_epubs/            # [OPTIONAL / .gitignore] Source .epub files
 │   ├── raw_pdfs/             # [OPTIONAL / .gitignore] Source .pdf files
@@ -22,7 +24,8 @@ dhamma/
 │       ├── Still Flowing Water - Ajahn Chah/
 │       ├── The contemplative’s companion - Ajahn Viradhammo/
 │       ├── The Contemplative’s Craft - Ajahn Viradhammo/
-│       └── The Stillness of Being - Viradhammo Bhikkhu/
+│       ├── The Stillness of Being - Viradhammo Bhikkhu/
+│       └── without and within - Ajahn Jayasaro/
 ├── transcripts/              # [COMMIT] Extracted talk transcripts (*.txt)
 │   ├── Knowing the mood of the mind.txt
 │   └── Luang Por Viradhammo - Reflections on the Dhamma, Seeking Happiness.txt

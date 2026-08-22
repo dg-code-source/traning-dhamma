@@ -1,0 +1,795 @@
+{
+  "title": "without and within",
+  "author": "Ajahn Jayasaro",
+  "language": "en",
+  "total_chapters": 131,
+  "total_words": 27566,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "without and within",
+      "word_count": 278,
+      "file": "chapter_01_without and within.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Contents",
+      "word_count": 1299,
+      "file": "chapter_02_Contents.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Foreword",
+      "word_count": 263,
+      "file": "chapter_03_Foreword.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Words of Appreciation",
+      "word_count": 420,
+      "file": "chapter_04_Words of Appreciation.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Introduction",
+      "word_count": 299,
+      "file": "chapter_05_Introduction.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Blessings",
+      "word_count": 244,
+      "file": "chapter_06_Blessings.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Who was the Buddha?",
+      "word_count": 167,
+      "file": "chapter_07_Who was the Buddha.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "What is enlightenment?",
+      "word_count": 206,
+      "file": "chapter_08_What is enlightenment.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "What does “Buddha” mean?",
+      "word_count": 90,
+      "file": "chapter_09_What does “Buddha” mean.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Was the Buddha a human being?",
+      "word_count": 110,
+      "file": "chapter_10_Was the Buddha a human being.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "What proof is there that the Buddha existed?",
+      "word_count": 176,
+      "file": "chapter_11_What proof is there that the Buddha existed.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Did the Buddha possess psychic powers?",
+      "word_count": 134,
+      "file": "chapter_12_Did the Buddha possess psychic powers.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "How many Buddhas are there?",
+      "word_count": 174,
+      "file": "chapter_13_How many Buddhas are there.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "What was the nature of the Buddha",
+      "word_count": 319,
+      "file": "chapter_14_What was the nature of the Buddha.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Did the Buddha have a sense of humor?",
+      "word_count": 103,
+      "file": "chapter_15_Did the Buddha have a sense of humor.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "What are the Four Noble Truths?",
+      "word_count": 244,
+      "file": "chapter_16_What are the Four Noble Truths.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Please explain the Eightfold Path in more detail",
+      "word_count": 423,
+      "file": "chapter_17_Please explain the Eightfold Path in more detail.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "What does taking refuge mean?",
+      "word_count": 215,
+      "file": "chapter_18_What does taking refuge mean.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Why are the Buddhist teachings often referred to as the Middle Way?",
+      "word_count": 180,
+      "file": "chapter_19_Why are the Buddhist teachings often referred to as the Middle Way.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "What does Buddhism teach about the nature of happiness?",
+      "word_count": 267,
+      "file": "chapter_20_What does Buddhism teach about the nature of happiness.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "Why do so few people seem truly happy?",
+      "word_count": 183,
+      "file": "chapter_21_Why do so few people seem truly happy.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "Buddhists talk a lot about being in the present moment. Doesn",
+      "word_count": 141,
+      "file": "chapter_22_Buddhists talk a lot about being in the present moment. Doesn.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "What is merit?",
+      "word_count": 264,
+      "file": "chapter_23_What is merit.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "It is sometimes said that Buddhism is a science. What does that mean?",
+      "word_count": 209,
+      "file": "chapter_24_It is sometimes said that Buddhism is a science. What does that mean.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "Is Buddhism a pessimistic religion?",
+      "word_count": 301,
+      "file": "chapter_25_Is Buddhism a pessimistic religion.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "But isn",
+      "word_count": 203,
+      "file": "chapter_26_But isn.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "Is it correct that Buddhism teaches us to give up all desires?",
+      "word_count": 182,
+      "file": "chapter_27_Is it correct that Buddhism teaches us to give up all desires.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "What does it mean to “let go”?",
+      "word_count": 260,
+      "file": "chapter_28_What does it mean to “let go”.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "How does one become a Buddhist?",
+      "word_count": 207,
+      "file": "chapter_29_How does one become a Buddhist.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "What are defilements?",
+      "word_count": 157,
+      "file": "chapter_30_What are defilements.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "Is Buddhism a religion or a philosophy?",
+      "word_count": 201,
+      "file": "chapter_31_Is Buddhism a religion or a philosophy.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "Are there any Buddhist scriptures?",
+      "word_count": 183,
+      "file": "chapter_32_Are there any Buddhist scriptures.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "What is the essence of Buddhism?",
+      "word_count": 67,
+      "file": "chapter_33_What is the essence of Buddhism.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "What is the ultimate goal of Dhamma practice?",
+      "word_count": 68,
+      "file": "chapter_34_What is the ultimate goal of Dhamma practice.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "Do Buddhists believe in God?",
+      "word_count": 61,
+      "file": "chapter_35_Do Buddhists believe in God.txt"
+    },
+    {
+      "chapter_index": 36,
+      "title": "s death they were transmitted orally?",
+      "word_count": 241,
+      "file": "chapter_36_s death they were transmitted orally.txt"
+    },
+    {
+      "chapter_index": 37,
+      "title": "Is Buddhism too focused on the individual and lacking in its social dimension?",
+      "word_count": 279,
+      "file": "chapter_37_Is Buddhism too focused on the individual and lacking in its social dimension.txt"
+    },
+    {
+      "chapter_index": 38,
+      "title": "How long does it take to get enlightened?",
+      "word_count": 201,
+      "file": "chapter_38_How long does it take to get enlightened.txt"
+    },
+    {
+      "chapter_index": 39,
+      "title": "What, in a nutshell, is the law of kamma?",
+      "word_count": 89,
+      "file": "chapter_39_What, in a nutshell, is the law of kamma.txt"
+    },
+    {
+      "chapter_index": 40,
+      "title": "(35)",
+      "word_count": 149,
+      "file": "chapter_40_(35).txt"
+    },
+    {
+      "chapter_index": 41,
+      "title": "Please illustrate the workings of the law of kamma",
+      "word_count": 199,
+      "file": "chapter_41_Please illustrate the workings of the law of kamma.txt"
+    },
+    {
+      "chapter_index": 42,
+      "title": "What does Buddhism say about rebirth?",
+      "word_count": 241,
+      "file": "chapter_42_What does Buddhism say about rebirth.txt"
+    },
+    {
+      "chapter_index": 43,
+      "title": "How important is it for Buddhists to believe in rebirth?",
+      "word_count": 194,
+      "file": "chapter_43_How important is it for Buddhists to believe in rebirth.txt"
+    },
+    {
+      "chapter_index": 44,
+      "title": "What does Buddhism teach about heaven and hell?",
+      "word_count": 135,
+      "file": "chapter_44_What does Buddhism teach about heaven and hell.txt"
+    },
+    {
+      "chapter_index": 45,
+      "title": "Do Buddhists believe in spirits?",
+      "word_count": 181,
+      "file": "chapter_45_Do Buddhists believe in spirits.txt"
+    },
+    {
+      "chapter_index": 46,
+      "title": "Why is impermanence given so much importance in Buddhism?",
+      "word_count": 111,
+      "file": "chapter_46_Why is impermanence given so much importance in Buddhism.txt"
+    },
+    {
+      "chapter_index": 47,
+      "title": "What is the meaning of not-self?",
+      "word_count": 261,
+      "file": "chapter_47_What is the meaning of not-self.txt"
+    },
+    {
+      "chapter_index": 48,
+      "title": "If there is no self, then what is reborn?",
+      "word_count": 140,
+      "file": "chapter_48_If there is no self, then what is reborn.txt"
+    },
+    {
+      "chapter_index": 49,
+      "title": "If there is no self, how can anybody be considered responsible for their actions?",
+      "word_count": 128,
+      "file": "chapter_49_If there is no self, how can anybody be considered responsible for their actions.txt"
+    },
+    {
+      "chapter_index": 50,
+      "title": "Ten subjects for frequent recollection by one who has gone forth",
+      "word_count": 412,
+      "file": "chapter_50_Ten subjects for frequent recollection by one who has gone forth.txt"
+    },
+    {
+      "chapter_index": 51,
+      "title": "What does “Sangha” mean?",
+      "word_count": 105,
+      "file": "chapter_51_What does “Sangha” mean.txt"
+    },
+    {
+      "chapter_index": 52,
+      "title": "Why do Buddhist monastics shave their heads?",
+      "word_count": 141,
+      "file": "chapter_52_Why do Buddhist monastics shave their heads.txt"
+    },
+    {
+      "chapter_index": 53,
+      "title": "Why do monks wear robes of different colors?",
+      "word_count": 174,
+      "file": "chapter_53_Why do monks wear robes of different colors.txt"
+    },
+    {
+      "chapter_index": 54,
+      "title": "What is the Vinaya?",
+      "word_count": 231,
+      "file": "chapter_54_What is the Vinaya.txt"
+    },
+    {
+      "chapter_index": 55,
+      "title": "Is it not unnatural for monastics to be celibate?",
+      "word_count": 131,
+      "file": "chapter_55_Is it not unnatural for monastics to be celibate.txt"
+    },
+    {
+      "chapter_index": 56,
+      "title": "What is the purpose of monastic celibacy?",
+      "word_count": 192,
+      "file": "chapter_56_What is the purpose of monastic celibacy.txt"
+    },
+    {
+      "chapter_index": 57,
+      "title": "What is the purpose of almsround?",
+      "word_count": 439,
+      "file": "chapter_57_What is the purpose of almsround.txt"
+    },
+    {
+      "chapter_index": 58,
+      "title": "Why did the Buddha allow monks to eat meat?",
+      "word_count": 265,
+      "file": "chapter_58_Why did the Buddha allow monks to eat meat.txt"
+    },
+    {
+      "chapter_index": 59,
+      "title": "Is it necessary to join the monastic order to realize enlightenment?",
+      "word_count": 135,
+      "file": "chapter_59_Is it necessary to join the monastic order to realize enlightenment.txt"
+    },
+    {
+      "chapter_index": 60,
+      "title": "What does",
+      "word_count": 228,
+      "file": "chapter_60_What does.txt"
+    },
+    {
+      "chapter_index": 61,
+      "title": "Do monastics take lifetime vows?",
+      "word_count": 313,
+      "file": "chapter_61_Do monastics take lifetime vows.txt"
+    },
+    {
+      "chapter_index": 62,
+      "title": "What do monks do every day?",
+      "word_count": 241,
+      "file": "chapter_62_What do monks do every day.txt"
+    },
+    {
+      "chapter_index": 63,
+      "title": "(57)",
+      "word_count": 190,
+      "file": "chapter_63_(57).txt"
+    },
+    {
+      "chapter_index": 64,
+      "title": "Can women become monastics?",
+      "word_count": 206,
+      "file": "chapter_64_Can women become monastics.txt"
+    },
+    {
+      "chapter_index": 65,
+      "title": "Has there ever been a Bhikkhunī order in Thailand?",
+      "word_count": 110,
+      "file": "chapter_65_Has there ever been a Bhikkhunī order in Thailand.txt"
+    },
+    {
+      "chapter_index": 66,
+      "title": "(60)",
+      "word_count": 165,
+      "file": "chapter_66_(60).txt"
+    },
+    {
+      "chapter_index": 67,
+      "title": "(61)",
+      "word_count": 132,
+      "file": "chapter_67_(61).txt"
+    },
+    {
+      "chapter_index": 68,
+      "title": "Buddhist Attitudes",
+      "word_count": 83,
+      "file": "chapter_68_Buddhist Attitudes.txt"
+    },
+    {
+      "chapter_index": 69,
+      "title": "(62)",
+      "word_count": 341,
+      "file": "chapter_69_(62).txt"
+    },
+    {
+      "chapter_index": 70,
+      "title": "What is the Buddhist attitude to women?",
+      "word_count": 264,
+      "file": "chapter_70_What is the Buddhist attitude to women.txt"
+    },
+    {
+      "chapter_index": 71,
+      "title": "What does Buddhism have to say about human sexuality?",
+      "word_count": 387,
+      "file": "chapter_71_What does Buddhism have to say about human sexuality.txt"
+    },
+    {
+      "chapter_index": 72,
+      "title": "How does Buddhism view love?",
+      "word_count": 153,
+      "file": "chapter_72_How does Buddhism view love.txt"
+    },
+    {
+      "chapter_index": 73,
+      "title": "What is the Buddhist attitude to other religions?",
+      "word_count": 207,
+      "file": "chapter_73_What is the Buddhist attitude to other religions.txt"
+    },
+    {
+      "chapter_index": 74,
+      "title": "Did the Buddha have any views on economic affairs?",
+      "word_count": 343,
+      "file": "chapter_74_Did the Buddha have any views on economic affairs.txt"
+    },
+    {
+      "chapter_index": 75,
+      "title": "What was the Buddha",
+      "word_count": 86,
+      "file": "chapter_75_What was the Buddha.txt"
+    },
+    {
+      "chapter_index": 76,
+      "title": "What is the Buddhist attitude to entertainments like cinema and sport?",
+      "word_count": 219,
+      "file": "chapter_76_What is the Buddhist attitude to entertainments like cinema and sport.txt"
+    },
+    {
+      "chapter_index": 77,
+      "title": "Can the creation and enjoyment of art be considered a spiritual path?",
+      "word_count": 100,
+      "file": "chapter_77_Can the creation and enjoyment of art be considered a spiritual path.txt"
+    },
+    {
+      "chapter_index": 78,
+      "title": "(71)",
+      "word_count": 251,
+      "file": "chapter_78_(71).txt"
+    },
+    {
+      "chapter_index": 79,
+      "title": "What does Buddhism teach regarding our relationship with the environment?",
+      "word_count": 305,
+      "file": "chapter_79_What does Buddhism teach regarding our relationship with the environment.txt"
+    },
+    {
+      "chapter_index": 80,
+      "title": "Is there a Buddhist approach to conflict resolution?",
+      "word_count": 248,
+      "file": "chapter_80_Is there a Buddhist approach to conflict resolution.txt"
+    },
+    {
+      "chapter_index": 81,
+      "title": "What is the best way to deal with stress?",
+      "word_count": 298,
+      "file": "chapter_81_What is the best way to deal with stress.txt"
+    },
+    {
+      "chapter_index": 82,
+      "title": "In Buddhism, how important is it to help others?",
+      "word_count": 281,
+      "file": "chapter_82_In Buddhism, how important is it to help others.txt"
+    },
+    {
+      "chapter_index": 83,
+      "title": "What is the Buddhist attitude to vegetarianism?",
+      "word_count": 160,
+      "file": "chapter_83_What is the Buddhist attitude to vegetarianism.txt"
+    },
+    {
+      "chapter_index": 84,
+      "title": "Buddhism in Thailand",
+      "word_count": 112,
+      "file": "chapter_84_Buddhism in Thailand.txt"
+    },
+    {
+      "chapter_index": 85,
+      "title": "There are many schools of Buddhism: what is the kind of Buddhism practiced in Thailand?",
+      "word_count": 160,
+      "file": "chapter_85_There are many schools of Buddhism what is the kind of Buddhism practiced in Thailand.txt"
+    },
+    {
+      "chapter_index": 86,
+      "title": "How did Buddhism arrive in Thailand?",
+      "word_count": 229,
+      "file": "chapter_86_How did Buddhism arrive in Thailand.txt"
+    },
+    {
+      "chapter_index": 87,
+      "title": "(79)",
+      "word_count": 179,
+      "file": "chapter_87_(79).txt"
+    },
+    {
+      "chapter_index": 88,
+      "title": "Thai Buddhists seem to bow a lot. Why do Buddhists bow to Buddha statues?",
+      "word_count": 257,
+      "file": "chapter_88_Thai Buddhists seem to bow a lot. Why do Buddhists bow to Buddha statues.txt"
+    },
+    {
+      "chapter_index": 89,
+      "title": "Is chanting a kind of prayer?",
+      "word_count": 91,
+      "file": "chapter_89_Is chanting a kind of prayer.txt"
+    },
+    {
+      "chapter_index": 90,
+      "title": "What is the value of chanting?",
+      "word_count": 213,
+      "file": "chapter_90_What is the value of chanting.txt"
+    },
+    {
+      "chapter_index": 91,
+      "title": "What do monasteries contribute to society?",
+      "word_count": 307,
+      "file": "chapter_91_What do monasteries contribute to society.txt"
+    },
+    {
+      "chapter_index": 92,
+      "title": "Are Buddhist monks allowed to be involved in politics?",
+      "word_count": 223,
+      "file": "chapter_92_Are Buddhist monks allowed to be involved in politics.txt"
+    },
+    {
+      "chapter_index": 93,
+      "title": "Is there any difference between a temple and a monastery?",
+      "word_count": 122,
+      "file": "chapter_93_Is there any difference between a temple and a monastery.txt"
+    },
+    {
+      "chapter_index": 94,
+      "title": "What are the benefits of visiting a monastery?",
+      "word_count": 165,
+      "file": "chapter_94_What are the benefits of visiting a monastery.txt"
+    },
+    {
+      "chapter_index": 95,
+      "title": "(87)",
+      "word_count": 129,
+      "file": "chapter_95_(87).txt"
+    },
+    {
+      "chapter_index": 96,
+      "title": "What is the present state of Thai Buddhism?",
+      "word_count": 390,
+      "file": "chapter_96_What is the present state of Thai Buddhism.txt"
+    },
+    {
+      "chapter_index": 97,
+      "title": "Does Buddhism play a part in the Thai education system?",
+      "word_count": 198,
+      "file": "chapter_97_Does Buddhism play a part in the Thai education system.txt"
+    },
+    {
+      "chapter_index": 98,
+      "title": "What are the main Buddhist holidays?",
+      "word_count": 339,
+      "file": "chapter_98_What are the main Buddhist holidays.txt"
+    },
+    {
+      "chapter_index": 99,
+      "title": "(91)",
+      "word_count": 208,
+      "file": "chapter_99_(91).txt"
+    },
+    {
+      "chapter_index": 100,
+      "title": "(92)",
+      "word_count": 178,
+      "file": "chapter_100_(92).txt"
+    },
+    {
+      "chapter_index": 101,
+      "title": "What is the purpose of the spirit houses that are found in people’s gardens?",
+      "word_count": 91,
+      "file": "chapter_101_What is the purpose of the spirit houses that are found in people’s gardens.txt"
+    },
+    {
+      "chapter_index": 102,
+      "title": "The Path of Practice",
+      "word_count": 72,
+      "file": "chapter_102_The Path of Practice.txt"
+    },
+    {
+      "chapter_index": 103,
+      "title": "Where does the Buddhist path begin?",
+      "word_count": 103,
+      "file": "chapter_103_Where does the Buddhist path begin.txt"
+    },
+    {
+      "chapter_index": 104,
+      "title": "What determines the spiritual quality of giving?",
+      "word_count": 74,
+      "file": "chapter_104_What determines the spiritual quality of giving.txt"
+    },
+    {
+      "chapter_index": 105,
+      "title": "Which is considered more praiseworthy: giving to monasteries or giving to charitable institutions?",
+      "word_count": 205,
+      "file": "chapter_105_Which is considered more praiseworthy giving to monasteries or giving to charitable institutions.txt"
+    },
+    {
+      "chapter_index": 106,
+      "title": "Is there a key feature of the Buddhist attitude to morality?",
+      "word_count": 101,
+      "file": "chapter_106_Is there a key feature of the Buddhist attitude to morality.txt"
+    },
+    {
+      "chapter_index": 107,
+      "title": "What are the five precepts?",
+      "word_count": 113,
+      "file": "chapter_107_What are the five precepts.txt"
+    },
+    {
+      "chapter_index": 108,
+      "title": "(99)",
+      "word_count": 321,
+      "file": "chapter_108_(99).txt"
+    },
+    {
+      "chapter_index": 109,
+      "title": "Are violence or killing ever justified?",
+      "word_count": 135,
+      "file": "chapter_109_Are violence or killing ever justified.txt"
+    },
+    {
+      "chapter_index": 110,
+      "title": "Are Buddhist countries completely pacifist?",
+      "word_count": 115,
+      "file": "chapter_110_Are Buddhist countries completely pacifist.txt"
+    },
+    {
+      "chapter_index": 111,
+      "title": "What is the relationship between keeping precepts and the practice of meditation?",
+      "word_count": 159,
+      "file": "chapter_111_What is the relationship between keeping precepts and the practice of meditation.txt"
+    },
+    {
+      "chapter_index": 112,
+      "title": "Why meditate?",
+      "word_count": 371,
+      "file": "chapter_112_Why meditate.txt"
+    },
+    {
+      "chapter_index": 113,
+      "title": "When is the best time to meditate?",
+      "word_count": 138,
+      "file": "chapter_113_When is the best time to meditate.txt"
+    },
+    {
+      "chapter_index": 114,
+      "title": "What is the basic method of meditation?",
+      "word_count": 502,
+      "file": "chapter_114_What is the basic method of meditation.txt"
+    },
+    {
+      "chapter_index": 115,
+      "title": "What is the purpose of walking meditation and how is it practiced?",
+      "word_count": 370,
+      "file": "chapter_115_What is the purpose of walking meditation and how is it practiced.txt"
+    },
+    {
+      "chapter_index": 116,
+      "title": "What are the chief obstructions to meditation?",
+      "word_count": 415,
+      "file": "chapter_116_What are the chief obstructions to meditation.txt"
+    },
+    {
+      "chapter_index": 117,
+      "title": "How long should a session of meditation last?",
+      "word_count": 105,
+      "file": "chapter_117_How long should a session of meditation last.txt"
+    },
+    {
+      "chapter_index": 118,
+      "title": "What is mindfulness?",
+      "word_count": 169,
+      "file": "chapter_118_What is mindfulness.txt"
+    },
+    {
+      "chapter_index": 119,
+      "title": "How are the hindrances to meditation overcome?",
+      "word_count": 335,
+      "file": "chapter_119_How are the hindrances to meditation overcome.txt"
+    },
+    {
+      "chapter_index": 120,
+      "title": "What is the meaning of",
+      "word_count": 185,
+      "file": "chapter_120_What is the meaning of.txt"
+    },
+    {
+      "chapter_index": 121,
+      "title": "Is any one kind of meditation technique considered most effective?",
+      "word_count": 117,
+      "file": "chapter_121_Is any one kind of meditation technique considered most effective.txt"
+    },
+    {
+      "chapter_index": 122,
+      "title": "What is the key to a successful long-term meditation practice?",
+      "word_count": 123,
+      "file": "chapter_122_What is the key to a successful long-term meditation practice.txt"
+    },
+    {
+      "chapter_index": 123,
+      "title": "How important is it to have a teacher?",
+      "word_count": 217,
+      "file": "chapter_123_How important is it to have a teacher.txt"
+    },
+    {
+      "chapter_index": 124,
+      "title": "How useful is it to attend a meditation retreat?",
+      "word_count": 185,
+      "file": "chapter_124_How useful is it to attend a meditation retreat.txt"
+    },
+    {
+      "chapter_index": 125,
+      "title": "Is it possible to meditate while listening to music?",
+      "word_count": 68,
+      "file": "chapter_125_Is it possible to meditate while listening to music.txt"
+    },
+    {
+      "chapter_index": 126,
+      "title": "Can meditation be dangerous?",
+      "word_count": 104,
+      "file": "chapter_126_Can meditation be dangerous.txt"
+    },
+    {
+      "chapter_index": 127,
+      "title": "Are there any specific spiritual goals for lay Buddhists?",
+      "word_count": 241,
+      "file": "chapter_127_Are there any specific spiritual goals for lay Buddhists.txt"
+    },
+    {
+      "chapter_index": 128,
+      "title": "Can meditation be practiced in daily life?",
+      "word_count": 137,
+      "file": "chapter_128_Can meditation be practiced in daily life.txt"
+    },
+    {
+      "chapter_index": 129,
+      "title": "VII:",
+      "word_count": 267,
+      "file": "chapter_129_VII.txt"
+    },
+    {
+      "chapter_index": 130,
+      "title": "Can you recommend any books for learning about Buddhism?",
+      "word_count": 50,
+      "file": "chapter_130_Can you recommend any books for learning about Buddhism.txt"
+    },
+    {
+      "chapter_index": 131,
+      "title": "Reprint and Contribution",
+      "word_count": 95,
+      "file": "chapter_131_Reprint and Contribution.txt"
+    }
+  ]
+}
