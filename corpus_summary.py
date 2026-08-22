@@ -79,9 +79,11 @@ def main():
                 if os.path.exists(meta_file):
                     with open(meta_file, "r", encoding="utf-8") as f:
                         meta = json.load(f)
-                    print(f" • {meta.get('title', b)} ({meta.get('author', 'Unknown')}) - {meta.get('total_words', 0):,} words, {meta.get('total_chapters', 0)} chapters")
+                    title = meta.get('title', b).replace('’', "'").replace('‘', "'")
+                    author = meta.get('author', 'Unknown').replace('’', "'").replace('‘', "'")
+                    print(f" - {title} ({author}) - {meta.get('total_words', 0):,} words, {meta.get('total_chapters', 0)} chapters")
                 else:
-                    print(f" • {b} (Extracted)")
+                    print(f" - {b} (Extracted)")
     else:
         print(" (None)")
 
@@ -94,7 +96,7 @@ def main():
             t_path = os.path.join(transcripts_dir, t)
             with open(t_path, "r", encoding="utf-8", errors="ignore") as f:
                 w_count = len(f.read().split())
-            print(f" • {t[:-4]} ({w_count:,} words)")
+            print(f" - {t[:-4]} ({w_count:,} words)")
     else:
         print(" (None)")
 
