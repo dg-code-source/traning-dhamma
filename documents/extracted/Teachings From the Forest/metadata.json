@@ -1,0 +1,987 @@
+{
+  "title": "Teachings From the Forest",
+  "author": "Unknown Author",
+  "language": "en-GB",
+  "total_chapters": 163,
+  "total_words": 46467,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Contents",
+      "word_count": 227,
+      "file": "chapter_01_Contents.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Teachings",
+      "word_count": 247,
+      "file": "chapter_02_Teachings.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Teachings",
+      "word_count": 177,
+      "file": "chapter_03_Teachings.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "THREE",
+      "word_count": 236,
+      "file": "chapter_04_THREE.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Ajahn",
+      "word_count": 293,
+      "file": "chapter_05_Ajahn.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Teachings",
+      "word_count": 306,
+      "file": "chapter_06_Teachings.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Ajahn",
+      "word_count": 288,
+      "file": "chapter_07_Ajahn.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Teachings",
+      "word_count": 306,
+      "file": "chapter_08_Teachings.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Ajahn",
+      "word_count": 276,
+      "file": "chapter_09_Ajahn.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Teachings",
+      "word_count": 281,
+      "file": "chapter_10_Teachings.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Ajahn",
+      "word_count": 299,
+      "file": "chapter_11_Ajahn.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Teachings",
+      "word_count": 300,
+      "file": "chapter_12_Teachings.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Ajahn",
+      "word_count": 216,
+      "file": "chapter_13_Ajahn.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "ORDINARY",
+      "word_count": 250,
+      "file": "chapter_14_ORDINARY.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Ajahn",
+      "word_count": 330,
+      "file": "chapter_15_Ajahn.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Teachings",
+      "word_count": 299,
+      "file": "chapter_16_Teachings.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Ajahn",
+      "word_count": 287,
+      "file": "chapter_17_Ajahn.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Teachings",
+      "word_count": 293,
+      "file": "chapter_18_Teachings.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Ajahn",
+      "word_count": 281,
+      "file": "chapter_19_Ajahn.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Teachings",
+      "word_count": 286,
+      "file": "chapter_20_Teachings.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "Ajahn",
+      "word_count": 298,
+      "file": "chapter_21_Ajahn.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "Teachings",
+      "word_count": 311,
+      "file": "chapter_22_Teachings.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "Ajahn",
+      "word_count": 253,
+      "file": "chapter_23_Ajahn.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "TAMING",
+      "word_count": 249,
+      "file": "chapter_24_TAMING.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "Ajahn",
+      "word_count": 289,
+      "file": "chapter_25_Ajahn.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "Teachings",
+      "word_count": 276,
+      "file": "chapter_26_Teachings.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "Ajahn",
+      "word_count": 289,
+      "file": "chapter_27_Ajahn.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "Teachings",
+      "word_count": 304,
+      "file": "chapter_28_Teachings.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "Ajahn",
+      "word_count": 299,
+      "file": "chapter_29_Ajahn.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "Teachings",
+      "word_count": 326,
+      "file": "chapter_30_Teachings.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "Ajahn",
+      "word_count": 305,
+      "file": "chapter_31_Ajahn.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "Teachings",
+      "word_count": 299,
+      "file": "chapter_32_Teachings.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "Ajahn",
+      "word_count": 190,
+      "file": "chapter_33_Ajahn.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "BUDDHA,",
+      "word_count": 202,
+      "file": "chapter_34_BUDDHA,.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "Ajahn",
+      "word_count": 296,
+      "file": "chapter_35_Ajahn.txt"
+    },
+    {
+      "chapter_index": 36,
+      "title": "Teachings",
+      "word_count": 274,
+      "file": "chapter_36_Teachings.txt"
+    },
+    {
+      "chapter_index": 37,
+      "title": "Ajahn",
+      "word_count": 290,
+      "file": "chapter_37_Ajahn.txt"
+    },
+    {
+      "chapter_index": 38,
+      "title": "Teachings",
+      "word_count": 287,
+      "file": "chapter_38_Teachings.txt"
+    },
+    {
+      "chapter_index": 39,
+      "title": "Ajahn",
+      "word_count": 273,
+      "file": "chapter_39_Ajahn.txt"
+    },
+    {
+      "chapter_index": 40,
+      "title": "Teachings",
+      "word_count": 295,
+      "file": "chapter_40_Teachings.txt"
+    },
+    {
+      "chapter_index": 41,
+      "title": "Ajahn",
+      "word_count": 283,
+      "file": "chapter_41_Ajahn.txt"
+    },
+    {
+      "chapter_index": 42,
+      "title": "Teachings",
+      "word_count": 293,
+      "file": "chapter_42_Teachings.txt"
+    },
+    {
+      "chapter_index": 43,
+      "title": "Ajahn",
+      "word_count": 291,
+      "file": "chapter_43_Ajahn.txt"
+    },
+    {
+      "chapter_index": 44,
+      "title": "Teachings",
+      "word_count": 317,
+      "file": "chapter_44_Teachings.txt"
+    },
+    {
+      "chapter_index": 45,
+      "title": "Ajahn",
+      "word_count": 311,
+      "file": "chapter_45_Ajahn.txt"
+    },
+    {
+      "chapter_index": 46,
+      "title": "ANAPANASATI",
+      "word_count": 235,
+      "file": "chapter_46_ANAPANASATI.txt"
+    },
+    {
+      "chapter_index": 47,
+      "title": "Teachings",
+      "word_count": 288,
+      "file": "chapter_47_Teachings.txt"
+    },
+    {
+      "chapter_index": 48,
+      "title": "Ajahn",
+      "word_count": 310,
+      "file": "chapter_48_Ajahn.txt"
+    },
+    {
+      "chapter_index": 49,
+      "title": "Teachings",
+      "word_count": 320,
+      "file": "chapter_49_Teachings.txt"
+    },
+    {
+      "chapter_index": 50,
+      "title": "Ajahn",
+      "word_count": 320,
+      "file": "chapter_50_Ajahn.txt"
+    },
+    {
+      "chapter_index": 51,
+      "title": "Teachings",
+      "word_count": 304,
+      "file": "chapter_51_Teachings.txt"
+    },
+    {
+      "chapter_index": 52,
+      "title": "Ajahn",
+      "word_count": 278,
+      "file": "chapter_52_Ajahn.txt"
+    },
+    {
+      "chapter_index": 53,
+      "title": "Teachings",
+      "word_count": 302,
+      "file": "chapter_53_Teachings.txt"
+    },
+    {
+      "chapter_index": 54,
+      "title": "Ajahn",
+      "word_count": 294,
+      "file": "chapter_54_Ajahn.txt"
+    },
+    {
+      "chapter_index": 55,
+      "title": "Teachings",
+      "word_count": 311,
+      "file": "chapter_55_Teachings.txt"
+    },
+    {
+      "chapter_index": 56,
+      "title": "Ajahn",
+      "word_count": 306,
+      "file": "chapter_56_Ajahn.txt"
+    },
+    {
+      "chapter_index": 57,
+      "title": "Teachings",
+      "word_count": 110,
+      "file": "chapter_57_Teachings.txt"
+    },
+    {
+      "chapter_index": 58,
+      "title": "HAPPINESS,",
+      "word_count": 250,
+      "file": "chapter_58_HAPPINESS,.txt"
+    },
+    {
+      "chapter_index": 59,
+      "title": "Teachings",
+      "word_count": 291,
+      "file": "chapter_59_Teachings.txt"
+    },
+    {
+      "chapter_index": 60,
+      "title": "Ajahn",
+      "word_count": 285,
+      "file": "chapter_60_Ajahn.txt"
+    },
+    {
+      "chapter_index": 61,
+      "title": "Teachings",
+      "word_count": 295,
+      "file": "chapter_61_Teachings.txt"
+    },
+    {
+      "chapter_index": 62,
+      "title": "Ajahn",
+      "word_count": 280,
+      "file": "chapter_62_Ajahn.txt"
+    },
+    {
+      "chapter_index": 63,
+      "title": "Teachings",
+      "word_count": 305,
+      "file": "chapter_63_Teachings.txt"
+    },
+    {
+      "chapter_index": 64,
+      "title": "Ajahn",
+      "word_count": 298,
+      "file": "chapter_64_Ajahn.txt"
+    },
+    {
+      "chapter_index": 65,
+      "title": "Teachings",
+      "word_count": 277,
+      "file": "chapter_65_Teachings.txt"
+    },
+    {
+      "chapter_index": 66,
+      "title": "Ajahn",
+      "word_count": 281,
+      "file": "chapter_66_Ajahn.txt"
+    },
+    {
+      "chapter_index": 67,
+      "title": "Teachings",
+      "word_count": 310,
+      "file": "chapter_67_Teachings.txt"
+    },
+    {
+      "chapter_index": 68,
+      "title": "Ajahn",
+      "word_count": 294,
+      "file": "chapter_68_Ajahn.txt"
+    },
+    {
+      "chapter_index": 69,
+      "title": "Teachings",
+      "word_count": 292,
+      "file": "chapter_69_Teachings.txt"
+    },
+    {
+      "chapter_index": 70,
+      "title": "Ajahn",
+      "word_count": 301,
+      "file": "chapter_70_Ajahn.txt"
+    },
+    {
+      "chapter_index": 71,
+      "title": "Teachings",
+      "word_count": 280,
+      "file": "chapter_71_Teachings.txt"
+    },
+    {
+      "chapter_index": 72,
+      "title": "Ajahn",
+      "word_count": 284,
+      "file": "chapter_72_Ajahn.txt"
+    },
+    {
+      "chapter_index": 73,
+      "title": "Teachings",
+      "word_count": 297,
+      "file": "chapter_73_Teachings.txt"
+    },
+    {
+      "chapter_index": 74,
+      "title": "Ajahn",
+      "word_count": 307,
+      "file": "chapter_74_Ajahn.txt"
+    },
+    {
+      "chapter_index": 75,
+      "title": "Teachings",
+      "word_count": 306,
+      "file": "chapter_75_Teachings.txt"
+    },
+    {
+      "chapter_index": 76,
+      "title": "NOTHING",
+      "word_count": 245,
+      "file": "chapter_76_NOTHING.txt"
+    },
+    {
+      "chapter_index": 77,
+      "title": "Teachings",
+      "word_count": 310,
+      "file": "chapter_77_Teachings.txt"
+    },
+    {
+      "chapter_index": 78,
+      "title": "Ajahn",
+      "word_count": 300,
+      "file": "chapter_78_Ajahn.txt"
+    },
+    {
+      "chapter_index": 79,
+      "title": "Teachings",
+      "word_count": 317,
+      "file": "chapter_79_Teachings.txt"
+    },
+    {
+      "chapter_index": 80,
+      "title": "Ajahn",
+      "word_count": 319,
+      "file": "chapter_80_Ajahn.txt"
+    },
+    {
+      "chapter_index": 81,
+      "title": "Teachings",
+      "word_count": 318,
+      "file": "chapter_81_Teachings.txt"
+    },
+    {
+      "chapter_index": 82,
+      "title": "Ajahn",
+      "word_count": 331,
+      "file": "chapter_82_Ajahn.txt"
+    },
+    {
+      "chapter_index": 83,
+      "title": "Teachings",
+      "word_count": 319,
+      "file": "chapter_83_Teachings.txt"
+    },
+    {
+      "chapter_index": 84,
+      "title": "Ajahn",
+      "word_count": 323,
+      "file": "chapter_84_Ajahn.txt"
+    },
+    {
+      "chapter_index": 85,
+      "title": "Teachings",
+      "word_count": 333,
+      "file": "chapter_85_Teachings.txt"
+    },
+    {
+      "chapter_index": 86,
+      "title": "Ajahn",
+      "word_count": 315,
+      "file": "chapter_86_Ajahn.txt"
+    },
+    {
+      "chapter_index": 87,
+      "title": "Teachings",
+      "word_count": 287,
+      "file": "chapter_87_Teachings.txt"
+    },
+    {
+      "chapter_index": 88,
+      "title": "LIFE",
+      "word_count": 237,
+      "file": "chapter_88_LIFE.txt"
+    },
+    {
+      "chapter_index": 89,
+      "title": "Teachings",
+      "word_count": 310,
+      "file": "chapter_89_Teachings.txt"
+    },
+    {
+      "chapter_index": 90,
+      "title": "Ajahn",
+      "word_count": 317,
+      "file": "chapter_90_Ajahn.txt"
+    },
+    {
+      "chapter_index": 91,
+      "title": "Teachings",
+      "word_count": 330,
+      "file": "chapter_91_Teachings.txt"
+    },
+    {
+      "chapter_index": 92,
+      "title": "Ajahn",
+      "word_count": 316,
+      "file": "chapter_92_Ajahn.txt"
+    },
+    {
+      "chapter_index": 93,
+      "title": "Teachings",
+      "word_count": 299,
+      "file": "chapter_93_Teachings.txt"
+    },
+    {
+      "chapter_index": 94,
+      "title": "Ajahn",
+      "word_count": 318,
+      "file": "chapter_94_Ajahn.txt"
+    },
+    {
+      "chapter_index": 95,
+      "title": "Teachings",
+      "word_count": 305,
+      "file": "chapter_95_Teachings.txt"
+    },
+    {
+      "chapter_index": 96,
+      "title": "Ajahn",
+      "word_count": 320,
+      "file": "chapter_96_Ajahn.txt"
+    },
+    {
+      "chapter_index": 97,
+      "title": "Teachings",
+      "word_count": 314,
+      "file": "chapter_97_Teachings.txt"
+    },
+    {
+      "chapter_index": 98,
+      "title": "Ajahn",
+      "word_count": 293,
+      "file": "chapter_98_Ajahn.txt"
+    },
+    {
+      "chapter_index": 99,
+      "title": "CAN’T",
+      "word_count": 235,
+      "file": "chapter_99_CAN’T.txt"
+    },
+    {
+      "chapter_index": 100,
+      "title": "Ajahn",
+      "word_count": 284,
+      "file": "chapter_100_Ajahn.txt"
+    },
+    {
+      "chapter_index": 101,
+      "title": "Teachings",
+      "word_count": 262,
+      "file": "chapter_101_Teachings.txt"
+    },
+    {
+      "chapter_index": 102,
+      "title": "Ajahn",
+      "word_count": 297,
+      "file": "chapter_102_Ajahn.txt"
+    },
+    {
+      "chapter_index": 103,
+      "title": "Teachings",
+      "word_count": 301,
+      "file": "chapter_103_Teachings.txt"
+    },
+    {
+      "chapter_index": 104,
+      "title": "Ajahn",
+      "word_count": 295,
+      "file": "chapter_104_Ajahn.txt"
+    },
+    {
+      "chapter_index": 105,
+      "title": "Teachings",
+      "word_count": 297,
+      "file": "chapter_105_Teachings.txt"
+    },
+    {
+      "chapter_index": 106,
+      "title": "Ajahn",
+      "word_count": 298,
+      "file": "chapter_106_Ajahn.txt"
+    },
+    {
+      "chapter_index": 107,
+      "title": "Teachings",
+      "word_count": 301,
+      "file": "chapter_107_Teachings.txt"
+    },
+    {
+      "chapter_index": 108,
+      "title": "Ajahn",
+      "word_count": 299,
+      "file": "chapter_108_Ajahn.txt"
+    },
+    {
+      "chapter_index": 109,
+      "title": "Teachings",
+      "word_count": 269,
+      "file": "chapter_109_Teachings.txt"
+    },
+    {
+      "chapter_index": 110,
+      "title": "Ajahn",
+      "word_count": 293,
+      "file": "chapter_110_Ajahn.txt"
+    },
+    {
+      "chapter_index": 111,
+      "title": "Teachings",
+      "word_count": 304,
+      "file": "chapter_111_Teachings.txt"
+    },
+    {
+      "chapter_index": 112,
+      "title": "Ajahn",
+      "word_count": 348,
+      "file": "chapter_112_Ajahn.txt"
+    },
+    {
+      "chapter_index": 113,
+      "title": "Teachings",
+      "word_count": 305,
+      "file": "chapter_113_Teachings.txt"
+    },
+    {
+      "chapter_index": 114,
+      "title": "Ajahn",
+      "word_count": 301,
+      "file": "chapter_114_Ajahn.txt"
+    },
+    {
+      "chapter_index": 115,
+      "title": "Teachings",
+      "word_count": 310,
+      "file": "chapter_115_Teachings.txt"
+    },
+    {
+      "chapter_index": 116,
+      "title": "Ajahn",
+      "word_count": 306,
+      "file": "chapter_116_Ajahn.txt"
+    },
+    {
+      "chapter_index": 117,
+      "title": "Teachings",
+      "word_count": 333,
+      "file": "chapter_117_Teachings.txt"
+    },
+    {
+      "chapter_index": 118,
+      "title": "Ajahn",
+      "word_count": 178,
+      "file": "chapter_118_Ajahn.txt"
+    },
+    {
+      "chapter_index": 119,
+      "title": "INNOCENCE",
+      "word_count": 239,
+      "file": "chapter_119_INNOCENCE.txt"
+    },
+    {
+      "chapter_index": 120,
+      "title": "Ajahn",
+      "word_count": 297,
+      "file": "chapter_120_Ajahn.txt"
+    },
+    {
+      "chapter_index": 121,
+      "title": "Teachings",
+      "word_count": 310,
+      "file": "chapter_121_Teachings.txt"
+    },
+    {
+      "chapter_index": 122,
+      "title": "Ajahn",
+      "word_count": 313,
+      "file": "chapter_122_Ajahn.txt"
+    },
+    {
+      "chapter_index": 123,
+      "title": "Teachings",
+      "word_count": 296,
+      "file": "chapter_123_Teachings.txt"
+    },
+    {
+      "chapter_index": 124,
+      "title": "Ajahn",
+      "word_count": 300,
+      "file": "chapter_124_Ajahn.txt"
+    },
+    {
+      "chapter_index": 125,
+      "title": "Teachings",
+      "word_count": 308,
+      "file": "chapter_125_Teachings.txt"
+    },
+    {
+      "chapter_index": 126,
+      "title": "Ajahn",
+      "word_count": 311,
+      "file": "chapter_126_Ajahn.txt"
+    },
+    {
+      "chapter_index": 127,
+      "title": "Teachings",
+      "word_count": 289,
+      "file": "chapter_127_Teachings.txt"
+    },
+    {
+      "chapter_index": 128,
+      "title": "Ajahn",
+      "word_count": 286,
+      "file": "chapter_128_Ajahn.txt"
+    },
+    {
+      "chapter_index": 129,
+      "title": "Teachings",
+      "word_count": 300,
+      "file": "chapter_129_Teachings.txt"
+    },
+    {
+      "chapter_index": 130,
+      "title": "Ajahn",
+      "word_count": 267,
+      "file": "chapter_130_Ajahn.txt"
+    },
+    {
+      "chapter_index": 131,
+      "title": "Teachings",
+      "word_count": 279,
+      "file": "chapter_131_Teachings.txt"
+    },
+    {
+      "chapter_index": 132,
+      "title": "Ajahn",
+      "word_count": 291,
+      "file": "chapter_132_Ajahn.txt"
+    },
+    {
+      "chapter_index": 133,
+      "title": "Teachings",
+      "word_count": 312,
+      "file": "chapter_133_Teachings.txt"
+    },
+    {
+      "chapter_index": 134,
+      "title": "Ajahn",
+      "word_count": 268,
+      "file": "chapter_134_Ajahn.txt"
+    },
+    {
+      "chapter_index": 135,
+      "title": "EVERYTHING",
+      "word_count": 227,
+      "file": "chapter_135_EVERYTHING.txt"
+    },
+    {
+      "chapter_index": 136,
+      "title": "Ajahn",
+      "word_count": 313,
+      "file": "chapter_136_Ajahn.txt"
+    },
+    {
+      "chapter_index": 137,
+      "title": "Teachings",
+      "word_count": 310,
+      "file": "chapter_137_Teachings.txt"
+    },
+    {
+      "chapter_index": 138,
+      "title": "Ajahn",
+      "word_count": 279,
+      "file": "chapter_138_Ajahn.txt"
+    },
+    {
+      "chapter_index": 139,
+      "title": "Teachings",
+      "word_count": 271,
+      "file": "chapter_139_Teachings.txt"
+    },
+    {
+      "chapter_index": 140,
+      "title": "Ajahn",
+      "word_count": 323,
+      "file": "chapter_140_Ajahn.txt"
+    },
+    {
+      "chapter_index": 141,
+      "title": "Teachings",
+      "word_count": 308,
+      "file": "chapter_141_Teachings.txt"
+    },
+    {
+      "chapter_index": 142,
+      "title": "Ajahn",
+      "word_count": 300,
+      "file": "chapter_142_Ajahn.txt"
+    },
+    {
+      "chapter_index": 143,
+      "title": "Teachings",
+      "word_count": 297,
+      "file": "chapter_143_Teachings.txt"
+    },
+    {
+      "chapter_index": 144,
+      "title": "Ajahn",
+      "word_count": 303,
+      "file": "chapter_144_Ajahn.txt"
+    },
+    {
+      "chapter_index": 145,
+      "title": "Teachings",
+      "word_count": 277,
+      "file": "chapter_145_Teachings.txt"
+    },
+    {
+      "chapter_index": 146,
+      "title": "Ajahn",
+      "word_count": 275,
+      "file": "chapter_146_Ajahn.txt"
+    },
+    {
+      "chapter_index": 147,
+      "title": "CONVERSATION",
+      "word_count": 243,
+      "file": "chapter_147_CONVERSATION.txt"
+    },
+    {
+      "chapter_index": 148,
+      "title": "Ajahn",
+      "word_count": 311,
+      "file": "chapter_148_Ajahn.txt"
+    },
+    {
+      "chapter_index": 149,
+      "title": "Teachings",
+      "word_count": 287,
+      "file": "chapter_149_Teachings.txt"
+    },
+    {
+      "chapter_index": 150,
+      "title": "Ajahn",
+      "word_count": 318,
+      "file": "chapter_150_Ajahn.txt"
+    },
+    {
+      "chapter_index": 151,
+      "title": "Teachings",
+      "word_count": 264,
+      "file": "chapter_151_Teachings.txt"
+    },
+    {
+      "chapter_index": 152,
+      "title": "Ajahn",
+      "word_count": 300,
+      "file": "chapter_152_Ajahn.txt"
+    },
+    {
+      "chapter_index": 153,
+      "title": "Teachings",
+      "word_count": 290,
+      "file": "chapter_153_Teachings.txt"
+    },
+    {
+      "chapter_index": 154,
+      "title": "Ajahn",
+      "word_count": 281,
+      "file": "chapter_154_Ajahn.txt"
+    },
+    {
+      "chapter_index": 155,
+      "title": "Teachings",
+      "word_count": 281,
+      "file": "chapter_155_Teachings.txt"
+    },
+    {
+      "chapter_index": 156,
+      "title": "Ajahn",
+      "word_count": 280,
+      "file": "chapter_156_Ajahn.txt"
+    },
+    {
+      "chapter_index": 157,
+      "title": "Teachings",
+      "word_count": 286,
+      "file": "chapter_157_Teachings.txt"
+    },
+    {
+      "chapter_index": 158,
+      "title": "Ajahn",
+      "word_count": 292,
+      "file": "chapter_158_Ajahn.txt"
+    },
+    {
+      "chapter_index": 159,
+      "title": "Teachings",
+      "word_count": 191,
+      "file": "chapter_159_Teachings.txt"
+    },
+    {
+      "chapter_index": 160,
+      "title": "Ajahn",
+      "word_count": 135,
+      "file": "chapter_160_Ajahn.txt"
+    },
+    {
+      "chapter_index": 161,
+      "title": "Observance",
+      "word_count": 166,
+      "file": "chapter_161_Observance.txt"
+    },
+    {
+      "chapter_index": 162,
+      "title": "Teachings",
+      "word_count": 96,
+      "file": "chapter_162_Teachings.txt"
+    },
+    {
+      "chapter_index": 163,
+      "title": "This",
+      "word_count": 216,
+      "file": "chapter_163_This.txt"
+    }
+  ]
+}

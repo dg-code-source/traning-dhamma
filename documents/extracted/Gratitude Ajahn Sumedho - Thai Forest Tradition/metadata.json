@@ -1,0 +1,24 @@
+{
+  "title": "Gratitude-Book-AW2-singles",
+  "author": "Thai Forest Tradition",
+  "language": "en",
+  "total_pages": 49,
+  "total_chapters": 2,
+  "total_words": 11049,
+  "chapters": [
+    {
+      "title": "Gratitude-Cov-AW4-CS5",
+      "page": 0,
+      "chapter_index": 1,
+      "word_count": 0,
+      "file": "chapter_01_Gratitude-Cov-AW4-CS5.txt"
+    },
+    {
+      "title": "Gratitude-Book-AW2-singles",
+      "page": 1,
+      "chapter_index": 2,
+      "word_count": 11049,
+      "file": "chapter_02_Gratitude-Book-AW2-singles.txt"
+    }
+  ]
+}

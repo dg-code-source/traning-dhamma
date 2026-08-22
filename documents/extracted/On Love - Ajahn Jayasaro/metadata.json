@@ -1,0 +1,45 @@
+{
+  "title": "On Love",
+  "author": "Ajahn Jayasaro",
+  "language": "en",
+  "total_chapters": 6,
+  "total_words": 13136,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 97,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Foreword",
+      "word_count": 144,
+      "file": "chapter_02_Foreword.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "On Love",
+      "word_count": 12123,
+      "file": "chapter_03_On Love.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Glossary",
+      "word_count": 302,
+      "file": "chapter_04_Glossary.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Ajahn Jayasaro",
+      "word_count": 92,
+      "file": "chapter_05_Ajahn Jayasaro.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Panyaprateep Foundation",
+      "word_count": 378,
+      "file": "chapter_06_Panyaprateep Foundation.txt"
+    }
+  ]
+}

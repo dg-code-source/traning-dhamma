@@ -1,0 +1,129 @@
+{
+  "title": "The Four Noble Truths",
+  "author": "Ajahn Sumedho",
+  "language": "en",
+  "total_chapters": 20,
+  "total_words": 22745,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "A Handful of Leaves",
+      "word_count": 262,
+      "file": "chapter_01_A Handful of Leaves.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Foreword",
+      "word_count": 195,
+      "file": "chapter_02_Foreword.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Preface",
+      "word_count": 401,
+      "file": "chapter_03_Preface.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "That both I and you have had to",
+      "word_count": 1874,
+      "file": "chapter_04_That both I and you have had to.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Suffering and Self-View",
+      "word_count": 1573,
+      "file": "chapter_05_Suffering and Self-View.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Morality and Compassion",
+      "word_count": 1224,
+      "file": "chapter_06_Morality and Compassion.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Pleasure and Displeasure",
+      "word_count": 2280,
+      "file": "chapter_07_Pleasure and Displeasure.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Three Kinds of Desire",
+      "word_count": 1110,
+      "file": "chapter_08_Three Kinds of Desire.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Grasping is Suffering",
+      "word_count": 1832,
+      "file": "chapter_09_Grasping is Suffering.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "The Truth of Impermanence",
+      "word_count": 3021,
+      "file": "chapter_10_The Truth of Impermanence.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Realization",
+      "word_count": 942,
+      "file": "chapter_11_Realization.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Right Understanding",
+      "word_count": 2037,
+      "file": "chapter_12_Right Understanding.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Right Aspiration",
+      "word_count": 1058,
+      "file": "chapter_13_Right Aspiration.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Right Speech, Right Action and Right Livelihood",
+      "word_count": 1592,
+      "file": "chapter_14_Right Speech, Right Action and Right Livelihood.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Rationality and Emotion",
+      "word_count": 1549,
+      "file": "chapter_15_Rationality and Emotion.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Harmony",
+      "word_count": 521,
+      "file": "chapter_16_Harmony.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "The Eightfold Path as a Reflective Teaching",
+      "word_count": 664,
+      "file": "chapter_17_The Eightfold Path as a Reflective Teaching.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Tipitaka means ‘three baskets’, that is the three collections of the Pali Canon: Sutta",
+      "word_count": 54,
+      "file": "chapter_18_Tipitaka means ‘three baskets’, that is the three collections of the Pali Canon Sutta.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Glossary",
+      "word_count": 175,
+      "file": "chapter_19_Glossary.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Copyright",
+      "word_count": 381,
+      "file": "chapter_20_Copyright.txt"
+    }
+  ]
+}

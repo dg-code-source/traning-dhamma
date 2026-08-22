@@ -129,6 +129,19 @@ def main():
         "In Simple Terms: 108 Dhamma Similes": "In_Simple_Terms_Similes_qa.jsonl",
         "It's Like This: 108 Dhamma Similes": "Its_Like_This_108_Dhamma_Similes_qa.jsonl",
         "The Collected Teachings of Ajahn Chah - Single Volume": "The_Collected_Teachings_of_Ajahn_Chah_qa.jsonl",
+        "Ajahn Sumedho Volume 1 - Peace is a Simple Step": "Peace_is_a_Simple_Step_qa.jsonl",
+        "Ajahn Sumedho Volume 3 - Direct Realization": "Direct_Realization_qa.jsonl",
+        "Ajahn Sumedho Volume 5 - The Wheel of Truth": "The_Wheel_of_Truth_qa.jsonl",
+        "Cittaviveka": "Cittaviveka_qa.jsonl",
+        "Intuitive Awareness": "Intuitive_Awareness_qa.jsonl",
+        "Mindfulness: The Path to the Deathless": "Mindfulness_The_Path_to_the_Deathless_qa.jsonl",
+        "Now is the Knowing": "Now_is_the_Knowing_qa.jsonl",
+        "On Love": "On_Love_qa.jsonl",
+        "Teachings From the Forest": "Teachings_From_the_Forest_qa.jsonl",
+        "The Four Noble Truths": "The_Four_Noble_Truths_qa.jsonl",
+        "Gratitude-Book-AW2-singles": "Gratitude_qa.jsonl",
+        "The Way it is.indd": "The_Way_It_Is_qa.jsonl",
+        "true but not right": "True_But_Not_Right_qa.jsonl",
         "Still Flowing Water": None,  # Micro extract (136 words)
     }
 

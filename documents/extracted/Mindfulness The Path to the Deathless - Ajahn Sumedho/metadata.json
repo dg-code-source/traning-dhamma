@@ -1,0 +1,117 @@
+{
+  "title": "Mindfulness: The Path to the Deathless",
+  "author": "Ajahn Sumedho",
+  "language": "en",
+  "total_chapters": 18,
+  "total_words": 18764,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 406,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "About the author",
+      "word_count": 182,
+      "file": "chapter_02_About the author.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Further resources",
+      "word_count": 92,
+      "file": "chapter_03_Further resources.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Note to the reader",
+      "word_count": 77,
+      "file": "chapter_04_Note to the reader.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Introduction",
+      "word_count": 477,
+      "file": "chapter_05_Introduction.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "A note before you begin",
+      "word_count": 327,
+      "file": "chapter_06_A note before you begin.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "What is Meditation",
+      "word_count": 2691,
+      "file": "chapter_07_What is Meditation.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Watching the Breath",
+      "word_count": 542,
+      "file": "chapter_08_Watching the Breath.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "The Mantra Buddho",
+      "word_count": 1042,
+      "file": "chapter_09_The Mantra Buddho.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Effort and Relaxation",
+      "word_count": 1629,
+      "file": "chapter_10_Effort and Relaxation.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Walking Mindfully",
+      "word_count": 668,
+      "file": "chapter_11_Walking Mindfully.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Kindness",
+      "word_count": 1172,
+      "file": "chapter_12_Kindness.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Mindfulness of the Ordinary",
+      "word_count": 702,
+      "file": "chapter_13_Mindfulness of the Ordinary.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Listening to Thought",
+      "word_count": 1758,
+      "file": "chapter_14_Listening to Thought.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "The Hindrances and their Cessation",
+      "word_count": 1427,
+      "file": "chapter_15_The Hindrances and their Cessation.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Emptiness and Form",
+      "word_count": 1522,
+      "file": "chapter_16_Emptiness and Form.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Inner Vigilance",
+      "word_count": 1305,
+      "file": "chapter_17_Inner Vigilance.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "The Need for Wisdom in the World",
+      "word_count": 2745,
+      "file": "chapter_18_The Need for Wisdom in the World.txt"
+    }
+  ]
+}
