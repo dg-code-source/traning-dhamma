@@ -1,0 +1,45 @@
+{
+  "title": "SiTTL_Cover-B",
+  "author": "Thai Forest Tradition",
+  "language": "en",
+  "total_pages": 107,
+  "total_chapters": 5,
+  "total_words": 5165,
+  "chapters": [
+    {
+      "title": "SiTTL_Cover-F",
+      "page": 0,
+      "chapter_index": 1,
+      "word_count": 0,
+      "file": "chapter_01_SiTTL_Cover-F.txt"
+    },
+    {
+      "title": "SiTTL-P001-061-AW3",
+      "page": 1,
+      "chapter_index": 2,
+      "word_count": 1882,
+      "file": "chapter_02_SiTTL-P001-061-AW3.txt"
+    },
+    {
+      "title": "SiTTL-P062-131-AW3",
+      "page": 32,
+      "chapter_index": 3,
+      "word_count": 1595,
+      "file": "chapter_03_SiTTL-P062-131-AW3.txt"
+    },
+    {
+      "title": "SiTTL-P132-208-AW3",
+      "page": 67,
+      "chapter_index": 4,
+      "word_count": 1688,
+      "file": "chapter_04_SiTTL-P132-208-AW3.txt"
+    },
+    {
+      "title": "SiTTL_Cover-B",
+      "page": 106,
+      "chapter_index": 5,
+      "word_count": 0,
+      "file": "chapter_05_SiTTL_Cover-B.txt"
+    }
+  ]
+}

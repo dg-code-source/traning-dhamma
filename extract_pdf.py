@@ -102,8 +102,11 @@ def extract_pdf_book(pdf_path: str, output_base_dir: str = "documents/extracted"
     # If outline is present and structured
     if outline and isinstance(outline, list):
         for item in outline:
-            if isinstance(item, dict) and "/Title" in item:
-                c_title = str(item["Title"]).strip()
+            if isinstance(item, list):
+                continue
+            title = getattr(item, "title", None) or (item.get("/Title") if hasattr(item, "get") else None)
+            if title:
+                c_title = str(title).strip()
                 try:
                     p_num = reader.get_destination_page_number(item)
                     chapters.append({"title": c_title, "page": p_num})
