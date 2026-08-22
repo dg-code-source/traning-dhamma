@@ -150,3 +150,36 @@ Whenever an agent begins a new conversation or context without prior chat histor
 3. Generate grounded Chat SFT pairs conforming to Section 1–2.
 4. Save directly into `datasets/<Subject_or_Book>_qa.jsonl`.
 5. Run `python verify_dataset.py "datasets/<dataset>.jsonl"` and confirm all records pass before concluding.
+
+---
+
+## 7. Dataset Management, Merging & Split Protocol
+
+To maintain data integrity and support repeatable fine-tuning workflows, the following dataset organization rules must be strictly followed:
+
+### A. Source-Level Datasets (`datasets/*.jsonl`)
+- Every book, transcript, or document source MUST retain its own dedicated `.jsonl` file in `datasets/` (e.g. `The_Collected_Teachings_of_Ajahn_Chah_qa.jsonl`).
+- NEVER manually concatenate or overwrite source datasets into a single raw file. Keeping source files separate ensures modularity, traceability, and individual health auditing.
+
+### B. Master Merging & Deduplication (`merge_and_split_dataset.py`)
+- Whenever a new source dataset is added or an existing dataset is modified, execute:
+  ```bash
+  python merge_and_split_dataset.py --val-ratio 0.1
+  ```
+- This script automatically:
+  1. Scans all individual `.jsonl` files in `datasets/`.
+  2. Deduplicates records based on normalized user question content.
+  3. Writes the combined master dataset to `datasets/splits/master_dhamma_qa.jsonl`.
+  4. Shuffles and partitions data into `datasets/splits/train.jsonl` (90%) and `datasets/splits/val.jsonl` (10%).
+  5. Verifies both split files against the Chat SFT schema.
+
+### C. Fine-Tuning Format Exports (`export_formats.py`)
+- To generate ShareGPT or Alpaca formats for fine-tuning frameworks (Axolotl, LLaMA-Factory, Unsloth, etc.), run:
+  ```bash
+  python export_formats.py --all-splits
+  ```
+- Exports are saved into `datasets/exports/` (`master_dhamma_qa_sharegpt.json`, `train_sharegpt.json`, `val_sharegpt.json`).
+
+### D. Quality & Coverage Health Audits (`corpus_summary.py`)
+- Run `python corpus_summary.py` to inspect the full corpus inventory, total QA count, average assistant answer word count, and health status (`[HEALTHY]`) across all sources.
+

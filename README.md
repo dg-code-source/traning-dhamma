@@ -18,6 +18,7 @@ dhamma/
 │   ├── Mindfulness_Precepts_and_Crashing_in_the_Same_Car_qa.jsonl
 │   ├── Seen_in_Their_True_Light_qa.jsonl
 │   ├── Stillness_Flowing_qa.jsonl
+│   ├── The_Collected_Teachings_of_Ajahn_Chah_qa.jsonl
 │   ├── The_Contemplatives_Companion_qa.jsonl
 │   ├── The_Contemplatives_Craft_qa.jsonl
 │   ├── The_Real_Practice_qa.jsonl
@@ -42,6 +43,7 @@ dhamma/
 │       ├── SiTTL_Cover-B - Thai Forest Tradition/
 │       ├── Still Flowing Water - Ajahn Chah/
 │       ├── Stillness Flowing - Ajahn Jayasaro/
+│       ├── The Collected Teachings of Ajahn Chah - Single Volume - Ajahn Chah/
 │       ├── The contemplative's companion - Ajahn Viradhammo/
 │       ├── The Contemplative's Craft - Ajahn Viradhammo/
 │       ├── The Stillness of Being - Viradhammo Bhikkhu/
