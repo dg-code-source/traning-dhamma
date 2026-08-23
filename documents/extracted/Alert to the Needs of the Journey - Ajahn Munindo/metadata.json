@@ -1,0 +1,81 @@
+{
+  "title": "Alert to the Needs of the Journey",
+  "author": "Ajahn Munindo",
+  "language": "en",
+  "total_chapters": 12,
+  "total_words": 30425,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Introduction",
+      "word_count": 265,
+      "file": "chapter_01_Introduction.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Keep Moving On",
+      "word_count": 3607,
+      "file": "chapter_02_Keep Moving On.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Confidently Not Knowing",
+      "word_count": 5774,
+      "file": "chapter_03_Confidently Not Knowing.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "The Art of Meditation",
+      "word_count": 3451,
+      "file": "chapter_04_The Art of Meditation.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Unafraid to Care",
+      "word_count": 4201,
+      "file": "chapter_05_Unafraid to Care.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "The Right Sort of Peace",
+      "word_count": 3152,
+      "file": "chapter_06_The Right Sort of Peace.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Susceptible to Understanding",
+      "word_count": 1874,
+      "file": "chapter_07_Susceptible to Understanding.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Free from Assumptions",
+      "word_count": 4400,
+      "file": "chapter_08_Free from Assumptions.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Epilogue — Be Like a Tree",
+      "word_count": 2946,
+      "file": "chapter_09_Epilogue — Be Like a Tree.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "About the Author",
+      "word_count": 77,
+      "file": "chapter_10_About the Author.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Notes",
+      "word_count": 406,
+      "file": "chapter_11_Notes.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Copyright",
+      "word_count": 272,
+      "file": "chapter_12_Copyright.txt"
+    }
+  ]
+}

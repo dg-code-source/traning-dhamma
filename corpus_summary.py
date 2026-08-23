@@ -38,6 +38,9 @@ def analyze_jsonl(file_path: str) -> Dict:
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     root_dir = os.path.abspath(os.path.dirname(__file__))
     datasets_dir = os.path.join(root_dir, "datasets")
     transcripts_dir = os.path.join(root_dir, "transcripts")
@@ -142,6 +145,20 @@ def main():
         "Gratitude-Book-AW2-singles": "Gratitude_qa.jsonl",
         "The Way it is.indd": "The_Way_It_Is_qa.jsonl",
         "true but not right": "True_But_Not_Right_qa.jsonl",
+        "Fear": "Fear_Buddhadasa_Bhikkhu_qa.jsonl",
+        "Buddhadāsa Indapañño Archives": "Fear_Buddhadasa_Bhikkhu_qa.jsonl",
+        "Blank Page": "Its_Like_This_108_Dhamma_Similes_qa.jsonl",
+        "A Dhammapada for Contemplation": "A_Dhammapada_for_Contemplation_qa.jsonl",
+        "Dhammapada Reflections Volume One": "Dhammapada_Reflections_Vol1_qa.jsonl",
+        "Dhammapada Reflections Volume 2": "Dhammapada_Reflections_Vol2_qa.jsonl",
+        "Dhammapada Reflections Volume Three": "Dhammapada_Reflections_Vol3_qa.jsonl",
+        "Alert to the Needs of the Journey": "Alert_to_the_Needs_of_the_Journey_qa.jsonl",
+        "In Any Given Moment": "In_Any_Given_Moment_qa.jsonl",
+        "Sanity in the Midst of Uncertainty": "Sanity_in_the_Midst_of_Uncertainty_qa.jsonl",
+        "Servant of Reality": "Servant_of_Reality_qa.jsonl",
+        "Sitting in the Buddhas Waiting Room": "Sitting_in_the_Buddhas_Waiting_Room_qa.jsonl",
+        "Sitting in the Buddha's Waiting Room": "Sitting_in_the_Buddhas_Waiting_Room_qa.jsonl",
+        "We Are All Translators": "We_Are_All_Translators_qa.jsonl",
         "Still Flowing Water": None,  # Micro extract (136 words)
     }
 

@@ -1,0 +1,219 @@
+{
+  "title": "A Dhammapada for Contemplation",
+  "author": "Ajahn Munindo",
+  "language": "en",
+  "total_chapters": 35,
+  "total_words": 12870,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Aggression",
+      "word_count": 360,
+      "file": "chapter_01_Aggression.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "The Mind",
+      "word_count": 304,
+      "file": "chapter_02_The Mind.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "The Awakened One",
+      "word_count": 280,
+      "file": "chapter_03_The Awakened One.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Preface",
+      "word_count": 125,
+      "file": "chapter_04_Preface.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Anger",
+      "word_count": 335,
+      "file": "chapter_05_Anger.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Great Being",
+      "word_count": 1029,
+      "file": "chapter_06_Great Being.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Preface",
+      "word_count": 95,
+      "file": "chapter_07_Preface.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Affection",
+      "word_count": 348,
+      "file": "chapter_08_Affection.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Contents",
+      "word_count": 161,
+      "file": "chapter_09_Contents.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "The World",
+      "word_count": 302,
+      "file": "chapter_10_The World.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Old Age",
+      "word_count": 282,
+      "file": "chapter_11_Old Age.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "The Wise",
+      "word_count": 347,
+      "file": "chapter_12_The Wise.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Copyright",
+      "word_count": 92,
+      "file": "chapter_13_Copyright.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Introduction",
+      "word_count": 262,
+      "file": "chapter_14_Introduction.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Various",
+      "word_count": 403,
+      "file": "chapter_15_Various.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Hell",
+      "word_count": 327,
+      "file": "chapter_16_Hell.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "The Thousands",
+      "word_count": 366,
+      "file": "chapter_17_The Thousands.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Preface",
+      "word_count": 143,
+      "file": "chapter_18_Preface.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Pollution",
+      "word_count": 492,
+      "file": "chapter_19_Pollution.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "The Foolish",
+      "word_count": 405,
+      "file": "chapter_20_The Foolish.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "The Self",
+      "word_count": 246,
+      "file": "chapter_21_The Self.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "Preface",
+      "word_count": 140,
+      "file": "chapter_22_Preface.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "Preface",
+      "word_count": 92,
+      "file": "chapter_23_Preface.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "The Renunciate",
+      "word_count": 584,
+      "file": "chapter_24_The Renunciate.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "The Pairs",
+      "word_count": 525,
+      "file": "chapter_25_The Pairs.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "Flowers",
+      "word_count": 382,
+      "file": "chapter_26_Flowers.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "The Elephant",
+      "word_count": 341,
+      "file": "chapter_27_The Elephant.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "Craving",
+      "word_count": 669,
+      "file": "chapter_28_Craving.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "Happiness",
+      "word_count": 271,
+      "file": "chapter_29_Happiness.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "Evil",
+      "word_count": 381,
+      "file": "chapter_30_Evil.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "The Buddha",
+      "word_count": 422,
+      "file": "chapter_31_The Buddha.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "Awareness",
+      "word_count": 273,
+      "file": "chapter_32_Awareness.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "A Note on the Text",
+      "word_count": 1239,
+      "file": "chapter_33_A Note on the Text.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "The Just",
+      "word_count": 396,
+      "file": "chapter_34_The Just.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "The Path",
+      "word_count": 451,
+      "file": "chapter_35_The Path.txt"
+    }
+  ]
+}

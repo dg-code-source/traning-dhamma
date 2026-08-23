@@ -1,0 +1,39 @@
+{
+  "title": "Dhammapada Reflections Volume Three",
+  "author": "Ajahn Munindo",
+  "language": "en",
+  "total_chapters": 5,
+  "total_words": 8892,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Dhammapada Reflections",
+      "word_count": 7461,
+      "file": "chapter_01_Dhammapada Reflections.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Contents",
+      "word_count": 474,
+      "file": "chapter_02_Contents.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Copyright",
+      "word_count": 434,
+      "file": "chapter_03_Copyright.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Preface to Volume Three",
+      "word_count": 72,
+      "file": "chapter_04_Preface to Volume Three.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Preface",
+      "word_count": 451,
+      "file": "chapter_05_Preface.txt"
+    }
+  ]
+}

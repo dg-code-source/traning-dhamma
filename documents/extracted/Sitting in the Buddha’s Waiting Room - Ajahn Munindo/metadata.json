@@ -1,0 +1,27 @@
+{
+  "title": "Sitting in the Buddha’s Waiting Room",
+  "author": "Ajahn Munindo",
+  "language": "en",
+  "total_chapters": 3,
+  "total_words": 9132,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Sitting in the Buddha’s Waiting Room",
+      "word_count": 8783,
+      "file": "chapter_01_Sitting in the Buddha’s Waiting Room.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "About the Author",
+      "word_count": 78,
+      "file": "chapter_02_About the Author.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Copyright",
+      "word_count": 271,
+      "file": "chapter_03_Copyright.txt"
+    }
+  ]
+}

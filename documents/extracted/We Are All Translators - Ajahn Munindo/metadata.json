@@ -1,0 +1,27 @@
+{
+  "title": "We Are All Translators",
+  "author": "Ajahn Munindo",
+  "language": "en",
+  "total_chapters": 3,
+  "total_words": 4271,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "We Are All Translators",
+      "word_count": 3924,
+      "file": "chapter_01_We Are All Translators.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "About the Author",
+      "word_count": 78,
+      "file": "chapter_02_About the Author.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Copyright",
+      "word_count": 269,
+      "file": "chapter_03_Copyright.txt"
+    }
+  ]
+}

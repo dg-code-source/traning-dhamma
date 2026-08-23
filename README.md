@@ -11,10 +11,17 @@ When committing this repository to GitHub, the root directory of your repository
 ```
 dhamma/
 ├── datasets/                 # [COMMIT] Generated Chat SFT JSONL training pairs (*.jsonl)
+│   ├── A_Dhammapada_for_Contemplation_qa.jsonl
+│   ├── Alert_to_the_Needs_of_the_Journey_qa.jsonl
 │   ├── Cittaviveka_qa.jsonl
 │   ├── Daughters_and_Sons_qa.jsonl
+│   ├── Dhammapada_Reflections_Vol1_qa.jsonl
+│   ├── Dhammapada_Reflections_Vol2_qa.jsonl
+│   ├── Dhammapada_Reflections_Vol3_qa.jsonl
 │   ├── Direct_Realization_qa.jsonl
+│   ├── Fear_Buddhadasa_Bhikkhu_qa.jsonl
 │   ├── Gratitude_qa.jsonl
+│   ├── In_Any_Given_Moment_qa.jsonl
 │   ├── In_Simple_Terms_Similes_qa.jsonl
 │   ├── Intuitive_Awareness_qa.jsonl
 │   ├── Its_Like_This_108_Dhamma_Similes_qa.jsonl
@@ -25,7 +32,10 @@ dhamma/
 │   ├── Now_is_the_Knowing_qa.jsonl
 │   ├── On_Love_qa.jsonl
 │   ├── Peace_is_a_Simple_Step_qa.jsonl
+│   ├── Sanity_in_the_Midst_of_Uncertainty_qa.jsonl
 │   ├── Seen_in_Their_True_Light_qa.jsonl
+│   ├── Servant_of_Reality_qa.jsonl
+│   ├── Sitting_in_the_Buddhas_Waiting_Room_qa.jsonl
 │   ├── Stillness_Flowing_qa.jsonl
 │   ├── Teachings_From_the_Forest_qa.jsonl
 │   ├── The_Collected_Teachings_of_Ajahn_Chah_qa.jsonl
@@ -37,6 +47,7 @@ dhamma/
 │   ├── The_Way_It_Is_qa.jsonl
 │   ├── The_Wheel_of_Truth_qa.jsonl
 │   ├── True_But_Not_Right_qa.jsonl
+│   ├── We_Are_All_Translators_qa.jsonl
 │   ├── Without_and_Within_qa.jsonl
 │   ├── splits/               # [COMMIT] Merged master + train/val splits
 │   │   ├── master_dhamma_qa.jsonl
@@ -50,13 +61,20 @@ dhamma/
 │   ├── raw_epubs/            # [OPTIONAL / .gitignore] Source .epub files
 │   ├── raw_pdfs/             # [OPTIONAL / .gitignore] Source .pdf files
 │   └── extracted/            # [COMMIT] Extracted chapter texts and metadata.json
+│       ├── A Dhammapada for Contemplation - Ajahn Munindo/
 │       ├── Aj Jaya The Real Practice (WPN)/
 │       ├── Ajahn Sumedho Volume 1 - Peace is a Simple Step - Ajahn Sumedho/
 │       ├── Ajahn Sumedho Volume 3 - Direct Realization - Ajahn Sumedho/
 │       ├── Ajahn Sumedho Volume 5 - The Wheel of Truth - Ajahn Sumedho/
+│       ├── Alert to the Needs of the Journey - Ajahn Munindo/
 │       ├── Cittaviveka - Ajahn Sumedho/
 │       ├── Daughters & Sons - Ajahn Jayasaro/
+│       ├── Dhammapada Reflections Volume 2 - Ajahn Munindo/
+│       ├── Dhammapada Reflections Volume One - Ajahn Munindo/
+│       ├── Dhammapada Reflections Volume Three - Ajahn Munindo/
+│       ├── Fear - Buddhadasa Bhikkhu/
 │       ├── Gratitude Ajahn Sumedho - Thai Forest Tradition/
+│       ├── In Any Given Moment - Ajahn Munindo/
 │       ├── In Simple Terms 108 Dhamma Similes - Venerable Ajahn Chah/
 │       ├── Intuitive Awareness - Ajahn Sumedho/
 │       ├── It's Like This 108 Dhamma Similes - Venerable Ajahn Chah/
@@ -64,7 +82,10 @@ dhamma/
 │       ├── Mindfulness, Precepts and Crashing in the Same Car - Ajahn Jayasaro/
 │       ├── Now is the Knowing - Ajahn Sumedho/
 │       ├── On Love - Ajahn Jayasaro/
+│       ├── Sanity in the Midst of Uncertainty - Ajahn Munindo/
 │       ├── Seen in Their True Light Spread by Ajahn Jayasaro - Thai Forest Tradition/
+│       ├── Servant of Reality - Ajahn Munindo/
+│       ├── Sitting in the Buddha's Waiting Room - Ajahn Munindo/
 │       ├── Still Flowing Water - Ajahn Chah/
 │       ├── Stillness Flowing - Ajahn Jayasaro/
 │       ├── Teachings From the Forest/
@@ -75,6 +96,7 @@ dhamma/
 │       ├── The Stillness of Being - Viradhammo Bhikkhu/
 │       ├── The Way it is.indd - Thai Forest Tradition/
 │       ├── true but not right - Thai Forest Tradition/
+│       ├── We Are All Translators - Ajahn Munindo/
 │       └── without and within - Ajahn Jayasaro/
 ├── transcripts/              # [COMMIT] Extracted talk transcripts (*.txt)
 │   ├── Knowing the mood of the mind.txt
