@@ -83,6 +83,7 @@ def fetch_playlist_videos() -> List[Dict]:
         for i, vid in enumerate(video_ids):
             video_entries.append({
                 "video_id": vid,
+                "url": f"https://www.youtube.com/watch?v={vid}",
                 "title": f"Ajahn Sumedho Dhamma Talk {i+1} ({vid})",
                 "length": "",
                 "status": "PENDING",

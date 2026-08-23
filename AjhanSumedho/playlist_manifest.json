@@ -6,7 +6,8 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\001_ajahn_sumedho_dhamma_talk_1_v494a6ghmva.txt",
     "dataset_file": "yt_sumedho_001_ajahn_sumedho_dhamma_talk_1_v494a6ghmva_qa.jsonl",
-    "qa_count": 6
+    "qa_count": 6,
+    "url": "https://www.youtube.com/watch?v=V494A6GhmvA"
   },
   {
     "video_id": "67pwI11VqZI",
@@ -15,7 +16,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=67pwI11VqZI"
   },
   {
     "video_id": "2dUrv7i5mxE",
@@ -24,7 +26,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=2dUrv7i5mxE"
   },
   {
     "video_id": "Ggc3aBwWx8Q",
@@ -33,7 +36,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=Ggc3aBwWx8Q"
   },
   {
     "video_id": "s4KM-iqnZzU",
@@ -42,7 +46,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=s4KM-iqnZzU"
   },
   {
     "video_id": "Z90nSs5mDmQ",
@@ -51,7 +56,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=Z90nSs5mDmQ"
   },
   {
     "video_id": "O1LX9PXGQtQ",
@@ -60,7 +66,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=O1LX9PXGQtQ"
   },
   {
     "video_id": "wSfIzu1h4JI",
@@ -69,7 +76,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=wSfIzu1h4JI"
   },
   {
     "video_id": "KkPR2kS1QEE",
@@ -78,7 +86,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=KkPR2kS1QEE"
   },
   {
     "video_id": "kzHFSiDrUNY",
@@ -87,7 +96,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=kzHFSiDrUNY"
   },
   {
     "video_id": "pgsMGVe6x84",
@@ -96,7 +106,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=pgsMGVe6x84"
   },
   {
     "video_id": "5oVW8Lay4to",
@@ -105,7 +116,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=5oVW8Lay4to"
   },
   {
     "video_id": "WMEo1qw4Z2E",
@@ -114,7 +126,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=WMEo1qw4Z2E"
   },
   {
     "video_id": "X8DeyhVIpWs",
@@ -123,7 +136,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=X8DeyhVIpWs"
   },
   {
     "video_id": "wqe6PUbbXH4",
@@ -132,7 +146,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=wqe6PUbbXH4"
   },
   {
     "video_id": "RZNXKayXFNg",
@@ -141,7 +156,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=RZNXKayXFNg"
   },
   {
     "video_id": "ujN2-wXZEdM",
@@ -150,7 +166,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=ujN2-wXZEdM"
   },
   {
     "video_id": "egLA8zfYdU4",
@@ -159,7 +176,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=egLA8zfYdU4"
   },
   {
     "video_id": "9zmxuWeACp4",
@@ -168,7 +186,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=9zmxuWeACp4"
   },
   {
     "video_id": "x9b2sIfeatk",
@@ -177,7 +196,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=x9b2sIfeatk"
   },
   {
     "video_id": "CEp8JewklN0",
@@ -186,7 +206,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=CEp8JewklN0"
   },
   {
     "video_id": "6rPtQQMGR9E",
@@ -195,7 +216,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=6rPtQQMGR9E"
   },
   {
     "video_id": "G5Dw_QetK7w",
@@ -204,7 +226,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=G5Dw_QetK7w"
   },
   {
     "video_id": "e6rWO_zpeKI",
@@ -213,7 +236,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=e6rWO_zpeKI"
   },
   {
     "video_id": "f6tKkLDLs0E",
@@ -222,7 +246,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=f6tKkLDLs0E"
   },
   {
     "video_id": "y2793IaOnxQ",
@@ -231,7 +256,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=y2793IaOnxQ"
   },
   {
     "video_id": "U03YoHWfJi8",
@@ -240,7 +266,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=U03YoHWfJi8"
   },
   {
     "video_id": "VynzQ1gaFxw",
@@ -249,7 +276,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=VynzQ1gaFxw"
   },
   {
     "video_id": "cPPqajy8B9o",
@@ -258,7 +286,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=cPPqajy8B9o"
   },
   {
     "video_id": "Qv8QgVbZoj8",
@@ -267,7 +296,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=Qv8QgVbZoj8"
   },
   {
     "video_id": "M-oUr3MV390",
@@ -276,7 +306,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=M-oUr3MV390"
   },
   {
     "video_id": "w_3vtb_yMgY",
@@ -285,7 +316,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=w_3vtb_yMgY"
   },
   {
     "video_id": "yH0UjLjIUfI",
@@ -294,7 +326,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=yH0UjLjIUfI"
   },
   {
     "video_id": "Ix7yPCKAviY",
@@ -303,7 +336,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=Ix7yPCKAviY"
   },
   {
     "video_id": "d31_tVwN3OA",
@@ -312,7 +346,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=d31_tVwN3OA"
   },
   {
     "video_id": "hRPApfO6CfA",
@@ -321,7 +356,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=hRPApfO6CfA"
   },
   {
     "video_id": "iH_DagyaKp0",
@@ -330,7 +366,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=iH_DagyaKp0"
   },
   {
     "video_id": "JlHiXlEw7b8",
@@ -339,7 +376,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=JlHiXlEw7b8"
   },
   {
     "video_id": "wpLwVWpYfEE",
@@ -348,7 +386,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=wpLwVWpYfEE"
   },
   {
     "video_id": "i6PGNN2VPOs",
@@ -357,7 +396,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=i6PGNN2VPOs"
   },
   {
     "video_id": "4hP0K7-K7jo",
@@ -366,7 +406,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=4hP0K7-K7jo"
   },
   {
     "video_id": "VldD8pC74XQ",
@@ -375,7 +416,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=VldD8pC74XQ"
   },
   {
     "video_id": "49ZhgT0Ok5E",
@@ -384,7 +426,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=49ZhgT0Ok5E"
   },
   {
     "video_id": "6ApAvRanQVo",
@@ -393,7 +436,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=6ApAvRanQVo"
   },
   {
     "video_id": "IEKvpe_wV-E",
@@ -402,7 +446,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=IEKvpe_wV-E"
   },
   {
     "video_id": "D40NwEOQPAQ",
@@ -411,7 +456,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=D40NwEOQPAQ"
   },
   {
     "video_id": "nLa6jGXxk5c",
@@ -420,7 +466,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=nLa6jGXxk5c"
   },
   {
     "video_id": "turN-rcd_DY",
@@ -429,7 +476,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=turN-rcd_DY"
   },
   {
     "video_id": "-UFZCxo62fA",
@@ -438,7 +486,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=-UFZCxo62fA"
   },
   {
     "video_id": "yEYt6G3zsZQ",
@@ -447,7 +496,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=yEYt6G3zsZQ"
   },
   {
     "video_id": "eP5v-v_Ha1I",
@@ -456,7 +506,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=eP5v-v_Ha1I"
   },
   {
     "video_id": "APjF6PClLkg",
@@ -465,7 +516,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=APjF6PClLkg"
   },
   {
     "video_id": "_AnX_BoPYYQ",
@@ -474,7 +526,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=_AnX_BoPYYQ"
   },
   {
     "video_id": "C6T0GTjsbys",
@@ -483,7 +536,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=C6T0GTjsbys"
   },
   {
     "video_id": "vw0dvLxm1Ec",
@@ -492,7 +546,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=vw0dvLxm1Ec"
   },
   {
     "video_id": "A3jWvfWwyaY",
@@ -501,7 +556,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=A3jWvfWwyaY"
   },
   {
     "video_id": "cMpEPsNUxSU",
@@ -510,7 +566,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=cMpEPsNUxSU"
   },
   {
     "video_id": "GejQtJPB40Q",
@@ -519,7 +576,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=GejQtJPB40Q"
   },
   {
     "video_id": "fpSnjT3uyOU",
@@ -528,7 +586,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=fpSnjT3uyOU"
   },
   {
     "video_id": "Z29yEWlxsoc",
@@ -537,7 +596,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=Z29yEWlxsoc"
   },
   {
     "video_id": "08kPuAbE89U",
@@ -546,7 +606,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=08kPuAbE89U"
   },
   {
     "video_id": "IWx8KVXCyYA",
@@ -555,7 +616,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=IWx8KVXCyYA"
   },
   {
     "video_id": "DlPbo9V8vqQ",
@@ -564,7 +626,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=DlPbo9V8vqQ"
   },
   {
     "video_id": "AAcrfrZ7YQs",
@@ -573,7 +636,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=AAcrfrZ7YQs"
   },
   {
     "video_id": "ZhHD9V0jYOw",
@@ -582,7 +646,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=ZhHD9V0jYOw"
   },
   {
     "video_id": "yNNb-LvnZOo",
@@ -591,7 +656,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=yNNb-LvnZOo"
   },
   {
     "video_id": "hVL0srRwERw",
@@ -600,7 +666,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=hVL0srRwERw"
   },
   {
     "video_id": "hEQ_Sj4R9Oo",
@@ -609,7 +676,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=hEQ_Sj4R9Oo"
   },
   {
     "video_id": "L2PEY9aU0Mk",
@@ -618,7 +686,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=L2PEY9aU0Mk"
   },
   {
     "video_id": "wjlKZGnhl-8",
@@ -627,7 +696,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=wjlKZGnhl-8"
   },
   {
     "video_id": "KY8IHDpyYfQ",
@@ -636,7 +706,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=KY8IHDpyYfQ"
   },
   {
     "video_id": "Q1_I66Fa_mk",
@@ -645,7 +716,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=Q1_I66Fa_mk"
   },
   {
     "video_id": "9YdeJcFQjyM",
@@ -654,7 +726,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=9YdeJcFQjyM"
   },
   {
     "video_id": "KKbeYkkGGxo",
@@ -663,7 +736,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=KKbeYkkGGxo"
   },
   {
     "video_id": "MgF4dZPtoDk",
@@ -672,7 +746,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=MgF4dZPtoDk"
   },
   {
     "video_id": "NiZ9bRIIC2M",
@@ -681,7 +756,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=NiZ9bRIIC2M"
   },
   {
     "video_id": "ezO9jELocGg",
@@ -690,7 +766,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=ezO9jELocGg"
   },
   {
     "video_id": "lBVL7RUDUtQ",
@@ -699,7 +776,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=lBVL7RUDUtQ"
   },
   {
     "video_id": "EpaJpBrnpfY",
@@ -708,7 +786,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=EpaJpBrnpfY"
   },
   {
     "video_id": "vN7UYp2pK20",
@@ -717,7 +796,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=vN7UYp2pK20"
   },
   {
     "video_id": "1Ns3S7hHGC8",
@@ -726,7 +806,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=1Ns3S7hHGC8"
   },
   {
     "video_id": "t6Cq43mtwI0",
@@ -735,7 +816,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=t6Cq43mtwI0"
   },
   {
     "video_id": "ottpqrBBQko",
@@ -744,7 +826,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=ottpqrBBQko"
   },
   {
     "video_id": "MBj33bzcOfk",
@@ -753,7 +836,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=MBj33bzcOfk"
   },
   {
     "video_id": "mk_z6tBbDj4",
@@ -762,7 +846,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=mk_z6tBbDj4"
   },
   {
     "video_id": "VmgSp8FfbWo",
@@ -771,7 +856,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=VmgSp8FfbWo"
   },
   {
     "video_id": "zg5Y-_iR0y0",
@@ -780,7 +866,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=zg5Y-_iR0y0"
   },
   {
     "video_id": "lzDV7tgjP1M",
@@ -789,7 +876,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=lzDV7tgjP1M"
   },
   {
     "video_id": "QY3tE-leTaU",
@@ -798,7 +886,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=QY3tE-leTaU"
   },
   {
     "video_id": "pV7xAZRpeK0",
@@ -807,7 +896,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=pV7xAZRpeK0"
   },
   {
     "video_id": "WyIzpL8lc8o",
@@ -816,7 +906,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=WyIzpL8lc8o"
   },
   {
     "video_id": "eQZilQGMcaQ",
@@ -825,7 +916,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=eQZilQGMcaQ"
   },
   {
     "video_id": "TDrkOE6onuw",
@@ -834,7 +926,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=TDrkOE6onuw"
   },
   {
     "video_id": "vf0XEmQg1i4",
@@ -843,7 +936,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=vf0XEmQg1i4"
   },
   {
     "video_id": "vPKv7hAy_Fs",
@@ -852,7 +946,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=vPKv7hAy_Fs"
   },
   {
     "video_id": "RM5oQMEz6kg",
@@ -861,7 +956,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=RM5oQMEz6kg"
   },
   {
     "video_id": "qZiysMM_LRs",
@@ -870,7 +966,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=qZiysMM_LRs"
   },
   {
     "video_id": "AwYbL1vqTLs",
@@ -879,7 +976,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=AwYbL1vqTLs"
   },
   {
     "video_id": "mW6poZmN3ZU",
@@ -888,7 +986,8 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=mW6poZmN3ZU"
   },
   {
     "video_id": "1SUr5YglvHk",
@@ -897,6 +996,7 @@
     "status": "PENDING",
     "transcript_file": null,
     "dataset_file": null,
-    "qa_count": 0
+    "qa_count": 0,
+    "url": "https://www.youtube.com/watch?v=1SUr5YglvHk"
   }
 ]
