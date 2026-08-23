@@ -6,24 +6,15 @@ The pipeline in [`dhamma/`](file:///c:/training-dhamma/dhamma/) converts Dhamma 
 
 ## Current Corpus State
 
-| Dataset | Source | QA Pairs | Avg Words |
-|---|---|---|---|
-| `Daughters_and_Sons_qa.jsonl` | EPUB – Ajahn Jayasaro | 15 | 194 |
-| `In_Simple_Terms_Similes_qa.jsonl` | EPUB – Ajahn Chah | 53 | 113 |
-| `Knowing the mood of the mind_qa.jsonl` | YouTube – Ajahn Viradhammo | 18 | 118 |
-| `Luang Por Viradhammo - Reflections..._qa.jsonl` | YouTube – Ajahn Viradhammo | 18 | 108 |
-| `Mindfulness_Precepts_and_Crashing..._qa.jsonl` | EPUB – Ajahn Jayasaro | 18 | 110 |
-| `Seen_in_Their_True_Light_qa.jsonl` | EPUB – Thai Forest Tradition | 23 | 116 |
-| `Stillness_Flowing_qa.jsonl` | EPUB – Ajahn Jayasaro | 36 | 120 |
-| `The_Contemplatives_Companion_qa.jsonl` | EPUB – Ajahn Viradhammo | 84 | 131 |
-| `The_Contemplatives_Craft_qa.jsonl` | EPUB – Ajahn Viradhammo | 90 | 112 |
-| `The_Real_Practice_qa.jsonl` | PDF – Ajahn Jayasaro | 18 | 113 |
-| `The_Stillness_of_Being_qa.jsonl` | EPUB – Ajahn Viradhammo | 78 | 92 |
-| `Without_and_Within_qa.jsonl` | EPUB – Ajahn Jayasaro | 120 | 188 |
-| **TOTAL** | | **571** | **131** |
-
-**Splits**: train 514 / val 57  
-**Exports**: `datasets/exports/` — ShareGPT format for all splits
+- **Total QA Pairs**: **1,618 records across 38 source datasets**
+- **Total Training Words**: ~214,943 words (~290,173 tokens)
+- **Average Assistant Words**: ~133 words per answer
+- **Splits**: train 1,457 (90%) / val 161 (10%)
+- **Exports**: `datasets/exports/` — ShareGPT format for master, train, and val splits
+- **Quality Gates**:
+  - `python verify_dataset.py <file>` (Schema & length validation)
+  - `python audit_structure.py --all-datasets` (4-part Thai Forest pedagogical compliance)
+  - `python check_duplicates.py` (Exact & near-duplicate semantic analysis)
 
 ---
 
