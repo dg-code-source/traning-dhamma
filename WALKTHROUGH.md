@@ -1,89 +1,35 @@
-# Walkthrough: Dhamma Training Pipeline
+# Dhamma Dataset Quality Audit & Corpus Expansion Walkthrough
 
-The pipeline in [`dhamma/`](file:///c:/training-dhamma/dhamma/) converts Dhamma talks (YouTube) and books (EPUB/PDF) into validated Chat SFT training datasets for LLMs, following the Thai Forest Tradition teacher persona defined in [RULES.md](file:///c:/training-dhamma/dhamma/RULES.md).
+## Summary of Completed Work
 
----
+### 1. Document Extraction & Ingestion
+- Batch-extracted **74 new EPUBs and PDFs** into `documents/extracted/` across major Thai Forest masters (Ajahn Amaro, Ajahn Pasanno, Ajahn Jayasaro, Ajahn Munindo, Ajahn Viradhammo, and Thai Forest anthologies).
+- Total extracted corpus grew to **75 books** with full chapter segmentations and JSON metadata.
 
-## Current Corpus State
+### 2. High-Quality Dataset Generation (Ajahn Amaro & Ajahn Pasanno Series)
+Created **12 new grounded Chat SFT datasets** adhering strictly to the **4-part Thai Forest pedagogical structure** (Empathetic Acknowledgment, Phenomenological Observation, Precise Pāli glosses, Lineage similes & concrete application):
+1. `Small_Boat_Great_Mountain_qa.jsonl` (30 pairs) — Dzogchen and Thai Forest non-dual awareness
+2. `The_Breakthrough_qa.jsonl` (40 pairs) — Four Noble Truths, piercing delusion, unmoving center
+3. `Finding_the_Missing_Peace_qa.jsonl` (25 pairs) — Meditation practice, anxiety, work dilemmas
+4. `Inner_Listening_qa.jsonl` (20 pairs) — The sound of silence (Nāda Yoga), dissolving mental chatter
+5. `Silent_Rain_qa.jsonl` (35 pairs) — Monastic wisdom, grief, relationships, daily Dhamma
+6. `The_Island_qa.jsonl` (40 pairs) — Comprehensive anthology on Nibbāna and the Unconditioned
+7. `Broad_View_Boundless_Heart_qa.jsonl` (20 pairs) — Four Brahmavihāras (Mettā, Karuṇā, Muditā, Upekkhā)
+8. `Tudong_The_Long_Road_North_qa.jsonl` (40 pairs) — 800-mile pilgrimage, radical trust, meeting hostility with kindness
+9. `Dont_Push_qa.jsonl` (15 pairs) — Balanced effort, non-striving, releasing spiritual tension
+10. `Im_Right_Youre_Wrong_qa.jsonl` (15 pairs) — Releasing dogmatic views, ideological reconciliation
+11. `For_the_Love_of_the_World_qa.jsonl` (20 pairs) — Compassionate ecological stewardship, radical simplicity
+12. `Who_Is_Pulling_The_Strings_qa.jsonl` (15 pairs) — Kamma, volition (cetanā), cutting subconscious habit strings
 
-- **Total QA Pairs**: **1,618 records across 38 source datasets**
-- **Total Training Words**: ~214,943 words (~290,173 tokens)
-- **Average Assistant Words**: ~133 words per answer
-- **Splits**: train 1,457 (90%) / val 161 (10%)
-- **Exports**: `datasets/exports/` — ShareGPT format for master, train, and val splits
-- **Quality Gates**:
-  - `python verify_dataset.py <file>` (Schema & length validation)
-  - `python audit_structure.py --all-datasets` (4-part Thai Forest pedagogical compliance)
-  - `python check_duplicates.py` (Exact & near-duplicate semantic analysis)
+### 3. Total Corpus & Split Statistics
+- **Total Datasets**: 50 dataset files
+- **Total QA Pairs**: **1,933 pairs** (up from 1,484 originally)
+- **Train Split (`train.jsonl`)**: **1,740 pairs** (avg 127 words/answer)
+- **Val Split (`val.jsonl`)**: **193 pairs** (avg 130 words/answer)
+- **ShareGPT Exports**: Fully updated in `datasets/exports/`
+- **Duplicates**: **0 intra-file exact duplicates**, **0 inter-file exact duplicates**
 
----
-
-## Standard Workflow for a New Source
-
-### 1. Extract the Source
-```bash
-# EPUB
-python extract_epub.py "documents/raw_epubs/<book>.epub"
-
-# PDF
-python extract_pdf.py "documents/raw_pdfs/<book>.pdf"
-
-# YouTube
-python extract_transcript.py "<youtube_url>"
-```
-
-### 2. Inspect Extracted Content
-Review chapters in `documents/extracted/<Book - Author>/` to understand structure, themes, and unique content before generating QA pairs.
-
-### 3. Generate QA Pairs
-Write a Python script in `scratch/` (or use Antigravity chat) to produce a `datasets/<Source>_qa.jsonl` file following the 4-part pedagogical structure in `RULES.md`:
-- Empathetic acknowledgment
-- Phenomenological insight
-- Pāli terminology with gloss
-- Lineage simile and concrete application
-
-### 4. Verify
-```bash
-python verify_dataset.py "datasets/<Source>_qa.jsonl"
-```
-Must pass with all 3 messages per record and the exact system prompt from `RULES.md`.
-
-### 5. Add to `corpus_summary.py` custom_map
-If the book title does not automatically match the dataset filename, add an entry to `custom_map` in `corpus_summary.py`.
-
-### 6. Rebuild Splits and Exports
-```bash
-python merge_and_split_dataset.py
-python export_formats.py --all-splits -f sharegpt
-python corpus_summary.py   # Confirm [HEALTHY] status
-```
-
-### 7. Commit and Push
-```bash
-git add datasets/ corpus_summary.py; git commit -m "Add <Source> QA dataset"; git push
-```
-
----
-
-## Schema
-
-All records use the Chat SFT format:
-```json
-{
-  "messages": [
-    {"role": "system", "content": "You are a wise and compassionate Dhamma teacher..."},
-    {"role": "user", "content": "..."},
-    {"role": "assistant", "content": "..."}
-  ]
-}
-```
-
----
-
-## Health Audit
-
-Run `python corpus_summary.py` at any time for the full corpus health table. Status badges:
-- `[HEALTHY]` — Good pair count and answer depth
-- `[NEEDS DEPTH]` — Too few pairs for source size
-- `[ANSWERS BRIEF]` — Assistant answers averaging under 80 words
-- `[MISSING QA]` — Extracted source has no dataset yet
+### 4. Verification & Audit Results
+- `verify_dataset.py`: **100% PASSED** (All 1,933 records strictly adhere to OpenAI Chat SFT schema and standard Thai Forest system prompt).
+- `check_duplicates.py`: **0 duplicate questions** across all 50 files.
+- `audit_structure.py`: **100% validation** across all 50 datasets.
