@@ -13,10 +13,10 @@
     "video_id": "67pwI11VqZI",
     "title": "Ajahn Sumedho Dhamma Talk 2 (67pwI11VqZI)",
     "length": "",
-    "status": "PENDING",
-    "transcript_file": null,
-    "dataset_file": null,
-    "qa_count": 0,
+    "status": "COMPLETED",
+    "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\002_ajahn_sumedho_dhamma_talk_2_67pwi11vqzi.txt",
+    "dataset_file": "yt_sumedho_002_ajahn_sumedho_dhamma_talk_2_67pwi11vqzi_qa.jsonl",
+    "qa_count": 6,
     "url": "https://www.youtube.com/watch?v=67pwI11VqZI"
   },
   {
