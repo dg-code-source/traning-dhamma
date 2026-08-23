@@ -1,0 +1,165 @@
+{
+  "title": "The Breakthrough",
+  "author": "Ajahn Amaro",
+  "language": "en",
+  "total_chapters": 26,
+  "total_words": 81368,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 379,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "About the author",
+      "word_count": 210,
+      "file": "chapter_02_About the author.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Preface",
+      "word_count": 329,
+      "file": "chapter_03_Preface.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "1. A Foundation of Loving Kindness",
+      "word_count": 3178,
+      "file": "chapter_04_1. A Foundation of Loving Kindness.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Meditation Instruction 1 Sitting and Walking",
+      "word_count": 1403,
+      "file": "chapter_05_Meditation Instruction 1 Sitting and Walking.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Meditation Instruction 2 Recollecting the Body and Working With Pain",
+      "word_count": 1370,
+      "file": "chapter_06_Meditation Instruction 2 Recollecting the Body and Working With Pain.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "2. Make Wisdom the Chairperson",
+      "word_count": 4603,
+      "file": "chapter_07_2. Make Wisdom the Chairperson.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Meditation Instruction 3 Body-Sweeping, Mindfulness of Breathing, and Non-Grasping",
+      "word_count": 2336,
+      "file": "chapter_08_Meditation Instruction 3 Body-Sweeping, Mindfulness of Breathing, and Non-Grasping.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "3. The Breakthrough",
+      "word_count": 5797,
+      "file": "chapter_09_3. The Breakthrough.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Meditation Instruction 4 Vipassanā as a Method and a Change of Heart",
+      "word_count": 2766,
+      "file": "chapter_10_Meditation Instruction 4 Vipassanā as a Method and a Change of Heart.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "4. The I-Making, Mine-Making Mind",
+      "word_count": 5842,
+      "file": "chapter_11_4. The I-Making, Mine-Making Mind.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Meditation Instruction 5 A Busy Mind Need Not Be a Problem",
+      "word_count": 1939,
+      "file": "chapter_12_Meditation Instruction 5 A Busy Mind Need Not Be a Problem.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "5. Off The Wheel",
+      "word_count": 5642,
+      "file": "chapter_13_5. Off The Wheel.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Meditation Instruction 6 The Sound of Silence",
+      "word_count": 1908,
+      "file": "chapter_14_Meditation Instruction 6 The Sound of Silence.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "6. Mindfulness of Emotions and Thoughts,\nand the Non-Location of Mind",
+      "word_count": 6332,
+      "file": "chapter_15_6. Mindfulness of Emotions and Thoughts, and the Non-Location of Mind.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Meditation Instruction 7 Space Inside, Space Outside",
+      "word_count": 1632,
+      "file": "chapter_16_Meditation Instruction 7 Space Inside, Space Outside.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Meditation Instruction 8 Realization is Here and Now",
+      "word_count": 2208,
+      "file": "chapter_17_Meditation Instruction 8 Realization is Here and Now.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "7. Puncture Your Papañca",
+      "word_count": 6374,
+      "file": "chapter_18_7. Puncture Your Papañca.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Meditation Instruction 9 Time and Timelessness",
+      "word_count": 2021,
+      "file": "chapter_19_Meditation Instruction 9 Time and Timelessness.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "8. The Practice of Dhamma in Daily Life",
+      "word_count": 6829,
+      "file": "chapter_20_8. The Practice of Dhamma in Daily Life.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "Meditation Instruction 10 Making Daily Determinations",
+      "word_count": 1988,
+      "file": "chapter_21_Meditation Instruction 10 Making Daily Determinations.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "9. Possessive Love and Liberative Love",
+      "word_count": 5800,
+      "file": "chapter_22_9. Possessive Love and Liberative Love.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "10. Failure and Forgiveness",
+      "word_count": 5952,
+      "file": "chapter_23_10. Failure and Forgiveness.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "Meditation Instruction 11 Seeing Space Within and Around the ‘I’",
+      "word_count": 1958,
+      "file": "chapter_24_Meditation Instruction 11 Seeing Space Within and Around the ‘I’.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "11. The Ending of Becoming",
+      "word_count": 1139,
+      "file": "chapter_25_11. The Ending of Becoming.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "Glossary",
+      "word_count": 1433,
+      "file": "chapter_26_Glossary.txt"
+    }
+  ]
+}

@@ -1,0 +1,2193 @@
+{
+  "title": "The Island",
+  "author": "Unknown Author",
+  "language": "de-DE",
+  "total_chapters": 364,
+  "total_words": 126539,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Unformed,",
+      "word_count": 72,
+      "file": "chapter_01_Unformed,.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Contents",
+      "word_count": 515,
+      "file": "chapter_02_Contents.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 463,
+      "file": "chapter_03_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "PREFACE",
+      "word_count": 352,
+      "file": "chapter_04_PREFACE.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Prefaces",
+      "word_count": 208,
+      "file": "chapter_05_Prefaces.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "PREFACE",
+      "word_count": 344,
+      "file": "chapter_06_PREFACE.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Prefaces",
+      "word_count": 447,
+      "file": "chapter_07_Prefaces.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Island",
+      "word_count": 429,
+      "file": "chapter_08_Island.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Prefaces",
+      "word_count": 183,
+      "file": "chapter_09_Prefaces.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Introduction",
+      "word_count": 349,
+      "file": "chapter_10_Introduction.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "IntroductioN",
+      "word_count": 463,
+      "file": "chapter_11_IntroductioN.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Island",
+      "word_count": 456,
+      "file": "chapter_12_Island.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "IntroductioN",
+      "word_count": 321,
+      "file": "chapter_13_IntroductioN.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Island",
+      "word_count": 81,
+      "file": "chapter_14_Island.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Acknowledgements",
+      "word_count": 321,
+      "file": "chapter_15_Acknowledgements.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Island",
+      "word_count": 368,
+      "file": "chapter_16_Island.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Acknowledgements",
+      "word_count": 174,
+      "file": "chapter_17_Acknowledgements.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Pali",
+      "word_count": 200,
+      "file": "chapter_18_Pali.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Pali",
+      "word_count": 273,
+      "file": "chapter_19_Pali.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Luang",
+      "word_count": 89,
+      "file": "chapter_20_Luang.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "What",
+      "word_count": 318,
+      "file": "chapter_21_What.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "WHAT",
+      "word_count": 376,
+      "file": "chapter_22_WHAT.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "Island",
+      "word_count": 439,
+      "file": "chapter_23_Island.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "WHAT",
+      "word_count": 320,
+      "file": "chapter_24_WHAT.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "Island",
+      "word_count": 260,
+      "file": "chapter_25_Island.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "WHAT",
+      "word_count": 153,
+      "file": "chapter_26_WHAT.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "Island",
+      "word_count": 130,
+      "file": "chapter_27_Island.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "WHAT",
+      "word_count": 389,
+      "file": "chapter_28_WHAT.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "Island",
+      "word_count": 401,
+      "file": "chapter_29_Island.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "WHAT",
+      "word_count": 450,
+      "file": "chapter_30_WHAT.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "Island",
+      "word_count": 357,
+      "file": "chapter_31_Island.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "WHAT",
+      "word_count": 310,
+      "file": "chapter_32_WHAT.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "Island",
+      "word_count": 393,
+      "file": "chapter_33_Island.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "WHAT",
+      "word_count": 365,
+      "file": "chapter_34_WHAT.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "Island",
+      "word_count": 153,
+      "file": "chapter_35_Island.txt"
+    },
+    {
+      "chapter_index": 36,
+      "title": "FIRE,",
+      "word_count": 292,
+      "file": "chapter_36_FIRE,.txt"
+    },
+    {
+      "chapter_index": 37,
+      "title": "Island",
+      "word_count": 436,
+      "file": "chapter_37_Island.txt"
+    },
+    {
+      "chapter_index": 38,
+      "title": "FIRE,",
+      "word_count": 393,
+      "file": "chapter_38_FIRE,.txt"
+    },
+    {
+      "chapter_index": 39,
+      "title": "Island",
+      "word_count": 417,
+      "file": "chapter_39_Island.txt"
+    },
+    {
+      "chapter_index": 40,
+      "title": "FIRE,",
+      "word_count": 385,
+      "file": "chapter_40_FIRE,.txt"
+    },
+    {
+      "chapter_index": 41,
+      "title": "Island",
+      "word_count": 418,
+      "file": "chapter_41_Island.txt"
+    },
+    {
+      "chapter_index": 42,
+      "title": "FIRE,",
+      "word_count": 383,
+      "file": "chapter_42_FIRE,.txt"
+    },
+    {
+      "chapter_index": 43,
+      "title": "Island",
+      "word_count": 280,
+      "file": "chapter_43_Island.txt"
+    },
+    {
+      "chapter_index": 44,
+      "title": "FIRE,",
+      "word_count": 297,
+      "file": "chapter_44_FIRE,.txt"
+    },
+    {
+      "chapter_index": 45,
+      "title": "Island",
+      "word_count": 249,
+      "file": "chapter_45_Island.txt"
+    },
+    {
+      "chapter_index": 46,
+      "title": "FIRE,",
+      "word_count": 274,
+      "file": "chapter_46_FIRE,.txt"
+    },
+    {
+      "chapter_index": 47,
+      "title": "Island",
+      "word_count": 127,
+      "file": "chapter_47_Island.txt"
+    },
+    {
+      "chapter_index": 48,
+      "title": "FIRE,",
+      "word_count": 146,
+      "file": "chapter_48_FIRE,.txt"
+    },
+    {
+      "chapter_index": 49,
+      "title": "This",
+      "word_count": 323,
+      "file": "chapter_49_This.txt"
+    },
+    {
+      "chapter_index": 50,
+      "title": "THIS",
+      "word_count": 360,
+      "file": "chapter_50_THIS.txt"
+    },
+    {
+      "chapter_index": 51,
+      "title": "Island",
+      "word_count": 472,
+      "file": "chapter_51_Island.txt"
+    },
+    {
+      "chapter_index": 52,
+      "title": "THIS",
+      "word_count": 409,
+      "file": "chapter_52_THIS.txt"
+    },
+    {
+      "chapter_index": 53,
+      "title": "Island",
+      "word_count": 303,
+      "file": "chapter_53_Island.txt"
+    },
+    {
+      "chapter_index": 54,
+      "title": "THIS",
+      "word_count": 306,
+      "file": "chapter_54_THIS.txt"
+    },
+    {
+      "chapter_index": 55,
+      "title": "Island",
+      "word_count": 437,
+      "file": "chapter_55_Island.txt"
+    },
+    {
+      "chapter_index": 56,
+      "title": "THIS",
+      "word_count": 407,
+      "file": "chapter_56_THIS.txt"
+    },
+    {
+      "chapter_index": 57,
+      "title": "Island",
+      "word_count": 338,
+      "file": "chapter_57_Island.txt"
+    },
+    {
+      "chapter_index": 58,
+      "title": "THIS",
+      "word_count": 358,
+      "file": "chapter_58_THIS.txt"
+    },
+    {
+      "chapter_index": 59,
+      "title": "“ALL",
+      "word_count": 255,
+      "file": "chapter_59_“ALL.txt"
+    },
+    {
+      "chapter_index": 60,
+      "title": "“ALL",
+      "word_count": 398,
+      "file": "chapter_60_“ALL.txt"
+    },
+    {
+      "chapter_index": 61,
+      "title": "Island",
+      "word_count": 370,
+      "file": "chapter_61_Island.txt"
+    },
+    {
+      "chapter_index": 62,
+      "title": "“ALL",
+      "word_count": 388,
+      "file": "chapter_62_“ALL.txt"
+    },
+    {
+      "chapter_index": 63,
+      "title": "Island",
+      "word_count": 432,
+      "file": "chapter_63_Island.txt"
+    },
+    {
+      "chapter_index": 64,
+      "title": "“ALL",
+      "word_count": 345,
+      "file": "chapter_64_“ALL.txt"
+    },
+    {
+      "chapter_index": 65,
+      "title": "Island",
+      "word_count": 408,
+      "file": "chapter_65_Island.txt"
+    },
+    {
+      "chapter_index": 66,
+      "title": "“ALL",
+      "word_count": 374,
+      "file": "chapter_66_“ALL.txt"
+    },
+    {
+      "chapter_index": 67,
+      "title": "Island",
+      "word_count": 388,
+      "file": "chapter_67_Island.txt"
+    },
+    {
+      "chapter_index": 68,
+      "title": "“ALL",
+      "word_count": 358,
+      "file": "chapter_68_“ALL.txt"
+    },
+    {
+      "chapter_index": 69,
+      "title": "Island",
+      "word_count": 376,
+      "file": "chapter_69_Island.txt"
+    },
+    {
+      "chapter_index": 70,
+      "title": "“ALL",
+      "word_count": 366,
+      "file": "chapter_70_“ALL.txt"
+    },
+    {
+      "chapter_index": 71,
+      "title": "Island",
+      "word_count": 375,
+      "file": "chapter_71_Island.txt"
+    },
+    {
+      "chapter_index": 72,
+      "title": "“ALL",
+      "word_count": 390,
+      "file": "chapter_72_“ALL.txt"
+    },
+    {
+      "chapter_index": 73,
+      "title": "Island",
+      "word_count": 370,
+      "file": "chapter_73_Island.txt"
+    },
+    {
+      "chapter_index": 74,
+      "title": "“ALL",
+      "word_count": 365,
+      "file": "chapter_74_“ALL.txt"
+    },
+    {
+      "chapter_index": 75,
+      "title": "Island",
+      "word_count": 387,
+      "file": "chapter_75_Island.txt"
+    },
+    {
+      "chapter_index": 76,
+      "title": "“ALL",
+      "word_count": 401,
+      "file": "chapter_76_“ALL.txt"
+    },
+    {
+      "chapter_index": 77,
+      "title": "Island",
+      "word_count": 245,
+      "file": "chapter_77_Island.txt"
+    },
+    {
+      "chapter_index": 78,
+      "title": "THAT",
+      "word_count": 273,
+      "file": "chapter_78_THAT.txt"
+    },
+    {
+      "chapter_index": 79,
+      "title": "Island",
+      "word_count": 415,
+      "file": "chapter_79_Island.txt"
+    },
+    {
+      "chapter_index": 80,
+      "title": "BE...”",
+      "word_count": 355,
+      "file": "chapter_80_BE...”.txt"
+    },
+    {
+      "chapter_index": 81,
+      "title": "Island",
+      "word_count": 258,
+      "file": "chapter_81_Island.txt"
+    },
+    {
+      "chapter_index": 82,
+      "title": "BE...”",
+      "word_count": 324,
+      "file": "chapter_82_BE...”.txt"
+    },
+    {
+      "chapter_index": 83,
+      "title": "Island",
+      "word_count": 411,
+      "file": "chapter_83_Island.txt"
+    },
+    {
+      "chapter_index": 84,
+      "title": "BE...”",
+      "word_count": 355,
+      "file": "chapter_84_BE...”.txt"
+    },
+    {
+      "chapter_index": 85,
+      "title": "Island",
+      "word_count": 321,
+      "file": "chapter_85_Island.txt"
+    },
+    {
+      "chapter_index": 86,
+      "title": "BE...”",
+      "word_count": 352,
+      "file": "chapter_86_BE...”.txt"
+    },
+    {
+      "chapter_index": 87,
+      "title": "Island",
+      "word_count": 317,
+      "file": "chapter_87_Island.txt"
+    },
+    {
+      "chapter_index": 88,
+      "title": "BE...”",
+      "word_count": 411,
+      "file": "chapter_88_BE...”.txt"
+    },
+    {
+      "chapter_index": 89,
+      "title": "Island",
+      "word_count": 428,
+      "file": "chapter_89_Island.txt"
+    },
+    {
+      "chapter_index": 90,
+      "title": "BE...”",
+      "word_count": 455,
+      "file": "chapter_90_BE...”.txt"
+    },
+    {
+      "chapter_index": 91,
+      "title": "Island",
+      "word_count": 350,
+      "file": "chapter_91_Island.txt"
+    },
+    {
+      "chapter_index": 92,
+      "title": "BE...”",
+      "word_count": 346,
+      "file": "chapter_92_BE...”.txt"
+    },
+    {
+      "chapter_index": 93,
+      "title": "Island",
+      "word_count": 244,
+      "file": "chapter_93_Island.txt"
+    },
+    {
+      "chapter_index": 94,
+      "title": "BE...”",
+      "word_count": 328,
+      "file": "chapter_94_BE...”.txt"
+    },
+    {
+      "chapter_index": 95,
+      "title": "Island",
+      "word_count": 369,
+      "file": "chapter_95_Island.txt"
+    },
+    {
+      "chapter_index": 96,
+      "title": "BE...”",
+      "word_count": 378,
+      "file": "chapter_96_BE...”.txt"
+    },
+    {
+      "chapter_index": 97,
+      "title": "Island",
+      "word_count": 333,
+      "file": "chapter_97_Island.txt"
+    },
+    {
+      "chapter_index": 98,
+      "title": "BE...”",
+      "word_count": 360,
+      "file": "chapter_98_BE...”.txt"
+    },
+    {
+      "chapter_index": 99,
+      "title": "Island",
+      "word_count": 396,
+      "file": "chapter_99_Island.txt"
+    },
+    {
+      "chapter_index": 100,
+      "title": "BE...”",
+      "word_count": 365,
+      "file": "chapter_100_BE...”.txt"
+    },
+    {
+      "chapter_index": 101,
+      "title": "Island",
+      "word_count": 325,
+      "file": "chapter_101_Island.txt"
+    },
+    {
+      "chapter_index": 102,
+      "title": "BE...”",
+      "word_count": 239,
+      "file": "chapter_102_BE...”.txt"
+    },
+    {
+      "chapter_index": 103,
+      "title": "Island",
+      "word_count": 90,
+      "file": "chapter_103_Island.txt"
+    },
+    {
+      "chapter_index": 104,
+      "title": "AtammayAtā:",
+      "word_count": 322,
+      "file": "chapter_104_AtammayAtā.txt"
+    },
+    {
+      "chapter_index": 105,
+      "title": "Island",
+      "word_count": 396,
+      "file": "chapter_105_Island.txt"
+    },
+    {
+      "chapter_index": 106,
+      "title": "Atammayatā",
+      "word_count": 367,
+      "file": "chapter_106_Atammayatā.txt"
+    },
+    {
+      "chapter_index": 107,
+      "title": "Island",
+      "word_count": 261,
+      "file": "chapter_107_Island.txt"
+    },
+    {
+      "chapter_index": 108,
+      "title": "Atammayatā",
+      "word_count": 330,
+      "file": "chapter_108_Atammayatā.txt"
+    },
+    {
+      "chapter_index": 109,
+      "title": "Island",
+      "word_count": 343,
+      "file": "chapter_109_Island.txt"
+    },
+    {
+      "chapter_index": 110,
+      "title": "Atammayatā",
+      "word_count": 399,
+      "file": "chapter_110_Atammayatā.txt"
+    },
+    {
+      "chapter_index": 111,
+      "title": "Island",
+      "word_count": 483,
+      "file": "chapter_111_Island.txt"
+    },
+    {
+      "chapter_index": 112,
+      "title": "Atammayatā",
+      "word_count": 342,
+      "file": "chapter_112_Atammayatā.txt"
+    },
+    {
+      "chapter_index": 113,
+      "title": "Island",
+      "word_count": 332,
+      "file": "chapter_113_Island.txt"
+    },
+    {
+      "chapter_index": 114,
+      "title": "Atammayatā",
+      "word_count": 332,
+      "file": "chapter_114_Atammayatā.txt"
+    },
+    {
+      "chapter_index": 115,
+      "title": "Island",
+      "word_count": 372,
+      "file": "chapter_115_Island.txt"
+    },
+    {
+      "chapter_index": 116,
+      "title": "ATTENDING",
+      "word_count": 305,
+      "file": "chapter_116_ATTENDING.txt"
+    },
+    {
+      "chapter_index": 117,
+      "title": "Island",
+      "word_count": 428,
+      "file": "chapter_117_Island.txt"
+    },
+    {
+      "chapter_index": 118,
+      "title": "ATTENDING",
+      "word_count": 422,
+      "file": "chapter_118_ATTENDING.txt"
+    },
+    {
+      "chapter_index": 119,
+      "title": "Island",
+      "word_count": 338,
+      "file": "chapter_119_Island.txt"
+    },
+    {
+      "chapter_index": 120,
+      "title": "ATTENDING",
+      "word_count": 315,
+      "file": "chapter_120_ATTENDING.txt"
+    },
+    {
+      "chapter_index": 121,
+      "title": "Island",
+      "word_count": 249,
+      "file": "chapter_121_Island.txt"
+    },
+    {
+      "chapter_index": 122,
+      "title": "ATTENDING",
+      "word_count": 404,
+      "file": "chapter_122_ATTENDING.txt"
+    },
+    {
+      "chapter_index": 123,
+      "title": "Island",
+      "word_count": 237,
+      "file": "chapter_123_Island.txt"
+    },
+    {
+      "chapter_index": 124,
+      "title": "UNSUPPORTED",
+      "word_count": 301,
+      "file": "chapter_124_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 125,
+      "title": "Island",
+      "word_count": 440,
+      "file": "chapter_125_Island.txt"
+    },
+    {
+      "chapter_index": 126,
+      "title": "UNSUPPORTED",
+      "word_count": 389,
+      "file": "chapter_126_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 127,
+      "title": "Island",
+      "word_count": 303,
+      "file": "chapter_127_Island.txt"
+    },
+    {
+      "chapter_index": 128,
+      "title": "UNSUPPORTED",
+      "word_count": 451,
+      "file": "chapter_128_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 129,
+      "title": "Island",
+      "word_count": 386,
+      "file": "chapter_129_Island.txt"
+    },
+    {
+      "chapter_index": 130,
+      "title": "UNSUPPORTED",
+      "word_count": 410,
+      "file": "chapter_130_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 131,
+      "title": "Island",
+      "word_count": 390,
+      "file": "chapter_131_Island.txt"
+    },
+    {
+      "chapter_index": 132,
+      "title": "UNSUPPORTED",
+      "word_count": 281,
+      "file": "chapter_132_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 133,
+      "title": "Island",
+      "word_count": 379,
+      "file": "chapter_133_Island.txt"
+    },
+    {
+      "chapter_index": 134,
+      "title": "UNSUPPORTED",
+      "word_count": 377,
+      "file": "chapter_134_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 135,
+      "title": "Island",
+      "word_count": 417,
+      "file": "chapter_135_Island.txt"
+    },
+    {
+      "chapter_index": 136,
+      "title": "UNSUPPORTED",
+      "word_count": 364,
+      "file": "chapter_136_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 137,
+      "title": "Island",
+      "word_count": 380,
+      "file": "chapter_137_Island.txt"
+    },
+    {
+      "chapter_index": 138,
+      "title": "UNSUPPORTED",
+      "word_count": 394,
+      "file": "chapter_138_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 139,
+      "title": "Island",
+      "word_count": 329,
+      "file": "chapter_139_Island.txt"
+    },
+    {
+      "chapter_index": 140,
+      "title": "UNSUPPORTED",
+      "word_count": 349,
+      "file": "chapter_140_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 141,
+      "title": "Island",
+      "word_count": 302,
+      "file": "chapter_141_Island.txt"
+    },
+    {
+      "chapter_index": 142,
+      "title": "UNSUPPORTED",
+      "word_count": 378,
+      "file": "chapter_142_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 143,
+      "title": "Island",
+      "word_count": 250,
+      "file": "chapter_143_Island.txt"
+    },
+    {
+      "chapter_index": 144,
+      "title": "UNSUPPORTED",
+      "word_count": 415,
+      "file": "chapter_144_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 145,
+      "title": "Island",
+      "word_count": 303,
+      "file": "chapter_145_Island.txt"
+    },
+    {
+      "chapter_index": 146,
+      "title": "UNSUPPORTED",
+      "word_count": 389,
+      "file": "chapter_146_UNSUPPORTED.txt"
+    },
+    {
+      "chapter_index": 147,
+      "title": "Island",
+      "word_count": 237,
+      "file": "chapter_147_Island.txt"
+    },
+    {
+      "chapter_index": 148,
+      "title": "UNCONDITIONED",
+      "word_count": 284,
+      "file": "chapter_148_UNCONDITIONED.txt"
+    },
+    {
+      "chapter_index": 149,
+      "title": "Island",
+      "word_count": 425,
+      "file": "chapter_149_Island.txt"
+    },
+    {
+      "chapter_index": 150,
+      "title": "UNCONDITIONED",
+      "word_count": 377,
+      "file": "chapter_150_UNCONDITIONED.txt"
+    },
+    {
+      "chapter_index": 151,
+      "title": "Island",
+      "word_count": 345,
+      "file": "chapter_151_Island.txt"
+    },
+    {
+      "chapter_index": 152,
+      "title": "UNCONDITIONED",
+      "word_count": 400,
+      "file": "chapter_152_UNCONDITIONED.txt"
+    },
+    {
+      "chapter_index": 153,
+      "title": "Island",
+      "word_count": 343,
+      "file": "chapter_153_Island.txt"
+    },
+    {
+      "chapter_index": 154,
+      "title": "UNCONDITIONED",
+      "word_count": 437,
+      "file": "chapter_154_UNCONDITIONED.txt"
+    },
+    {
+      "chapter_index": 155,
+      "title": "Island",
+      "word_count": 331,
+      "file": "chapter_155_Island.txt"
+    },
+    {
+      "chapter_index": 156,
+      "title": "UNCONDITIONED",
+      "word_count": 442,
+      "file": "chapter_156_UNCONDITIONED.txt"
+    },
+    {
+      "chapter_index": 157,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 237,
+      "file": "chapter_157_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 158,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 327,
+      "file": "chapter_158_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 159,
+      "title": "Island",
+      "word_count": 362,
+      "file": "chapter_159_Island.txt"
+    },
+    {
+      "chapter_index": 160,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 392,
+      "file": "chapter_160_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 161,
+      "title": "Island",
+      "word_count": 380,
+      "file": "chapter_161_Island.txt"
+    },
+    {
+      "chapter_index": 162,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 333,
+      "file": "chapter_162_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 163,
+      "title": "Island",
+      "word_count": 226,
+      "file": "chapter_163_Island.txt"
+    },
+    {
+      "chapter_index": 164,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 368,
+      "file": "chapter_164_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 165,
+      "title": "Island",
+      "word_count": 442,
+      "file": "chapter_165_Island.txt"
+    },
+    {
+      "chapter_index": 166,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 444,
+      "file": "chapter_166_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 167,
+      "title": "Island",
+      "word_count": 361,
+      "file": "chapter_167_Island.txt"
+    },
+    {
+      "chapter_index": 168,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 281,
+      "file": "chapter_168_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 169,
+      "title": "Island",
+      "word_count": 411,
+      "file": "chapter_169_Island.txt"
+    },
+    {
+      "chapter_index": 170,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 466,
+      "file": "chapter_170_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 171,
+      "title": "Island",
+      "word_count": 408,
+      "file": "chapter_171_Island.txt"
+    },
+    {
+      "chapter_index": 172,
+      "title": "UNAPPREHENDABILITY",
+      "word_count": 270,
+      "file": "chapter_172_UNAPPREHENDABILITY.txt"
+    },
+    {
+      "chapter_index": 173,
+      "title": "“‘REAPPEARS’",
+      "word_count": 349,
+      "file": "chapter_173_“‘REAPPEARS’.txt"
+    },
+    {
+      "chapter_index": 174,
+      "title": "“‘REAPPEARS’",
+      "word_count": 459,
+      "file": "chapter_174_“‘REAPPEARS’.txt"
+    },
+    {
+      "chapter_index": 175,
+      "title": "Island",
+      "word_count": 343,
+      "file": "chapter_175_Island.txt"
+    },
+    {
+      "chapter_index": 176,
+      "title": "“‘REAPPEARS’",
+      "word_count": 392,
+      "file": "chapter_176_“‘REAPPEARS’.txt"
+    },
+    {
+      "chapter_index": 177,
+      "title": "Island",
+      "word_count": 449,
+      "file": "chapter_177_Island.txt"
+    },
+    {
+      "chapter_index": 178,
+      "title": "“‘REAPPEARS’",
+      "word_count": 367,
+      "file": "chapter_178_“‘REAPPEARS’.txt"
+    },
+    {
+      "chapter_index": 179,
+      "title": "Island",
+      "word_count": 368,
+      "file": "chapter_179_Island.txt"
+    },
+    {
+      "chapter_index": 180,
+      "title": "“‘REAPPEARS’",
+      "word_count": 225,
+      "file": "chapter_180_“‘REAPPEARS’.txt"
+    },
+    {
+      "chapter_index": 181,
+      "title": "Island",
+      "word_count": 349,
+      "file": "chapter_181_Island.txt"
+    },
+    {
+      "chapter_index": 182,
+      "title": "“‘REAPPEARS’",
+      "word_count": 209,
+      "file": "chapter_182_“‘REAPPEARS’.txt"
+    },
+    {
+      "chapter_index": 183,
+      "title": "KNOWING,",
+      "word_count": 237,
+      "file": "chapter_183_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 184,
+      "title": "KNOWING,",
+      "word_count": 420,
+      "file": "chapter_184_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 185,
+      "title": "Island",
+      "word_count": 379,
+      "file": "chapter_185_Island.txt"
+    },
+    {
+      "chapter_index": 186,
+      "title": "KNOWING,",
+      "word_count": 271,
+      "file": "chapter_186_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 187,
+      "title": "Island",
+      "word_count": 390,
+      "file": "chapter_187_Island.txt"
+    },
+    {
+      "chapter_index": 188,
+      "title": "KNOWING,",
+      "word_count": 387,
+      "file": "chapter_188_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 189,
+      "title": "Island",
+      "word_count": 431,
+      "file": "chapter_189_Island.txt"
+    },
+    {
+      "chapter_index": 190,
+      "title": "KNOWING,",
+      "word_count": 403,
+      "file": "chapter_190_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 191,
+      "title": "Island",
+      "word_count": 356,
+      "file": "chapter_191_Island.txt"
+    },
+    {
+      "chapter_index": 192,
+      "title": "KNOWING,",
+      "word_count": 383,
+      "file": "chapter_192_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 193,
+      "title": "Island",
+      "word_count": 391,
+      "file": "chapter_193_Island.txt"
+    },
+    {
+      "chapter_index": 194,
+      "title": "KNOWING,",
+      "word_count": 335,
+      "file": "chapter_194_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 195,
+      "title": "Island",
+      "word_count": 391,
+      "file": "chapter_195_Island.txt"
+    },
+    {
+      "chapter_index": 196,
+      "title": "KNOWING,",
+      "word_count": 405,
+      "file": "chapter_196_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 197,
+      "title": "Island",
+      "word_count": 353,
+      "file": "chapter_197_Island.txt"
+    },
+    {
+      "chapter_index": 198,
+      "title": "KNOWING,",
+      "word_count": 386,
+      "file": "chapter_198_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 199,
+      "title": "Island",
+      "word_count": 366,
+      "file": "chapter_199_Island.txt"
+    },
+    {
+      "chapter_index": 200,
+      "title": "KNOWING,",
+      "word_count": 360,
+      "file": "chapter_200_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 201,
+      "title": "Island",
+      "word_count": 418,
+      "file": "chapter_201_Island.txt"
+    },
+    {
+      "chapter_index": 202,
+      "title": "KNOWING,",
+      "word_count": 232,
+      "file": "chapter_202_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 203,
+      "title": "Island",
+      "word_count": 311,
+      "file": "chapter_203_Island.txt"
+    },
+    {
+      "chapter_index": 204,
+      "title": "KNOWING,",
+      "word_count": 385,
+      "file": "chapter_204_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 205,
+      "title": "Island",
+      "word_count": 270,
+      "file": "chapter_205_Island.txt"
+    },
+    {
+      "chapter_index": 206,
+      "title": "KNOWING,",
+      "word_count": 390,
+      "file": "chapter_206_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 207,
+      "title": "Island",
+      "word_count": 395,
+      "file": "chapter_207_Island.txt"
+    },
+    {
+      "chapter_index": 208,
+      "title": "KNOWING,",
+      "word_count": 413,
+      "file": "chapter_208_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 209,
+      "title": "Island",
+      "word_count": 435,
+      "file": "chapter_209_Island.txt"
+    },
+    {
+      "chapter_index": 210,
+      "title": "KNOWING,",
+      "word_count": 446,
+      "file": "chapter_210_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 211,
+      "title": "Island",
+      "word_count": 418,
+      "file": "chapter_211_Island.txt"
+    },
+    {
+      "chapter_index": 212,
+      "title": "KNOWING,",
+      "word_count": 414,
+      "file": "chapter_212_KNOWING,.txt"
+    },
+    {
+      "chapter_index": 213,
+      "title": "PRACTICES",
+      "word_count": 280,
+      "file": "chapter_213_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 214,
+      "title": "PRACTICES",
+      "word_count": 399,
+      "file": "chapter_214_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 215,
+      "title": "Island",
+      "word_count": 371,
+      "file": "chapter_215_Island.txt"
+    },
+    {
+      "chapter_index": 216,
+      "title": "PRACTICES",
+      "word_count": 322,
+      "file": "chapter_216_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 217,
+      "title": "Island",
+      "word_count": 333,
+      "file": "chapter_217_Island.txt"
+    },
+    {
+      "chapter_index": 218,
+      "title": "PRACTICES",
+      "word_count": 273,
+      "file": "chapter_218_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 219,
+      "title": "Island",
+      "word_count": 345,
+      "file": "chapter_219_Island.txt"
+    },
+    {
+      "chapter_index": 220,
+      "title": "PRACTICES",
+      "word_count": 415,
+      "file": "chapter_220_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 221,
+      "title": "Island",
+      "word_count": 366,
+      "file": "chapter_221_Island.txt"
+    },
+    {
+      "chapter_index": 222,
+      "title": "PRACTICES",
+      "word_count": 404,
+      "file": "chapter_222_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 223,
+      "title": "Island",
+      "word_count": 414,
+      "file": "chapter_223_Island.txt"
+    },
+    {
+      "chapter_index": 224,
+      "title": "PRACTICES",
+      "word_count": 394,
+      "file": "chapter_224_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 225,
+      "title": "Island",
+      "word_count": 394,
+      "file": "chapter_225_Island.txt"
+    },
+    {
+      "chapter_index": 226,
+      "title": "PRACTICES",
+      "word_count": 352,
+      "file": "chapter_226_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 227,
+      "title": "Island",
+      "word_count": 407,
+      "file": "chapter_227_Island.txt"
+    },
+    {
+      "chapter_index": 228,
+      "title": "PRACTICES",
+      "word_count": 266,
+      "file": "chapter_228_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 229,
+      "title": "Island",
+      "word_count": 204,
+      "file": "chapter_229_Island.txt"
+    },
+    {
+      "chapter_index": 230,
+      "title": "PRACTICES",
+      "word_count": 412,
+      "file": "chapter_230_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 231,
+      "title": "Island",
+      "word_count": 357,
+      "file": "chapter_231_Island.txt"
+    },
+    {
+      "chapter_index": 232,
+      "title": "PRACTICES",
+      "word_count": 372,
+      "file": "chapter_232_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 233,
+      "title": "Island",
+      "word_count": 365,
+      "file": "chapter_233_Island.txt"
+    },
+    {
+      "chapter_index": 234,
+      "title": "PRACTICES",
+      "word_count": 339,
+      "file": "chapter_234_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 235,
+      "title": "Island",
+      "word_count": 291,
+      "file": "chapter_235_Island.txt"
+    },
+    {
+      "chapter_index": 236,
+      "title": "PRACTICES",
+      "word_count": 263,
+      "file": "chapter_236_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 237,
+      "title": "Island",
+      "word_count": 375,
+      "file": "chapter_237_Island.txt"
+    },
+    {
+      "chapter_index": 238,
+      "title": "PRACTICES",
+      "word_count": 361,
+      "file": "chapter_238_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 239,
+      "title": "Island",
+      "word_count": 386,
+      "file": "chapter_239_Island.txt"
+    },
+    {
+      "chapter_index": 240,
+      "title": "PRACTICES",
+      "word_count": 359,
+      "file": "chapter_240_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 241,
+      "title": "Island",
+      "word_count": 399,
+      "file": "chapter_241_Island.txt"
+    },
+    {
+      "chapter_index": 242,
+      "title": "PRACTICES",
+      "word_count": 395,
+      "file": "chapter_242_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 243,
+      "title": "Island",
+      "word_count": 431,
+      "file": "chapter_243_Island.txt"
+    },
+    {
+      "chapter_index": 244,
+      "title": "PRACTICES",
+      "word_count": 379,
+      "file": "chapter_244_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 245,
+      "title": "Island",
+      "word_count": 440,
+      "file": "chapter_245_Island.txt"
+    },
+    {
+      "chapter_index": 246,
+      "title": "PRACTICES",
+      "word_count": 430,
+      "file": "chapter_246_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 247,
+      "title": "Island",
+      "word_count": 368,
+      "file": "chapter_247_Island.txt"
+    },
+    {
+      "chapter_index": 248,
+      "title": "PRACTICES",
+      "word_count": 379,
+      "file": "chapter_248_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 249,
+      "title": "Island",
+      "word_count": 326,
+      "file": "chapter_249_Island.txt"
+    },
+    {
+      "chapter_index": 250,
+      "title": "PRACTICES",
+      "word_count": 388,
+      "file": "chapter_250_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 251,
+      "title": "Island",
+      "word_count": 365,
+      "file": "chapter_251_Island.txt"
+    },
+    {
+      "chapter_index": 252,
+      "title": "PRACTICES",
+      "word_count": 388,
+      "file": "chapter_252_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 253,
+      "title": "Island",
+      "word_count": 159,
+      "file": "chapter_253_Island.txt"
+    },
+    {
+      "chapter_index": 254,
+      "title": "PRACTICES",
+      "word_count": 224,
+      "file": "chapter_254_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 255,
+      "title": "PRACTICES",
+      "word_count": 304,
+      "file": "chapter_255_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 256,
+      "title": "PRACTICES",
+      "word_count": 338,
+      "file": "chapter_256_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 257,
+      "title": "Island",
+      "word_count": 357,
+      "file": "chapter_257_Island.txt"
+    },
+    {
+      "chapter_index": 258,
+      "title": "PRACTICES",
+      "word_count": 392,
+      "file": "chapter_258_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 259,
+      "title": "Island",
+      "word_count": 305,
+      "file": "chapter_259_Island.txt"
+    },
+    {
+      "chapter_index": 260,
+      "title": "PRACTICES",
+      "word_count": 305,
+      "file": "chapter_260_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 261,
+      "title": "Island",
+      "word_count": 335,
+      "file": "chapter_261_Island.txt"
+    },
+    {
+      "chapter_index": 262,
+      "title": "PRACTICES",
+      "word_count": 324,
+      "file": "chapter_262_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 263,
+      "title": "Island",
+      "word_count": 340,
+      "file": "chapter_263_Island.txt"
+    },
+    {
+      "chapter_index": 264,
+      "title": "PRACTICES",
+      "word_count": 291,
+      "file": "chapter_264_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 265,
+      "title": "Island",
+      "word_count": 342,
+      "file": "chapter_265_Island.txt"
+    },
+    {
+      "chapter_index": 266,
+      "title": "PRACTICES",
+      "word_count": 400,
+      "file": "chapter_266_PRACTICES.txt"
+    },
+    {
+      "chapter_index": 267,
+      "title": "Island",
+      "word_count": 338,
+      "file": "chapter_267_Island.txt"
+    },
+    {
+      "chapter_index": 268,
+      "title": "SOTĀPANNA:",
+      "word_count": 258,
+      "file": "chapter_268_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 269,
+      "title": "Island",
+      "word_count": 422,
+      "file": "chapter_269_Island.txt"
+    },
+    {
+      "chapter_index": 270,
+      "title": "SOTĀPANNA:",
+      "word_count": 350,
+      "file": "chapter_270_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 271,
+      "title": "Island",
+      "word_count": 370,
+      "file": "chapter_271_Island.txt"
+    },
+    {
+      "chapter_index": 272,
+      "title": "SOTĀPANNA:",
+      "word_count": 365,
+      "file": "chapter_272_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 273,
+      "title": "Island",
+      "word_count": 273,
+      "file": "chapter_273_Island.txt"
+    },
+    {
+      "chapter_index": 274,
+      "title": "SOTĀPANNA:",
+      "word_count": 365,
+      "file": "chapter_274_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 275,
+      "title": "Island",
+      "word_count": 386,
+      "file": "chapter_275_Island.txt"
+    },
+    {
+      "chapter_index": 276,
+      "title": "SOTĀPANNA:",
+      "word_count": 376,
+      "file": "chapter_276_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 277,
+      "title": "Island",
+      "word_count": 371,
+      "file": "chapter_277_Island.txt"
+    },
+    {
+      "chapter_index": 278,
+      "title": "SOTĀPANNA:",
+      "word_count": 405,
+      "file": "chapter_278_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 279,
+      "title": "Island",
+      "word_count": 357,
+      "file": "chapter_279_Island.txt"
+    },
+    {
+      "chapter_index": 280,
+      "title": "SOTĀPANNA:",
+      "word_count": 340,
+      "file": "chapter_280_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 281,
+      "title": "Island",
+      "word_count": 370,
+      "file": "chapter_281_Island.txt"
+    },
+    {
+      "chapter_index": 282,
+      "title": "SOTĀPANNA:",
+      "word_count": 358,
+      "file": "chapter_282_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 283,
+      "title": "SOTĀPANNA:",
+      "word_count": 252,
+      "file": "chapter_283_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 284,
+      "title": "SOTĀPANNA:",
+      "word_count": 414,
+      "file": "chapter_284_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 285,
+      "title": "Island",
+      "word_count": 351,
+      "file": "chapter_285_Island.txt"
+    },
+    {
+      "chapter_index": 286,
+      "title": "SOTĀPANNA:",
+      "word_count": 348,
+      "file": "chapter_286_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 287,
+      "title": "Island",
+      "word_count": 391,
+      "file": "chapter_287_Island.txt"
+    },
+    {
+      "chapter_index": 288,
+      "title": "SOTĀPANNA:",
+      "word_count": 375,
+      "file": "chapter_288_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 289,
+      "title": "Island",
+      "word_count": 326,
+      "file": "chapter_289_Island.txt"
+    },
+    {
+      "chapter_index": 290,
+      "title": "SOTĀPANNA:",
+      "word_count": 214,
+      "file": "chapter_290_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 291,
+      "title": "SOTĀPANNA:",
+      "word_count": 244,
+      "file": "chapter_291_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 292,
+      "title": "SOTĀPANNA:",
+      "word_count": 417,
+      "file": "chapter_292_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 293,
+      "title": "Island",
+      "word_count": 409,
+      "file": "chapter_293_Island.txt"
+    },
+    {
+      "chapter_index": 294,
+      "title": "SOTĀPANNA:",
+      "word_count": 371,
+      "file": "chapter_294_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 295,
+      "title": "Island",
+      "word_count": 388,
+      "file": "chapter_295_Island.txt"
+    },
+    {
+      "chapter_index": 296,
+      "title": "SOTĀPANNA:",
+      "word_count": 374,
+      "file": "chapter_296_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 297,
+      "title": "Island",
+      "word_count": 389,
+      "file": "chapter_297_Island.txt"
+    },
+    {
+      "chapter_index": 298,
+      "title": "SOTĀPANNA:",
+      "word_count": 362,
+      "file": "chapter_298_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 299,
+      "title": "Island",
+      "word_count": 347,
+      "file": "chapter_299_Island.txt"
+    },
+    {
+      "chapter_index": 300,
+      "title": "SOTĀPANNA:",
+      "word_count": 385,
+      "file": "chapter_300_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 301,
+      "title": "Island",
+      "word_count": 361,
+      "file": "chapter_301_Island.txt"
+    },
+    {
+      "chapter_index": 302,
+      "title": "SOTĀPANNA:",
+      "word_count": 419,
+      "file": "chapter_302_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 303,
+      "title": "Island",
+      "word_count": 402,
+      "file": "chapter_303_Island.txt"
+    },
+    {
+      "chapter_index": 304,
+      "title": "SOTĀPANNA:",
+      "word_count": 406,
+      "file": "chapter_304_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 305,
+      "title": "Island",
+      "word_count": 431,
+      "file": "chapter_305_Island.txt"
+    },
+    {
+      "chapter_index": 306,
+      "title": "SOTĀPANNA:",
+      "word_count": 384,
+      "file": "chapter_306_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 307,
+      "title": "Island",
+      "word_count": 339,
+      "file": "chapter_307_Island.txt"
+    },
+    {
+      "chapter_index": 308,
+      "title": "SOTĀPANNA:",
+      "word_count": 406,
+      "file": "chapter_308_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 309,
+      "title": "Island",
+      "word_count": 382,
+      "file": "chapter_309_Island.txt"
+    },
+    {
+      "chapter_index": 310,
+      "title": "SOTĀPANNA:",
+      "word_count": 366,
+      "file": "chapter_310_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 311,
+      "title": "SOTĀPANNA:",
+      "word_count": 288,
+      "file": "chapter_311_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 312,
+      "title": "SOTĀPANNA:",
+      "word_count": 360,
+      "file": "chapter_312_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 313,
+      "title": "Island",
+      "word_count": 375,
+      "file": "chapter_313_Island.txt"
+    },
+    {
+      "chapter_index": 314,
+      "title": "SOTĀPANNA:",
+      "word_count": 383,
+      "file": "chapter_314_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 315,
+      "title": "Island",
+      "word_count": 392,
+      "file": "chapter_315_Island.txt"
+    },
+    {
+      "chapter_index": 316,
+      "title": "SOTĀPANNA:",
+      "word_count": 390,
+      "file": "chapter_316_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 317,
+      "title": "Island",
+      "word_count": 382,
+      "file": "chapter_317_Island.txt"
+    },
+    {
+      "chapter_index": 318,
+      "title": "SOTĀPANNA:",
+      "word_count": 246,
+      "file": "chapter_318_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 319,
+      "title": "Island",
+      "word_count": 434,
+      "file": "chapter_319_Island.txt"
+    },
+    {
+      "chapter_index": 320,
+      "title": "SOTĀPANNA:",
+      "word_count": 389,
+      "file": "chapter_320_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 321,
+      "title": "Island",
+      "word_count": 375,
+      "file": "chapter_321_Island.txt"
+    },
+    {
+      "chapter_index": 322,
+      "title": "SOTĀPANNA:",
+      "word_count": 377,
+      "file": "chapter_322_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 323,
+      "title": "Island",
+      "word_count": 363,
+      "file": "chapter_323_Island.txt"
+    },
+    {
+      "chapter_index": 324,
+      "title": "SOTĀPANNA:",
+      "word_count": 354,
+      "file": "chapter_324_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 325,
+      "title": "Island",
+      "word_count": 294,
+      "file": "chapter_325_Island.txt"
+    },
+    {
+      "chapter_index": 326,
+      "title": "SOTĀPANNA:",
+      "word_count": 378,
+      "file": "chapter_326_SOTĀPANNA.txt"
+    },
+    {
+      "chapter_index": 327,
+      "title": "“AH,",
+      "word_count": 280,
+      "file": "chapter_327_“AH,.txt"
+    },
+    {
+      "chapter_index": 328,
+      "title": "“AH,",
+      "word_count": 426,
+      "file": "chapter_328_“AH,.txt"
+    },
+    {
+      "chapter_index": 329,
+      "title": "Island",
+      "word_count": 340,
+      "file": "chapter_329_Island.txt"
+    },
+    {
+      "chapter_index": 330,
+      "title": "“AH,",
+      "word_count": 401,
+      "file": "chapter_330_“AH,.txt"
+    },
+    {
+      "chapter_index": 331,
+      "title": "Island",
+      "word_count": 385,
+      "file": "chapter_331_Island.txt"
+    },
+    {
+      "chapter_index": 332,
+      "title": "“AH,",
+      "word_count": 330,
+      "file": "chapter_332_“AH,.txt"
+    },
+    {
+      "chapter_index": 333,
+      "title": "Island",
+      "word_count": 255,
+      "file": "chapter_333_Island.txt"
+    },
+    {
+      "chapter_index": 334,
+      "title": "“AH,",
+      "word_count": 329,
+      "file": "chapter_334_“AH,.txt"
+    },
+    {
+      "chapter_index": 335,
+      "title": "Island",
+      "word_count": 383,
+      "file": "chapter_335_Island.txt"
+    },
+    {
+      "chapter_index": 336,
+      "title": "“AH,",
+      "word_count": 383,
+      "file": "chapter_336_“AH,.txt"
+    },
+    {
+      "chapter_index": 337,
+      "title": "Island",
+      "word_count": 393,
+      "file": "chapter_337_Island.txt"
+    },
+    {
+      "chapter_index": 338,
+      "title": "“AH,",
+      "word_count": 316,
+      "file": "chapter_338_“AH,.txt"
+    },
+    {
+      "chapter_index": 339,
+      "title": "Island",
+      "word_count": 380,
+      "file": "chapter_339_Island.txt"
+    },
+    {
+      "chapter_index": 340,
+      "title": "“AH,",
+      "word_count": 384,
+      "file": "chapter_340_“AH,.txt"
+    },
+    {
+      "chapter_index": 341,
+      "title": "Island",
+      "word_count": 63,
+      "file": "chapter_341_Island.txt"
+    },
+    {
+      "chapter_index": 342,
+      "title": "Bibliography",
+      "word_count": 324,
+      "file": "chapter_342_Bibliography.txt"
+    },
+    {
+      "chapter_index": 343,
+      "title": "Bibliography",
+      "word_count": 293,
+      "file": "chapter_343_Bibliography.txt"
+    },
+    {
+      "chapter_index": 344,
+      "title": "Concordance",
+      "word_count": 280,
+      "file": "chapter_344_Concordance.txt"
+    },
+    {
+      "chapter_index": 345,
+      "title": "CONCORDANCES",
+      "word_count": 346,
+      "file": "chapter_345_CONCORDANCES.txt"
+    },
+    {
+      "chapter_index": 346,
+      "title": "Island",
+      "word_count": 341,
+      "file": "chapter_346_Island.txt"
+    },
+    {
+      "chapter_index": 347,
+      "title": "CONCORDANCES",
+      "word_count": 352,
+      "file": "chapter_347_CONCORDANCES.txt"
+    },
+    {
+      "chapter_index": 348,
+      "title": "Island",
+      "word_count": 303,
+      "file": "chapter_348_Island.txt"
+    },
+    {
+      "chapter_index": 349,
+      "title": "CONCORDANCES",
+      "word_count": 178,
+      "file": "chapter_349_CONCORDANCES.txt"
+    },
+    {
+      "chapter_index": 350,
+      "title": "Concordance",
+      "word_count": 260,
+      "file": "chapter_350_Concordance.txt"
+    },
+    {
+      "chapter_index": 351,
+      "title": "CONCORDANCES",
+      "word_count": 291,
+      "file": "chapter_351_CONCORDANCES.txt"
+    },
+    {
+      "chapter_index": 352,
+      "title": "Island",
+      "word_count": 269,
+      "file": "chapter_352_Island.txt"
+    },
+    {
+      "chapter_index": 353,
+      "title": "CONCORDANCES",
+      "word_count": 90,
+      "file": "chapter_353_CONCORDANCES.txt"
+    },
+    {
+      "chapter_index": 354,
+      "title": "Index",
+      "word_count": 323,
+      "file": "chapter_354_Index.txt"
+    },
+    {
+      "chapter_index": 355,
+      "title": "INDEX",
+      "word_count": 380,
+      "file": "chapter_355_INDEX.txt"
+    },
+    {
+      "chapter_index": 356,
+      "title": "Island",
+      "word_count": 325,
+      "file": "chapter_356_Island.txt"
+    },
+    {
+      "chapter_index": 357,
+      "title": "INDEX",
+      "word_count": 363,
+      "file": "chapter_357_INDEX.txt"
+    },
+    {
+      "chapter_index": 358,
+      "title": "Island",
+      "word_count": 382,
+      "file": "chapter_358_Island.txt"
+    },
+    {
+      "chapter_index": 359,
+      "title": "INDEX",
+      "word_count": 398,
+      "file": "chapter_359_INDEX.txt"
+    },
+    {
+      "chapter_index": 360,
+      "title": "Island",
+      "word_count": 357,
+      "file": "chapter_360_Island.txt"
+    },
+    {
+      "chapter_index": 361,
+      "title": "INDEX",
+      "word_count": 371,
+      "file": "chapter_361_INDEX.txt"
+    },
+    {
+      "chapter_index": 362,
+      "title": "Island",
+      "word_count": 350,
+      "file": "chapter_362_Island.txt"
+    },
+    {
+      "chapter_index": 363,
+      "title": "INDEX",
+      "word_count": 208,
+      "file": "chapter_363_INDEX.txt"
+    },
+    {
+      "chapter_index": 364,
+      "title": "Island",
+      "word_count": 162,
+      "file": "chapter_364_Island.txt"
+    }
+  ]
+}

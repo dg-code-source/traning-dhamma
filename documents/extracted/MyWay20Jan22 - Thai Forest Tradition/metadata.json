@@ -1,0 +1,24 @@
+{
+  "title": "Blank Page",
+  "author": "Thai Forest Tradition",
+  "language": "en",
+  "total_pages": 88,
+  "total_chapters": 2,
+  "total_words": 11637,
+  "chapters": [
+    {
+      "title": "Blank Page",
+      "page": 1,
+      "chapter_index": 1,
+      "word_count": 11487,
+      "file": "chapter_01_Blank Page.txt"
+    },
+    {
+      "title": "Blank Page",
+      "page": 86,
+      "chapter_index": 2,
+      "word_count": 134,
+      "file": "chapter_02_Blank Page.txt"
+    }
+  ]
+}

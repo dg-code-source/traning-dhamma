@@ -1,0 +1,24 @@
+{
+  "title": "Bio.pdf",
+  "author": "Thai Forest Tradition",
+  "language": "en",
+  "total_pages": 86,
+  "total_chapters": 2,
+  "total_words": 10925,
+  "chapters": [
+    {
+      "title": "Blank Page",
+      "page": 1,
+      "chapter_index": 1,
+      "word_count": 0,
+      "file": "chapter_01_Blank Page.txt"
+    },
+    {
+      "title": "Bio.pdf",
+      "page": 0,
+      "chapter_index": 2,
+      "word_count": 10925,
+      "file": "chapter_02_Bio.pdf.txt"
+    }
+  ]
+}

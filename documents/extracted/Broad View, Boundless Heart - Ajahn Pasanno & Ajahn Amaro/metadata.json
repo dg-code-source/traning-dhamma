@@ -1,0 +1,51 @@
+{
+  "title": "Broad View, Boundless Heart",
+  "author": "Ajahn Pasanno & Ajahn Amaro",
+  "language": "en",
+  "total_chapters": 7,
+  "total_words": 23238,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 421,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Abhayagiri and Amaravati Monasteries and The Authors",
+      "word_count": 368,
+      "file": "chapter_02_Abhayagiri and Amaravati Monasteries and The Authors.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Further resources",
+      "word_count": 96,
+      "file": "chapter_03_Further resources.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Sublime Abiding Places for the Heart Ajahn Pasanno",
+      "word_count": 4033,
+      "file": "chapter_04_Sublime Abiding Places for the Heart Ajahn Pasanno.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Illuminating the Dust: Brahmaviharas in Action with Guided Meditation Ajahn Pasanno",
+      "word_count": 3749,
+      "file": "chapter_05_Illuminating the Dust Brahmaviharas in Action with Guided Meditation Ajahn Pasanno.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Theravada Buddhism in a Nutshell Ajahn Amaro",
+      "word_count": 6795,
+      "file": "chapter_06_Theravada Buddhism in a Nutshell Ajahn Amaro.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Ajahn Chah’s View of “the View” Ajahn Amaro",
+      "word_count": 7776,
+      "file": "chapter_07_Ajahn Chah’s View of “the View” Ajahn Amaro.txt"
+    }
+  ]
+}

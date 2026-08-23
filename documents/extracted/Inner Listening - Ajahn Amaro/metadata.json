@@ -1,0 +1,153 @@
+{
+  "title": "Inner Listening",
+  "author": "Ajahn Amaro",
+  "language": "en",
+  "total_chapters": 24,
+  "total_words": 11188,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 409,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Further resources",
+      "word_count": 96,
+      "file": "chapter_02_Further resources.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Note to the reader",
+      "word_count": 77,
+      "file": "chapter_03_Note to the reader.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Dedication",
+      "word_count": 59,
+      "file": "chapter_04_Dedication.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Inner Listening",
+      "word_count": 154,
+      "file": "chapter_05_Inner Listening.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "The inner sound and how to find it",
+      "word_count": 153,
+      "file": "chapter_06_The inner sound and how to find it.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "The two dimensions of samādhi",
+      "word_count": 226,
+      "file": "chapter_07_The two dimensions of samādhi.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Nada as a support for tranquillity – samatha",
+      "word_count": 126,
+      "file": "chapter_08_Nada as a support for tranquillity – samatha.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Nada as a support for insight – vipassanā",
+      "word_count": 555,
+      "file": "chapter_09_Nada as a support for insight – vipassanā.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Nada enables you to listen to your thoughts",
+      "word_count": 375,
+      "file": "chapter_10_Nada enables you to listen to your thoughts.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Nada, emptiness and suchness",
+      "word_count": 814,
+      "file": "chapter_11_Nada, emptiness and suchness.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Nada and ‘atammayatā’ – seeing the world in the mind",
+      "word_count": 565,
+      "file": "chapter_12_Nada and ‘atammayatā’ – seeing the world in the mind.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Nada embraces activity and engagement",
+      "word_count": 339,
+      "file": "chapter_13_Nada embraces activity and engagement.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Nada and the development of compassion",
+      "word_count": 530,
+      "file": "chapter_14_Nada and the development of compassion.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Nada helps seeing through self-view",
+      "word_count": 336,
+      "file": "chapter_15_Nada helps seeing through self-view.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Nada and questioning",
+      "word_count": 480,
+      "file": "chapter_16_Nada and questioning.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Nada’s attributes",
+      "word_count": 257,
+      "file": "chapter_17_Nada’s attributes.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Nada as a symbol of transcendence",
+      "word_count": 215,
+      "file": "chapter_18_Nada as a symbol of transcendence.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Nada and its different manifestations",
+      "word_count": 300,
+      "file": "chapter_19_Nada and its different manifestations.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "References",
+      "word_count": 220,
+      "file": "chapter_20_References.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "In Conclusion",
+      "word_count": 133,
+      "file": "chapter_21_In Conclusion.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "Quotations",
+      "word_count": 656,
+      "file": "chapter_22_Quotations.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "About the author",
+      "word_count": 97,
+      "file": "chapter_23_About the author.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "Frequently Asked Questions",
+      "word_count": 4016,
+      "file": "chapter_24_Frequently Asked Questions.txt"
+    }
+  ]
+}

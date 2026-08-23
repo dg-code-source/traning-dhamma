@@ -1,0 +1,99 @@
+{
+  "title": "Like a River - The life of a boy named Todd",
+  "author": "Ajahn Pasanno",
+  "language": "en",
+  "total_chapters": 15,
+  "total_words": 16927,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 315,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Dedication",
+      "word_count": 393,
+      "file": "chapter_02_Dedication.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Tatcha “Todd” Tansuhaj",
+      "word_count": 94,
+      "file": "chapter_03_Tatcha “Todd” Tansuhaj.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Foreword",
+      "word_count": 1108,
+      "file": "chapter_04_Foreword.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Todd As Artist",
+      "word_count": 59,
+      "file": "chapter_05_Todd As Artist.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "The Ordination of Todd Tansuhaj",
+      "word_count": 1029,
+      "file": "chapter_06_The Ordination of Todd Tansuhaj.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Skipping Stones",
+      "word_count": 2233,
+      "file": "chapter_07_Skipping Stones.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "My Life as a Novice",
+      "word_count": 177,
+      "file": "chapter_08_My Life as a Novice.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Friendship",
+      "word_count": 2316,
+      "file": "chapter_09_Friendship.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Victory over Birth and Death",
+      "word_count": 5532,
+      "file": "chapter_10_Victory over Birth and Death.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Body Contemplation",
+      "word_count": 2733,
+      "file": "chapter_11_Body Contemplation.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "My Cat Lucky",
+      "word_count": 422,
+      "file": "chapter_12_My Cat Lucky.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Five Precepts for Kids",
+      "word_count": 86,
+      "file": "chapter_13_Five Precepts for Kids.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Todd’s List Dhamma Resources for Young People",
+      "word_count": 141,
+      "file": "chapter_14_Todd’s List Dhamma Resources for Young People.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Abhayagiri Buddhist Monastery",
+      "word_count": 289,
+      "file": "chapter_15_Abhayagiri Buddhist Monastery.txt"
+    }
+  ]
+}

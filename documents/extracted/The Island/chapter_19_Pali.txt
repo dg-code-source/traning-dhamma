@@ -1,0 +1,49 @@
+Pali Phonetics
+
+23
+
+Examples:
+
+th as t in ‘tongue’. It is never pronounced as in English ‘the’.
+
+ph as p in ‘palate’. It is never pronounced as in English ‘photo’.
+
+ḍ, ḍh, ḷ, ṇ, ṭ, ṭh
+
+These retroflex consonants have no English equivalent. They are sounded by curling the tip of the tongue back against the palate.
+
+D	Dīgha Nikāya	The Long Discourses of the Buddha
+
+M	Majjhima Nikāya	The Middle Length Discourses of the Buddha
+
+S	Saṃyutta Nikāya	The Discourses Related by Subject
+
+A	Aṅguttara Nikāya	The Discourses Related by Numbers
+
+Ud	Udāna	Inspired Utterances
+
+Iti	Itivuttaka	Sayings of the Buddha
+
+SN	Sutta Nipāta	A collection of the Buddha’s teachings, in verse form
+
+Dhp	Dhammapada	A collection of the Buddha’s teachings, in verse form
+
+Thag	Theragāthā	The Verses of the Elder Monks
+
+Thig	Therīgāthā	The Verses of the Elder Nuns
+
+Nid	Niddesa	A canonical commentary on the Sutta Nipāta
+
+Vsm	Visuddhimagga	The Path of Purification, a commentarial compendium
+
+Miln	Milindapañha	The Questions of King Milinda
+
+MV	Mahāvagga	The Great Chapter, from the books of monastic discipline
+
+A note on the text and on translation
+
+Chapters 1-12 were compiled by Ajahn Amaro, Chapters 13-20 by Ajahn Pasanno.
+
+Where a translation has been quoted verbatim from another work, the names of the translators have been included with the reference. If there is no named translator then that translation or rendering has been produced by the editors.
+
+Sincere efforts have been made to remain faithful to the scriptures, both in spirit and in letter; should any of these representations of the ancient texts in English fall short in their accuracy we respectfully ask for forgiveness.

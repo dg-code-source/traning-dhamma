@@ -1,0 +1,117 @@
+{
+  "title": "An Introduction to the Life and Teachings of Ajahn Chah",
+  "author": "Ajahn Amaro",
+  "language": "en",
+  "total_chapters": 18,
+  "total_words": 11974,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 417,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "About the Author",
+      "word_count": 115,
+      "file": "chapter_02_About the Author.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Further resources",
+      "word_count": 96,
+      "file": "chapter_03_Further resources.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "One evening in Northeast Thailand...",
+      "word_count": 1578,
+      "file": "chapter_04_One evening in Northeast Thailand.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "The Forest Tradition",
+      "word_count": 1868,
+      "file": "chapter_05_The Forest Tradition.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Ajahn Chah",
+      "word_count": 1731,
+      "file": "chapter_06_Ajahn Chah.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Ajahn Chah’s Teaching of Westerners",
+      "word_count": 825,
+      "file": "chapter_07_Ajahn Chah’s Teaching of Westerners.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "The Essentials: View, Teaching and Practice",
+      "word_count": 94,
+      "file": "chapter_08_The Essentials View, Teaching and Practice.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "The Four Noble Truths",
+      "word_count": 564,
+      "file": "chapter_09_The Four Noble Truths.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "The Law of Kamma",
+      "word_count": 388,
+      "file": "chapter_10_The Law of Kamma.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Everything is Uncertain",
+      "word_count": 277,
+      "file": "chapter_11_Everything is Uncertain.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Choice of Expression: ‘Yes’ or ‘No’",
+      "word_count": 923,
+      "file": "chapter_12_Choice of Expression ‘Yes’ or ‘No’.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Emphasis on Right View and Virtue",
+      "word_count": 557,
+      "file": "chapter_13_Emphasis on Right View and Virtue.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Methods of Training",
+      "word_count": 561,
+      "file": "chapter_14_Methods of Training.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Teaching the Laity and Monastics",
+      "word_count": 624,
+      "file": "chapter_15_Teaching the Laity and Monastics.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Counteracting Superstition",
+      "word_count": 296,
+      "file": "chapter_16_Counteracting Superstition.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Humour",
+      "word_count": 271,
+      "file": "chapter_17_Humour.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Last Years",
+      "word_count": 789,
+      "file": "chapter_18_Last Years.txt"
+    }
+  ]
+}

@@ -159,6 +159,20 @@ def main():
         "Sitting in the Buddhas Waiting Room": "Sitting_in_the_Buddhas_Waiting_Room_qa.jsonl",
         "Sitting in the Buddha's Waiting Room": "Sitting_in_the_Buddhas_Waiting_Room_qa.jsonl",
         "We Are All Translators": "We_Are_All_Translators_qa.jsonl",
+        "Small Boat, Great Mountain": "Small_Boat_Great_Mountain_qa.jsonl",
+        "The Breakthrough": "The_Breakthrough_qa.jsonl",
+        "Finding the Missing Peace": "Finding_the_Missing_Peace_qa.jsonl",
+        "Inner Listening": "Inner_Listening_qa.jsonl",
+        "Silent Rain": "Silent_Rain_qa.jsonl",
+        "The Island": "The_Island_qa.jsonl",
+        "Broad View, Boundless Heart": "Broad_View_Boundless_Heart_qa.jsonl",
+        "Tudong, The Long Road North": "Tudong_The_Long_Road_North_qa.jsonl",
+        "Don't Push": "Dont_Push_qa.jsonl",
+        "I’m Right, You’re Wrong!": "Im_Right_Youre_Wrong_qa.jsonl",
+        "I'm Right, You're Wrong!": "Im_Right_Youre_Wrong_qa.jsonl",
+        "For the Love of the World": "For_the_Love_of_the_World_qa.jsonl",
+        "Who Is Pulling The Strings": "Who_Is_Pulling_The_Strings_qa.jsonl",
+        "Who Is Pulling The Strings?": "Who_Is_Pulling_The_Strings_qa.jsonl",
         "Still Flowing Water": None,  # Micro extract (136 words)
     }
 

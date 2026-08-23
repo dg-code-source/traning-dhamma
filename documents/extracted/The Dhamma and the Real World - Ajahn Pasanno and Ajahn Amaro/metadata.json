@@ -1,0 +1,51 @@
+{
+  "title": "The Dhamma and the Real World",
+  "author": "Ajahn Pasanno and Ajahn Amaro",
+  "language": "en",
+  "total_chapters": 7,
+  "total_words": 11610,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 413,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "bhikkhus",
+      "word_count": 384,
+      "file": "chapter_02_bhikkhus.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Further resources",
+      "word_count": 96,
+      "file": "chapter_03_Further resources.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "“What Does a Buddhist Monastic Know about Real Life, Anyway?”",
+      "word_count": 2359,
+      "file": "chapter_04_“What Does a Buddhist Monastic Know about Real Life, Anyway”.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Laying the Foundation for Social Action",
+      "word_count": 2366,
+      "file": "chapter_05_Laying the Foundation for Social Action.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Everyone Learns Together: Youth, Families, and the Dhamma",
+      "word_count": 3062,
+      "file": "chapter_06_Everyone Learns Together Youth, Families, and the Dhamma.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Preparing for Death: The Final Days of Death Row Inmate Jaturun “Jay” Siripongs",
+      "word_count": 2930,
+      "file": "chapter_07_Preparing for Death The Final Days of Death Row Inmate Jaturun “Jay” Siripongs.txt"
+    }
+  ]
+}

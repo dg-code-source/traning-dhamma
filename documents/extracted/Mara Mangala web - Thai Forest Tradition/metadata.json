@@ -1,0 +1,22 @@
+{
+  "title": "Mara Mangala web",
+  "author": "Thai Forest Tradition",
+  "language": "en",
+  "total_pages": 404,
+  "total_chapters": 2,
+  "total_words": 181183,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Chapter 1",
+      "word_count": 161772,
+      "file": "chapter_01_Chapter 1.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Chapter 7",
+      "word_count": 19411,
+      "file": "chapter_02_Chapter 7.txt"
+    }
+  ]
+}

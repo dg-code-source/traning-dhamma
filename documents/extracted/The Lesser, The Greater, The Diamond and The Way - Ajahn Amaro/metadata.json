@@ -1,0 +1,27 @@
+{
+  "title": "The Lesser, The Greater, The Diamond and The Way",
+  "author": "Ajahn Amaro",
+  "language": "en-GB",
+  "total_chapters": 3,
+  "total_words": 6059,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "The Lesser, The Greater,",
+      "word_count": 135,
+      "file": "chapter_01_The Lesser, The Greater,.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Historically there have been",
+      "word_count": 5825,
+      "file": "chapter_02_Historically there have been.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "小乘、大乘、金剛乘和大道",
+      "word_count": 99,
+      "file": "chapter_03_小乘、大乘、金剛乘和大道.txt"
+    }
+  ]
+}
