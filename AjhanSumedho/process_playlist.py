@@ -110,27 +110,34 @@ def save_manifest(videos: List[Dict]):
     with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
         json.dump(videos, f, indent=2, ensure_ascii=False)
 
-def fetch_transcript_text(video_id: str) -> str:
-    try:
-        from youtube_transcript_api import YouTubeTranscriptApi
-        ytt = YouTubeTranscriptApi()
-        transcript = ytt.fetch(video_id)
-        # Format text with line breaks
-        paragraphs = []
-        current_p = []
-        for entry in transcript:
-            t = entry.text.strip()
-            if not t: continue
-            current_p.append(t)
-            if len(current_p) >= 10:
+def fetch_transcript_text(video_id: str, retries: int = 2, delay: float = 2.0) -> str:
+    from youtube_transcript_api import YouTubeTranscriptApi
+    ytt = YouTubeTranscriptApi()
+    for attempt in range(retries):
+        try:
+            transcript = ytt.fetch(video_id)
+            # Format text with line breaks
+            paragraphs = []
+            current_p = []
+            for entry in transcript:
+                t = entry.text.strip()
+                if not t: continue
+                current_p.append(t)
+                if len(current_p) >= 10:
+                    paragraphs.append(" ".join(current_p))
+                    current_p = []
+            if current_p:
                 paragraphs.append(" ".join(current_p))
-                current_p = []
-        if current_p:
-            paragraphs.append(" ".join(current_p))
-        return "\n\n".join(paragraphs)
-    except Exception as e:
-        print(f"  [Warning] Could not fetch transcript for {video_id}: {e}")
-        return ""
+            return "\n\n".join(paragraphs)
+        except Exception as e:
+            err_msg = str(e)
+            if "IpBlocked" in err_msg or "Too Many Requests" in err_msg:
+                print(f"  [Rate Limit / 429] YouTube rate limit reached on attempt {attempt+1}. Backing off...")
+                if attempt < retries - 1:
+                    time.sleep(delay * 4)
+            else:
+                return ""
+    return ""
 
 def synthesize_qa_pairs(title: str, transcript_text: str) -> List[Tuple[str, str]]:
     words = transcript_text.split()
