@@ -1,0 +1,249 @@
+{
+  "title": "Seeds Of Dhamma",
+  "author": "Ajahn Sundara",
+  "language": "en-GB",
+  "total_chapters": 40,
+  "total_words": 10969,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 409,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Acknowledgement",
+      "word_count": 105,
+      "file": "chapter_02_Acknowledgement.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "A STILL LAKE",
+      "word_count": 612,
+      "file": "chapter_03_A STILL LAKE.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "BRAHMA-VIHARAS",
+      "word_count": 416,
+      "file": "chapter_04_BRAHMA-VIHARAS.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "A LOVELY MOMENT OF FREEDOM",
+      "word_count": 417,
+      "file": "chapter_05_A LOVELY MOMENT OF FREEDOM.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "I KNOW YOU MARA",
+      "word_count": 491,
+      "file": "chapter_06_I KNOW YOU MARA.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "THE PATH LEADING OUT OF SUFFERING",
+      "word_count": 155,
+      "file": "chapter_07_THE PATH LEADING OUT OF SUFFERING.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "FREEDOM IS A SIDE EFFECT OF A LIFE THAT IS CONSCIOUS",
+      "word_count": 180,
+      "file": "chapter_08_FREEDOM IS A SIDE EFFECT OF A LIFE THAT IS CONSCIOUS.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "FIVE PRECEPTS",
+      "word_count": 140,
+      "file": "chapter_09_FIVE PRECEPTS.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "WORKING WITH ANGER",
+      "word_count": 478,
+      "file": "chapter_10_WORKING WITH ANGER.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "QUALITIES THAT LEAD TO RELINQUISHMENT, NOT TO ACCUMULATION",
+      "word_count": 247,
+      "file": "chapter_11_QUALITIES THAT LEAD TO RELINQUISHMENT, NOT TO ACCUMULATION.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "OUR MIND AS IT REALLY IS",
+      "word_count": 391,
+      "file": "chapter_12_OUR MIND AS IT REALLY IS.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "QUALITIES THAT LEAD TO CONTENTMENT, NOT TO DISCONTENT",
+      "word_count": 136,
+      "file": "chapter_13_QUALITIES THAT LEAD TO CONTENTMENT, NOT TO DISCONTENT.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "WHEN WALLS FALL AWAY",
+      "word_count": 125,
+      "file": "chapter_14_WHEN WALLS FALL AWAY.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "LETTING GO",
+      "word_count": 245,
+      "file": "chapter_15_LETTING GO.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "IN OUR DAILY LIVES",
+      "word_count": 230,
+      "file": "chapter_16_IN OUR DAILY LIVES.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "OUR NEED TO WANT",
+      "word_count": 637,
+      "file": "chapter_17_OUR NEED TO WANT.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "SITTING AT THE BEGINNER’S FEET",
+      "word_count": 637,
+      "file": "chapter_18_SITTING AT THE BEGINNER’S FEET.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "MEETING THE TIGER",
+      "word_count": 84,
+      "file": "chapter_19_MEETING THE TIGER.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "LOVE",
+      "word_count": 493,
+      "file": "chapter_20_LOVE.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "DISCIPLINE AND WISDOM",
+      "word_count": 407,
+      "file": "chapter_21_DISCIPLINE AND WISDOM.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "BACK TO THE FOUR NOBLE TRUTHS",
+      "word_count": 125,
+      "file": "chapter_22_BACK TO THE FOUR NOBLE TRUTHS.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "RECOGNISING SUFFERING",
+      "word_count": 288,
+      "file": "chapter_23_RECOGNISING SUFFERING.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "NOT SHYING AWAY FROM DUKKHA",
+      "word_count": 308,
+      "file": "chapter_24_NOT SHYING AWAY FROM DUKKHA.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "HUMAN EXPERIENCE",
+      "word_count": 174,
+      "file": "chapter_25_HUMAN EXPERIENCE.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "THE SLIPPERY MIND",
+      "word_count": 221,
+      "file": "chapter_26_THE SLIPPERY MIND.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "‘HOW INTERESTING ...’",
+      "word_count": 243,
+      "file": "chapter_27_‘HOW INTERESTING ...’.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "THE CLOUDS DEPARTING",
+      "word_count": 263,
+      "file": "chapter_28_THE CLOUDS DEPARTING.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "HIGHER HAPPINESS",
+      "word_count": 234,
+      "file": "chapter_29_HIGHER HAPPINESS.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "SUNSHINE OF AWARENESS",
+      "word_count": 191,
+      "file": "chapter_30_SUNSHINE OF AWARENESS.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "DELUSIONS OF EGO",
+      "word_count": 352,
+      "file": "chapter_31_DELUSIONS OF EGO.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "THE EGO RISES AND FALLS",
+      "word_count": 111,
+      "file": "chapter_32_THE EGO RISES AND FALLS.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "PROGRESS",
+      "word_count": 209,
+      "file": "chapter_33_PROGRESS.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "REAL REFUGE",
+      "word_count": 51,
+      "file": "chapter_34_REAL REFUGE.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "OUT THERE",
+      "word_count": 275,
+      "file": "chapter_35_OUT THERE.txt"
+    },
+    {
+      "chapter_index": 36,
+      "title": "THE TRUSTING HEART",
+      "word_count": 261,
+      "file": "chapter_36_THE TRUSTING HEART.txt"
+    },
+    {
+      "chapter_index": 37,
+      "title": "SUN SHINING ON MIST",
+      "word_count": 249,
+      "file": "chapter_37_SUN SHINING ON MIST.txt"
+    },
+    {
+      "chapter_index": 38,
+      "title": "BEING STILL",
+      "word_count": 174,
+      "file": "chapter_38_BEING STILL.txt"
+    },
+    {
+      "chapter_index": 39,
+      "title": "INNER SOLITUDE",
+      "word_count": 132,
+      "file": "chapter_39_INNER SOLITUDE.txt"
+    },
+    {
+      "chapter_index": 40,
+      "title": "INTRODUCTION",
+      "word_count": 73,
+      "file": "chapter_40_INTRODUCTION.txt"
+    }
+  ]
+}

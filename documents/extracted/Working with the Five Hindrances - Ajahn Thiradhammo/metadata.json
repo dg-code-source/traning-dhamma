@@ -1,0 +1,105 @@
+{
+  "title": "Working with the Five Hindrances",
+  "author": "Ajahn Thiradhammo",
+  "language": "en",
+  "total_chapters": 16,
+  "total_words": 69219,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Abbreviations",
+      "word_count": 120,
+      "file": "chapter_01_Abbreviations.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Introduction",
+      "word_count": 6539,
+      "file": "chapter_02_Introduction.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Supportive Conditions",
+      "word_count": 7851,
+      "file": "chapter_03_Supportive Conditions.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Sensual Desire",
+      "word_count": 8962,
+      "file": "chapter_04_Sensual Desire.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Ill-Will",
+      "word_count": 10263,
+      "file": "chapter_05_Ill-Will.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Lethargy and Drowsiness",
+      "word_count": 12091,
+      "file": "chapter_06_Lethargy and Drowsiness.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Restlessness and Remorse",
+      "word_count": 5345,
+      "file": "chapter_07_Restlessness and Remorse.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Doubt",
+      "word_count": 12828,
+      "file": "chapter_08_Doubt.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Beyond the Hindrances",
+      "word_count": 2049,
+      "file": "chapter_09_Beyond the Hindrances.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Selected Bibliography",
+      "word_count": 540,
+      "file": "chapter_10_Selected Bibliography.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Appendix 2",
+      "word_count": 64,
+      "file": "chapter_11_Appendix 2.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "About the Author",
+      "word_count": 158,
+      "file": "chapter_12_About the Author.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Copyright",
+      "word_count": 285,
+      "file": "chapter_13_Copyright.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Acknowledgements",
+      "word_count": 720,
+      "file": "chapter_14_Acknowledgements.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Selected Glossary",
+      "word_count": 1270,
+      "file": "chapter_15_Selected Glossary.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Appendix 1",
+      "word_count": 134,
+      "file": "chapter_16_Appendix 1.txt"
+    }
+  ]
+}

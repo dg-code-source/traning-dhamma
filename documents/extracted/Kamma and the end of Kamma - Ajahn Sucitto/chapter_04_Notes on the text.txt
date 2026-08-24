@@ -1,0 +1,25 @@
+## Notes on the text
+
+In this book, use has been made of the translations from a number of sources – with much appreciation and gratitude. However, as different translators don’t always render the Pali into the same English words, for the sake of consistency, I have had to make choices, and in some cases use terms that seem closer to the meaning. Where my terminology differs from that of the translator, I enclose my word in [ ]. I have also occasionally changed the phrasing to one that in my opinion sits more comfortably in a modern reader’s mind. The reader is encouraged to review and compare versions. I use Ven. Bhikkhu Bodhi’s translations unless otherwise stated. His translations are available through the Wisdom Publications editions of the discourses (Wisdom Publications, Boston, USA). Ven. Thanissaro’s are available on the internet via the ‘Access to Insight’ website (accesstoinsight.org). A comprehensive collection of translated discourses using the work of Ven. Bhikkhu Sujāto and a number of other translators is available online through ‘Sutta Central’ (suttacentral.net). This site offers works in several languages, including the Pali original.
+
+### Endnotes
+
+Although it can be irritating to keep flipping from the main text to the end of the book, I have added endnotes where the reader’s contemplation may be enhanced by reference to the Pali discourses. You don’t have to interrupt your reading of the main text to look at these. I have also added a few footnotes which may clarify points in the text as you read it.
+
+### Sutta Abbreviations
+
+A = Numerical, or Gradual, Discourses (Anguttara Nikāya). This is followed by the relevant book and sutta number within that book.
+
+D = Long Discourses (Dīgha Nikāya); followed by the number of the sutta and the section within that sutta.
+
+Dhammapada. I have referred to Acharya Buddharakkhita’s version (Kandy, Sri Lanka: Buddhist Publication Society, 1985) but adapted it.
+
+Iti = Itivuttaka. I use the translation by John Ireland (Kandy, Sri Lanka: Buddhist Publication Society, 1997).
+
+M = Middle-Length Discourses (Majjhima Nikāya); followed by the number of the sutta and the section within that sutta.
+
+S = Connected Discourses (Saṃyutta Nikāya); followed by the number of the particular collection (saṃyutta) within the entire corpus; and the number of the sutta within that particular collection.
+
+Udāna. I refer to John Ireland’s version available through the Buddhist Publication Society, 1997, or Ven.  Ānandajoti’s  version at ancient-buddhist-texts.net.
+
+SNp = Sutta-Nipāta.

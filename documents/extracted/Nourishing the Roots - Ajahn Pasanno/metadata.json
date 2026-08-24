@@ -1,0 +1,39 @@
+{
+  "title": "Nourishing the Roots",
+  "author": "Ajahn Pasanno",
+  "language": "en-US",
+  "total_chapters": 5,
+  "total_words": 11790,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Purifying the Foundation",
+      "word_count": 2868,
+      "file": "chapter_01_Purifying the Foundation.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Mindfulness of Breathing: Food for the Heart",
+      "word_count": 3674,
+      "file": "chapter_02_Mindfulness of Breathing Food for the Heart.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "What Accords With Dhamma",
+      "word_count": 2160,
+      "file": "chapter_03_What Accords With Dhamma.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Awakening Through the Noble Truths",
+      "word_count": 2915,
+      "file": "chapter_04_Awakening Through the Noble Truths.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "About the Author",
+      "word_count": 173,
+      "file": "chapter_05_About the Author.txt"
+    }
+  ]
+}

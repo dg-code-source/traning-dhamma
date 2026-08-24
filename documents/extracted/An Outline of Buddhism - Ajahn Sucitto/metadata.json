@@ -1,0 +1,27 @@
+{
+  "title": "An Outline of Buddhism",
+  "author": "Ajahn Sucitto",
+  "language": "en",
+  "total_chapters": 3,
+  "total_words": 2496,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 377,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Introduction",
+      "word_count": 2019,
+      "file": "chapter_02_Introduction.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "And when you yourself know what is right – develop it.’",
+      "word_count": 100,
+      "file": "chapter_03_And when you yourself know what is right – develop it.’.txt"
+    }
+  ]
+}

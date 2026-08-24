@@ -1,0 +1,39 @@
+{
+  "title": "Unseating the Inner Tyrant",
+  "author": "Ajahn Sucitto",
+  "language": "en",
+  "total_chapters": 5,
+  "total_words": 6342,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 411,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Daily panic is not your fault",
+      "word_count": 1584,
+      "file": "chapter_02_Daily panic is not your fault.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Further resources",
+      "word_count": 96,
+      "file": "chapter_03_Further resources.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Unseating the Inner Tyrant",
+      "word_count": 1160,
+      "file": "chapter_04_Unseating the Inner Tyrant.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "The Tyrant’s work: seeking acceptance in the world of ghosts",
+      "word_count": 3091,
+      "file": "chapter_05_The Tyrant’s work seeking acceptance in the world of ghosts.txt"
+    }
+  ]
+}

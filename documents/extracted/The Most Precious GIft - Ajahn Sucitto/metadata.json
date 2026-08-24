@@ -1,0 +1,357 @@
+{
+  "title": "The Most Precious GIft",
+  "author": "Ajahn Sucitto",
+  "language": "en",
+  "total_chapters": 58,
+  "total_words": 159509,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 381,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "A Handful of Leaves",
+      "word_count": 260,
+      "file": "chapter_02_A Handful of Leaves.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Commentary on Front Cover Drawing by Ajahn Ṭhitadhammo",
+      "word_count": 208,
+      "file": "chapter_03_Commentary on Front Cover Drawing by Ajahn Ṭhitadhammo.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Numerical References",
+      "word_count": 57,
+      "file": "chapter_04_Numerical References.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Preface",
+      "word_count": 1317,
+      "file": "chapter_05_Preface.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Acknowledgements",
+      "word_count": 307,
+      "file": "chapter_06_Acknowledgements.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Luang Por Sumedho",
+      "word_count": 1781,
+      "file": "chapter_07_Luang Por Sumedho.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "Ajahn Vīradhammo",
+      "word_count": 108,
+      "file": "chapter_08_Ajahn Vīradhammo.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Ajahn Kāruṇiko",
+      "word_count": 414,
+      "file": "chapter_09_Ajahn Kāruṇiko.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Ajahn Sundarā",
+      "word_count": 548,
+      "file": "chapter_10_Ajahn Sundarā.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Ajahn Candasirī",
+      "word_count": 554,
+      "file": "chapter_11_Ajahn Candasirī.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Ayyā Medhānandī",
+      "word_count": 680,
+      "file": "chapter_12_Ayyā Medhānandī.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Thaniya (Willa Reid)",
+      "word_count": 274,
+      "file": "chapter_13_Thaniya (Willa Reid).txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Kittisāro",
+      "word_count": 1483,
+      "file": "chapter_14_Kittisāro.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Nicholas Halliday",
+      "word_count": 1059,
+      "file": "chapter_15_Nicholas Halliday.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Nick Scott",
+      "word_count": 1593,
+      "file": "chapter_16_Nick Scott.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "Ajahn Sumedho, My Teacher",
+      "word_count": 6977,
+      "file": "chapter_17_Ajahn Sumedho, My Teacher.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Learning to Feel and Be With Oneself",
+      "word_count": 4906,
+      "file": "chapter_18_Learning to Feel and Be With Oneself.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Right Effort",
+      "word_count": 6183,
+      "file": "chapter_19_Right Effort.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Contemplating Impermanence",
+      "word_count": 1983,
+      "file": "chapter_20_Contemplating Impermanence.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "Beyond the Sense of Self",
+      "word_count": 3919,
+      "file": "chapter_21_Beyond the Sense of Self.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "Walking Meditation",
+      "word_count": 274,
+      "file": "chapter_22_Walking Meditation.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "Mealtime Reflection",
+      "word_count": 609,
+      "file": "chapter_23_Mealtime Reflection.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "Learning from the Bitter Gifts of Life",
+      "word_count": 1005,
+      "file": "chapter_24_Learning from the Bitter Gifts of Life.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "Reflecting on Kamma",
+      "word_count": 3330,
+      "file": "chapter_25_Reflecting on Kamma.txt"
+    },
+    {
+      "chapter_index": 26,
+      "title": "Honouring Life and Each Other",
+      "word_count": 2975,
+      "file": "chapter_26_Honouring Life and Each Other.txt"
+    },
+    {
+      "chapter_index": 27,
+      "title": "Struggles of Life and Death",
+      "word_count": 3627,
+      "file": "chapter_27_Struggles of Life and Death.txt"
+    },
+    {
+      "chapter_index": 28,
+      "title": "The Brahmavihāras as a Deliverance of the Heart",
+      "word_count": 5000,
+      "file": "chapter_28_The Brahmavihāras as a Deliverance of the Heart.txt"
+    },
+    {
+      "chapter_index": 29,
+      "title": "The Supreme Giving",
+      "word_count": 6275,
+      "file": "chapter_29_The Supreme Giving.txt"
+    },
+    {
+      "chapter_index": 30,
+      "title": "Standing on the Sphere of the Brahmavihāras",
+      "word_count": 3436,
+      "file": "chapter_30_Standing on the Sphere of the Brahmavihāras.txt"
+    },
+    {
+      "chapter_index": 31,
+      "title": "Refuge",
+      "word_count": 5660,
+      "file": "chapter_31_Refuge.txt"
+    },
+    {
+      "chapter_index": 32,
+      "title": "Contemplating Internally and Externally",
+      "word_count": 5434,
+      "file": "chapter_32_Contemplating Internally and Externally.txt"
+    },
+    {
+      "chapter_index": 33,
+      "title": "Presence",
+      "word_count": 3924,
+      "file": "chapter_33_Presence.txt"
+    },
+    {
+      "chapter_index": 34,
+      "title": "Resolved to Let Go",
+      "word_count": 5988,
+      "file": "chapter_34_Resolved to Let Go.txt"
+    },
+    {
+      "chapter_index": 35,
+      "title": "Stepping Back into Wisdom",
+      "word_count": 5838,
+      "file": "chapter_35_Stepping Back into Wisdom.txt"
+    },
+    {
+      "chapter_index": 36,
+      "title": "The Relational Sense",
+      "word_count": 3195,
+      "file": "chapter_36_The Relational Sense.txt"
+    },
+    {
+      "chapter_index": 37,
+      "title": "Amaravati Retreat",
+      "word_count": 54,
+      "file": "chapter_37_Amaravati Retreat.txt"
+    },
+    {
+      "chapter_index": 38,
+      "title": "Experiencing the Whole Body",
+      "word_count": 844,
+      "file": "chapter_38_Experiencing the Whole Body.txt"
+    },
+    {
+      "chapter_index": 39,
+      "title": "Releasing the Mind Through the Body",
+      "word_count": 4063,
+      "file": "chapter_39_Releasing the Mind Through the Body.txt"
+    },
+    {
+      "chapter_index": 40,
+      "title": "Standing Meditation",
+      "word_count": 663,
+      "file": "chapter_40_Standing Meditation.txt"
+    },
+    {
+      "chapter_index": 41,
+      "title": "Walking Meditation",
+      "word_count": 278,
+      "file": "chapter_41_Walking Meditation.txt"
+    },
+    {
+      "chapter_index": 42,
+      "title": "Staying Present",
+      "word_count": 727,
+      "file": "chapter_42_Staying Present.txt"
+    },
+    {
+      "chapter_index": 43,
+      "title": "Cultivation of Skilful Thought",
+      "word_count": 4420,
+      "file": "chapter_43_Cultivation of Skilful Thought.txt"
+    },
+    {
+      "chapter_index": 44,
+      "title": "Practising With an Organic System",
+      "word_count": 4039,
+      "file": "chapter_44_Practising With an Organic System.txt"
+    },
+    {
+      "chapter_index": 45,
+      "title": "Not Clinging to Anything in the World",
+      "word_count": 5053,
+      "file": "chapter_45_Not Clinging to Anything in the World.txt"
+    },
+    {
+      "chapter_index": 46,
+      "title": "The World of the Five Aggregates",
+      "word_count": 5510,
+      "file": "chapter_46_The World of the Five Aggregates.txt"
+    },
+    {
+      "chapter_index": 47,
+      "title": "Breathing Through the Four Elements",
+      "word_count": 781,
+      "file": "chapter_47_Breathing Through the Four Elements.txt"
+    },
+    {
+      "chapter_index": 48,
+      "title": "Melting Down to the Natural State",
+      "word_count": 6059,
+      "file": "chapter_48_Melting Down to the Natural State.txt"
+    },
+    {
+      "chapter_index": 49,
+      "title": "One-Pointedness",
+      "word_count": 5100,
+      "file": "chapter_49_One-Pointedness.txt"
+    },
+    {
+      "chapter_index": 50,
+      "title": "Mindfulness, the True Monarch",
+      "word_count": 1016,
+      "file": "chapter_50_Mindfulness, the True Monarch.txt"
+    },
+    {
+      "chapter_index": 51,
+      "title": "Hindrances and Enlightenment Factors",
+      "word_count": 5640,
+      "file": "chapter_51_Hindrances and Enlightenment Factors.txt"
+    },
+    {
+      "chapter_index": 52,
+      "title": "Recollections - The Door to the Universal",
+      "word_count": 4113,
+      "file": "chapter_52_Recollections - The Door to the Universal.txt"
+    },
+    {
+      "chapter_index": 53,
+      "title": "Nibbāna and the Four Noble Truths",
+      "word_count": 4904,
+      "file": "chapter_53_Nibbāna and the Four Noble Truths.txt"
+    },
+    {
+      "chapter_index": 54,
+      "title": "Luang Por Sumedho Open Retreat",
+      "word_count": 65,
+      "file": "chapter_54_Luang Por Sumedho Open Retreat.txt"
+    },
+    {
+      "chapter_index": 55,
+      "title": "Transformation",
+      "word_count": 6640,
+      "file": "chapter_55_Transformation.txt"
+    },
+    {
+      "chapter_index": 56,
+      "title": "Here, Now – Meeting in the Blessing",
+      "word_count": 4116,
+      "file": "chapter_56_Here, Now – Meeting in the Blessing.txt"
+    },
+    {
+      "chapter_index": 57,
+      "title": "Glossary of Pali and Thai words",
+      "word_count": 1115,
+      "file": "chapter_57_Glossary of Pali and Thai words.txt"
+    },
+    {
+      "chapter_index": 58,
+      "title": "Definition of Technical Terms",
+      "word_count": 2747,
+      "file": "chapter_58_Definition of Technical Terms.txt"
+    }
+  ]
+}

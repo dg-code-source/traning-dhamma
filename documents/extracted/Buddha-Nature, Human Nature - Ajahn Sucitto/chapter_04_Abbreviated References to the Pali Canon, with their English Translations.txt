@@ -1,0 +1,17 @@
+## Abbreviated References to the Pali Canon, with their English Translations
+
+Unless otherwise stipulated, these are all published by Wisdom Publications, Boston, USA.
+
+A: Anguttara Nikāya. Translated as The Numerical Discourses of the Buddha by Bhikkhu Bodhi. Also translated as The Book of the Gradual Sayings by F.L. Woodward, Pali Text Society, Oxford.
+
+D: Dīgha Nikāya. Translated as The Long Discourses of the Buddha by Maurice Walshe.
+
+Dhp: Dhammapada. Translated by Ven. Buddharakkhita (Kandy, Sri Lanka: Buddhist Publication Society, 1985).
+
+M: Majjhīma Nikāya. Translated as The Middle Length Discourses of the Buddha by Nyanamoli Thera and Bhikkhu Bodhi.
+
+S: Samyutta Nikāya. Translated as The Connected Discourses of the Buddha by Bhikkhu Bodhi.
+
+Snp: Sutta-Nipāta. Translated by Ven. Dr. H. Saddhatissa (London: Curzon Press, 1985).
+
+The numbers appended to quotes from these works refer to the specific sutta (or verse), followed by the section within that sutta, followed by the paragraph within that section.

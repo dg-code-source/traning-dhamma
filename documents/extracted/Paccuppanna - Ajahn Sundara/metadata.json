@@ -1,0 +1,159 @@
+{
+  "title": "Paccuppanna",
+  "author": "Ajahn Sundara",
+  "language": "en",
+  "total_chapters": 25,
+  "total_words": 11674,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 388,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Timeless",
+      "word_count": 148,
+      "file": "chapter_02_Timeless.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Stopping the Mind",
+      "word_count": 153,
+      "file": "chapter_03_Stopping the Mind.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Meeting Reality",
+      "word_count": 601,
+      "file": "chapter_04_Meeting Reality.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "When Mind Sees Mind",
+      "word_count": 1170,
+      "file": "chapter_05_When Mind Sees Mind.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Five Precepts",
+      "word_count": 380,
+      "file": "chapter_06_Five Precepts.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Drinking Fresh Water",
+      "word_count": 210,
+      "file": "chapter_07_Drinking Fresh Water.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "One Mindful Moment",
+      "word_count": 114,
+      "file": "chapter_08_One Mindful Moment.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "The Physician",
+      "word_count": 272,
+      "file": "chapter_09_The Physician.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Mara",
+      "word_count": 132,
+      "file": "chapter_10_Mara.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "‘Awakenism’",
+      "word_count": 1739,
+      "file": "chapter_11_‘Awakenism’.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Worry",
+      "word_count": 226,
+      "file": "chapter_12_Worry.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "Keeping On",
+      "word_count": 592,
+      "file": "chapter_13_Keeping On.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "Past, Present and Future",
+      "word_count": 100,
+      "file": "chapter_14_Past, Present and Future.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "Living In Reality",
+      "word_count": 679,
+      "file": "chapter_15_Living In Reality.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Patience, Energy, Interest",
+      "word_count": 466,
+      "file": "chapter_16_Patience, Energy, Interest.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "The Path of Liberation",
+      "word_count": 894,
+      "file": "chapter_17_The Path of Liberation.txt"
+    },
+    {
+      "chapter_index": 18,
+      "title": "Merit",
+      "word_count": 92,
+      "file": "chapter_18_Merit.txt"
+    },
+    {
+      "chapter_index": 19,
+      "title": "Making Peace",
+      "word_count": 266,
+      "file": "chapter_19_Making Peace.txt"
+    },
+    {
+      "chapter_index": 20,
+      "title": "Dukkha",
+      "word_count": 356,
+      "file": "chapter_20_Dukkha.txt"
+    },
+    {
+      "chapter_index": 21,
+      "title": "Taking Refuge",
+      "word_count": 132,
+      "file": "chapter_21_Taking Refuge.txt"
+    },
+    {
+      "chapter_index": 22,
+      "title": "An Invitation to Explore",
+      "word_count": 1688,
+      "file": "chapter_22_An Invitation to Explore.txt"
+    },
+    {
+      "chapter_index": 23,
+      "title": "Feeling Happy",
+      "word_count": 452,
+      "file": "chapter_23_Feeling Happy.txt"
+    },
+    {
+      "chapter_index": 24,
+      "title": "Love",
+      "word_count": 236,
+      "file": "chapter_24_Love.txt"
+    },
+    {
+      "chapter_index": 25,
+      "title": "Biography",
+      "word_count": 188,
+      "file": "chapter_25_Biography.txt"
+    }
+  ]
+}

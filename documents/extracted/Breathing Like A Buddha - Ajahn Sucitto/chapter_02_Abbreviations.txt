@@ -1,0 +1,17 @@
+# Abbreviations
+
+Throughout this book, references to the sutta collections (Nikāya) of the Pali Canon, the source of its teachings, are cited using the following abbreviations:
+
+A = Numerical Discourses (Anguttara Nikāya)
+
+D = Long Discourses (Dīgha Nikāya)
+
+M = Middle Length Discourses (Majjhima Nikāya)
+
+S = Connected Discourses (Saṃyutta Nikāya)
+
+Other Canonical references are to Dhammapada (of which there are many translations) and to Therīgāthā – Poems of the Elder Nuns.
+
+In these quotes, the first number refers to the sutta (in the case of the Long and Middle Length Discourses) or the chapter or book (in the case of the Connected and Numerical Discourses). This number is followed by either the number of the section within a sutta (Long and Middle Length Discourses) or the sutta within a chapter or book (Connected and Numerical Discourses).
+
+The classification of these suttas is that of the Wisdom Publications series of translations. The Pali version is that of the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500.

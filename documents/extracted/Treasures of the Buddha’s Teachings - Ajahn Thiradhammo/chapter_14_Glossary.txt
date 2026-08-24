@@ -1,0 +1,191 @@
+## Glossary
+
+The main goals I have followed in translation are to make the terms understandable to most readers and to maintain accuracy. There is a fine line between literal accuracy and implied meaning. Sometimes, however, we can lapse into jargon which may be obscure to non-specialists or even lose its meaning through over-familiarity. I have therefore retained some of the commonly recognized renderings, while for other terms I have used different translations. In an ideal world it would be desirable to have one word as translation for each Pali word, but this is not an ideal world.
+
+I have left dukkha untranslated. One of the sources for considerable misunderstanding about Buddhism, I feel, is the unqualified translation of dukkha as ‘suffering’. Many people approach religion for some sort of consolation, and to be suddenly confronted with suffering without the appropriate context can be quite discouraging. The Buddha seeks to awaken us to truth rather than merely console, so dukkha needs to be understood within the context of the Four Noble Truths: that is, that indeed there is dukkha/suffering, but it is a conditioned phenomenon and there is a way of bringing it to cessation.
+
+The case of kamma is somewhat similar: unfortunately, its popularist non-Buddhist meaning of fate has crept into modern culture. It is not uncommon to hear even ‘Buddhists’ say when something significant happens, ‘It’s just my karma’, though kamma ‘cannot be known by thought’ (text 123 a). Kamma in the Buddha’s teaching is intentional action, which has the potential to produce a result (vipāka). As we are continuously acting, it is therefore very difficult (without psychic powers) to know the exact connection between result and action. However, with a continuity of mindfulness it may be possible to know the general patterns of recurring results from specific types of actions, and there is almost always some possibility to change action-result habits (text 122 b).
+
+One of the hardest technical terms to translate is saṅkhāra. It literally means ‘making together’, and as Bhikkhu Bodhi says (CDB, p.45), ‘straddles both sides of the active-passive divide’; that is, it is both what makes together and what is made together. Its most prominent activity is will or volition. We experience it as some form of mental activity, whether subtle, as a latent tendency (text 127a) or ‘I-making’ (text 85), or, more prominently as thinking or conceptual proliferation (text 84).
+
+In the context of conditional causality I have translated saṅkhāra as ‘formative activities’, as it is then more passive, referring to our disposition, habit patterns or programming, the result of past actions which then conditions present consciousness. In the context of the five groups of grasping (khandhas) I have translated it as ‘mental activities’, since here it is more dynamic, as the generator of skilful or unskilful kamma activity with the elements of choice and decision. Of course, the more we continue to generate particular types of action, the deeper the programming becomes; and this then affects the amount of choice we have for generating new action, and so it goes on.
+
+Saṅkhāra’s third main use is in terms of all conditioned, formed, made phenomena. In this context I have translated it as ‘conditioned things’ (texts 33 and 101).
+
+Another difficult term is nāma-rūpa. I have left it in its literal meaning as ‘name and form’; although ‘mentality-materiality’ would be closer to the real sense, it is rather cumbersome and still does not express the exact meaning. Nāma are the cognitive functions of the mind — feeling, perception, volition, contact and attention — which are needed to give a sense impression a ‘name’. Rūpa are the four elemental qualities of earth, fire, water and air and the materiality derived from them, that is, body and the material world.
+
+Dhamma (Skt: Dharma) is a pre-Buddhist term meaning the nature of things, the truth of reality, the way it is. For Buddhists ‘Dhamma’ with a capital ‘D’ has come to mean specifically the Buddha’s teachings as preserved in the Buddhist scriptures. We can thus say that Buddha-Dhamma is the particular Buddhist path to realizing the universal truth of the way things are.
+
+Nibbāna (Skt: Nirvāna) literally means ‘to go out’ as a flame goes out. It is understood as the going out of the fires of greed, aversion and delusion, rather than the going out or extinguishing of a person or being. It is also the going out or cessation of the ‘whole mass of suffering’.
+
+Below are Pali equivalents of some of the translations I have used and some definitions of terms used. Alternative translations are in square [ ] brackets.
+
+Absorptions: jhāna – four stages of increasingly deeper concentration, described in detail at text 88.
+
+Activities (mental): saṅkhāra – ‘making together’, various mental qualities, the main one being intention, will or volition, which form, construct, create an experience of subjective selfhood and a supporting reality.
+
+Attendings with Mindfulness: satipaṭṭhāna.
+
+Arahant: someone who has attained the fourth and final stage of awakening.
+
+Ariya Sangha: the ‘community’ of either monastics or laity who have realized one of the stages of awakening: stream-entry, once-return, non-return and arahant.
+
+Āsālha Pūjā: the full-moon day of July, which commemorates the day on which the Buddha gave his first teaching, Setting Rolling the Wheel of Dhamma (see text 16).
+
+Āsava: outflows (of selfhood) – sense desire, becoming, ignorance and (wrong) views. [Taints, corruptions, influxes, pollutions].
+
+Atman: Sanskrit form of the Pali attā (better known in form anattā, not-self)
+
+Awakening, four stages of: stream-entry, once-return, non-return and arahant; delineated by the ‘fetters’ which have been eliminated or reduced (see Ch. 1, note 28).
+
+Bases (four) of psychic power: iddhipāda, – concentration of wish, energy, mind and inquiry.
+
+Basis of rebirth: upadhi – four sources: sensual pleasures, five groups of grasping, defilements, kamma-vipāka. [Attachment, acquisitions]
+
+Bhikkhu: fully-ordained male monastic.
+
+Bhikkhuni: fully-ordained female monastic.
+
+Bodhisatta: Buddha-to-be – literally ‘awakening being’; used by the Buddha to refer to himself before Awakening.
+
+Brahmana: brahmin priest or member of this social class, preservers of the Vedic tradition which came to be the basis of Hinduism.
+
+Calm Meditation: samatha kammathāna – meditation practice with a strong emphasis on concentration in order to attain absorption.
+
+Cannot be known by thought: acinteyya – the four things which cannot be known by thought are the sphere of a Buddha, the meditative absorptions, the results of kamma (kamma-vipāka) and the nature of the world.
+
+Coming-into-existence: bhava [existence, becoming]
+
+Concentration: samādhi.
+
+Conceptual proliferation: papañca.
+
+Conditional Causality: paticcasamuppāda – the Buddha’s teaching that all conditioned things arise from a cause and cease with the cessation of the cause; usually formally presented as twelve links (see text 114). [Dependent origination]
+
+Consciousness: viññāna – one of the basic functions of mind; usually defined in relation to the six senses.
+
+Deva: literally ‘radiant’ ; celestial being, god, deity.
+
+Dhamma: the Buddha’s teaching.
+
+Disenchantment: nibbidā [Revulsion]
+
+Dispassion: virāga
+
+Dukkha: 1) pain, dis-ease, suffering, 2) unsatisfactoriness, imperfection, incompleteness.
+
+Divine Abidings (four): Brahma vihāra: friendliness (mettā), compassion (karunā), empathetic joy (muditā) and equanimity (upekkhā).
+
+Factors of Awakening: mindfulness, investigation-of-dhamma, energy, joy, tranquillity, concentration and equanimity (text 79).
+
+Feeling (tones): vedanā.
+
+Fetter: samyojana.
+
+Five Groups of Grasping: pañcupādānakkhandha or khandha – physical form, feelings, perceptions, mental activities, consciousness.
+
+Five Hindrances: sensual desire, ill-will, mental sluggishness and lethargy, restlessness and worry, doubt.
+
+Five Precepts: refraining from killing, stealing, sexual misconduct, lying and intoxication; the basic moral standard for a Buddhist.
+
+Formative (mental) activities: saṅkhāra, as a factor in Conditional Causality. [Volitional formations, formations]
+
+Formless absorptions: arūpa-jhāna – four absorptions using a ‘formless’ object for concentration: boundless space, boundless consciousness, sphere of nothingness, sphere of neither-perception-nor-non-perception.
+
+Four Noble Truths: ariya sacca – dukkha, origin of dukkha, cessation of dukkha and path to cessation of dukkha.
+
+Grasping: upādāna - four forms: sensuality, views, rules and rituals, personality belief. [Clinging]
+
+Ignorance: avijjā.
+
+Impermanence: anicca.
+
+Impersonality: anattā.
+
+Insight Meditation: vipassanā kammathāna – meditation practice with a strong emphasis on mindfulness and investigation, in order to see directly the Three Characteristics of impermanence, dukkha and impersonality.
+
+Kataññuta: gratitude, most particularly to one’s parents.
+
+Khandha: the five groups of grasping – physical form, feelings, perceptions, mental activities, consciousness. [Aggregates]
+
+Latent tendencies: anusaya - seven kinds: lust, aversion, view, doubt, conceit, lust for existence, ignorance. [Underlying tendencies]
+
+Māra: literally ‘killer’, the Buddhist ‘tempter’ figure, the ‘evil one’ representing the sensual realm.
+
+Mental activities: saṅkhāra, as one of the groups of grasping its most prominent activity is intention, will, volition.
+
+Mental ease and dis-ease: somanassa-domanassa.
+
+Mental sluggishness and lethargy: thīna-middha [Sloth and torpor]
+
+Name-and-form: nāma-rūpa – a factor in Conditional Causality meaning mental functions of feeling, perception, volition, contact and attention plus materiality of body and world. [Mentality-materiality, mind-body]
+
+Nibbāna: the ultimate ‘goal’ of Buddhist practice, the cessation of greed, aversion and delusion.
+
+Noble silence: refers to the second absorption where thinking ceases.
+
+Outflows (of selfhood): āsava, four – ignorance, sense desire, for existence, views.
+
+Parisā: assembly, used in place of ‘sangha’ when referring to both monastics and laity.
+
+Paticcasamuppāda: Conditional Causality. [Dependent Origination]
+
+Pātimokkha: the 227 monastic rules and procedures which are recited fortnightly before the collective bhikkhu Sangha.
+
+Psychic powers: abhiññā – six kinds: magical powers (i.e. levitation, walking on water, etc.), divine ear, mind reading, divine eye, recalling former abidings, destruction of outflows. [Supernormal powers, higher powers]
+
+Rebirth: punabbhava. (literally ‘re-becoming’)
+
+Renunciant: samana, a religious follower of the non-Vedic tradition, some were ascetics and some wanderers. [Ascetic]
+
+Restlessness and worry: uddhacca-kukkucca.
+
+Revered One: bhagavant; one of the titles of the Buddha. [Blessed One, Lord]
+
+Samana: non-Vedic renunciant.
+
+Saṁsāra: literally ‘wandering on’; the cycle of continuous rebirths.
+
+Saṁvega: spiritual agitation or anxiety at becoming aware of the fragile human condition.
+
+Sanghakamma: literally ‘act of the Sangha’, a communal formal monastic procedure.
+
+Savaka sangha: see Ariya Sangha.
+
+Seclusion: viveka.
+
+Sīla: skilful conduct, morality, virtue.
+
+Six internal and external sense-spheres; sixfold sense bases: salāyatana – six sense organs and six sense objects.
+
+Spiritual Faculties and Spiritual Powers: faith, wisdom, energy, concentration and mindfulness.
+
+Things as they really are: yathābhūta.
+
+Thirst: tanhā – three kinds: sensuality, for existence and for non-existence. [Craving]
+
+Three Characteristics: tilakkhana -- the ‘characteristics’ of all conditioned things: impermanence, unsatisfactoriness and impersonality.
+
+Three Knowledges: tevijja – divine eye, recalling former abidings, destruction of outflows.
+
+Tipitaka: literally ‘Three Baskets’; the collective name for the Pali Canon.
+
+Triple Gem: tiratana – Buddha, Dhamma, Sangha; also called the Three Refuges.
+
+Unsatisfactoriness: dukkha, in its existential manifestation.
+
+Upāsaka: male lay disciple
+
+Upāsikā: female lay disciple.
+
+Vesākha Pūjā: full moon day of May commemorating the Buddha’s Birth, Awakening and Passing.
+
+Vimutti: liberation.
+
+Vinaya (Piṭaka): the collection of the disciplinary rules and procedures.
+
+Vipassanā: insight
+
+Viveka: solitude – three kinds: body, mind and upadhi.
+
+Worthy One: arahant, one of the titles of the Buddha, and all those who are fully awakened.

@@ -1,0 +1,111 @@
+{
+  "title": "Walking The World",
+  "author": "Ajahn Sundara",
+  "language": "en",
+  "total_chapters": 17,
+  "total_words": 45927,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "title": "Copyright",
+      "word_count": 410,
+      "file": "chapter_01_Copyright.txt"
+    },
+    {
+      "chapter_index": 2,
+      "title": "Further resources",
+      "word_count": 96,
+      "file": "chapter_02_Further resources.txt"
+    },
+    {
+      "chapter_index": 3,
+      "title": "Foreword",
+      "word_count": 458,
+      "file": "chapter_03_Foreword.txt"
+    },
+    {
+      "chapter_index": 4,
+      "title": "Acknowledgements",
+      "word_count": 186,
+      "file": "chapter_04_Acknowledgements.txt"
+    },
+    {
+      "chapter_index": 5,
+      "title": "Another Dimension",
+      "word_count": 2774,
+      "file": "chapter_05_Another Dimension.txt"
+    },
+    {
+      "chapter_index": 6,
+      "title": "Have you Ever Noticed?",
+      "word_count": 3602,
+      "file": "chapter_06_Have you Ever Noticed.txt"
+    },
+    {
+      "chapter_index": 7,
+      "title": "Inner Space",
+      "word_count": 3640,
+      "file": "chapter_07_Inner Space.txt"
+    },
+    {
+      "chapter_index": 8,
+      "title": "It Can be Very Simple",
+      "word_count": 3699,
+      "file": "chapter_08_It Can be Very Simple.txt"
+    },
+    {
+      "chapter_index": 9,
+      "title": "Mindfulness and Wisdom, the Tools of Practice",
+      "word_count": 3054,
+      "file": "chapter_09_Mindfulness and Wisdom, the Tools of Practice.txt"
+    },
+    {
+      "chapter_index": 10,
+      "title": "Our Nature",
+      "word_count": 3056,
+      "file": "chapter_10_Our Nature.txt"
+    },
+    {
+      "chapter_index": 11,
+      "title": "Reality is Here and Now",
+      "word_count": 3267,
+      "file": "chapter_11_Reality is Here and Now.txt"
+    },
+    {
+      "chapter_index": 12,
+      "title": "Resting in Awareness",
+      "word_count": 4357,
+      "file": "chapter_12_Resting in Awareness.txt"
+    },
+    {
+      "chapter_index": 13,
+      "title": "The Benefits of Practice",
+      "word_count": 3180,
+      "file": "chapter_13_The Benefits of Practice.txt"
+    },
+    {
+      "chapter_index": 14,
+      "title": "The Heart of Monastic Life",
+      "word_count": 5504,
+      "file": "chapter_14_The Heart of Monastic Life.txt"
+    },
+    {
+      "chapter_index": 15,
+      "title": "The Truth of Cessation and the Path",
+      "word_count": 4305,
+      "file": "chapter_15_The Truth of Cessation and the Path.txt"
+    },
+    {
+      "chapter_index": 16,
+      "title": "Trust and Wisdom",
+      "word_count": 4111,
+      "file": "chapter_16_Trust and Wisdom.txt"
+    },
+    {
+      "chapter_index": 17,
+      "title": "About the Author",
+      "word_count": 228,
+      "file": "chapter_17_About the Author.txt"
+    }
+  ]
+}

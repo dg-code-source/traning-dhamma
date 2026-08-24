@@ -1,0 +1,108 @@
+{
+  "title": "index",
+  "author": "Thai Forest Tradition",
+  "language": "en",
+  "total_pages": 355,
+  "total_chapters": 14,
+  "total_words": 79890,
+  "chapters": [
+    {
+      "title": "contents",
+      "page": 4,
+      "chapter_index": 1,
+      "word_count": 162,
+      "file": "chapter_01_contents.txt"
+    },
+    {
+      "title": "acknowledgements",
+      "page": 6,
+      "chapter_index": 2,
+      "word_count": 350,
+      "file": "chapter_02_acknowledgements.txt"
+    },
+    {
+      "title": "abbreviations",
+      "page": 8,
+      "chapter_index": 3,
+      "word_count": 298,
+      "file": "chapter_03_abbreviations.txt"
+    },
+    {
+      "title": "introduction",
+      "page": 11,
+      "chapter_index": 4,
+      "word_count": 2912,
+      "file": "chapter_04_introduction.txt"
+    },
+    {
+      "title": "PART ONE | BACKGROUND",
+      "page": 23,
+      "chapter_index": 5,
+      "word_count": 11730,
+      "file": "chapter_05_PART ONE BACKGROUND.txt"
+    },
+    {
+      "title": "PART TWO | The Process of I-Making",
+      "page": 75,
+      "chapter_index": 6,
+      "word_count": 24670,
+      "file": "chapter_06_PART TWO The Process of I-Making.txt"
+    },
+    {
+      "title": "PART THREE | The Cessation of I-Making",
+      "page": 183,
+      "chapter_index": 7,
+      "word_count": 36080,
+      "file": "chapter_07_PART THREE The Cessation of I-Making.txt"
+    },
+    {
+      "title": "Appendix 1",
+      "page": 338,
+      "chapter_index": 8,
+      "word_count": 256,
+      "file": "chapter_08_Appendix 1.txt"
+    },
+    {
+      "title": "Appendix 2",
+      "page": 340,
+      "chapter_index": 9,
+      "word_count": 292,
+      "file": "chapter_09_Appendix 2.txt"
+    },
+    {
+      "title": "selected bibliography",
+      "page": 343,
+      "chapter_index": 10,
+      "word_count": 505,
+      "file": "chapter_10_selected bibliography.txt"
+    },
+    {
+      "title": "glossary/dictionary",
+      "page": 346,
+      "chapter_index": 11,
+      "word_count": 591,
+      "file": "chapter_11_glossarydictionary.txt"
+    },
+    {
+      "title": "about the author",
+      "page": 349,
+      "chapter_index": 12,
+      "word_count": 277,
+      "file": "chapter_12_about the author.txt"
+    },
+    {
+      "title": "creative commons license",
+      "page": 351,
+      "chapter_index": 13,
+      "word_count": 440,
+      "file": "chapter_13_creative commons license.txt"
+    },
+    {
+      "title": "index",
+      "page": 352,
+      "chapter_index": 14,
+      "word_count": 1053,
+      "file": "chapter_14_index.txt"
+    }
+  ]
+}
