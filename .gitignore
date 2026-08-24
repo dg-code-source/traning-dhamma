@@ -37,15 +37,16 @@ ENV/
 *.swp
 *.swo
 
-# Large / Copyrighted raw book archives
-documents/raw_pdfs/
-documents/raw_epubs/
-
-# Uncompressed >100MB V2 split and export files (compressed .gz versions are tracked)
+# Uncompressed >100MB V2 and V3 split and export files (compressed .gz versions are tracked)
 datasets_v2/splits/master_25k_dhamma_qa.jsonl
 datasets_v2/splits/train_25k.jsonl
 datasets_v2/exports/master_25k_sharegpt.json
 datasets_v2/exports/train_25k_sharegpt.json
+
+datasets_v3/splits/master_v3_dhamma_qa.jsonl
+datasets_v3/splits/train_v3.jsonl
+datasets_v3/exports/master_v3_sharegpt.json
+datasets_v3/exports/train_v3_sharegpt.json
 
 # Tooling and analysis cache
 graphify-out/
