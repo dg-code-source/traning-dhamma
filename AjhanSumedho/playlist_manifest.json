@@ -6,7 +6,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\001_ajahn_sumedho_dhamma_talk_1_v494a6ghmva.txt",
     "dataset_file": "yt_sumedho_001_ajahn_sumedho_dhamma_talk_1_v494a6ghmva_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=V494A6GhmvA"
   },
   {
@@ -16,7 +16,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\002_ajahn_sumedho_dhamma_talk_2_67pwi11vqzi.txt",
     "dataset_file": "yt_sumedho_002_ajahn_sumedho_dhamma_talk_2_67pwi11vqzi_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=67pwI11VqZI"
   },
   {
@@ -26,7 +26,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\003_ajahn_sumedho_dhamma_talk_3_2durv7i5mxe.txt",
     "dataset_file": "yt_sumedho_003_ajahn_sumedho_dhamma_talk_3_2durv7i5mxe_qa.jsonl",
-    "qa_count": 5,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=2dUrv7i5mxE"
   },
   {
@@ -36,7 +36,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\004_ajahn_sumedho_dhamma_talk_4_ggc3abwwx8q.txt",
     "dataset_file": "yt_sumedho_004_ajahn_sumedho_dhamma_talk_4_ggc3abwwx8q_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=Ggc3aBwWx8Q"
   },
   {
@@ -46,7 +46,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\005_ajahn_sumedho_dhamma_talk_5_s4km_iqnzzu.txt",
     "dataset_file": "yt_sumedho_005_ajahn_sumedho_dhamma_talk_5_s4km_iqnzzu_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=s4KM-iqnZzU"
   },
   {
@@ -56,7 +56,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\006_ajahn_sumedho_dhamma_talk_6_z90nss5mdmq.txt",
     "dataset_file": "yt_sumedho_006_ajahn_sumedho_dhamma_talk_6_z90nss5mdmq_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=Z90nSs5mDmQ"
   },
   {
@@ -66,7 +66,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\007_ajahn_sumedho_dhamma_talk_7_o1lx9pxgqtq.txt",
     "dataset_file": "yt_sumedho_007_ajahn_sumedho_dhamma_talk_7_o1lx9pxgqtq_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=O1LX9PXGQtQ"
   },
   {
@@ -76,7 +76,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\008_ajahn_sumedho_dhamma_talk_8_wsfizu1h4ji.txt",
     "dataset_file": "yt_sumedho_008_ajahn_sumedho_dhamma_talk_8_wsfizu1h4ji_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=wSfIzu1h4JI"
   },
   {
@@ -86,7 +86,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\009_ajahn_sumedho_dhamma_talk_9_kkpr2ks1qee.txt",
     "dataset_file": "yt_sumedho_009_ajahn_sumedho_dhamma_talk_9_kkpr2ks1qee_qa.jsonl",
-    "qa_count": 8,
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=KkPR2kS1QEE"
   },
   {
@@ -106,7 +106,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\011_ajahn_sumedho_dhamma_talk_11_pgsmgve6x84.txt",
     "dataset_file": "yt_sumedho_011_ajahn_sumedho_dhamma_talk_11_pgsmgve6x84_qa.jsonl",
-    "qa_count": 8,
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=pgsMGVe6x84"
   },
   {
@@ -116,7 +116,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\012_ajahn_sumedho_dhamma_talk_12_5ovw8lay4to.txt",
     "dataset_file": "yt_sumedho_012_ajahn_sumedho_dhamma_talk_12_5ovw8lay4to_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=5oVW8Lay4to"
   },
   {
@@ -126,7 +126,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\013_ajahn_sumedho_dhamma_talk_13_wmeo1qw4z2e.txt",
     "dataset_file": "yt_sumedho_013_ajahn_sumedho_dhamma_talk_13_wmeo1qw4z2e_qa.jsonl",
-    "qa_count": 8,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=WMEo1qw4Z2E"
   },
   {
@@ -136,7 +136,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\014_ajahn_sumedho_dhamma_talk_14_x8deyhvipws.txt",
     "dataset_file": "yt_sumedho_014_ajahn_sumedho_dhamma_talk_14_x8deyhvipws_qa.jsonl",
-    "qa_count": 5,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=X8DeyhVIpWs"
   },
   {
@@ -146,7 +146,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\015_ajahn_sumedho_dhamma_talk_15_wqe6pubbxh4.txt",
     "dataset_file": "yt_sumedho_015_ajahn_sumedho_dhamma_talk_15_wqe6pubbxh4_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=wqe6PUbbXH4"
   },
   {
@@ -156,7 +156,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\016_ajahn_sumedho_dhamma_talk_16_rznxkayxfng.txt",
     "dataset_file": "yt_sumedho_016_ajahn_sumedho_dhamma_talk_16_rznxkayxfng_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=RZNXKayXFNg"
   },
   {
@@ -166,7 +166,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\017_ajahn_sumedho_dhamma_talk_17_ujn2_wxzedm.txt",
     "dataset_file": "yt_sumedho_017_ajahn_sumedho_dhamma_talk_17_ujn2_wxzedm_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=ujN2-wXZEdM"
   },
   {
@@ -196,7 +196,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\020_ajahn_sumedho_dhamma_talk_20_x9b2sifeatk.txt",
     "dataset_file": "yt_sumedho_020_ajahn_sumedho_dhamma_talk_20_x9b2sifeatk_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=x9b2sIfeatk"
   },
   {
@@ -206,7 +206,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\021_ajahn_sumedho_dhamma_talk_21_cep8jewkln0.txt",
     "dataset_file": "yt_sumedho_021_ajahn_sumedho_dhamma_talk_21_cep8jewkln0_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=CEp8JewklN0"
   },
   {
@@ -236,7 +236,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\024_ajahn_sumedho_dhamma_talk_24_e6rwo_zpeki.txt",
     "dataset_file": "yt_sumedho_024_ajahn_sumedho_dhamma_talk_24_e6rwo_zpeki_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=e6rWO_zpeKI"
   },
   {
@@ -246,7 +246,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\025_ajahn_sumedho_dhamma_talk_25_f6tkkldls0e.txt",
     "dataset_file": "yt_sumedho_025_ajahn_sumedho_dhamma_talk_25_f6tkkldls0e_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=f6tKkLDLs0E"
   },
   {
@@ -256,7 +256,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\026_ajahn_sumedho_dhamma_talk_26_y2793iaonxq.txt",
     "dataset_file": "yt_sumedho_026_ajahn_sumedho_dhamma_talk_26_y2793iaonxq_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=y2793IaOnxQ"
   },
   {
@@ -266,7 +266,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\027_ajahn_sumedho_dhamma_talk_27_u03yohwfji8.txt",
     "dataset_file": "yt_sumedho_027_ajahn_sumedho_dhamma_talk_27_u03yohwfji8_qa.jsonl",
-    "qa_count": 8,
+    "qa_count": 11,
     "url": "https://www.youtube.com/watch?v=U03YoHWfJi8"
   },
   {
@@ -276,7 +276,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\028_ajahn_sumedho_dhamma_talk_28_vynzq1gafxw.txt",
     "dataset_file": "yt_sumedho_028_ajahn_sumedho_dhamma_talk_28_vynzq1gafxw_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=VynzQ1gaFxw"
   },
   {
@@ -286,7 +286,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\029_ajahn_sumedho_dhamma_talk_29_cppqajy8b9o.txt",
     "dataset_file": "yt_sumedho_029_ajahn_sumedho_dhamma_talk_29_cppqajy8b9o_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=cPPqajy8B9o"
   },
   {
@@ -306,7 +306,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\031_ajahn_sumedho_dhamma_talk_31_m_our3mv390.txt",
     "dataset_file": "yt_sumedho_031_ajahn_sumedho_dhamma_talk_31_m_our3mv390_qa.jsonl",
-    "qa_count": 6,
+    "qa_count": 8,
     "url": "https://www.youtube.com/watch?v=M-oUr3MV390"
   },
   {
@@ -316,7 +316,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\032_ajahn_sumedho_dhamma_talk_32_w_3vtb_ymgy.txt",
     "dataset_file": "yt_sumedho_032_ajahn_sumedho_dhamma_talk_32_w_3vtb_ymgy_qa.jsonl",
-    "qa_count": 8,
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=w_3vtb_yMgY"
   },
   {
@@ -366,7 +366,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\037_ajahn_sumedho_dhamma_talk_37_ih_dagyakp0.txt",
     "dataset_file": "yt_sumedho_037_ajahn_sumedho_dhamma_talk_37_ih_dagyakp0_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=iH_DagyaKp0"
   },
   {
@@ -386,7 +386,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\039_ajahn_sumedho_dhamma_talk_39_wplwvwpyfee.txt",
     "dataset_file": "yt_sumedho_039_ajahn_sumedho_dhamma_talk_39_wplwvwpyfee_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 10,
     "url": "https://www.youtube.com/watch?v=wpLwVWpYfEE"
   },
   {
@@ -406,7 +406,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\041_ajahn_sumedho_dhamma_talk_41_4hp0k7_k7jo.txt",
     "dataset_file": "yt_sumedho_041_ajahn_sumedho_dhamma_talk_41_4hp0k7_k7jo_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=4hP0K7-K7jo"
   },
   {
@@ -416,7 +416,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\042_ajahn_sumedho_dhamma_talk_42_vldd8pc74xq.txt",
     "dataset_file": "yt_sumedho_042_ajahn_sumedho_dhamma_talk_42_vldd8pc74xq_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 10,
     "url": "https://www.youtube.com/watch?v=VldD8pC74XQ"
   },
   {
@@ -426,7 +426,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\043_ajahn_sumedho_dhamma_talk_43_49zhgt0ok5e.txt",
     "dataset_file": "yt_sumedho_043_ajahn_sumedho_dhamma_talk_43_49zhgt0ok5e_qa.jsonl",
-    "qa_count": 7,
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=49ZhgT0Ok5E"
   },
   {
@@ -436,7 +436,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\044_ajahn_sumedho_dhamma_talk_44_6apavranqvo.txt",
     "dataset_file": "yt_sumedho_044_ajahn_sumedho_dhamma_talk_44_6apavranqvo_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 10,
     "url": "https://www.youtube.com/watch?v=6ApAvRanQVo"
   },
   {
@@ -446,7 +446,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\045_ajahn_sumedho_dhamma_talk_45_iekvpe_wv_e.txt",
     "dataset_file": "yt_sumedho_045_ajahn_sumedho_dhamma_talk_45_iekvpe_wv_e_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 10,
     "url": "https://www.youtube.com/watch?v=IEKvpe_wV-E"
   },
   {
@@ -456,7 +456,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\046_ajahn_sumedho_dhamma_talk_46_d40nweoqpaq.txt",
     "dataset_file": "yt_sumedho_046_ajahn_sumedho_dhamma_talk_46_d40nweoqpaq_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=D40NwEOQPAQ"
   },
   {
@@ -466,7 +466,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\047_ajahn_sumedho_dhamma_talk_47_nla6jgxxk5c.txt",
     "dataset_file": "yt_sumedho_047_ajahn_sumedho_dhamma_talk_47_nla6jgxxk5c_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 10,
     "url": "https://www.youtube.com/watch?v=nLa6jGXxk5c"
   },
   {
@@ -476,7 +476,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\048_ajahn_sumedho_dhamma_talk_48_turn_rcd_dy.txt",
     "dataset_file": "yt_sumedho_048_ajahn_sumedho_dhamma_talk_48_turn_rcd_dy_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 11,
     "url": "https://www.youtube.com/watch?v=turN-rcd_DY"
   },
   {
@@ -486,7 +486,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\049_ajahn_sumedho_dhamma_talk_49_ufzcxo62fa.txt",
     "dataset_file": "yt_sumedho_049_ajahn_sumedho_dhamma_talk_49_ufzcxo62fa_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=-UFZCxo62fA"
   },
   {
@@ -496,7 +496,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\050_ajahn_sumedho_dhamma_talk_50_yeyt6g3zszq.txt",
     "dataset_file": "yt_sumedho_050_ajahn_sumedho_dhamma_talk_50_yeyt6g3zszq_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=yEYt6G3zsZQ"
   },
   {
@@ -506,7 +506,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\051_ajahn_sumedho_dhamma_talk_51_ep5v_v_ha1i.txt",
     "dataset_file": "yt_sumedho_051_ajahn_sumedho_dhamma_talk_51_ep5v_v_ha1i_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=eP5v-v_Ha1I"
   },
   {
@@ -516,7 +516,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\052_ajahn_sumedho_dhamma_talk_52_apjf6pcllkg.txt",
     "dataset_file": "yt_sumedho_052_ajahn_sumedho_dhamma_talk_52_apjf6pcllkg_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=APjF6PClLkg"
   },
   {
@@ -526,7 +526,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\053_ajahn_sumedho_dhamma_talk_53__anx_bopyyq.txt",
     "dataset_file": "yt_sumedho_053_ajahn_sumedho_dhamma_talk_53__anx_bopyyq_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 6,
     "url": "https://www.youtube.com/watch?v=_AnX_BoPYYQ"
   },
   {
@@ -536,7 +536,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\054_ajahn_sumedho_dhamma_talk_54_c6t0gtjsbys.txt",
     "dataset_file": "yt_sumedho_054_ajahn_sumedho_dhamma_talk_54_c6t0gtjsbys_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=C6T0GTjsbys"
   },
   {
@@ -546,7 +546,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\055_ajahn_sumedho_dhamma_talk_55_vw0dvlxm1ec.txt",
     "dataset_file": "yt_sumedho_055_ajahn_sumedho_dhamma_talk_55_vw0dvlxm1ec_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=vw0dvLxm1Ec"
   },
   {
@@ -556,7 +556,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\056_ajahn_sumedho_dhamma_talk_56_a3jwvfwwyay.txt",
     "dataset_file": "yt_sumedho_056_ajahn_sumedho_dhamma_talk_56_a3jwvfwwyay_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=A3jWvfWwyaY"
   },
   {
@@ -566,7 +566,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\057_ajahn_sumedho_dhamma_talk_57_cmpepsnuxsu.txt",
     "dataset_file": "yt_sumedho_057_ajahn_sumedho_dhamma_talk_57_cmpepsnuxsu_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=cMpEPsNUxSU"
   },
   {
@@ -576,7 +576,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\058_ajahn_sumedho_dhamma_talk_58_gejqtjpb40q.txt",
     "dataset_file": "yt_sumedho_058_ajahn_sumedho_dhamma_talk_58_gejqtjpb40q_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 6,
     "url": "https://www.youtube.com/watch?v=GejQtJPB40Q"
   },
   {
@@ -666,7 +666,7 @@
     "status": "COMPLETED",
     "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\067_ajahn_sumedho_dhamma_talk_67_hvl0srrwerw.txt",
     "dataset_file": "yt_sumedho_067_ajahn_sumedho_dhamma_talk_67_hvl0srrwerw_qa.jsonl",
-    "qa_count": 9,
+    "qa_count": 7,
     "url": "https://www.youtube.com/watch?v=hVL0srRwERw"
   },
   {
