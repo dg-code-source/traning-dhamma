@@ -345,11 +345,68 @@ def process_playlist_batch(slug: str, count: Optional[int], index_range: Optiona
         rebuild_master_splits()
         print(f"\n[Complete] Successfully processed {processed_count} talks and updated master training splits!")
 
+def check_item(url_or_id: str):
+    p_id = extract_playlist_id(url_or_id)
+    v_match = re.search(r"(?:v=|youtu\.be/)([a-zA-Z0-9_-]{11})", url_or_id)
+    v_id = v_match.group(1) if v_match else (url_or_id.strip() if len(url_or_id.strip()) == 11 else None)
+    
+    registry = load_registry()
+    
+    print(f"\n=== Checking Status for: {url_or_id} ===")
+    
+    # 1. Check if it is a registered playlist
+    matched_playlists = []
+    for slug, info in registry.items():
+        if info.get("playlist_id") == p_id:
+            matched_playlists.append((slug, info))
+            
+    if matched_playlists:
+        for slug, info in matched_playlists:
+            m_path = info.get("manifest_file")
+            completed = 0
+            total_vids = 0
+            if m_path and os.path.exists(m_path):
+                with open(m_path, "r", encoding="utf-8") as f:
+                    vids = json.load(f)
+                    total_vids = len(vids)
+                    completed = sum(1 for v in vids if v.get("status") == "COMPLETED")
+            print(f"[FOUND PLAYLIST] Key: '{slug}' | Name: '{info.get('name')}'")
+            print(f"                 Progress: {completed} / {total_vids} talks converted")
+            print(f"                 Manifest: {m_path}")
+            
+    # 2. Check across all manifests for video ID
+    if v_id:
+        found_in = []
+        for slug, info in registry.items():
+            m_path = info.get("manifest_file")
+            if m_path and os.path.exists(m_path):
+                with open(m_path, "r", encoding="utf-8") as f:
+                    vids = json.load(f)
+                    for v in vids:
+                        if v.get("video_id") == v_id:
+                            status = v.get("status", "PENDING")
+                            qa_cnt = v.get("qa_count", 0)
+                            found_in.append((slug, info.get("name"), v.get("title"), status, qa_cnt, v.get("dataset_file")))
+        if found_in:
+            print(f"\n[FOUND VIDEO ID: {v_id}]")
+            for slug, p_name, v_title, st, qa_cnt, ds in found_in:
+                print(f"  • Playlist: '{p_name}' ({slug})")
+                print(f"    Title:    {v_title}")
+                print(f"    Status:   {st} ({qa_cnt} QA pairs)")
+                if ds:
+                    print(f"    Dataset:  {ds}")
+        else:
+            if not matched_playlists:
+                print(f"[NOT FOUND] Video ID '{v_id}' has not been registered or converted yet.")
+    elif not matched_playlists:
+        print(f"[NOT FOUND] Playlist ID '{p_id}' has not been registered or converted yet.")
+
 def main():
     parser = argparse.ArgumentParser(description="Generalized Multi-Playlist YouTube Dhamma Training Pipeline")
     parser.add_argument("--add", type=str, metavar="PLAYLIST_URL_OR_ID", help="Add and index a new YouTube playlist")
     parser.add_argument("--name", type=str, metavar="CUSTOM_NAME", help="Optional friendly name for the playlist")
     parser.add_argument("--list", action="store_true", help="List all registered playlists and their status")
+    parser.add_argument("--check", type=str, metavar="URL_OR_ID", help="Check if a playlist or video URL/ID has been converted or registered")
     parser.add_argument("--playlist", type=str, metavar="PLAYLIST_KEY", help="Target playlist key (slug)")
     parser.add_argument("--count", type=int, metavar="N", help="Process the next N pending videos in target playlist")
     parser.add_argument("--range", type=int, nargs=2, metavar=("START", "END"), help="Process 1-indexed video range START to END")
@@ -360,6 +417,8 @@ def main():
         add_playlist(args.add, args.name)
     elif args.list:
         list_playlists()
+    elif args.check:
+        check_item(args.check)
     elif args.playlist:
         r_range = tuple(args.range) if args.range else None
         process_playlist_batch(args.playlist, args.count, r_range, args.delay)

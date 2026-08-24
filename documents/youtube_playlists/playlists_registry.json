@@ -5,5 +5,26 @@
     "playlist_url": "https://www.youtube.com/playlist?list=PL--llepYBCu4lh112KIeRZ75keS_283ox",
     "manifest_file": "C:\\training-dhamma\\dhamma\\documents\\youtube_playlists\\ajahn_sumedho_dhamma_talks_reflections_manifest.json",
     "total_videos": 100
+  },
+  "dhamma": {
+    "name": "Dhamma",
+    "playlist_id": "PLlLsJKuLUkUpR_PeKL7sb2mSSbKZE3OGX",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLlLsJKuLUkUpR_PeKL7sb2mSSbKZE3OGX",
+    "manifest_file": "C:\\training-dhamma\\dhamma\\documents\\youtube_playlists\\dhamma_manifest.json",
+    "total_videos": 40
+  },
+  "ajahn_sumedho_dhamma_talks": {
+    "name": "Ajahn Sumedho - Dhamma Talks",
+    "playlist_id": "PLlLsJKuLUkUp7wrQyn5WLcfEiuTDCLVxv",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLlLsJKuLUkUp7wrQyn5WLcfEiuTDCLVxv",
+    "manifest_file": "C:\\training-dhamma\\dhamma\\documents\\youtube_playlists\\ajahn_sumedho_dhamma_talks_manifest.json",
+    "total_videos": 21
+  },
+  "the_contemplatives_companion_audio_companion": {
+    "name": "The contemplatives companion audio companion",
+    "playlist_id": "PLgxoLF9gJqiff8ybHF7I5MQCY27G0p7y-",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLgxoLF9gJqiff8ybHF7I5MQCY27G0p7y-",
+    "manifest_file": "C:\\training-dhamma\\dhamma\\documents\\youtube_playlists\\the_contemplatives_companion_audio_companion_manifest.json",
+    "total_videos": 7
   }
 }
