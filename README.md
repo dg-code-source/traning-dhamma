@@ -1,147 +1,127 @@
 # Dhamma AI Training Corpus & Pipeline
 
-A specialized, comprehensive machine learning dataset and extraction pipeline for fine-tuning Large Language Models in the authentic lineage of the **Thai Forest Tradition** (in the lineage of Luang Por Chah, Ajahn Sumedho, Ajahn Pasanno, Ajahn Amaro, and Ajahn Jayasāro).
+A specialized, comprehensive, multi-generation machine learning dataset and extraction pipeline for fine-tuning Large Language Models in the authentic lineage of the **Thai Forest Tradition** (Luang Por Chah, Ajahn Sumedho, Ajahn Pasanno, Ajahn Amaro, Ven. Bhikkhu Kaṭukurunde Ñāṇananda, Ajahn Sucitto, Ajahn Jayasāro, Ajahn Thiradhammo, Ajahn Sundara, Ajahn Candasiri, and Luang Por Liem Ṭhitadhammo).
 
 ---
 
-## 1. Corpus Overview & Statistics
+## 1. Corpus Generations & Master Statistics
 
-- **Total Unique Chat SFT QA Pairs**: **3,000+**
-- **Training Set (`datasets/splits/train.jsonl`)**: **~2,700 records** (90%)
-- **Validation Set (`datasets/splits/val.jsonl`)**: **~300 records** (10%)
-- **Distinct Source Datasets**: **73 book datasets + 59 YouTube talk datasets + web page datasets**
-- **Total Source Words Covered**: **~2.7+ Million Words** across 75 extracted books, 59 transcribed talks, and fetched web pages
-- **Exact Duplicates**: **0** (100% deduplicated and validated)
-- **Schema Compliance**: **100% Chat SFT JSONL compliant** + ShareGPT format exports
+The repository maintains three clean, isolated generations of the dataset:
 
----
+| Generation | Master Split Path | Record Count (Train / Val) | Avg Answer Length | Question Style | Status |
+|---|---|---|---|---|---|
+| **Dataset-V1** | `datasets/splits/master_dhamma_qa.jsonl` | **14,225 records** (12,803 / 1,422) | ~115 words | Single-sentence concise prompts | Baseline (100% Intact) |
+| **Dataset-V2** | `datasets_v2/splits/master_25k_dhamma_qa.jsonl.gz` | **28,381 records** (25,543 / 2,838) | ~564 words | Long-form scenario prompts | Preserved |
+| **Dataset-V3 (Master)** | `datasets_v3/splits/master_v3_dhamma_qa.jsonl.gz` | **28,172 records** (25,355 / 2,817) | **549 words (~3,500 chars)** | **Naturalized Living Inquiries** | **Production Master** |
 
-## 2. Pedagogical Architecture (4-Part Structure)
-
-Every training pair follows the standard system persona and 4-part pedagogical framework:
-
-```
-System Prompt:
-"You are a wise and compassionate Dhamma teacher grounded in the Thai Forest Tradition 
-(in the lineage of Luang Por Chah). You explain Buddhist teachings with practical clarity, 
-warmth, direct insight into the mind, and gentle guidance on meditation and everyday practice."
-```
-
-### The 4 Teaching Movements:
-1. **Empathetic Acknowledgment**: Warm validation of human difficulty (*"It is natural to encounter..."*).
-2. **Phenomenological Inquiry**: Direct somatic and mental investigation (*"Notice the felt sense in the body...", "Observe the silent gap between thoughts..."*).
-3. **Precise Pāli Glosses**: Contextual Pali vocabulary with English translations in parentheses (*anicca, dukkha, anattā, sati, samādhi, paññā, avippaṭisāra, Buddho*).
-4. **Lineage Similes & Actionable Application**: Earthy similes and tangible practice advice (*the muddy water settling, the open palm holding water, the cobra's tail*).
+- **Total Source Words Covered**: **~5.0+ Million Words** across 106 extracted books, 283 web monographs, and 59 transcribed spoken talks.
+- **Top-Level Metadata Coverage**: **100.0%** (`source`, `title`, `archetype`, `chapter`).
+- **Schema Compliance**: **100% Chat SFT JSONL compliant** + ShareGPT format exports.
+- **Exact Duplicates**: **0** (Strictly deduplicated).
 
 ---
 
-## 3. Directory Layout
+## 2. Dataset-V3: The 5-Phase Response Architecture
 
+Every assistant answer in Dataset-V3 is structured into five distinct, compassionate paragraphs:
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. Empathetic Reassurance & Practical Orientation (~50-70 words)            │
+│ Validates the practitioner's dilemma with warmth, noting that struggle is   │
+│ the very threshold where authentic discernment is forged.                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 2. Canonical & Doctrinal Grounding with Verbatim Quote (~80-100 words)       │
+│ Quotes the text directly: *"..."* and unpacks the Four Noble Truths,        │
+│ Anicca, Dukkha, Anattā, and non-clinging (anupādāna).                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 3. Narrative Forest Simile Unpacked in Sensory Detail (~70-90 words)        │
+│ Explores the author's specific metaphor (cobra, still flowing water, spittoon,│
+│ boat anchor, open sky, cinema screen, banyan shade).                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 4. Step-by-Step Somatic Meditation Protocol (~80-100 words)                 │
+│ Concrete sequential steps: (1) Postural relaxation, (2) Breath anchoring,   │
+│ (3) Spacious non-interference, (4) Relinquishing the controller.            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 5. Direct Contemplative Pointer to Pure Knowing (~40-60 words)              │
+│ Points back to 'the one who knows' (poo roo) and deathless peace (Nibbāna). │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 3. Mandatory Ingestion Standard: Final Phase LLM Review
+
+To maintain the quality benchmark established in V3, **all future text ingestion pipelines must incorporate the Final Phase LLM Curation Review**:
+
+```mermaid
+graph LR
+    A["Raw Book / Web / Video"] --> B["1. Extraction & Parsing"]
+    B --> C["2. Quote & Simile Grounding"]
+    C --> D["3. 5-Phase SFT Generation"]
+    D --> E["4. MANDATORY: LLM Quality Review & Question Naturalization"]
+    E --> F["Production Dataset Split (V3)"]
+```
+
+### Quality Directives for the Final Review Phase:
+1. **Question Naturalization**: Strip out formulaic book-title injections (e.g. *"In Book X Chapter Y..."*). Frame questions as natural, living inquiries from a practitioner facing a meditation threshold or life challenge.
+2. **Metadata Separation**: Book and chapter titles must reside strictly in top-level JSON metadata (`"source"`, `"title"`, `"chapter"`).
+3. **Seamless Quote Weaving**: Ensure verbatim quotes are embedded smoothly into the syntax of the master's discourse.
+4. **Anti-Tinkering Strictness**: Forbid introducing external theological doctrines or speculative interpretations absent from the source chapter.
+
+---
+
+## 4. Directory Layout
+
+```text
 dhamma/
-├── AjhanSumedho/                     # Self-contained Ajahn Sumedho playlist pipeline
-│   ├── README.md                     # Pipeline documentation
-│   ├── process_playlist.py           # CLI script
-│   ├── playlist_manifest.json        # Live progress tracker (59/100 completed)
-│   ├── transcripts/                  # Extracted transcript text cache
-│   └── datasets/                     # Per-talk Chat SFT JSONL datasets
+├── datasets/                         # V1 Baseline Dataset (14,225 records, 100% UNTOUCHED)
+│   ├── splits/                       # master_dhamma_qa, train, val
+│   └── exports/                      # ShareGPT exports
+│
+├── datasets_v2/                      # V2 Distilled Long-Form Dataset (28,381 records)
+│   ├── splits/                       # master_25k_dhamma_qa.jsonl.gz, train_25k.jsonl.gz, val_25k.jsonl.gz
+│   ├── exports/                      # ShareGPT .gz exports
+│   └── load_splits.py                # V2 Python loader
+│
+├── datasets_v3/                      # ← V3 PRODUCTION MASTER (28,172 perfected records)
+│   ├── books/                        # 104 curated book JSONL datasets
+│   ├── web_pages/                    # 283 curated web monograph JSONL datasets
+│   ├── youtube/                      # 59 curated talk JSONL datasets
+│   ├── splits/                       # master_v3_dhamma_qa.jsonl.gz, train_v3.jsonl.gz, val_v3.jsonl.gz
+│   ├── exports/                      # ShareGPT .gz exports
+│   └── load_splits.py                # V3 Python loader
 │
 ├── documents/
-│   ├── extracted/                    # 75 extracted EPUB/PDF book directories
-│   ├── youtube_playlists/            # Multi-playlist registry and manifests
-│   │   ├── playlists_registry.json   # Master registry of all registered playlists
-│   │   └── *_manifest.json           # Per-playlist state files
-│   ├── youtube_transcripts/          # Central transcript repository
-│   └── web_pages/                    # Fetched & cleaned web page text files
-│       └── web_registry.json         # Registry of all processed web pages
+│   ├── extracted/                    # 106 extracted EPUB/PDF book directories
+│   ├── web_pages/                    # 283 fetched & cleaned web monographs
+│   │   └── web_registry.json         # Master web registry
+│   └── youtube_transcripts/          # 59 spoken talk transcripts
 │
-├── datasets/                         # Individual book, talk, and web page datasets (.jsonl)
-│   ├── web_pages/                    # Per-page Chat SFT datasets (web source)
-│   ├── splits/                       # Master splits: master_dhamma_qa, train, val
-│   └── exports/                      # ShareGPT format JSON exports
-│
-├── tools/
-│   ├── web_page_pipeline.py          # ← NEW: Web page → training data pipeline
-│   ├── playlist_pipeline.py          # Universal YouTube playlist manager
-│   └── regen_yt_qa.py                # Transcript-grounded QA regenerator
-│
-├── audit_structure.py                # 4-part pedagogical structure auditor
-├── check_duplicates.py               # Fast semantic & exact duplicate detector
-├── clean_datasets.py                 # Automated deduplication cleaner
-├── corpus_summary.py                 # Source-to-dataset coverage summary tool
-├── export_formats.py                 # ShareGPT/Alpaca format exporter
-├── fill_gaps.py                      # Automated chapter & concept gap filler
-├── merge_and_split_dataset.py        # Master merge, split (90/10) & schema validator
-└── validate_coverage.py              # Two-layer chapter & Pāli concept coverage auditor
+└── tools/
+    ├── curate_v3_llm_corpus.py       # ← Master V3 Quality Curation Engine
+    ├── distill_v2_llm_corpus.py      # V2 Long-Form Distillation Engine
+    ├── generate_v2_25k_corpus.py     # 5-Archetype Batch Generator
+    ├── web_page_pipeline.py          # Web crawler & PDF processor
+    └── playlist_pipeline.py          # YouTube transcript pipeline
 ```
 
 ---
 
-## 4. Web Page Pipeline ← NEW
+## 5. Quick Start: Loading Dataset-V3 in Python
 
-Fetch any Dhamma web page (dhammatalks.org, accesstoinsight.org, etc.) and generate
-grounded QA training pairs tied directly to that page's actual content.
+```python
+from datasets_v3.load_splits import load_records
 
-```bash
-# Process a complete online book via Table of Contents (crawls all chapters/sections automatically)
-python tools/web_page_pipeline.py --book https://www.dhammatalks.org/books/HeartReleased/
+# Load 25,355 training records transparently (.jsonl or .jsonl.gz)
+train_records = load_records("train")
+print(f"Loaded {len(train_records):,} V3 records")
 
-# Process a single URL
-python tools/web_page_pipeline.py --add https://www.dhammatalks.org/books/HeartReleased/Section0005.html
-
-# Process multiple individual URLs at once
-python tools/web_page_pipeline.py --add URL1 URL2 URL3
-
-# Process a batch from a text file (one URL per line, # = comment)
-python tools/web_page_pipeline.py --file urls.txt
-
-# List all registered pages and their QA count
-python tools/web_page_pipeline.py --list
-
-# Check if a URL was already processed
-python tools/web_page_pipeline.py --check https://...
-
-# Force re-fetch and regenerate a specific URL
-python tools/web_page_pipeline.py --reprocess https://...
-
-# Show summary statistics
-python tools/web_page_pipeline.py --status
-```
-
-### How it works:
-1. **Fetches** raw HTML with retry logic and browser-like User-Agent headers.
-2. **Extracts** main content body (strips nav, header, footer, scripts) via a custom HTML parser targeting `<main>`, `#content`, and `<h2>` section headings.
-3. **Detects** named `§ N. Title` sections and 40+ Pāli keyword triggers.
-4. **Generates** 8–15 grounded QA pairs — every answer opens with an actual quoted sentence from the fetched page.
-5. **Saves** per-page JSONL dataset to `datasets/web_pages/<slug>_qa.jsonl`.
-6. **Rebuilds** master train/val splits automatically.
-
-### Storage:
-| Item | Location |
-|---|---|
-| Raw text | `documents/web_pages/<slug>.txt` |
-| QA dataset | `datasets/web_pages/<slug>_qa.jsonl` |
-| Merged into master | `datasets/<slug>_qa.jsonl` |
-| Registry | `documents/web_pages/web_registry.json` |
-
----
-
-## 5. Universal YouTube Playlist Pipeline
-
-Register, track, and incrementally process **any YouTube playlist**:
-
-```bash
-# Register a new playlist
-python tools/playlist_pipeline.py --add "<YOUTUBE_PLAYLIST_URL>" --name "Playlist Title"
-
-# View all playlists and completion progress
-python tools/playlist_pipeline.py --list
-
-# Process the next N pending talks (extracts transcripts, generates QA, rebuilds splits)
-python tools/playlist_pipeline.py --playlist <PLAYLIST_KEY> --count 5
-
-# Process a specific video range (1-indexed)
-python tools/playlist_pipeline.py --playlist <PLAYLIST_KEY> --range 1 10
+# Inspect sample
+sample = train_records[0]
+print("Question:\n", sample["messages"][1]["content"])
+print("\nAnswer (5 paragraphs):\n", sample["messages"][2]["content"])
+print("\nMetadata:\n", sample["source"], "|", sample["archetype"])
 ```
 
 ---
@@ -149,21 +129,16 @@ python tools/playlist_pipeline.py --playlist <PLAYLIST_KEY> --range 1 10
 ## 6. Core Pipeline Commands
 
 ```bash
-# Audit pedagogical structure & Pāli term density across all datasets
-python audit_structure.py
+# Run the complete V3 LLM Curation Review pipeline across all sources
+python tools/curate_v3_llm_corpus.py
 
-# Check for exact or near-duplicate questions (Jaccard n-gram similarity)
-python check_duplicates.py
+# Verify Chat SFT compliance and word count statistics on V3 splits
+python verify_dataset.py datasets_v3/splits/train_v3.jsonl
+python verify_dataset.py datasets_v3/splits/val_v3.jsonl
 
-# Validate topic and chapter coverage against all 75 extracted source books
-python validate_coverage.py
+# Process new web pages or online monographs
+python tools/web_page_pipeline.py --book https://www.dhammatalks.org/books/HeartReleased/
 
-# Re-merge all datasets and rebuild train/val splits
-python merge_and_split_dataset.py --val-ratio 0.1 --output-dir datasets/splits
-
-# Export master splits to ShareGPT format
-python export_formats.py --all-splits -f sharegpt
-
-# Generate full corpus health summary
-python corpus_summary.py
+# Export datasets to ShareGPT format
+python export_formats.py --splits-dir datasets_v3/splits --output-dir datasets_v3/exports --all-splits -f sharegpt
 ```
