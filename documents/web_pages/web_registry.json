@@ -3607,6 +3607,17 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2018_03_mind_stilled_html_htm_3daaf1.txt",
       "dataset_file": "web_wp_content_uploads_2018_03_mind_stilled_html_htm_3daaf1_qa.jsonl",
       "processed_at": "2026-08-24T20:10:07"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/12/The-Law-of-Dependent-Arising_LE_Rev_1.0.pdf",
+      "title": "The Law of Dependent Arising LE Rev 1.0",
+      "slug": "web_wp_content_uploads_2016_12_the_law_of_dependent_arising_le_r_22c5ac",
+      "status": "COMPLETED",
+      "word_count": 161464,
+      "qa_count": 12,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_12_the_law_of_dependent_arising_le_r_22c5ac.txt",
+      "dataset_file": "web_wp_content_uploads_2016_12_the_law_of_dependent_arising_le_r_22c5ac_qa.jsonl",
+      "processed_at": "2026-08-24T20:16:22"
     }
   ]
 }

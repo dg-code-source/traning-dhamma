@@ -31,12 +31,18 @@ python tools/web_page_pipeline.py --reprocess https://...
 python tools/web_page_pipeline.py --status
 """
 
-import os, sys, json, re, hashlib, argparse, time, urllib.request, urllib.error, urllib.parse
+import os, sys, json, re, hashlib, argparse, time, urllib.request, urllib.error, urllib.parse, io
 from typing import List, Tuple, Optional
 from html.parser import HTMLParser
 
+try:
+    import pypdf
+except ImportError:
+    pypdf = None
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -247,30 +253,25 @@ class DhammaHTMLParser(HTMLParser):
         return "\n".join(self.paragraphs)
 
 
-def fetch_url(url: str, retries: int = 3, delay: float = 2.0) -> str:
-    """Fetch raw HTML from URL with retry logic."""
+def fetch_raw_bytes(url: str, retries: int = 3, delay: float = 2.0) -> Tuple[bytes, str]:
+    """Fetch raw bytes and content-type from URL with retry logic."""
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/125.0.0.0 Safari/537.36"
         ),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,application/pdf,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
         "Connection": "keep-alive"
     }
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=45) as resp:
                 raw = resp.read()
-                # Try to detect encoding from Content-Type header
                 ct = resp.getheader("Content-Type", "")
-                enc = "utf-8"
-                m = re.search(r"charset=([^\s;]+)", ct)
-                if m:
-                    enc = m.group(1)
-                return raw.decode(enc, errors="replace")
+                return raw, ct
         except urllib.error.HTTPError as e:
             print(f"  HTTP {e.code} on attempt {attempt+1}: {url}")
         except Exception as e:
@@ -278,6 +279,46 @@ def fetch_url(url: str, retries: int = 3, delay: float = 2.0) -> str:
         if attempt < retries - 1:
             time.sleep(delay * (attempt + 1))
     raise RuntimeError(f"Failed to fetch: {url}")
+
+
+def fetch_url(url: str, retries: int = 3, delay: float = 2.0) -> str:
+    """Fetch raw HTML/text from URL with retry logic."""
+    raw, ct = fetch_raw_bytes(url, retries=retries, delay=delay)
+    enc = "utf-8"
+    m = re.search(r"charset=([^\s;]+)", ct)
+    if m:
+        enc = m.group(1)
+    return raw.decode(enc, errors="replace")
+
+
+def extract_pdf_content(pdf_bytes: bytes, url: str) -> Tuple[str, str]:
+    """Extract (title, clean_body_text) from PDF bytes."""
+    if pypdf is None:
+        raise RuntimeError("pypdf is not installed. Run: pip install pypdf")
+
+    reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
+    meta = reader.metadata or {}
+    title = meta.get("/Title")
+    if not title or str(title).strip() in ("", "Untitled"):
+        base_name = os.path.splitext(os.path.basename(urllib.parse.urlparse(url).path))[0]
+        title = base_name.replace("_", " ").replace("-", " ").strip()
+    title = str(title).strip()
+
+    pages_text = []
+    for page in reader.pages:
+        try:
+            t = page.extract_text() or ""
+            # Clean common artifacts
+            t = re.sub(r"(\w+)-\n(\w+)", r"\1\2", t)
+            t = re.sub(r"\n\s*\d+\s*\n", "\n\n", t)
+            pages_text.append(t.strip())
+        except Exception:
+            continue
+
+    body = "\n\n".join([p for p in pages_text if p])
+    body = re.sub(r"\n{3,}", "\n\n", body).strip()
+    return title, body
+
 
 
 def extract_clean_text(html: str) -> Tuple[str, str]:
@@ -698,8 +739,26 @@ def process_url(url: str, force: bool = False, min_words: int = 150) -> dict:
         return existing
 
     print(f"\n  Fetching: {url}")
+    is_pdf = url.lower().endswith(".pdf")
     try:
-        html = fetch_url(url)
+        if is_pdf:
+            raw_bytes, ct = fetch_raw_bytes(url)
+            print(f"  Extracting text from PDF ({len(raw_bytes):,} bytes)...")
+            title, body = extract_pdf_content(raw_bytes, url)
+        else:
+            raw_bytes, ct = fetch_raw_bytes(url)
+            # Check if content type indicates PDF despite URL
+            if "application/pdf" in ct.lower():
+                print(f"  Extracting text from PDF ({len(raw_bytes):,} bytes)...")
+                title, body = extract_pdf_content(raw_bytes, url)
+            else:
+                enc = "utf-8"
+                m = re.search(r"charset=([^\s;]+)", ct)
+                if m:
+                    enc = m.group(1)
+                html = raw_bytes.decode(enc, errors="replace")
+                print(f"  Extracting text from HTML...")
+                title, body = extract_clean_text(html)
     except RuntimeError as e:
         print(f"  [ERROR] {e}")
         entry = existing or {"url": url, "slug": url_slug(url)}
@@ -709,13 +768,12 @@ def process_url(url: str, force: bool = False, min_words: int = 150) -> dict:
         save_registry(reg)
         return entry
 
-    print(f"  Extracting text...")
-    title, body = extract_clean_text(html)
     if not title:
-        title = url.split("/")[-1].replace(".html", "").replace("_", " ").title()
+        title = url.split("/")[-1].replace(".html", "").replace(".pdf", "").replace("_", " ").replace("-", " ").title()
 
     word_count = len(body.split())
     print(f"  Title: {title} | {word_count} words")
+
 
     if word_count < min_words:
         print(f"  [SKIP] Word count ({word_count}) below minimum ({min_words} words) — likely a cover/titlepage/nav page.")
