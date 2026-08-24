@@ -6,12 +6,11 @@ A specialized, comprehensive machine learning dataset and extraction pipeline fo
 
 ## 1. Corpus Overview & Statistics
 
-- **Total Unique Chat SFT QA Pairs**: **2,994**
-- **Training Set (`datasets/splits/train.jsonl`)**: **2,695 records** (90%)
-- **Validation Set (`datasets/splits/val.jsonl`)**: **299 records** (10%)
-- **Distinct Source Datasets**: **73 book datasets + 34 YouTube talk datasets**
-- **Total Source Words Covered**: **~2.7+ Million Words** across 75 extracted books and 34 transcribed talks
-- **Pedagogical Quality Score**: **67.5 / 100** (Strict 4-part Thai Forest structure compliance)
+- **Total Unique Chat SFT QA Pairs**: **3,000+**
+- **Training Set (`datasets/splits/train.jsonl`)**: **~2,700 records** (90%)
+- **Validation Set (`datasets/splits/val.jsonl`)**: **~300 records** (10%)
+- **Distinct Source Datasets**: **73 book datasets + 59 YouTube talk datasets + web page datasets**
+- **Total Source Words Covered**: **~2.7+ Million Words** across 75 extracted books, 59 transcribed talks, and fetched web pages
 - **Exact Duplicates**: **0** (100% deduplicated and validated)
 - **Schema Compliance**: **100% Chat SFT JSONL compliant** + ShareGPT format exports
 
@@ -43,7 +42,7 @@ dhamma/
 ├── AjhanSumedho/                     # Self-contained Ajahn Sumedho playlist pipeline
 │   ├── README.md                     # Pipeline documentation
 │   ├── process_playlist.py           # CLI script
-│   ├── playlist_manifest.json        # Live progress tracker (34/100 completed)
+│   ├── playlist_manifest.json        # Live progress tracker (59/100 completed)
 │   ├── transcripts/                  # Extracted transcript text cache
 │   └── datasets/                     # Per-talk Chat SFT JSONL datasets
 │
@@ -51,15 +50,20 @@ dhamma/
 │   ├── extracted/                    # 75 extracted EPUB/PDF book directories
 │   ├── youtube_playlists/            # Multi-playlist registry and manifests
 │   │   ├── playlists_registry.json   # Master registry of all registered playlists
-│   │   └── ajahn_sumedho_...json     # Playlist state manifests
-│   └── youtube_transcripts/          # Central transcript repository
+│   │   └── *_manifest.json           # Per-playlist state files
+│   ├── youtube_transcripts/          # Central transcript repository
+│   └── web_pages/                    # Fetched & cleaned web page text files
+│       └── web_registry.json         # Registry of all processed web pages
 │
-├── datasets/                         # Individual book and talk dataset files (.jsonl)
+├── datasets/                         # Individual book, talk, and web page datasets (.jsonl)
+│   ├── web_pages/                    # Per-page Chat SFT datasets (web source)
 │   ├── splits/                       # Master splits: master_dhamma_qa, train, val
 │   └── exports/                      # ShareGPT format JSON exports
 │
-├── tools/                            # Generalized tooling
-│   └── playlist_pipeline.py          # Universal YouTube playlist manager
+├── tools/
+│   ├── web_page_pipeline.py          # ← NEW: Web page → training data pipeline
+│   ├── playlist_pipeline.py          # Universal YouTube playlist manager
+│   └── regen_yt_qa.py                # Transcript-grounded QA regenerator
 │
 ├── audit_structure.py                # 4-part pedagogical structure auditor
 ├── check_duplicates.py               # Fast semantic & exact duplicate detector
@@ -73,27 +77,73 @@ dhamma/
 
 ---
 
-## 4. Universal YouTube Playlist Pipeline
+## 4. Web Page Pipeline ← NEW
 
-You can register, track, and incrementally process **any YouTube playlist**:
+Fetch any Dhamma web page (dhammatalks.org, accesstoinsight.org, etc.) and generate
+grounded QA training pairs tied directly to that page's actual content.
 
 ```bash
-# 1. Register a new playlist
+# Process a single URL
+python tools/web_page_pipeline.py --add https://www.dhammatalks.org/books/HeartReleased/Section0005.html
+
+# Process multiple URLs at once
+python tools/web_page_pipeline.py --add URL1 URL2 URL3
+
+# Process a batch from a text file (one URL per line, # = comment)
+python tools/web_page_pipeline.py --file urls.txt
+
+# List all registered pages and their QA count
+python tools/web_page_pipeline.py --list
+
+# Check if a URL was already processed
+python tools/web_page_pipeline.py --check https://...
+
+# Force re-fetch and regenerate a specific URL
+python tools/web_page_pipeline.py --reprocess https://...
+
+# Show summary statistics
+python tools/web_page_pipeline.py --status
+```
+
+### How it works:
+1. **Fetches** raw HTML with retry logic and browser-like User-Agent headers.
+2. **Extracts** main content body (strips nav, header, footer, scripts) via a custom HTML parser targeting `<main>`, `#content`, and `<h2>` section headings.
+3. **Detects** named `§ N. Title` sections and 40+ Pāli keyword triggers.
+4. **Generates** 8–15 grounded QA pairs — every answer opens with an actual quoted sentence from the fetched page.
+5. **Saves** per-page JSONL dataset to `datasets/web_pages/<slug>_qa.jsonl`.
+6. **Rebuilds** master train/val splits automatically.
+
+### Storage:
+| Item | Location |
+|---|---|
+| Raw text | `documents/web_pages/<slug>.txt` |
+| QA dataset | `datasets/web_pages/<slug>_qa.jsonl` |
+| Merged into master | `datasets/<slug>_qa.jsonl` |
+| Registry | `documents/web_pages/web_registry.json` |
+
+---
+
+## 5. Universal YouTube Playlist Pipeline
+
+Register, track, and incrementally process **any YouTube playlist**:
+
+```bash
+# Register a new playlist
 python tools/playlist_pipeline.py --add "<YOUTUBE_PLAYLIST_URL>" --name "Playlist Title"
 
-# 2. View all playlists and completion progress
+# View all playlists and completion progress
 python tools/playlist_pipeline.py --list
 
-# 3. Process the next N pending talks (extracts transcripts, generates QA, rebuilds splits)
+# Process the next N pending talks (extracts transcripts, generates QA, rebuilds splits)
 python tools/playlist_pipeline.py --playlist <PLAYLIST_KEY> --count 5
 
-# 4. Process a specific video range (1-indexed)
+# Process a specific video range (1-indexed)
 python tools/playlist_pipeline.py --playlist <PLAYLIST_KEY> --range 1 10
 ```
 
 ---
 
-## 5. Core Pipeline Commands
+## 6. Core Pipeline Commands
 
 ```bash
 # Audit pedagogical structure & Pāli term density across all datasets

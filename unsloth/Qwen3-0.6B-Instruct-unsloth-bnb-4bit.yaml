@@ -1,0 +1,39 @@
+training:
+  max_seq_length: 2048
+  num_epochs: 3
+  learning_rate: 0.0003
+  embedding_learning_rate: null
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  warmup_steps: 30
+  max_steps: 0
+  save_steps: 50
+  eval_steps: 0.1
+  weight_decay: 0.01
+  random_seed: 3407
+  packing: false
+  train_on_completions: true
+  gradient_checkpointing: false
+  optim: adamw_8bit
+  lr_scheduler_type: linear
+lora:
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+  use_rslora: false
+  use_loftq: false
+  use_dora: false
+logging:
+  enable_wandb: false
+  wandb_project: llm-finetuning
+  enable_tensorboard: false
+  tensorboard_dir: runs
+  log_frequency: 10

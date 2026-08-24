@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0005.html",
+      "title": "The Ever-present Truth | A Heart Released",
+      "slug": "web_books_heartreleased_section0005_html_7c0be2",
+      "status": "COMPLETED",
+      "word_count": 3296,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0005_html_7c0be2.txt",
+      "dataset_file": "web_books_heartreleased_section0005_html_7c0be2_qa.jsonl",
+      "processed_at": "2026-08-24T19:18:23"
+    }
+  ]
+}
