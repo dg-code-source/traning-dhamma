@@ -2645,6 +2645,17 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_thingsastheyare_section0018_html_64efdb.txt",
       "dataset_file": "web_books_thingsastheyare_section0018_html_64efdb_qa.jsonl",
       "processed_at": "2026-08-24T19:42:59"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/thai/phut/sao.html",
+      "title": "Ajaan Sao's Teaching: A Reminiscence of Phra Ajaan Sao Kantasilo",
+      "slug": "web_lib_thai_phut_sao_html_e03296",
+      "status": "COMPLETED",
+      "word_count": 1412,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_phut_sao_html_e03296.txt",
+      "dataset_file": "web_lib_thai_phut_sao_html_e03296_qa.jsonl",
+      "processed_at": "2026-08-24T19:49:47"
     }
   ]
 }

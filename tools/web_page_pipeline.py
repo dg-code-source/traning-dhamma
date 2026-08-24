@@ -121,8 +121,10 @@ PALI_MAP = {
 class DhammaHTMLParser(HTMLParser):
     """Extract structured text from dhammatalks.org-style pages."""
 
-    SKIP_TAGS = {"script", "style", "noscript", "button", "svg", "path",
-                 "img", "meta", "link"}
+    # Void/self-closing tags that have no matching end tag in HTML
+    VOID_TAGS = {"meta", "link", "img", "br", "hr", "input"}
+    # Container elements whose inner content should be skipped
+    SKIP_TAGS = {"script", "style", "noscript", "button", "svg", "path"}
     BLOCK_TAGS = {"p", "h1", "h2", "h3", "h4", "li", "br",
                   "blockquote", "section", "article"}
 
@@ -148,13 +150,26 @@ class DhammaHTMLParser(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         attrs_dict = dict(attrs)
-        self._tag_stack.append(tag)
+        if tag not in self.VOID_TAGS:
+            self._tag_stack.append(tag)
 
         # Detect entry into main content area
-        tag_id = attrs_dict.get("id", "")
-        tag_class = attrs_dict.get("class", "")
-        if tag == "main" or tag_id in ("content", "main-content", "truth", "body"):
-            self._main_depth += 1
+        tag_id = attrs_dict.get("id", "").lower()
+        tag_class = attrs_dict.get("class", "").lower()
+        
+        # Stop collecting when reaching footer sections
+        if "f_footer" in tag_id or "f_colophon" in tag_id or "f_provenance" in tag_id or tag in ("footer",):
+            self._skip_depth += 1
+            return
+
+        is_main_entry = (
+            tag in ("main", "article") or 
+            any(k in tag_id for k in ("content", "h_content", "main-content", "truth", "body", "copyrighted_text")) or
+            any(k in tag_class for k in ("content", "main-content", "entry-content", "post-content"))
+        )
+
+        if is_main_entry and self._main_depth == 0:
+            self._main_depth = len(self._tag_stack)  # mark stack level where main started
 
         if tag == "title":
             self._in_title = True
@@ -165,8 +180,8 @@ class DhammaHTMLParser(HTMLParser):
         if self._skip_depth > 0:
             return
 
-        # Skip nav/header/footer — they surround main content
-        if tag in ("nav", "header", "footer") and self._main_depth == 0:
+        # Skip nav/header before main starts
+        if tag in ("nav", "header") and self._main_depth == 0:
             self._skip_depth += 1
             return
 
@@ -184,30 +199,26 @@ class DhammaHTMLParser(HTMLParser):
             self._in_quote = True
 
     def handle_endtag(self, tag):
-        if self._tag_stack and self._tag_stack[-1] == tag:
-            self._tag_stack.pop()
-
         if tag == "title":
             self._in_title = False
 
         if tag in self.SKIP_TAGS:
             self._skip_depth = max(0, self._skip_depth - 1)
-            return
 
         if tag in ("nav", "header", "footer") and self._skip_depth > 0:
             self._skip_depth = max(0, self._skip_depth - 1)
-            return
 
-        if tag == "main" or tag in ("div",):
-            # Could be closing #content div — flush buffer
-            if self._main_depth > 0:
+        if self._main_depth > 0:
+            if tag in self.BLOCK_TAGS or tag in ("div", "main", "article"):
                 self._flush_buf()
-            if tag == "main":
-                self._main_depth = max(0, self._main_depth - 1)
+            # If we've popped back above the level where main started, reset main_depth
+            if len(self._tag_stack) <= self._main_depth:
+                self._main_depth = 0
 
-        elif tag in self.BLOCK_TAGS:
-            if self._main_depth > 0:
-                self._flush_buf()
+        if self._tag_stack and self._tag_stack[-1] == tag:
+            self._tag_stack.pop()
+
+
 
     def handle_data(self, data):
         text = data.strip()
