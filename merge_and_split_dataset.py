@@ -121,8 +121,9 @@ def main():
     parser.add_argument(
         "--datasets-dir",
         "-d",
-        default="datasets",
-        help="Directory containing source .jsonl datasets (default: 'datasets').",
+        nargs="+",
+        default=["datasets"],
+        help="Directory or directories containing source .jsonl datasets (default: ['datasets']).",
     )
     parser.add_argument(
         "--output-dir",
@@ -149,30 +150,91 @@ def main():
         action="store_true",
         help="Create only the merged master dataset without train/val splits.",
     )
+    parser.add_argument(
+        "--master-name",
+        default="master_dhamma_qa.jsonl",
+        help="Name for master merged dataset (default: 'master_dhamma_qa.jsonl').",
+    )
 
     args = parser.parse_args()
 
-    # Find all .jsonl files in datasets_dir, excluding master/splits themselves
+    # Find all .jsonl files in all specified datasets_dir
     files = []
-    for f in sorted(os.listdir(args.datasets_dir)):
-        if f.endswith(".jsonl") and not f.startswith("master_") and f not in ("train.jsonl", "val.jsonl"):
-            files.append(os.path.join(args.datasets_dir, f))
+    for d in args.datasets_dir:
+        if os.path.exists(d):
+            for root, _, fnames in os.walk(d):
+                for f in sorted(fnames):
+                    if f.endswith(".jsonl") and not f.startswith("master_") and f not in ("train.jsonl", "val.jsonl", "train_25k.jsonl", "val_25k.jsonl"):
+                        files.append(os.path.join(root, f))
 
     if not files:
-        print(f"[Error] No .jsonl dataset files found in '{args.datasets_dir}'.")
+        print(f"[Error] No .jsonl dataset files found in {args.datasets_dir}.")
         sys.exit(1)
 
     print(f"Found {len(files)} dataset files to merge:")
-    for f in files:
+    for f in files[:10]:
         print(f" - {f}")
+    if len(files) > 10:
+        print(f" ... and {len(files)-10} more files")
 
-    merge_and_split(
-        input_paths=files,
-        output_dir=args.output_dir,
-        val_ratio=args.val_ratio,
-        seed=args.seed,
-        master_only=args.master_only,
-    )
+    # Custom master path override
+    os.makedirs(args.output_dir, exist_ok=True)
+    all_records: List[Dict] = []
+    seen_keys: Set[str] = set()
+    duplicate_count = 0
+
+    for path in files:
+        records = load_jsonl_records(path)
+        for rec in records:
+            key = get_record_key(rec)
+            if key in seen_keys and key != "":
+                duplicate_count += 1
+                continue
+            seen_keys.add(key)
+            all_records.append(rec)
+
+    total = len(all_records)
+    print(f"\nTotal unique records: {total} (removed {duplicate_count} duplicates)")
+
+    if total == 0:
+        print("[Error] No records to write.")
+        sys.exit(1)
+
+    random.seed(args.seed)
+    random.shuffle(all_records)
+
+    master_path = os.path.join(args.output_dir, args.master_name)
+    with open(master_path, "w", encoding="utf-8") as f:
+        for rec in all_records:
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    print(f"[Created] Master dataset: {master_path} ({total} records)")
+
+    if not args.master_only and args.val_ratio > 0.0:
+        val_count = max(1, int(total * args.val_ratio))
+        train_count = total - val_count
+        val_records = all_records[:val_count]
+        train_records = all_records[val_count:]
+
+        train_filename = "train_25k.jsonl" if "25k" in args.master_name else "train.jsonl"
+        val_filename = "val_25k.jsonl" if "25k" in args.master_name else "val.jsonl"
+
+        train_path = os.path.join(args.output_dir, train_filename)
+        val_path = os.path.join(args.output_dir, val_filename)
+
+        with open(train_path, "w", encoding="utf-8") as f:
+            for rec in train_records:
+                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+        with open(val_path, "w", encoding="utf-8") as f:
+            for rec in val_records:
+                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+
+        print(f"[Created] Train split: {train_path} ({train_count} records)")
+        print(f"[Created] Val split:   {val_path} ({val_count} records)")
+
+        if verify_jsonl_dataset:
+            print("\n--- Verifying Splits ---")
+            verify_jsonl_dataset(train_path)
+            verify_jsonl_dataset(val_path)
 
 
 if __name__ == "__main__":

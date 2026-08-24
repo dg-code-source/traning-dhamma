@@ -1,4 +1,5 @@
 import argparse
+import glob
 import json
 import os
 import sys
@@ -93,61 +94,53 @@ def export_dataset(input_file: str, output_file: str, target_format: str) -> int
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Convert Dhamma Chat SFT datasets into ShareGPT or Alpaca fine-tuning formats."
+    parser = argparse.ArgumentParser(description="Export Chat SFT datasets to ShareGPT or Alpaca format.")
+    parser.add_argument("--input", "-i", default=None, help="Path to input .jsonl dataset file.")
+    parser.add_argument("--output", "-o", default=None, help="Path to output export file.")
+    parser.add_argument(
+        "--format", "-f", choices=["sharegpt", "alpaca"], default="sharegpt", help="Target export format."
     )
     parser.add_argument(
-        "--input",
-        "-i",
-        default=None,
-        help="Path to input Chat SFT .jsonl file (defaults to datasets/splits/master_dhamma_qa.jsonl).",
+        "--splits-dir",
+        default="datasets/splits",
+        help="Directory containing master, train, and val splits (default: 'datasets/splits').",
     )
     parser.add_argument(
-        "--output",
-        "-o",
-        default=None,
-        help="Path to output file (.json or .jsonl). If omitted, saves beside input file.",
-    )
-    parser.add_argument(
-        "--format",
-        "-f",
-        choices=["sharegpt", "alpaca"],
-        default="sharegpt",
-        help="Target export format (default: 'sharegpt').",
+        "--output-dir",
+        default="datasets/exports",
+        help="Directory to save exported files when using --all-splits (default: 'datasets/exports').",
     )
     parser.add_argument(
         "--all-splits",
         action="store_true",
-        help="Export all train, val, and master splits into exports/ folder.",
+        help="Export all standard splits (master, train, val) automatically.",
     )
 
     args = parser.parse_args()
-    root_dir = os.path.abspath(os.path.dirname(__file__))
 
     if args.all_splits:
-        splits = ["master_dhamma_qa", "train", "val"]
-        splits_dir = os.path.join(root_dir, "datasets", "splits")
-        exports_dir = os.path.join(root_dir, "datasets", "exports")
-        os.makedirs(exports_dir, exist_ok=True)
-        for s in splits:
-            in_file = os.path.join(splits_dir, f"{s}.jsonl")
-            if os.path.exists(in_file):
-                out_file = os.path.join(exports_dir, f"{s}_{args.format}.json")
-                export_dataset(in_file, out_file, args.format)
+        splits_dir = args.splits_dir
+        exports_dir = args.output_dir
+
+        # Identify files in splits_dir
+        split_files = glob.glob(os.path.join(splits_dir, "*.jsonl"))
+        if not split_files:
+            print(f"[Error] No .jsonl files found in {splits_dir}")
+            sys.exit(1)
+
+        for in_p in split_files:
+            base = os.path.splitext(os.path.basename(in_p))[0]
+            ext = ".json"
+            out_p = os.path.join(exports_dir, f"{base}_{args.format}{ext}")
+            export_dataset(in_p, out_p, args.format)
         return
 
-    input_file = args.input or os.path.join(root_dir, "datasets", "splits", "master_dhamma_qa.jsonl")
-    if not os.path.exists(input_file):
-        print(f"[Error] Input file not found: {input_file}")
+    if not args.input or not args.output:
+        print("[Error] Must specify either --all-splits or both --input and --output.")
+        parser.print_help()
         sys.exit(1)
 
-    if args.output:
-        output_file = args.output
-    else:
-        base, _ = os.path.splitext(input_file)
-        output_file = f"{base}_{args.format}.json"
-
-    export_dataset(input_file, output_file, args.format)
+    export_dataset(args.input, args.output, args.format)
 
 
 if __name__ == "__main__":
