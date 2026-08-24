@@ -81,6 +81,242 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0007_html_223208.txt",
       "dataset_file": "web_books_heartreleased_section0007_html_223208_qa.jsonl",
       "processed_at": "2026-08-24T19:24:08"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Cover.html",
+      "slug": "web_books_powerofkarma_cover_html_84d585",
+      "title": "Cover | The Power of Karma",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 0,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:26:15"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0001.html",
+      "slug": "web_books_powerofkarma_section0001_html_5f5df7",
+      "title": "Titlepage | The Power of Karma",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 5,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:26:17"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0002.html",
+      "slug": "web_books_powerofkarma_section0002_html_6ba7af",
+      "title": "Copyright | The Power of Karma",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 75,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:26:19"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0003.html",
+      "title": "Preface | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0003_html_82eb34",
+      "status": "COMPLETED",
+      "word_count": 266,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0003_html_82eb34.txt",
+      "dataset_file": "web_books_powerofkarma_section0003_html_82eb34_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:21"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0004.html",
+      "title": "The Power of Karma | SVM talk, February 12, 2026, evening | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0004_html_83fa24",
+      "status": "COMPLETED",
+      "word_count": 2656,
+      "qa_count": 10,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0004_html_83fa24.txt",
+      "dataset_file": "web_books_powerofkarma_section0004_html_83fa24_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:23"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0005.html",
+      "title": "Q&A | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0005_html_31ff60",
+      "status": "COMPLETED",
+      "word_count": 1423,
+      "qa_count": 6,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0005_html_31ff60.txt",
+      "dataset_file": "web_books_powerofkarma_section0005_html_31ff60_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:25"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0006.html",
+      "title": "Introduction | February 13, 2026, evening | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0006_html_1ed74b",
+      "status": "COMPLETED",
+      "word_count": 2312,
+      "qa_count": 7,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0006_html_1ed74b.txt",
+      "dataset_file": "web_books_powerofkarma_section0006_html_1ed74b_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:27"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0007.html",
+      "title": "The Karma of Breath Meditation | February 14, 2026, morning | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0007_html_02643d",
+      "status": "COMPLETED",
+      "word_count": 2609,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0007_html_02643d.txt",
+      "dataset_file": "web_books_powerofkarma_section0007_html_02643d_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:28"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0008.html",
+      "title": "Q&A | February 14, 2026, afternoon | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0008_html_9bb9a0",
+      "status": "COMPLETED",
+      "word_count": 3340,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0008_html_9bb9a0.txt",
+      "dataset_file": "web_books_powerofkarma_section0008_html_9bb9a0_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:30"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0009.html",
+      "title": "Past Karma | February 14, 2026, evening | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0009_html_85f072",
+      "status": "COMPLETED",
+      "word_count": 1686,
+      "qa_count": 7,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0009_html_85f072.txt",
+      "dataset_file": "web_books_powerofkarma_section0009_html_85f072_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:32"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0010.html",
+      "title": "The Karma of Distraction | February 15, 2026, morning | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0010_html_34a748",
+      "status": "COMPLETED",
+      "word_count": 2232,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0010_html_34a748.txt",
+      "dataset_file": "web_books_powerofkarma_section0010_html_34a748_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:34"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0011.html",
+      "title": "Q&A | February 15, 2026, afternoon | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0011_html_ef798c",
+      "status": "COMPLETED",
+      "word_count": 3524,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0011_html_ef798c.txt",
+      "dataset_file": "web_books_powerofkarma_section0011_html_ef798c_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:35"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0012.html",
+      "title": "Present Karma | February 15, 2026, evening | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0012_html_e053ba",
+      "status": "COMPLETED",
+      "word_count": 2500,
+      "qa_count": 7,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0012_html_e053ba.txt",
+      "dataset_file": "web_books_powerofkarma_section0012_html_e053ba_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:37"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0013.html",
+      "title": "The Karma of Pain | February 16, 2026, morning | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0013_html_fae304",
+      "status": "COMPLETED",
+      "word_count": 2653,
+      "qa_count": 7,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0013_html_fae304.txt",
+      "dataset_file": "web_books_powerofkarma_section0013_html_fae304_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:39"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0014.html",
+      "title": "Q&A | February 16, 2026, afternoon | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0014_html_ee3421",
+      "status": "COMPLETED",
+      "word_count": 3638,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0014_html_ee3421.txt",
+      "dataset_file": "web_books_powerofkarma_section0014_html_ee3421_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:41"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0015.html",
+      "title": "Responding with Skillful Karma | February 16, 2026, evening | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0015_html_a1812c",
+      "status": "COMPLETED",
+      "word_count": 2616,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0015_html_a1812c.txt",
+      "dataset_file": "web_books_powerofkarma_section0015_html_a1812c_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:43"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0016.html",
+      "title": "Patterns of Karma | February 17, 2026, morning | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0016_html_20c045",
+      "status": "COMPLETED",
+      "word_count": 1961,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0016_html_20c045.txt",
+      "dataset_file": "web_books_powerofkarma_section0016_html_20c045_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:45"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0017.html",
+      "title": "Q&A | February 17, 2026, afternoon | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0017_html_4a6df0",
+      "status": "COMPLETED",
+      "word_count": 3803,
+      "qa_count": 12,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0017_html_4a6df0.txt",
+      "dataset_file": "web_books_powerofkarma_section0017_html_4a6df0_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:47"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0018.html",
+      "title": "Karma for the End of Karma | February 17, 2026, evening | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0018_html_d94123",
+      "status": "COMPLETED",
+      "word_count": 2153,
+      "qa_count": 10,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0018_html_d94123.txt",
+      "dataset_file": "web_books_powerofkarma_section0018_html_d94123_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:49"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0019.html",
+      "title": "Karma as Context | February 18, 2026, morning | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0019_html_8bfb19",
+      "status": "COMPLETED",
+      "word_count": 1903,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0019_html_8bfb19.txt",
+      "dataset_file": "web_books_powerofkarma_section0019_html_8bfb19_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:50"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0020.html",
+      "title": "Readings | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0020_html_e5c556",
+      "status": "COMPLETED",
+      "word_count": 6916,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0020_html_e5c556.txt",
+      "dataset_file": "web_books_powerofkarma_section0020_html_e5c556_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:53"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/PowerOfKarma/Section0022.html",
+      "title": "Glossary | The Power of Karma",
+      "slug": "web_books_powerofkarma_section0022_html_e56178",
+      "status": "COMPLETED",
+      "word_count": 318,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_powerofkarma_section0022_html_e56178.txt",
+      "dataset_file": "web_books_powerofkarma_section0022_html_e56178_qa.jsonl",
+      "processed_at": "2026-08-24T19:26:55"
     }
   ]
 }
