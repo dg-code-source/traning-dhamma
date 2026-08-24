@@ -663,10 +663,10 @@
     "video_id": "hVL0srRwERw",
     "title": "Ajahn Sumedho Dhamma Talk 67 (hVL0srRwERw)",
     "length": "",
-    "status": "NO_TRANSCRIPT",
-    "transcript_file": null,
-    "dataset_file": null,
-    "qa_count": 0,
+    "status": "COMPLETED",
+    "transcript_file": "C:\\training-dhamma\\dhamma\\AjhanSumedho\\transcripts\\067_ajahn_sumedho_dhamma_talk_67_hvl0srrwerw.txt",
+    "dataset_file": "yt_sumedho_067_ajahn_sumedho_dhamma_talk_67_hvl0srrwerw_qa.jsonl",
+    "qa_count": 9,
     "url": "https://www.youtube.com/watch?v=hVL0srRwERw"
   },
   {
