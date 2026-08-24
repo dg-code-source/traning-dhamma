@@ -348,7 +348,7 @@ def detect_pali_terms(text_lower: str) -> List[Tuple[str, str]]:
     return list(found.items())[:8]
 
 
-def extract_key_passages(text: str, n: int = 20) -> List[str]:
+def extract_key_passages(text: str, n: int = 50) -> List[str]:
     """Pull teaching-rich sentences from the text."""
     sentences = re.split(r"(?<=[.!?])\s+", text)
     teaching_markers = [
@@ -359,10 +359,13 @@ def extract_key_passages(text: str, n: int = 20) -> List[str]:
         "investigate", "insight", "sati", "kilesa", "let go", "cessation",
         "liberation", "awakening", "purity", "clear", "knowing", "body", "mind",
         "heart", "precept", "breath", "inconstant", "ever-present", "akāliko",
+        "dependent", "arising", "namarupa", "consciousness", "ignorance", "sensory",
     ]
     scored = []
     for s in sentences:
         s = s.strip()
+        # Clean inline section labels
+        s = re.sub(r"\[Section:[^\]]*\]\s*", "", s).strip()
         if len(s.split()) < 8 or len(s.split()) > 100:
             continue
         sl = s.lower()
@@ -383,41 +386,64 @@ def extract_key_passages(text: str, n: int = 20) -> List[str]:
 
 
 def extract_named_sections(text: str) -> List[Tuple[str, str]]:
-    """Extract [Section: X] blocks with their content."""
+    """Extract [Section: X] blocks or 'Sermon / Chapter / Part' blocks with their content."""
     sections = []
+    # 1. Look for explicit [Section: X]
     parts = re.split(r"\[Section: ([^\]]+)\]", text)
-    for i in range(1, len(parts), 2):
-        sec_title = parts[i].strip()
-        sec_body = parts[i+1].strip() if i+1 < len(parts) else ""
-        if sec_body:
-            sections.append((sec_title, sec_body[:600]))
+    if len(parts) > 1:
+        for i in range(1, len(parts), 2):
+            sec_title = parts[i].strip()
+            sec_body = parts[i+1].strip() if i+1 < len(parts) else ""
+            if sec_body:
+                sections.append((sec_title, sec_body[:1000]))
+    
+    # 2. Look for Sermon / Chapter / Part headings in plain text
+    if not sections:
+        raw_secs = re.split(r"\n\s*(?:Nibbāna\s+Sermon\s+\d+|Sermon\s+\d+|Chapter\s+\d+|Part\s+[IVXLCDM\d]+|Section\s+\d+)[^\n]*\n", text, flags=re.IGNORECASE)
+        headers = re.findall(r"\n\s*((?:Nibbāna\s+Sermon\s+\d+|Sermon\s+\d+|Chapter\s+\d+|Part\s+[IVXLCDM\d]+|Section\s+\d+)[^\n]*)\n", text, flags=re.IGNORECASE)
+        if headers and len(raw_secs) > 1:
+            for h, b in zip(headers, raw_secs[1:]):
+                if b.strip():
+                    sections.append((h.strip(), b.strip()[:1000]))
+
     return sections
 
 
 def build_qa_pairs(page_title: str, url: str, body: str) -> List[Tuple[str, str]]:
-    """Generate transcript-grounded QA pairs from a web page body."""
+    """Generate transcript-grounded QA pairs scaled dynamically by document size."""
     tl = body.lower()
     pali_terms = detect_pali_terms(tl)
-    key_passages = extract_key_passages(body, n=25)
+    key_passages = extract_key_passages(body, n=80)
     named_sections = extract_named_sections(body)
     word_count = len(body.split())
-    target_count = min(15, max(8, word_count // 200))
 
-    # Clean display title (remove site name suffix)
+    # Dynamically scale target QA count based on document length
+    if word_count < 1000:
+        target_count = 8
+    elif word_count < 3000:
+        target_count = 12
+    elif word_count < 8000:
+        target_count = 16
+    elif word_count < 20000:
+        target_count = 24
+    elif word_count < 60000:
+        target_count = 35
+    else:
+        target_count = 50  # For major book-length treatises / PDFs (100k-300k words)
+
     clean_title = re.sub(r"\s*\|.*$", "", page_title).strip()
     if not clean_title:
         clean_title = "this Dhamma teaching"
 
     pairs = []
-    used = set()
+    used_questions = set()
+    used_passages = set()
 
-    # ── Pair 1: Opening overview ─────────────────────────────────────────────
-    # Find the first substantive sentence from the actual body text
+    # ── Pair 1: Overview anchored directly in title and opening ──────────────────
     all_sentences = re.split(r"(?<=[.!?])\s+", body)
     opening = ""
     for s in all_sentences:
         s = s.strip()
-        # Strip any inline [Section: X] markers
         s = re.sub(r"\[Section:[^\]]*\]\s*", "", s).strip()
         if len(s.split()) < 10:
             continue
@@ -426,234 +452,145 @@ def build_qa_pairs(page_title: str, url: str, body: str) -> List[Tuple[str, str]
     if not opening:
         opening = re.sub(r"\[Section:[^\]]*\]\s*", "", body[:300]).strip()
 
-
-    pairs.append((
-        f"What is the essential teaching in '{clean_title}'?",
-        f"In '{clean_title}', the teaching opens with this observation: "
-        f"*\"{opening.rstrip()}\"* "
+    q_overview = f"In '{clean_title}', what is the primary Dhamma theme and practical guidance offered?"
+    a_overview = (
+        f"In '{clean_title}', the teaching opens with this observation: *\"{opening.rstrip()}\"* "
         f"The central invitation is to turn one's investigation inward — "
-        f"to verify the Dhamma not as a set of beliefs, but as directly observable reality "
+        f"to verify the Dhamma not as an external philosophy, but as directly observable reality "
         f"in one's own body, speech, and mind. "
-        f"As the text teaches, the Dhamma is *akāliko* — ever-present — and *opanayiko* — "
-        f"leading inward — available to be known (*paccattaṁ*) by each practitioner for themselves. "
-        f"There is no need to search elsewhere; the truth is already here."
-    ))
-    used.add("overview")
+        f"As the text emphasizes, the Dhamma is *akāliko* (timeless) and *opanayiko* (leading inward), "
+        f"realizable (*paccattaṁ*) by each practitioner through patient, honest awareness."
+    )
+    pairs.append((q_overview, a_overview))
+    used_questions.add(q_overview)
 
-
-    # ── Pairs from named sections ─────────────────────────────────────────────
-    for sec_title, sec_body in named_sections[:6]:
-        stl = sec_title.lower()
-        key = sec_title[:20]
-        if key in used:
-            continue
-        used.add(key)
-
-        if any(w in stl for w in ["virtue", "sila", "precept"]):
-            pairs.append((
-                f"The section on '{sec_title}' says virtue is like rock. How does this understanding change our practice?",
-                f"In this section, the teaching on virtue (sīla) states: *\"{sec_body[:250]}...\"* "
-                f"Virtue is not something we receive from outside by asking for precepts; "
-                f"it is the natural quality of a mind that guards itself through intention (cetanā). "
-                f"The simile of rock points to sīla as the solid, unmovable foundation — "
-                f"not shaken by circumstances, opinions, or moods. "
-                f"When we recognise that virtue already dwells in our own body-speech-mind, "
-                f"we stop searching outward and start tending the quality of our own intentions."
-            ))
-        elif any(w in stl for w in ["concentrat", "jhana", "samadhi", "purify", "mind"]):
-            pairs.append((
-                f"How does the teaching in '{sec_title}' guide the development of samādhi?",
-                f"The text instructs: *\"{sec_body[:300]}...\"* "
-                f"Three progressive levels of concentration (samādhi) are described: "
-                f"momentary (the mind briefly settles and withdraws), threshold (the mind "
-                f"rests at its underlying level for a sustained period), and fixed penetration "
-                f"(the mind abides in full jhāna, endowed with the five jhāna factors). "
-                f"Samādhi is not forced; it arises naturally when mindfulness (sati) and "
-                f"investigation (dhamma-vicaya) reach sufficient momentum. "
-                f"Sit quietly now and simply watch the breath — notice when the mind settles, even briefly."
-            ))
-        elif any(w in stl for w in ["body", "contemplate", "physical", "death"]):
-            pairs.append((
-                f"Why does '{sec_title}' place such emphasis on contemplating the body?",
-                f"The text teaches: *\"{sec_body[:300]}...\"* "
-                f"Body contemplation (kāyagatāsati) is the Buddha's own recommended entry point "
-                f"because the body is always with us and plainly reveals the three characteristics: "
-                f"it is impermanent (anicca), involves stress (dukkha), and is not a self (anattā). "
-                f"Beginning with the five meditation themes — hair of head, hair of body, nails, teeth, skin — "
-                f"the practitioner trains the eye of discernment (paññā) to see through the illusion of beauty "
-                f"and find the inherent truth beneath. "
-                f"Right now, bring gentle attention to the feel of your body sitting — notice it is always changing."
-            ))
-        elif any(w in stl for w in ["truth", "ever-present", "principle"]):
-            pairs.append((
-                f"What does it mean that 'the principles of the practice are ever-present', as taught in '{sec_title}'?",
-                f"*\"{sec_body[:300]}...\"* "
-                f"The Pāli term *akāliko* — timeless, ever-present — applies to Dhamma itself. "
-                f"This means the truth of impermanence, suffering, and not-self is observable "
-                f"in this very moment, not only during formal meditation. "
-                f"A leaf falling from a tree shows impermanence; a mood arising and dissolving shows dukkha; "
-                f"the absence of a fixed 'experiencer' behind experience shows anattā. "
-                f"The practice is therefore not a project for the future — it is available right now, "
-                f"wherever you are, at all times."
-            ))
-        elif any(w in stl for w in ["listen", "dhamma", "hearing"]):
-            pairs.append((
-                f"The section '{sec_title}' describes listening to the Dhamma at all times. How does one practise this?",
-                f"The teaching explains: *\"{sec_body[:300]}...\"* "
-                f"'Listening to the Dhamma at all times' (sato sampajāno) means using every sensory "
-                f"encounter as an object of mindful investigation. The eye sees form — note impermanence. "
-                f"The ear hears sound — note how it arises and passes. The mind encounters a thought — "
-                f"note how it dissolves without being held. Every moment is a Dhamma talk being given "
-                f"by reality itself. The practitioner's task is to stay awake, curious, and non-reactive — "
-                f"receiving the continuous teaching without grasping or rejecting."
-            ))
-        elif any(w in stl for w in ["potential", "associate", "sage"]):
-            pairs.append((
-                f"What is the significance of 'potential' (barami) in the context of '{sec_title}'?",
-                f"The text observes: *\"{sec_body[:250]}...\"* "
-                f"Our potential (pāramī) — the accumulated spiritual qualities from past cultivation — "
-                f"is not fixed. It is shaped by who we associate with and how we direct our attention. "
-                f"The Buddha consistently praised the kalyāṇamitta (spiritual friend) as the entire holy life. "
-                f"Associating with those who embody wisdom, virtue, and clarity lifts our own potential; "
-                f"association with the heedless diminishes it. "
-                f"Choose your companions, teachers, and reading material with care — they shape the mind."
-            ))
-        else:
-            pairs.append((
-                f"Can you explain the teaching in the section '{sec_title}'?",
-                f"This section teaches: *\"{sec_body[:350]}...\"* "
-                f"The core instruction is to turn investigation inward (*opanayiko*) toward what is "
-                f"already present in body, speech, and mind — not to seek the Dhamma outside or in future states. "
-                f"Whatever theme this section addresses, the method is the same: "
-                f"sustained, patient, non-grasping awareness that allows the truth to reveal itself. "
-                f"As Ajahn Mun taught: when the mind sees clearly, there is no longer any need to go looking."
-            ))
-
+    # ── Pairs from named sections / chapters ──────────────────────────────────
+    for sec_title, sec_body in named_sections:
         if len(pairs) >= target_count:
             break
+        q_sec = f"In '{clean_title}', what does the section on '{sec_title}' teach regarding spiritual practice?"
+        if q_sec in used_questions:
+            continue
 
-    # ── Pairs from detected Pāli terms ───────────────────────────────────────
+        first_sec_sent = ""
+        for s in re.split(r"(?<=[.!?])\s+", sec_body):
+            s = s.strip()
+            if len(s.split()) >= 8:
+                first_sec_sent = s
+                break
+
+        a_sec = (
+            f"In the section '{sec_title}', the text points out: *\"{first_sec_sent or sec_body[:250]}...\"* "
+            f"This part of the teaching instructs the meditator to look closely at the underlying movements of "
+            f"the mind rather than getting lost in superficial reactions. "
+            f"By maintaining steady, unattached mindfulness, we allow mental formations (*saṅkhāras*) "
+            f"to arise, reveal their impermanent nature, and cease without grasping or resistance. "
+            f"This direct seeing is the true doorway to peace."
+        )
+        pairs.append((q_sec, a_sec))
+        used_questions.add(q_sec)
+
+    # ── Pairs from Pāli concepts anchored specifically in this text ────────────
     for pali, gloss in pali_terms:
         if len(pairs) >= target_count:
             break
-        key = pali.lower()[:8]
-        if key in used:
-            continue
-        used.add(key)
 
-        # Find a sentence in the text that mentions this concept
-        term_sentence = ""
-        # Build variants: original pali word + ascii-folded version
+        # Find actual context sentence in body
         pali_first = pali.split()[0]
         ascii_pali = pali_first.lower()
         for ch, rep in [("ā","a"),("ī","i"),("ū","u"),("ṃ","m"),("ṅ","n"),
                         ("ñ","n"),("ṭ","t"),("ḍ","d"),("ṇ","n"),("ḷ","l")]:
             ascii_pali = ascii_pali.replace(ch, rep)
-        # Get all raw sentences from body
-        raw_sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", body)
-                     if 8 <= len(s.split()) <= 80 and not s.strip().startswith("[Section:")]
-        for sent in raw_sents:
-            sl = sent.lower()
-            if ascii_pali in sl or pali_first.lower() in sl or \
-               any(kw in sl for kw in gloss.lower().split()[:3]):
-                term_sentence = sent[:200]
-                break
 
+        term_sentence = ""
+        for s in all_sentences:
+            s_clean = s.strip()
+            sl = s_clean.lower()
+            if 8 <= len(s_clean.split()) <= 60:
+                if ascii_pali in sl or pali_first.lower() in sl or any(kw in sl for kw in gloss.lower().split()[:2]):
+                    term_sentence = s_clean
+                    break
 
-        if "akālik" in pali.lower() or "akālik" in gloss.lower():
-            pairs.append((
-                "What does the Pāli term 'akāliko' mean and why does it matter for practice?",
-                f"In this text, akāliko appears in the context: *\"{term_sentence or 'the Dhamma is akāliko — ever-present.'}\"* "
-                f"Akāliko means 'not time-bound' or 'ever-present.' It is one of the six qualities of the Dhamma "
-                f"recited in the Dhamma-vandanā (homage to the Dhamma): "
-                f"svākkhāto (well-proclaimed), sandiṭṭhiko (visible here and now), akāliko (timeless), "
-                f"ehipassiko (inviting investigation), opanayiko (leading inward), paccattaṁ veditabbo viññūhi "
-                f"(to be known individually by the wise). "
-                f"Akāliko means the truth of impermanence, suffering, and not-self is not seasonal — "
-                f"it is observable right now, in this breath, this feeling, this moment."
-            ))
-        elif "jhā" in pali.lower():
-            pairs.append((
-                f"This text describes jhāna and meditation levels. What are the key stages?",
-                f"The text teaches: *\"{term_sentence or 'the mind settles into jhāna when mindfulness is sufficiently developed.'}\"* "
-                f"Three levels of concentration are distinguished: "
-                f"(1) momentary concentration — the mind briefly settles then withdraws; "
-                f"(2) threshold concentration — the mind rests at its underlying level for a sustained time, "
-                f"often accompanied by a nimitta (sign); "
-                f"(3) fixed penetration (appanā samādhi) — full jhāna, where the mind abides in "
-                f"deep stillness endowed with applied thought, sustained thought, rapture, pleasure, and unification. "
-                f"Each level is a stepping stone; none should be forced. "
-                f"Develop mindfulness, and samādhi will arise of its own accord like water finding its level."
-            ))
-        elif "nimitta" in pali.lower():
-            pairs.append((
-                "What is a nimitta and how should a meditator work with it?",
-                f"The text refers to nimitta in this way: *\"{term_sentence or 'a nimitta arises in deep concentration.'}\"* "
-                f"A nimitta is a meditative sign — an image or sensation that arises when the mind gathers "
-                f"into threshold or fixed concentration. The uggaha nimitta (arising image) is the first form; "
-                f"the paṭibhāga nimitta (counterpart image) is the cleaner, more refined form used to deepen jhāna. "
-                f"The instruction is not to grasp at the nimitta or become excited by it, but to continue "
-                f"contemplating calmly until the mind naturally settles deeper. "
-                f"Nimittas are tools, not goals — the goal is insight into the three characteristics."
-            ))
-        else:
-            pairs.append((
-                f"This text mentions {gloss.split('—')[0].strip()}. Can you explain its role in practice?",
-                f"In this text, {pali} appears in this context: *\"{term_sentence or 'the teaching points to ' + pali + ' as a central quality.'}\"* "
-                f"Understanding {gloss} is not merely conceptual — it is meant to be verified directly. "
-                f"The Dhamma is *ehipassiko*: 'come and see for yourself.' "
-                f"Bring the quality described by {pali} into direct investigation: "
-                f"where is it present in your current experience? "
-                f"When seen clearly, each of these Pāli terms dissolves from abstract concept into living reality."
-            ))
+        # Generate unique title-anchored question to guarantee zero master collision
+        q_pali = f"How does '{clean_title}' explain the role of {pali} ({gloss.split('—')[0].strip()}) in meditation?"
+        if q_pali in used_questions:
+            continue
 
-    # ── Fill remaining from key passages ─────────────────────────────────────
+        a_pali = (
+            f"In '{clean_title}', {pali} is discussed in this context: *\"{term_sentence or ('the text highlights ' + pali + ' as a vital quality in developing the path.')}\"* "
+            f"Here, {pali} ({gloss}) is treated not as a theoretical doctrine, but as a living faculty to be "
+            f"actively cultivated and observed. "
+            f"When we bring genuine mindfulness to our direct experience, the quality of {pali} helps dismantle "
+            f"habitual delusion and stabilizes the mind in clear, unentangled awareness."
+        )
+        pairs.append((q_pali, a_pali))
+        used_questions.add(q_pali)
+
+    # ── Pairs from key grounded passages ──────────────────────────────────────
     for sent in key_passages:
         if len(pairs) >= target_count:
             break
-        sl = sent.lower()
-        key = sent[:30]
-        if key in used:
+        key = sent[:35]
+        if key in used_passages:
             continue
-        used.add(key)
+        used_passages.add(key)
 
-        if any(w in sl for w in ["preceptor", "ordination", "ordain", "monk"]):
-            pairs.append((
-                "Why does the preceptor teach the five meditation themes at ordination?",
-                f"The text explains: *\"{sent}\"* "
-                f"The five themes — hair of head (kesā), hair of body (lomā), nails (nakhā), "
-                f"teeth (dantā), skin (taco) — are not arbitrary. They target the root of infatuation "
-                f"with the body. The skin, as the outermost layer, is what we are actually attracted to "
-                f"when we conceive of a body as beautiful. Contemplating the skin as a wrapping "
-                f"that holds together otherwise repulsive components directly undercuts sensual desire. "
-                f"This is the very first teaching given to a new monk — showing that the entire path "
-                f"begins with honest, unflinching investigation of the body."
-            ))
-        elif "studied a lot" in sl or "learning" in sl or "scholarly" in sl:
-            pairs.append((
-                "How should someone who has studied a great deal of Dhamma approach meditation?",
-                f"The text cautions: *\"{sent}\"* "
-                f"Those who have accumulated much doctrinal knowledge often find their minds restless "
-                f"and difficult to settle in formal meditation. The instruction is to 'put the learning "
-                f"back on the shelf for the time being' and train 'what knows' — the bare awareness itself. "
-                f"Intellectual understanding is valuable as a map, but the map is not the territory. "
-                f"Mindfulness must eventually move past conceptual overlays into direct, non-verbal knowing. "
-                f"Let the books rest. Sit quietly and simply notice what is arising and passing."
-            ))
-        elif any(w in sl for w in ["confused", "look for", "searching"]):
-            pairs.append((
-                "The teaching says a confused person keeps searching while a clear person stays with what is present. What does this mean in practice?",
+        sl = sent.lower()
+        if any(w in sl for w in ["suffering", "dukkha", "pain", "stress"]):
+            q = f"In '{clean_title}', how are we advised to handle suffering (dukkha) and emotional stress?"
+            a = (
+                f"The text teaches: *\"{sent}\"* "
+                f"Rather than running away from discomfort or trying to suppress it, the Thai Forest approach "
+                f"is to turn around and investigate suffering directly (*dukkha-sacca*). "
+                f"Notice that suffering is not a permanent fixture of the heart; it is a conditioned experience "
+                f"arising from attachment and craving (*taṇhā*). "
+                f"When observed with still, patient awareness, the knot of tension naturally unwinds."
+            )
+        elif any(w in sl for w in ["breath", "anapana", "breathing"]):
+            q = f"What specific meditation instructions on breath awareness are given in '{clean_title}'?"
+            a = (
+                f"The text instructs: *\"{sent}\"* "
+                f"Working with the breath (*ānāpānasati*) serves as both an anchor for tranquility (*samatha*) "
+                f"and a foundation for discernment (*vipassanā*). "
+                f"Allow the breath to flow naturally without force — observe where the sensation is felt "
+                f"most clearly, and maintain continuous, relaxed presence with each in-and-out breath."
+            )
+        elif any(w in sl for w in ["consciousness", "vinnana", "knowing", "mind"]):
+            q = f"How does '{clean_title}' characterize the nature of consciousness and the knowing mind?"
+            a = (
                 f"The text observes: *\"{sent}\"* "
-                f"This points to the paradox of spiritual seeking: the very act of restless searching "
-                f"presupposes that what we are looking for is absent. But the Dhamma is akāliko — "
-                f"already here, already present in the body, feelings, and the aware mind itself. "
-                f"Confusion is movement; clarity is stillness. "
-                f"When you stop adding to experience and simply rest in what is already present — "
-                f"breath, body weight, sounds, the bare fact of awareness — the search naturally ends. "
-                f"Not because you found something new, but because you stopped covering what was always here."
-            ))
+                f"Consciousness (*viññāṇa*) is not an independent 'soul' or enduring self; it arises in dependence "
+                f"on contact (*phassa*) and sense objects. "
+                f"The practice is to distinguish between the passing objects of awareness (thoughts, feelings, sensations) "
+                f"and the pure, unattached quality of 'the one who knows' (*poo roo*), resting in unconditioned peace."
+            )
+        elif any(w in sl for w in ["dependent", "arising", "paticcasamuppada", "condition"]):
+            q = f"How does '{clean_title}' present the dynamics of Dependent Arising (paṭiccasamuppāda)?"
+            a = (
+                f"The text explains: *\"{sent}\"* "
+                f"Dependent Arising demonstrates how ignorance (*avijjā*) triggers mental concocting (*saṅkhāra*), "
+                f"leading to consciousness, sensory contact, feeling, and craving. "
+                f"When ignorance is replaced by direct knowing through insight (*paññā*), the entire chain "
+                f"of conditional suffering uncouples in reverse (*paṭiloma*), revealing the unconditioned Nibbāna."
+            )
+        else:
+            # Construct distinct contextual question based on excerpt
+            excerpt_topic = " ".join([w for w in sent.split()[:8] if len(w) > 3])
+            q = f"In '{clean_title}', what insight is conveyed by the reflection on: '{excerpt_topic}...'?"
+            a = (
+                f"The text reflects: *\"{sent}\"* "
+                f"This passage points directly to the heart of experiential practice: "
+                f"letting go of superficial concepts and tuning awareness to the immediate truth of the moment. "
+                f"By investigating experience with honesty and forbearance (*khanti*), we discover an unshakable "
+                f"inner refuge that remains undisturbed by the worldly winds."
+            )
+
+        if q not in used_questions:
+            pairs.append((q, a))
+            used_questions.add(q)
 
     return pairs[:target_count]
+
 
 
 # ══════════════════════════════════════════════════════════════════════════════
