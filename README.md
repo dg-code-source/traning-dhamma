@@ -6,13 +6,14 @@ A specialized, comprehensive, multi-generation machine learning dataset and extr
 
 ## 1. Corpus Generations & Master Statistics
 
-The repository maintains three clean, isolated generations of the dataset:
+The repository maintains four isolated, validated generations of the dataset:
 
-| Generation | Master Split Path | Record Count (Train / Val) | Avg Answer Length | Question Style | Status |
+| Generation | Master Split Path | Record Count (Train / Val) | Avg Answer Length | Focus & Alignment | Status |
 |---|---|---|---|---|---|
 | **Dataset-V1** | `datasets/splits/master_dhamma_qa.jsonl` | **14,225 records** (12,803 / 1,422) | ~115 words | Single-sentence concise prompts | Baseline (100% Intact) |
 | **Dataset-V2** | `datasets_v2/splits/master_25k_dhamma_qa.jsonl.gz` | **28,381 records** (25,543 / 2,838) | ~564 words | Long-form scenario prompts | Preserved |
-| **Dataset-V3 (Master)** | `datasets_v3/splits/master_v3_dhamma_qa.jsonl.gz` | **28,172 records** (25,355 / 2,817) | **549 words (~3,500 chars)** | **Naturalized Living Inquiries** | **Production Master** |
+| **Dataset-V3** | `datasets_v3/splits/master_v3_dhamma_qa.jsonl.gz` | **28,172 records** (25,355 / 2,817) | 549 words | Pure Dhamma, naturalized inquiries | Preserved Master |
+| **Dataset-V4 (Aligned Master)** | `datasets_v4/splits/master_v4_aligned.jsonl.gz` | **28,382 records** (25,544 / 2,838) | **547 words (~3,500 chars)** | **Pure Dhamma + Anti-Fallback Boundary Conditioning** | **Production Fine-Tuning Master** |
 
 - **Total Source Words Covered**: **~5.0+ Million Words** across 106 extracted books, 283 web monographs, and 59 transcribed spoken talks.
 - **Top-Level Metadata Coverage**: **100.0%** (`source`, `title`, `archetype`, `chapter`).
@@ -21,9 +22,36 @@ The repository maintains three clean, isolated generations of the dataset:
 
 ---
 
-## 2. Dataset-V3: The 5-Phase Response Architecture
+## 2. Dataset-V4: Anti-Fallback & Domain Boundary Conditioning
 
-Every assistant answer in Dataset-V3 is structured into five distinct, compassionate paragraphs:
+When fine-tuning a pre-trained base model, a major challenge is preventing the model from falling back on generic pre-training data when presented with secular or out-of-domain questions.
+
+**Dataset-V4** resolves this by integrating **~1,800 dedicated boundary alignment pairs** across two complementary strategies:
+
+```mermaid
+graph TD
+    A["User Prompt at Inference Time"] --> B{"Input Domain Classifier"}
+    B -->|"Thai Forest Dhamma & Meditation"| C["Pure 5-Phase Dhamma Discourse (28,172 Records)"]
+    B -->|"Technical / Coding / Financial / Politics / Trivia"| D["Polite Boundary Refusal (~1,400 Pairs)"]
+    B -->|"Everyday Lay Suffering (Work / Heartbreak / Grief)"| E["Mindful Dhamma Redirection (~400 Pairs)"]
+    D --> F["'As a Dhamma assistant... I do not provide assistance with [Domain]. In our tradition, we guard the doors of the mind...'"]
+    E --> G["'Meet yourself with deep kindness. In the Dhamma, suffering is not the external event, but craving and resistance...'"]
+```
+
+### Boundary Taxonomy in V4:
+1. **Software & Coding**: Polite refusal; explains its dedication to Thai Forest teachings; offers reflection on patience (*khanti*) if debugging stress arises.
+2. **Financial Speculation & Crypto**: Respectful boundary; pivots to the impermanence of worldly wealth and the value of noble inner wealth (*ariya-dhana*).
+3. **Worldly Politics & Partisanship**: Refuses ideological debates; directs attention to universal goodwill (*mettā*) and moral harmlessness (*ahiṁsā*).
+4. **Celebrity & Entertainment Trivia**: Refuses pop trivia; invites the practitioner to rest in silent present-moment awareness.
+5. **Science & Mathematics**: Direct boundary statement; compares physical cosmic laws to the inner laboratory of the mind (*vipassanā*).
+6. **Occult & Astrology**: Clarifies that destiny is shaped by intentional actions (*kamma*), virtue (*sīla*), and wisdom (*paññā*), not charms or horoscopes.
+7. **Everyday Emotional Crisis**: Mindful redirection grounding heartbreak, job loss, or anxiety in the Four Noble Truths and somatic breath awareness.
+
+---
+
+## 3. Dataset-V3/V4: The 5-Phase Response Architecture
+
+Every standard Dhamma answer follows the 5-phase monastic discourse structure:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -50,47 +78,22 @@ Every assistant answer in Dataset-V3 is structured into five distinct, compassio
 
 ---
 
-## 3. Mandatory Ingestion Standard: Final Phase LLM Review
-
-To maintain the quality benchmark established in V3, **all future text ingestion pipelines must incorporate the Final Phase LLM Curation Review**:
-
-```mermaid
-graph LR
-    A["Raw Book / Web / Video"] --> B["1. Extraction & Parsing"]
-    B --> C["2. Quote & Simile Grounding"]
-    C --> D["3. 5-Phase SFT Generation"]
-    D --> E["4. MANDATORY: LLM Quality Review & Question Naturalization"]
-    E --> F["Production Dataset Split (V3)"]
-```
-
-### Quality Directives for the Final Review Phase:
-1. **Question Naturalization**: Strip out formulaic book-title injections (e.g. *"In Book X Chapter Y..."*). Frame questions as natural, living inquiries from a practitioner facing a meditation threshold or life challenge.
-2. **Metadata Separation**: Book and chapter titles must reside strictly in top-level JSON metadata (`"source"`, `"title"`, `"chapter"`).
-3. **Seamless Quote Weaving**: Ensure verbatim quotes are embedded smoothly into the syntax of the master's discourse.
-4. **Anti-Tinkering Strictness**: Forbid introducing external theological doctrines or speculative interpretations absent from the source chapter.
-
----
-
 ## 4. Directory Layout
 
 ```text
 dhamma/
 ├── datasets/                         # V1 Baseline Dataset (14,225 records, 100% UNTOUCHED)
-│   ├── splits/                       # master_dhamma_qa, train, val
-│   └── exports/                      # ShareGPT exports
+├── datasets_v2/                      # V2 Distilled Long-Form Dataset (28,381 records, 100% UNTOUCHED)
+├── datasets_v3/                      # V3 Curated Pure Dhamma Dataset (28,172 records, 100% UNTOUCHED)
 │
-├── datasets_v2/                      # V2 Distilled Long-Form Dataset (28,381 records)
-│   ├── splits/                       # master_25k_dhamma_qa.jsonl.gz, train_25k.jsonl.gz, val_25k.jsonl.gz
-│   ├── exports/                      # ShareGPT .gz exports
-│   └── load_splits.py                # V2 Python loader
-│
-├── datasets_v3/                      # ← V3 PRODUCTION MASTER (28,172 perfected records)
+├── datasets_v4/                      # ← V4 PRODUCTION MASTER (28,382 boundary-aligned records)
 │   ├── books/                        # 104 curated book JSONL datasets
 │   ├── web_pages/                    # 283 curated web monograph JSONL datasets
 │   ├── youtube/                      # 59 curated talk JSONL datasets
-│   ├── splits/                       # master_v3_dhamma_qa.jsonl.gz, train_v3.jsonl.gz, val_v3.jsonl.gz
+│   ├── boundary_alignment/           # 7 dedicated boundary & negative conditioning datasets
+│   ├── splits/                       # master_v4_aligned.jsonl.gz, train_v4.jsonl.gz, val_v4.jsonl.gz
 │   ├── exports/                      # ShareGPT .gz exports
-│   └── load_splits.py                # V3 Python loader
+│   └── load_splits.py                # V4 Python loader
 │
 ├── documents/
 │   ├── extracted/                    # 106 extracted EPUB/PDF book directories
@@ -99,7 +102,8 @@ dhamma/
 │   └── youtube_transcripts/          # 59 spoken talk transcripts
 │
 └── tools/
-    ├── curate_v3_llm_corpus.py       # ← Master V3 Quality Curation Engine
+    ├── generate_v4_boundary_corpus.py# ← Master V4 Boundary Alignment Engine
+    ├── curate_v3_llm_corpus.py       # V3 Quality Curation Engine
     ├── distill_v2_llm_corpus.py      # V2 Long-Form Distillation Engine
     ├── generate_v2_25k_corpus.py     # 5-Archetype Batch Generator
     ├── web_page_pipeline.py          # Web crawler & PDF processor
@@ -108,14 +112,14 @@ dhamma/
 
 ---
 
-## 5. Quick Start: Loading Dataset-V3 in Python
+## 5. Quick Start: Loading Dataset-V4 in Python
 
 ```python
-from datasets_v3.load_splits import load_records
+from datasets_v4.load_splits import load_records
 
-# Load 25,355 training records transparently (.jsonl or .jsonl.gz)
+# Load 25,544 training records transparently (.jsonl or .jsonl.gz)
 train_records = load_records("train")
-print(f"Loaded {len(train_records):,} V3 records")
+print(f"Loaded {len(train_records):,} V4 records")
 
 # Inspect sample
 sample = train_records[0]
@@ -129,16 +133,13 @@ print("\nMetadata:\n", sample["source"], "|", sample["archetype"])
 ## 6. Core Pipeline Commands
 
 ```bash
-# Run the complete V3 LLM Curation Review pipeline across all sources
-python tools/curate_v3_llm_corpus.py
+# Run the complete V4 Boundary Conditioning & Assembly pipeline
+python tools/generate_v4_boundary_corpus.py
 
-# Verify Chat SFT compliance and word count statistics on V3 splits
-python verify_dataset.py datasets_v3/splits/train_v3.jsonl
-python verify_dataset.py datasets_v3/splits/val_v3.jsonl
-
-# Process new web pages or online monographs
-python tools/web_page_pipeline.py --book https://www.dhammatalks.org/books/HeartReleased/
+# Verify Chat SFT compliance on V4 splits
+python verify_dataset.py datasets_v4/splits/train_v4.jsonl
+python verify_dataset.py datasets_v4/splits/val_v4.jsonl
 
 # Export datasets to ShareGPT format
-python export_formats.py --splits-dir datasets_v3/splits --output-dir datasets_v3/exports --all-splits -f sharegpt
+python export_formats.py --splits-dir datasets_v4/splits --output-dir datasets_v4/exports --all-splits -f sharegpt
 ```

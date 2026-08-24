@@ -37,7 +37,7 @@ ENV/
 *.swp
 *.swo
 
-# Uncompressed >100MB V2 and V3 split and export files (compressed .gz versions are tracked)
+# Uncompressed >100MB V2, V3, and V4 split and export files (compressed .gz versions are tracked)
 datasets_v2/splits/master_25k_dhamma_qa.jsonl
 datasets_v2/splits/train_25k.jsonl
 datasets_v2/exports/master_25k_sharegpt.json
@@ -47,6 +47,11 @@ datasets_v3/splits/master_v3_dhamma_qa.jsonl
 datasets_v3/splits/train_v3.jsonl
 datasets_v3/exports/master_v3_sharegpt.json
 datasets_v3/exports/train_v3_sharegpt.json
+
+datasets_v4/splits/master_v4_aligned.jsonl
+datasets_v4/splits/train_v4.jsonl
+datasets_v4/exports/master_v4_sharegpt.json
+datasets_v4/exports/train_v4_sharegpt.json
 
 # Tooling and analysis cache
 graphify-out/
