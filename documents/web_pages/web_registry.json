@@ -3486,6 +3486,105 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_authors_bodhi_bps_essay_46_html_8e11d7.txt",
       "dataset_file": "web_lib_authors_bodhi_bps_essay_46_html_8e11d7_qa.jsonl",
       "processed_at": "2026-08-24T19:56:18"
+    },
+    {
+      "url": "https://accesstoinsight.org/ptf/tisarana.html",
+      "title": "The Threefold Refuge: tisarana",
+      "slug": "web_ptf_tisarana_html_814282",
+      "status": "COMPLETED",
+      "word_count": 705,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_ptf_tisarana_html_814282.txt",
+      "dataset_file": "web_ptf_tisarana_html_814282_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:27"
+    },
+    {
+      "url": "https://accesstoinsight.org/ptf/buddha.html",
+      "title": "A Sketch of the Buddha's Life: Readings from the Pali Canon",
+      "slug": "web_ptf_buddha_html_7d0dcc",
+      "status": "COMPLETED",
+      "word_count": 17353,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_ptf_buddha_html_7d0dcc.txt",
+      "dataset_file": "web_ptf_buddha_html_7d0dcc_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:29"
+    },
+    {
+      "url": "https://accesstoinsight.org/ptf/sangha.html",
+      "title": "Sangha",
+      "slug": "web_ptf_sangha_html_1db415",
+      "status": "COMPLETED",
+      "word_count": 1091,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_ptf_sangha_html_1db415.txt",
+      "dataset_file": "web_ptf_sangha_html_1db415_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:32"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/authors/thanissaro/refuge.html",
+      "title": "Refuge: An Introduction to the Buddha, Dhamma, & Sangha",
+      "slug": "web_lib_authors_thanissaro_refuge_html_8360f4",
+      "status": "COMPLETED",
+      "word_count": 35476,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_authors_thanissaro_refuge_html_8360f4.txt",
+      "dataset_file": "web_lib_authors_thanissaro_refuge_html_8360f4_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:34"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/study/truths.html",
+      "title": "The Four Noble Truths: A Study Guide",
+      "slug": "web_lib_study_truths_html_55c66f",
+      "status": "COMPLETED",
+      "word_count": 14671,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_study_truths_html_55c66f.txt",
+      "dataset_file": "web_lib_study_truths_html_55c66f_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:37"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/study/kamma.html",
+      "title": "Kamma: A Study Guide",
+      "slug": "web_lib_study_kamma_html_8d86f4",
+      "status": "COMPLETED",
+      "word_count": 21881,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_study_kamma_html_8d86f4.txt",
+      "dataset_file": "web_lib_study_kamma_html_8d86f4_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:40"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/study/conversation.html",
+      "title": "Noble Conversation: A Study Guide",
+      "slug": "web_lib_study_conversation_html_d7e799",
+      "status": "COMPLETED",
+      "word_count": 26547,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_study_conversation_html_d7e799.txt",
+      "dataset_file": "web_lib_study_conversation_html_d7e799_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:43"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/study/nonviolence.html",
+      "title": "Non-violence: A Study Guide",
+      "slug": "web_lib_study_nonviolence_html_d10ef1",
+      "status": "COMPLETED",
+      "word_count": 17919,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_study_nonviolence_html_d10ef1.txt",
+      "dataset_file": "web_lib_study_nonviolence_html_d10ef1_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:47"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/thai/lee/eyeof.html",
+      "title": "The Eye of Discernment: An Anthology from the Teachings",
+      "slug": "web_lib_thai_lee_eyeof_html_d9a6a3",
+      "status": "COMPLETED",
+      "word_count": 25766,
+      "qa_count": 11,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_lee_eyeof_html_d9a6a3.txt",
+      "dataset_file": "web_lib_thai_lee_eyeof_html_d9a6a3_qa.jsonl",
+      "processed_at": "2026-08-24T20:00:50"
     }
   ]
 }
