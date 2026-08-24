@@ -2656,6 +2656,176 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_phut_sao_html_e03296.txt",
       "dataset_file": "web_lib_thai_phut_sao_html_e03296_qa.jsonl",
       "processed_at": "2026-08-24T19:49:47"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Cover.html",
+      "slug": "web_books_unentangledknowing_cover_html_e27bff",
+      "title": "Cover | An Unentangled Knowing",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 0,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:50:44"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0001.html",
+      "slug": "web_books_unentangledknowing_section0001_html_626a47",
+      "title": "Titlepage | An Unentangled Knowing",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 19,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:50:46"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0002.html",
+      "slug": "web_books_unentangledknowing_section0002_html_a87972",
+      "title": "Copyright | An Unentangled Knowing",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 107,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:50:48"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0003.html",
+      "title": "Introduction | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0003_html_79f5b4",
+      "status": "COMPLETED",
+      "word_count": 3985,
+      "qa_count": 11,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0003_html_79f5b4.txt",
+      "dataset_file": "web_books_unentangledknowing_section0003_html_79f5b4_qa.jsonl",
+      "processed_at": "2026-08-24T19:50:50"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0004.html",
+      "title": "Prologue | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0004_html_8b31f9",
+      "status": "COMPLETED",
+      "word_count": 824,
+      "qa_count": 6,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0004_html_8b31f9.txt",
+      "dataset_file": "web_books_unentangledknowing_section0004_html_8b31f9_qa.jsonl",
+      "processed_at": "2026-08-24T19:50:52"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0005.html",
+      "title": "Part I : Looking Inward | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0005_html_1f9e5d",
+      "status": "COMPLETED",
+      "word_count": 13556,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0005_html_1f9e5d.txt",
+      "dataset_file": "web_books_unentangledknowing_section0005_html_1f9e5d_qa.jsonl",
+      "processed_at": "2026-08-24T19:50:54"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0006.html",
+      "title": "Part II : Breath Meditation Condensed | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0006_html_d3cacc",
+      "status": "COMPLETED",
+      "word_count": 4122,
+      "qa_count": 10,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0006_html_d3cacc.txt",
+      "dataset_file": "web_books_unentangledknowing_section0006_html_d3cacc_qa.jsonl",
+      "processed_at": "2026-08-24T19:50:56"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0007.html",
+      "title": "Part III : Going Against the Flow | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0007_html_28f504",
+      "status": "COMPLETED",
+      "word_count": 22609,
+      "qa_count": 14,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0007_html_28f504.txt",
+      "dataset_file": "web_books_unentangledknowing_section0007_html_28f504_qa.jsonl",
+      "processed_at": "2026-08-24T19:50:58"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0008.html",
+      "title": "Part IV : A Good Dose of Dhamma | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0008_html_8cf7c5",
+      "status": "COMPLETED",
+      "word_count": 6884,
+      "qa_count": 10,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0008_html_8cf7c5.txt",
+      "dataset_file": "web_books_unentangledknowing_section0008_html_8cf7c5_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:00"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0009.html",
+      "title": "Part V : Reading the Mind | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0009_html_ac148f",
+      "status": "COMPLETED",
+      "word_count": 8493,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0009_html_ac148f.txt",
+      "dataset_file": "web_books_unentangledknowing_section0009_html_ac148f_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:02"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0010.html",
+      "title": "Part VI : Pure & Simple | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0010_html_c403a5",
+      "status": "COMPLETED",
+      "word_count": 12269,
+      "qa_count": 11,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0010_html_c403a5.txt",
+      "dataset_file": "web_books_unentangledknowing_section0010_html_c403a5_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:05"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/UnentangledKnowing/Section0011.html",
+      "title": "Glossary | An Unentangled Knowing",
+      "slug": "web_books_unentangledknowing_section0011_html_c95625",
+      "status": "COMPLETED",
+      "word_count": 569,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_unentangledknowing_section0011_html_c95625.txt",
+      "dataset_file": "web_books_unentangledknowing_section0011_html_c95625_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:06"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/thai/thate/buddho.html",
+      "title": "Buddho",
+      "slug": "web_lib_thai_thate_buddho_html_7820d7",
+      "status": "COMPLETED",
+      "word_count": 7850,
+      "qa_count": 10,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_thate_buddho_html_7820d7.txt",
+      "dataset_file": "web_lib_thai_thate_buddho_html_7820d7_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:21"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/thai/thate/stepsalong.html",
+      "title": "Steps Along the Path",
+      "slug": "web_lib_thai_thate_stepsalong_html_be344d",
+      "status": "COMPLETED",
+      "word_count": 6764,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_thate_stepsalong_html_be344d.txt",
+      "dataset_file": "web_lib_thai_thate_stepsalong_html_be344d_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:23"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/thai/kee/directions.html",
+      "title": "Directions for Insight: Six Dhamma Talks on Centering the Mind in Non-attachment",
+      "slug": "web_lib_thai_kee_directions_html_117983",
+      "status": "COMPLETED",
+      "word_count": 24792,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_kee_directions_html_117983.txt",
+      "dataset_file": "web_lib_thai_kee_directions_html_117983_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:27"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/thai/nararatana/iridescence.html",
+      "title": "An Iridescence on the Water",
+      "slug": "web_lib_thai_nararatana_iridescence_html_ecaf0b",
+      "status": "COMPLETED",
+      "word_count": 2147,
+      "qa_count": 10,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_nararatana_iridescence_html_ecaf0b.txt",
+      "dataset_file": "web_lib_thai_nararatana_iridescence_html_ecaf0b_qa.jsonl",
+      "processed_at": "2026-08-24T19:51:29"
     }
   ]
 }

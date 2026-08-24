@@ -920,22 +920,21 @@ def main():
             rebuild_master_splits()
         return
 
+    any_processed = False
+    total_book_qa = 0
+    total_book_sections = 0
+
     if args.book:
-        total_qa = 0
-        total_sections = 0
         for b_url in args.book:
             results = process_book_url(b_url)
             comp = [r for r in results if r and r.get("status") == "COMPLETED"]
-            total_sections += len(comp)
-            total_qa += sum(r.get("qa_count", 0) for r in comp)
+            total_book_sections += len(comp)
+            total_book_qa += sum(r.get("qa_count", 0) for r in comp)
         print(f"\n{'='*60}")
-        print(f"Book processing complete: {total_sections} substantive sections converted")
-        print(f"Total new QA pairs: {total_qa}")
-        if not args.no_rebuild and total_sections > 0:
-            print("\nRebuilding master splits...")
-            rebuild_master_splits()
-        print("\nAll done.")
-        return
+        print(f"Book processing complete: {total_book_sections} substantive sections converted")
+        print(f"Total new book QA pairs: {total_book_qa}")
+        if total_book_sections > 0:
+            any_processed = True
 
     urls = []
     if args.add:
@@ -947,24 +946,27 @@ def main():
                 if line and not line.startswith("#"):
                     urls.append(line)
 
-    if not urls:
+    if not urls and not args.book:
         parser.print_help()
         return
 
-    print(f"\nProcessing {len(urls)} URL(s)...")
-    results = []
-    for url in urls:
-        entry = process_url(url)
-        results.append(entry)
-        time.sleep(1.0)  # polite delay between requests
+    if urls:
+        print(f"\nProcessing {len(urls)} URL(s)...")
+        results = []
+        for url in urls:
+            entry = process_url(url)
+            results.append(entry)
+            time.sleep(1.0)  # polite delay between requests
 
-    completed = [r for r in results if r.get("status") == "COMPLETED"]
-    total_qa = sum(r.get("qa_count", 0) for r in completed)
-    print(f"\n{'='*60}")
-    print(f"Done: {len(completed)}/{len(urls)} pages processed")
-    print(f"New QA pairs: {total_qa}")
+        completed = [r for r in results if r and r.get("status") == "COMPLETED"]
+        total_qa = sum(r.get("qa_count", 0) for r in completed)
+        print(f"\n{'='*60}")
+        print(f"URL processing complete: {len(completed)}/{len(urls)} pages converted")
+        print(f"New QA pairs: {total_qa}")
+        if completed:
+            any_processed = True
 
-    if not args.no_rebuild and completed:
+    if not args.no_rebuild and any_processed:
         print("\nRebuilding master splits...")
         rebuild_master_splits()
     print("\nAll done.")
@@ -972,4 +974,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
