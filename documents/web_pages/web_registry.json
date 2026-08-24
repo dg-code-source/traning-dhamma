@@ -3618,6 +3618,193 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_12_the_law_of_dependent_arising_le_r_22c5ac.txt",
       "dataset_file": "web_wp_content_uploads_2016_12_the_law_of_dependent_arising_le_r_22c5ac_qa.jsonl",
       "processed_at": "2026-08-24T20:16:22"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/from_topsy_turvydom_to_wisdom.pdf",
+      "title": "From Topsy-turvydom 36kaf",
+      "slug": "web_wp_content_uploads_2016_04_from_topsy_turvydom_to_wisdom_pdf_7d94de",
+      "status": "COMPLETED",
+      "word_count": 10028,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_from_topsy_turvydom_to_wisdom_pdf_7d94de.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_from_topsy_turvydom_to_wisdom_pdf_7d94de_qa.jsonl",
+      "processed_at": "2026-08-24T20:52:36"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/from_topsy_turvydom_to_wisdom-2.pdf",
+      "title": "Cover.cdr",
+      "slug": "web_wp_content_uploads_2016_04_from_topsy_turvydom_to_wisdom_2_p_d18610",
+      "status": "COMPLETED",
+      "word_count": 10901,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_from_topsy_turvydom_to_wisdom_2_p_d18610.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_from_topsy_turvydom_to_wisdom_2_p_d18610_qa.jsonl",
+      "processed_at": "2026-08-24T20:52:43"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2015/09/A-Majestic-of-Merit.pdf",
+      "title": "A Majestic of Merit",
+      "slug": "web_wp_content_uploads_2015_09_a_majestic_of_merit_pdf_1df664",
+      "status": "COMPLETED",
+      "word_count": 14821,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2015_09_a_majestic_of_merit_pdf_1df664.txt",
+      "dataset_file": "web_wp_content_uploads_2015_09_a_majestic_of_merit_pdf_1df664_qa.jsonl",
+      "processed_at": "2026-08-24T20:52:54"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/05/The-Miracle-of-Contact_Rev-0_6.pdf",
+      "title": "The Law of Dependent Arising",
+      "slug": "web_wp_content_uploads_2016_05_the_miracle_of_contact_rev_0_6_pd_05ae21",
+      "status": "COMPLETED",
+      "word_count": 10008,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_05_the_miracle_of_contact_rev_0_6_pd_05ae21.txt",
+      "dataset_file": "web_wp_content_uploads_2016_05_the_miracle_of_contact_rev_0_6_pd_05ae21_qa.jsonl",
+      "processed_at": "2026-08-24T20:53:01"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/05/Wheel-of-kamma-to-wheel-of-Dhamma-Rev-0_9.pdf",
+      "title": "Wheel of kamma to wheel of Dhamma Rev 0 9",
+      "slug": "web_wp_content_uploads_2016_05_wheel_of_kamma_to_wheel_of_dhamma_103d34",
+      "status": "COMPLETED",
+      "word_count": 4680,
+      "qa_count": 16,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_05_wheel_of_kamma_to_wheel_of_dhamma_103d34.txt",
+      "dataset_file": "web_wp_content_uploads_2016_05_wheel_of_kamma_to_wheel_of_dhamma_103d34_qa.jsonl",
+      "processed_at": "2026-08-24T20:53:05"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/05/Questions-and-Answers_Web_Edition_Rev_0-9.pdf",
+      "title": "Questions and Answers Web Edition Rev 0 9",
+      "slug": "web_wp_content_uploads_2016_05_questions_and_answers_web_edition_6a1692",
+      "status": "COMPLETED",
+      "word_count": 31944,
+      "qa_count": 35,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_05_questions_and_answers_web_edition_6a1692.txt",
+      "dataset_file": "web_wp_content_uploads_2016_05_questions_and_answers_web_edition_6a1692_qa.jsonl",
+      "processed_at": "2026-08-24T20:53:17"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/Deliverance_of_Heart.pdf",
+      "title": "Deliverance of the Heart",
+      "slug": "web_wp_content_uploads_2016_04_deliverance_of_heart_pdf_1bcc3f",
+      "status": "COMPLETED",
+      "word_count": 15174,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_deliverance_of_heart_pdf_1bcc3f.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_deliverance_of_heart_pdf_1bcc3f_qa.jsonl",
+      "processed_at": "2026-08-24T20:53:28"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/Concept-and-Reality_Rev_4.0.pdf",
+      "title": "Concept & Reality In Early Buddhist Thought",
+      "slug": "web_wp_content_uploads_2016_04_concept_and_reality_rev_4_0_pdf_febc60",
+      "status": "COMPLETED",
+      "word_count": 105182,
+      "qa_count": 38,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_concept_and_reality_rev_4_0_pdf_febc60.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_concept_and_reality_rev_4_0_pdf_febc60_qa.jsonl",
+      "processed_at": "2026-08-24T20:53:51"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/The-Magic-of-the-Mind_Rev_4.0.pdf",
+      "title": "The Magic of the Mind",
+      "slug": "web_wp_content_uploads_2016_04_the_magic_of_the_mind_rev_4_0_pdf_ee5ec9",
+      "status": "COMPLETED",
+      "word_count": 57741,
+      "qa_count": 22,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_the_magic_of_the_mind_rev_4_0_pdf_ee5ec9.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_the_magic_of_the_mind_rev_4_0_pdf_ee5ec9_qa.jsonl",
+      "processed_at": "2026-08-24T20:54:23"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/Walk-To-Nibbana.pdf",
+      "title": "Walk to Nibbana",
+      "slug": "web_wp_content_uploads_2016_04_walk_to_nibbana_pdf_a65aef",
+      "status": "COMPLETED",
+      "word_count": 7230,
+      "qa_count": 16,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_walk_to_nibbana_pdf_a65aef.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_walk_to_nibbana_pdf_a65aef_qa.jsonl",
+      "processed_at": "2026-08-24T20:54:31"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/The-End-of-The-World.pdf",
+      "title": "The End of The World",
+      "slug": "web_wp_content_uploads_2016_04_the_end_of_the_world_pdf_ed70b7",
+      "status": "COMPLETED",
+      "word_count": 17622,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_the_end_of_the_world_pdf_ed70b7.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_the_end_of_the_world_pdf_ed70b7_qa.jsonl",
+      "processed_at": "2026-08-24T20:54:53"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/towards_a_better_world.pdf",
+      "title": "Towards a better world",
+      "slug": "web_wp_content_uploads_2016_04_towards_a_better_world_pdf_fb281d",
+      "status": "COMPLETED",
+      "word_count": 11804,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_towards_a_better_world_pdf_fb281d.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_towards_a_better_world_pdf_fb281d_qa.jsonl",
+      "processed_at": "2026-08-24T20:54:58"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/nibbana_and_the_fire_simile.pdf",
+      "title": "Nibbāna fire simile final",
+      "slug": "web_wp_content_uploads_2016_04_nibbana_and_the_fire_simile_pdf_294f04",
+      "status": "COMPLETED",
+      "word_count": 9494,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_nibbana_and_the_fire_simile_pdf_294f04.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_nibbana_and_the_fire_simile_pdf_294f04_qa.jsonl",
+      "processed_at": "2026-08-24T20:55:03"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/The-Heretic-Sage_Rev_9.0.pdf",
+      "title": "The Heretic Sage",
+      "slug": "web_wp_content_uploads_2016_04_the_heretic_sage_rev_9_0_pdf_768bad",
+      "status": "COMPLETED",
+      "word_count": 13314,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_the_heretic_sage_rev_9_0_pdf_768bad.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_the_heretic_sage_rev_9_0_pdf_768bad_qa.jsonl",
+      "processed_at": "2026-08-24T20:55:12"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/samyutta_nikaya.pdf",
+      "title": "samyutta Nikaya low mem",
+      "slug": "web_wp_content_uploads_2016_04_samyutta_nikaya_pdf_d5a3f8",
+      "status": "COMPLETED",
+      "word_count": 32356,
+      "qa_count": 21,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_samyutta_nikaya_pdf_d5a3f8.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_samyutta_nikaya_pdf_d5a3f8_qa.jsonl",
+      "processed_at": "2026-08-24T20:55:18"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/Seeing-Through-Rev-0_3.pdf",
+      "title": "Seeing Through Rev 0 3",
+      "slug": "web_wp_content_uploads_2016_04_seeing_through_rev_0_3_pdf_0e6ef6",
+      "status": "COMPLETED",
+      "word_count": 10405,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_seeing_through_rev_0_3_pdf_0e6ef6.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_seeing_through_rev_0_3_pdf_0e6ef6_qa.jsonl",
+      "processed_at": "2026-08-24T20:55:25"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2016/04/towards_calm_and_insight.pdf",
+      "title": "towards calm and insight",
+      "slug": "web_wp_content_uploads_2016_04_towards_calm_and_insight_pdf_9da945",
+      "status": "COMPLETED",
+      "word_count": 14375,
+      "qa_count": 24,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2016_04_towards_calm_and_insight_pdf_9da945.txt",
+      "dataset_file": "web_wp_content_uploads_2016_04_towards_calm_and_insight_pdf_9da945_qa.jsonl",
+      "processed_at": "2026-08-24T20:55:33"
     }
   ]
 }

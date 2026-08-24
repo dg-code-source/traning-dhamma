@@ -1,0 +1,1265 @@
+Title: Seeing Through Rev 0 3
+URL: https://seeingthroughthenet.net/wp-content/uploads/2016/04/Seeing-Through-Rev-0_3.pdf
+Word Count: 10405
+
+i 
+ 
+ 
+ 
+ 
+SEEING THROUGH 
+- A Guide to Insight Meditation - 
+ 
+ 
+ 
+by 
+Bhikkhu K. Ñāṇananda 
+ 
+ 
+ 
+Published by 
+Kaṭukurunde Ñānananda Sadaham Senasun Bhāraya 
+Sri Lanka 
+2016
+
+ii 
+ 
+Published strictly for free distribution. 
+ 
+First Impression – 1999 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All Rights Reserved 
+Any reproduction in whole or in part, including translations, for 
+sale, profit or material gain is prohibited.  Permission to reprint 
+could be obtained by writing to K.N.S.S.B. Dhamma books & 
+sermons are available for free download at 
+www.seeingthroughthenet.net 
+ 
+ 
+ISBN 978-955-1255-23-7 
+ 
+All enquiries should be addressed to: 
+K.N.S.S.B,  
+Kirillawala Watta, Dammulla,  Karandana, Sri Lanka. 
+Phone: 0777127454 
+email: knssb@seeingthroughthenet.net 
+ 
+Printed by 
+Quality Printers (Pvt) Ltd. 
+17/2, Pangiriwatta Rd, Gangodawila, Nugegoda. 
+Phone: 0114870333
+
+iii 
+ 
+Dhamma is Priceless! 
+Strictly for free distribution 
+Dhamma books may be obtained from: 
+1.  Mr. Sunil Wijesinghe – 39/10, St. Rita’s Road, Mt. Lavinia.  
+2.  Mrs. Hemamala Jayasinghe 
+29/8, Pangiriwatta Mawatha, Mirihana, Nugegoda. 
+3.  Mr. Chandana Wijeratne 
+23/79A, 1st  Lane, Dharmapala Place, Thalawathugoda. 
+4.  Mr. Stanley Sooriyarachchi – 25, Main Street, Devalegama. 
+5.  Mr. S.A. Lionel 
+ 140/19, Ruhunusiri Udyanaya, Hakmana Road, Matara. 
+6.  Mrs. Sirima Wijerathne – 15, Elapatha, Rathnapura. 
+7.  Mr. A.G. Sarath Chandraratne 
+ ‘Saman’, Arawula Junction, Kandalama Road, Dambulla. 
+8.  Mr. J.A.D. Jayamanne 
+ Jayamanne Estate, Labuyaya, Kurunegala Road, Kuliyapitiya. 
+9.  Prof. K.M. Wijeratne, Faculty of Dental Sciences,  
+ University of Peradeniya, Peradeniya.  
+10.  Ayur. Dr. P. Weerasinghe 
+ Bandara Bulankulama, Lankarama Road, Anuradhapura. 
+11.  Mrs. R.A. Chandi Ranasinghe 
+ Studio ‘Chaya’, Hospital Junction, Polonnaruwa.  
+12.  Mrs. Nera Wijesundara 
+ Ilukpitiya Ayurvedic Clinic, Ilukpitiya, Gatahatta. 
+13.  Mr. D.C.A. Nissanka de Silva – 91A, Woodward Road, Galle. 
+ 
+ 
+www.seeingthroughthenet.net 
+www.facebook.com/seeingthrough
+
+iv 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What we See – 
+so often blocks our vision – 
+if we fail to ‘see through'
+
+v 
+ 
+PREFACE 
+(To the First Edition) 
+ Insight meditation paves the way to that penetrative 
+wisdom which delivers the mind from bondage to Saṁsāra. This 
+bondage often baffles the thinker because there is a 'catch' in the 
+tools he has to take up to break it. Percepts are subtly elusive and 
+concepts are tacitly delusive. So the insight worker has to forge 
+his own tools to break this bondage, going the Buddha's Middle 
+Way. 
+ The present sermon, based on a verse from the 'Section on 
+the Wise' in the Dhammapada, might drop some helpful hints for 
+the insight meditator climbing the steep path of meditative 
+attention – alone, apart, untiring. The original sermon in Sinhala 
+was cassetted at the reque st of Venerable Navagamuve 
+Sugunasāra Thera during my stay at Meetirigala Nissarana 
+Vanaya. It touches upon the progressive stages in Insight 
+Meditation an d the last four of the 16 steps  in Ānāpānasati 
+meditation, while drawing upon the implications of the  
+Dhammapada verse. 
+ This sermon has now been published in Sinhala under the 
+title 'Vidasun Upades' at the instance of Mr. U. Mapa, the Public 
+Trustee, under the auspices of the 'Bhikkhu Kasyapa' Trust' in 
+memory of the late Venerable Kassapa Thera of Vajir ārāma, 
+Bambalapitiya. 
+ Our thanks are due to Mr. & Mrs. S.D.E. Gaminitilake for 
+giving technical advice and to Ms. Sumie Horiuchi for her 
+assistance in preparing the manuscript for print. 
+– Bhikkhu K. Ñāṇananda 
+Pothgulgala Araṇya 
+Pahan Kaṇuwa, Kandegedara, Devalegama  
+Sri Lanka  
+July 1999
+
+vi 
+ 
+PREFACE 
+(To the Second Edition) 
+ “Seeing through” carries with it the implication that there 
+is a deception to be seen through. The Buddha has comp ared 
+consciousness to a magic show. In order to overcome the spell of 
+delusion created by the magic show, one has to get an insight into 
+its tricks. Consciousness has to be comprehended by wisdom 
+which is capable of penetrating through the facade. 
+ Wisdom is not an upstart in the scheme of mental training. 
+It is already pres ent incipiently in ‘ manasikāra' or attention —a 
+leading memb er of the ‘name' group in ‘name –and–form' 
+(nāmarūpa). But  in complicity with the other members of the 
+‘name – group’ (i.e., feeling, perception, intention and contact), it 
+keeps the whole show going in its misguided service to the 
+magician. In that capacity, it is nick – named ‘ ayoniso – 
+manasikāra' or ‘non-radical attention'. It only helps to conceal the 
+magician’s tricks and perpetuate ignorance and delusion. 
+ It required the genius of a Buddh a to win over this 
+powerful agent of the magician and persuade him to expose the 
+tricks. It assume d its new role under the title ‘ yoniso – 
+manasikāra’ (‘radical-attention’.)  
+ Instead of cleverly manipulating the dark veil of 
+ignorance, now it took upon it self the honest task of exposing the 
+tricks. It thus became the main ally of the insight meditator in his 
+attempt to break through into Wisdom and Release. 
+ Until the Buddha discovered this Middle Way, all 
+attempts at a breakthrough met with failure due to  the intricate 
+mutual relationship between consciousness and ‘name – and – 
+form’. Some pitted the body against the mind (self – indulgence) 
+while others pitted the mind against the body (self –
+
+vii 
+ 
+mortification). Yet others, like Descartes, went on doubting 
+everything until they returned to the false premis e with which 
+they started off. ‘I think: therefore I-am’. 
+The insight meditator has to avoid all these extremes. 
+With patience and perseverance he has to  nurture the spark of 
+radical-attention until it grows into the light of wisdom. 
+ *    *    * 
+We are thankful to Mr. S. D. E. Gaminitillake for giving 
+technical advice in getting up this Second Edition. 
+–Bhikkhu K. Ñāṇananda 
+Pothgulgala Aranya  
+Pahan Kanuwa  
+Kandegedara  
+Devalegama  
+SriLanka  
+January 2001
+
+viii 
+ 
+About the K.N.S.S.B. 
+ It is the express wish of Venerable Bhikkhu Ka ṭukurunde 
+Ñāṇananda that all his Dhamma Books and recorded sermons be 
+offered as a pure gift of Dhamma free of charge to the Dhamma -
+thirsty world.  
+ Accordingly, K.N.S.S.B. has taken upo n itself the duties 
+of publication and distribution of books written by the venerable 
+author as well as the recording and distribution of his sermons on 
+C.D.s, in addition to maintaining the website, 
+www.seeingthroughthenet.net and the social networking si te 
+www.facebook.com/seeingthrough. Those wishing to participate 
+in this multifaceted Dhammadāna may note the account number 
+of our Trust given below.  
+All enquiries should be addressed to: 
+Kaṭukurunde Ñāṇananda Sadaham Senasun Bhāraya (K.N.S.S.B) 
+Kirillawala Watta, Dammulla,  
+Karandana 
+Sri Lanka. 
+ 
+Phone: 0777127454 
+email: knssb@seeingthroughthenet.net 
+ 
+K.N.S.S.B. 
+Acc. No. 007060000241, 
+Sampath Bank, SWIFT: BSAMLKLX 
+Branch Code: 070 
+Branch: R.G. Senanayake Mawatha, Colombo – 07,  
+Sri Lanka.
+
+1 
+ 
+Seeing Through 
+‘Namo tassa bhagavato arahato sammāsambuddhassa’ 
+‘Yesaṁ sambodhi aṅgesu – sammā cittaṁ subhāvitaṁ 
+Ādāna paṭinissagge – anupādāya ye ratā 
+Khīṇāsavā jutimantā – te loke parinibbutā’  
+This is the last verse of  the 'Section on the Wise' 
+(Paṇḍitavagga) in the Dhammapada. According to the 
+Dhammapada commentary, this verse, as well as the two 
+preceding ones, were preached by the Buddha at Sāvatthi to five 
+hundred visiting monks so that they may attain to the Fruits of the 
+Path ( maggaphala) by understanding them. An examination of 
+the key -words of this  verse, would reveal some very important 
+facts for our subjects of meditation. 
+ The meaning of this verse, simply stated, would  be 
+something like this: ‘ Yesaṁ, sambodhi aṅgesu – sammā cittaṁ 
+subhāvitaṁ’ – Whose mind is well developed in the Factors of 
+Enlightenment, and moreover – 
+ ‘Ādāna paṭinissagge – anupādāya ye ratā ’ – who delight 
+in taking up and giving up without grasping. 
+ The word -order would be: ‘anupādāya ādāna 
+paṭinissagge ratā  – not grasping they del ight in taking up and 
+giving up’, ‘anupādāya’ means ‘not grasping’. 
+‘Khīṇāsavā jutīmantā – te loke parinibbutā ’ – those 
+radiant cankerless (or influx-free) ones are extinguished or grown 
+cool in this very world, here and now. 
+This is the genera l meaning of the verse. ‘ Yesaṁ 
+sambodhi aṅgesu – sammā cittaṁ subhāvitaṁ ’. At the very 
+outset, it is mentio ned that  one's mind has reached a certain 
+developed stage in meditative attention. That is to say, his mind
+
+2 
+ 
+has developed in the Factors of Enlightenment. The seven Factors 
+of Enlightenment are mentioned among the 37 Requisites of 
+Enlightenment as a certain developed stage in Satipaṭṭhāna 
+meditation. Firstly, the four Foundations of Mindfulness (i.e., the 
+four satipaṭṭhāna) and then the four Right Endeavours 
+(sammappadhāna), and then the four Paths to Success 
+(iddhipāda), and then the five Faculties ( pañcaindriya) and the 
+five Powers (pañcabala). 
+When these are systematically developed, the Factors of 
+Enlightenment are also thereby developed in the meditator. Even 
+in the classification of the Requisites of Enlightenment, the 
+Buddha follows a certain order. There is a certain procedure in 
+enumerating these Requisites of Enlightenment. It does not mean 
+that one has to develop the first category first and then after a 
+time the next category and so on. But still there is a certain order 
+in the development – an ascending order, one may say. 
+One's mind is well developed in the Factors of 
+Enlightenment when one reaches a stage at which those factors 
+are lined up in a direct order. There is a certain lining up in  one's 
+mind. These factors are ‘ sati’ (mindfulness), dhamma-vicaya 
+(investigation of mind -objects), viriya (energy), pīti (joy), 
+passaddhi (calm or tranquillity), samādhi (concentration), and 
+upekkhā (equanimity). These are the seven Factors of 
+Enlightenment. 
+Out of these seven, the first is sati – mindfulness. In 
+enumerating these seven also, we see a certain order, a system. It 
+is when mindfulness is purified that one comes to see the mind -
+objects clearly, which is called ‘ dhammavicaya’ or investigation 
+of mind -objects. That is to say, one sees to a certain extent, the 
+mind-objects as they are. Then the mind is awake. 
+The mind awakens when one sees mind -objects clearly. 
+Thereby one is able to recognize the good and bad, the skilful and
+
+3 
+ 
+the unskilful so that one can do what is necessary with those 
+mental states. That is to say, the skilful ones have to be developed 
+and the unskilful ones have to be abandoned. The knowledge of 
+the means of do ing this, is available through ‘ dhammavicaya’ or 
+the investigation of mind -objects and that as we stated earlier, is 
+made available through mindfulness. With the understanding 
+acquired through ‘ dhammavicaya’ one puts forth energy  – right 
+endeavour – to develop the skilful and to abandon the unskilful 
+states. This, therefore, is the third Factor of Enlightenment – the 
+application of energy or ‘ viriya’. Thus, we have sati, dhammavicaya and viriya. 
+As one puts forth energy, ther e arises joy, for, it is said: 
+‘āraddhaviriyassa uppajjati pīti nirāmisā ’1 – To one who has 
+started up effort or energy, there arises a kind of spiritual joy 
+which has nothing to do with the material. Thus one attains a 
+certain amount of joy out of the very fact that one puts forth the 
+right endeavour. The meditator, well knowing that this joy is not 
+the end of his endeavour, subdues it and attains to a  calm o r 
+tranquillity which is called ‘passaddhi’. 
+Through that calm or tranquillity, which is both physical 
+and mental, he attains to a certain state of bliss which brings in its 
+train, concentration. Once concentration is attained, there is 
+nothing more to struggle for, and so the meditator makes use of 
+equanimity to stabilize his gains. The purpose of equanimity is to 
+preserve the concentration one has attained. Also, this 
+equanimity, as the culmination of the development of these 
+Factors of Enlightenment, i.e., as the last of the seven factors, is 
+nearer wisdom. The word ‘ sambojjhaṅga’ means ‘factor of 
+enlightenment’ ( sambodhi + aṅga) and when the word 
+‘sambodhi’ is taken into consideration, it gives the idea of 
+understanding or knowledge. It does not mean Buddhahood 
+alone, but even arahanthood. So the lining up of these Factors of 
+                                                             
+1. Sila Sutta, Bojjhaṁga Sarimyutta, S.N.V.68 (P.T.S)
+
+4 
+ 
+Enlightenment is for the purpose of understanding or knowledge. 
+The factor that is nearest to understanding is equanimity. It is 
+when one has reached an equanimous state of mind that one can 
+see things as they are. And in order to see things as they are, one 
+has to have concentration or one-pointedness. That also is already 
+mentioned, i. e., ‘ samādhi’. It is for the attainment of this 
+concentration that the preceding factors beginning with 
+mindfulness are made use of. 
+When analysed thus, we see that there is a certain system 
+– an order – in the enumeration of these Factors of 
+Enlightenment. There is also another way of analysing them. That 
+is to say, at the very start, one finds it difficult to develop these 
+Factors of Enlightenment as in the case of the five faculties, 
+namely, ‘saddhā’, ‘viriya’, ‘sati’, ‘samādhi’ and ‘ paññā’ – faith, 
+energy, mindfulness, concentration and wisdom. When analysing 
+these five faculties also, one sees a certain order. There is a 
+certain balancing necessary in their development. One has to 
+balance faith with wisdom and energy with concentration. In that 
+context, mindfulness stands in the middle and fulfills the purpose. 
+Its function is to balance the two sets – faith and wisdom, energy 
+and concentration. Now in this context, mindfulness comes to the 
+forefront. It is the leader. Even as the leader, mindfulness ful fills 
+a very important function. That, again, is the question of 
+balancing. It marshals the other factors into a perfect line -up. Just 
+as in the case of the faculties mindfulness stands in the middle 
+and orders the other faculties, here too it comes to the  forefront 
+and marshals those factors that are behind it. The three factors, 
+dhammavicaya, viriya and pīti have a tendency to lean towards 
+restlessness. They are on the side of restlessness. When they 
+happen to lean too much to that side, mindfulness order s them to 
+straighten up. Then there are three others which have a tendency 
+to lean towards laziness, inertia or inactivity. Those three  factors 
+are passaddhi, samādhi, upekkhā – tranquillity, concentration and
+
+5 
+ 
+equanimity. When they are leaning too much to that side, then 
+also mindfulness orders them to straighten up. 
+Thus among the Factors of Enlightenment also, 
+mindfulness fulfills the function proper to it. It is when all these 
+are fully lined-up with this type of training, that one can say one's 
+mind has  attained a developed stage in the Enlightenment 
+Factors. 
+At this developed stage of the Factors of Enlightenment in 
+perfect line -up, when one looks at mindfulness one can directly 
+see equanimity. The other factors are not so prominent because 
+they have already fulfilled their respective functions. Now, at  this 
+stage, when one applies mindfulness, equanimity is present there 
+immediately. One can see that together with mindfulness there is 
+also that one -pointedness characteristic of concentration. And in 
+that one -pointed state there is also equanimity present. So  there 
+are these two factors – ‘upekkhā’ and ‘ ekaggatā’. When one 
+directs these two factors, one can understand the nature of things. 
+Directing these two factors is what is called meditative 
+attention, mental -noting or noticing (‘manasikāra’). Though the 
+same term ‘mental -noting’ or ‘ manasikāra’ is use d throughout 
+the instructions on  insight meditation, there is a need to redefine 
+the term as one progresses in one's meditation. At the outset this 
+mental noting is rather gross. One has to start from where one  
+stands. So, the usual instructions in Insight Meditation would 
+imply a mode of attending that goes slightly deeper than the way 
+of attending in the world. As implied by the basic i nstruction on 
+sense-restraint, ‘ na nimittaggāh ī nānubyañjanaggāhī ’, one does 
+not grasp at a sign or its details in what is seen, heard and so 
+forth. Instead, one summarily dismisses the visual obje ct after 
+mentally noting it as ‘form’, ‘form’ . Also, in the case of sound, 
+one just notes it as ‘sound’ , ‘sound’, without going into details. 
+This is the mode of mentalnoting recommended at the very 
+outset.
+
+6 
+ 
+But in this mode of mental noting there are certain gross 
+elements. One becomes aware of these as one progresses in 
+insight meditation. One becomes aware that in  this type of 
+mental-noting as ‘form’, ‘form’ or ‘sound’, ‘sound’ , one 
+presupposes an object. That is to say, these things get object -
+status by the very fact of mental -attention. Of course, in order to 
+attend there has to be an object. But as one goes deeper in insight 
+meditation, one realizes that an object by definition is what one 
+grasps (ārammaṇa) – what one hangs on to (ālambana). 
+Wherever there is grasping, there is ignorance present. 
+Grasping is something that leads to the perpetuation of ignorance. 
+But as the phrase   ‘anupubba  sikkhā,  anupubba  kiriyā, 
+anupubba  paṭipadā’2 implies, there is a gradual training, a 
+gradual mode of action, a gradual path in this meditative attention 
+as well. So it is by stages that one arrives at this realization. At 
+the preliminary stage, one avoids the usual mode of attention in 
+the world such as ‘woman’, ‘woman’, ‘man’, ‘man’ in the case of 
+a visual object, thus dispensing with those details which lead to 
+various unskilful states of mind and attends to those visual 
+objects in such a way as not to encourage those unskilful mental 
+states. So one is content with attending to those visual or auditory 
+objects as ‘form’ or ‘sound’. 
+However, as one proceeds in Insight Meditation, one 
+comes to reflect that in this mode of attention, there is present a 
+certain illusion – a wrong notion one has been cherishing 
+throughout ‘ saṁsāra’. That is, the concept of two ends and a 
+middle. Whe n one notes a visual object as ‘a form’ and an 
+auditory object as ‘a sound’ , there is a kind of bifurcation 
+between the eye and form, the ear and the sound. So thereby one 
+is perpetuating the illusion, the wrong notion, of two ends. 
+Wherever there are the two ends, there is also the middle. In 
+short, this way of mental  noting leaves room for a subject -object 
+                                                             
+2. Gaṇakamoggallāna Sutta, M.N. lll. I
+
+7 
+ 
+relationship. There is the meditator on one side, whoever it may 
+be, and there is the object that comes to his mind; and he attends 
+to it as an object, even though he may not go into its details. Now 
+the meditator has to break through this barrier as well. He has to 
+break this bondage. Why? 
+In the case of  ‘saññā’ or percep tion, there are the six 
+kinds of percepts – rūpa saññā, sadda-saññā, gandhasaññā, rasa 
+saññā, phoṭṭhabba saññā , dhamma saññā  (i.e., the percepts of 
+form, sound, smell, taste, touch and idea). These are the six 
+objects of the senses. The Buddha has compared the aggregate of 
+perception to a mirage. Now, if p erception is a mirage, what is 
+‘rūpa-saññā’ or a visual percept? That als o must be a mirage. 
+What about ‘ sadda saññā’? What about the auditory percept or 
+what strikes the ear? That too must be a mirage. Though it is not 
+something that one sees with the eye, it has the nature of a  
+mirage. 
+To take as real what is of a mirage -nature, is a delusion. It 
+is something that leads to a delusion. It is an illusion that leads to 
+a delusion. In order to understand deeply this mirage -nature in 
+sensory perception, there is a need for a more refined way of 
+mental attending. So the meditator, i nstead of attending to  these 
+objects as ‘form’, ‘form’ or ‘sound’, ‘sound’ , moves a step 
+further and notes them as ‘seeing’ or ‘hearing’. Now he attends to 
+these sense-percepts even more briefly, not al lowing the mind to 
+go far – as ‘seeing -seeing’, ‘hearing -hearing’, ‘ feeling-feeling’, 
+‘thinking-thinking’. 
+In short, the attempt  here, is to escape the net of ‘ saññā’ 
+or perception and to limit oneself to the bare awareness. To stop 
+short just at the awareness. This is an attempt to  escape the net of 
+language, the net of logic and also to be free from the duality of 
+the two ends which involves a middle. Everywhere one is 
+confronted with a subject -object relationship. There is one who
+
+8 
+ 
+grasps and something to be grasped. There is a see r and an object 
+seen. But this way of attending leaves room for delusion. 
+ Now, if perception is a mirage, in order to get at this 
+mirage nature, one has to be co ntent with attending simply as 
+‘seeing, seeing’. One way or the other it is just a seeing or j ust a 
+hearing. Thereby he stops short at the bare awareness. He stops 
+short at the bare seeing, bare hearing, bare feeling and bare 
+thinking. He does not grant it an object status. He does not 
+cognize it as an object existing in the world. He does not give  it a 
+name. The purpose of this method of mental noting or attending, 
+is the eradication of the conceit ‘AM’, which the meditator has to 
+accomplish so as to attain release. The conceit ‘AM’ is ‘ asmimāna’. 
+This existence or ‘ bhava’ is actually a way of measuring. 
+Existence involves measuring. In order to measure, one has to 
+have two pegs and this subject -object relationship fulfills this 
+requirement. There is one who grasps and an object grasped. It i s 
+after driving these two pegs ‘ down-to-earth’, so to say, that one 
+starts measuring what is called ‘ existence’ or ‘ bhava’. So, it is 
+between these two pegs that ‘existence’ exists. 
+In order to eradicate or uproot these pegs, one has to do 
+away with this duality or the dichotomy as well as the middle. As 
+already mentioned, wherever there are two ends, there is a 
+middle. The attempt now is to eliminate all these. The meditator 
+who is poised to accomplish this task, is the one referred to in the 
+first two lines of the verse in question. 
+‘Yesaṁ sambodhi aṅgesu 
+sammā cittaṁ subhāvitaṁ’ 
+‘whose mind is well developed i n the Factors of 
+Enlightenment’ The next two lines have a deeper significance.
+
+9 
+ 
+‘ādānapaṭinissagge 
+anupādāya ye ratā’ 
+‘who take delight in taking up an d giving up, without 
+grasping’ ‘ ādāna’ means 'taking up' and ‘ paṭinissagga’ means 
+giving-up or relinquishing. So ‘ādāna’ and ‘paṭinissagga’ make a 
+couple – ‘taking up and giving up ’. But then we have 
+‘anupādāya’ also – ‘not grasping’. 
+‘Ye an upādāya ādāna pasinissagge ratā ’ is the word -
+order. They, who without grasping, delight in taking up and 
+giving up. 
+Here we have something suggestive of what we said 
+above about the two -ends and the middle. The representatives of 
+the two ends would be ‘ ādāna’ and ‘ paṭinissagga’ – ‘taking up’ 
+and ‘giving up’ . Between these two we have a holding on or a 
+grasping. The word  for holding on or grasping is ‘ upādāna’ and 
+‘upādāya’ is its absolutive form. Of cours e we do not have here 
+the word ‘ upādāya’. Here we have ‘ anupādāya’, the negative – 
+not grasping'. Any  way, here are the  two-ends and the middle - 
+only the middle is negated here. The usual order, however, is  
+ādāna – upādāna – paṭinissagga, taking up – holding on and 
+giving up. What comes in the middle is upādāna. 
+This is the middle – the holding on or grasping. Now in 
+this context, the most important term seems  to be ‘ anupādāya’. 
+The most significant term is ‘not -grasping’. It is because of this 
+‘not-grasping’ that one takes delight only in the  taking up and the 
+giving up – ‘ādānapaṭinissagga’. 
+In the case of Insight Meditation, there is a possibility of 
+delighting only in taking up and giving up, when there is no 
+grasping in the middle, Where there is no ‘ upādāna’ or grasping, 
+there is only ‘ ādāna’ and ‘ paṭinissagga’. One may note th e 
+special significance of the prefix ‘upa’ in this particular context.
+
+10 
+ 
+Let us try to understand this with the help of an 
+illustration. Suppose we go to a well. We go to a well for a drink 
+or for a wash or to bring some water. What do we do there? 
+First, we draw water. Then keeping the bucket near us, we 
+either drink from it or have a wash or may be we pour the water 
+into some vessel to bring it along with us. After all that, if there is 
+still some water left, we throw it away. This is what we do with 
+the water we draw from the well. 
+That is, when we want to make use of the water. So the 
+procedure here is: ‘ ādāna’ – we draw water – ‘upādāna’ – we 
+keep the bucket of water beside us, or hold on to it – and then we 
+throw away whatever is left over – ‘paṭinissagga’. This is what  
+we normally do when we are making use of the water we draw 
+from a well. 
+Supposing we want to empty out the well. We want the 
+well emptied. What do we do then? We lower the bucket into the 
+well, draw water and throw it away. We draw water and throw it 
+away. There is only a taking up and a giving up. We do it very 
+speedily. There is no holding on. We need not meddle with the 
+bucket so much. We are not thinking of making any special use 
+of the water. Instead, we are now keen on seeing the well empty. 
+Our purpose is to see the well empty – to see the emptiness of the 
+well. 
+‘Siñca bhikkhu imaṁ nāvaṁ – sittā te lahumessati’  
+‘Empty this boat, O monk! Emptied, it will go lightly with 
+you’ 
+This is an advice given by the Buddha in the section on 
+the Monk (Bhikkhu-vagga) in the Dhammapada. In keeping with 
+this advice, here too the meditator has to do some emptying. It is 
+this process of emptying t hat is signified by the lines, ‘ ādāna 
+paṭinissagge-anupādāya ye ratā’.
+
+11 
+ 
+Now, let us leave aside this illustration and take up 
+another that is more relevant to our meditation subject and has 
+far-reaching implications – Ānāpānasati. 
+Ānāpānasati: ‘ āna’ means breathing in; ‘ apāna’ means 
+breathing out. Breathing in and breathing out. This is what we do 
+everyday. We breathe in and out. 
+Between these two there is something rather 
+imperceptible, something that is overlooked. But that is the very 
+thing which perpetuates saṁsāra. Why do we breathe in? We 
+breathe in to maintain this exi stence. That is to maintain craving 
+and ignorance – to perpetuate this saṁsāra. We breathe in to 
+preserve this body from destruction a nd death. There is grasping 
+or ‘ upādāna’ as an imperceptible gasping for breath. In short 
+there is both ‘gasping’ as well as grasping. Beneath it lies craving 
+and ignoran ce. There is supposed to be an ‘I’  behind this 
+breathing – a breather. 
+Breath is the most elementary requirement of all beings 
+who are breathers. There is not simply a breathing in. There is a 
+holding on to the breath or a grasping. The effort, here, is to hold 
+on to the breath and to make use of it to do other work. Take, for 
+instance, the case of a person who is going to lift a weight. Why 
+does he draw in a deep breath before lifting the weight? It is to 
+infuse new life into his b ody. Breathing in means infusing  new 
+life into the body. 
+It is after holding on to the breath that one sets about 
+doing the work one has to do. Within thi s very grasping lies the 
+ego – ‘my ability’, ‘my strength’, ‘I can do’  and all that sort of 
+thing. 
+So, one takes in a breath and holds on to it, but he has to 
+let go of it as well. This letting go happens out of sheer necessity 
+– per force. To let go o f the breath that way, we call ‘breathing
+
+12 
+ 
+out’. We breathe -in with some special pu rpose in mind – to 
+preserve our life. If it is possible to hold on to the breath for ever, 
+for this purpose, so much the better, but we can't. Since  we 
+cannot do it, we have to let go of the breath after a while, whether 
+we like it or not. 
+So then here  too we seem to have a case of ‘ ādāna’ and 
+‘paṭinissaga’ – a taking up and a letting-go, at least on the face of 
+it. There is a stage in ‘ānāpānasati’ at which this insight emerges. 
+If we analyze the last four of the 16 steps in ānāpānasati 
+meditation taught by the Buddha, we can understand to some 
+extent the way of emergence of this insight. These last four have 
+to do with the contemplation of mind -objects – 
+‘dhammānupassanā’. 
+They are:  
+Aniccānupassī assasissāmīti sikkhati 
+Aniccānupassī passasissāmīti sikkhati 
+Virāgānupassī assasissāmīti sikkhati  
+Virāgānupassī passasissāmīti sikkhati 
+Nirodhānupassī assasissāmīti sikkhati  
+Nirodhānupassī passasissāmīti sikkhati 
+Paṭinissaggānupassī assasissāmīti sikkhati  
+Paṭinissaggānupassī passasissāmīti sikkhati 
+Contemplating impermanence, I shall breathe in, so he trains 
+Contemplating impermanence, I shall breathe out, so he trains 
+Contemplating detachment, I shall breathe in, so he trains 
+Contemplating detachment, I shall breathe out, so he trains 
+Contemplating cessation, I shall breathe in, so he trains 
+Contemplating cessation, I shall breathe out, so he trains 
+Contemplating relinquishment, I shall breathe in, so he trains 
+Contemplating relinquishment , I shall breathe out, so he 
+trains.
+
+13 
+ 
+It seems, then that this is a training. What is the purpose 
+of this training? The purpose is to get an insight into 
+impermanence. Here too one can see some order, a gradual 
+procedure. One breathes in seeing impermanence and one 
+breathes out also seeing imp ermanence. Thus the meditator 
+understands the impermanence of the entire process. For him, this 
+breathing is an object lesson in understanding or gaining an 
+insight into impermanence. This is a training. This meditator is 
+now taking in a breath not for the  purpose of keeping himself 
+alive, not for the purpose of continuing in saṁsāra, but just to 
+learn a lesson from it, to develop his insight through it. He is 
+making use of his meditation subject for the purpose of 
+understanding a law of nature – impermanence. He sees 
+impermanence in the in-breath as well as in the out-breath. 
+What is this impermanence?  Summed up in two words, it 
+is ‘udaya’ and ‘vaya’ – arising and passing away. This appears as 
+the first bud from which grows the tree of insight in to 
+impermanence. To the extent one's understanding of the process 
+of arising and passing away deepens, to that extent the law of 
+impermanence becomes clear to him. In a meditator who has 
+developed the Factors of Enlightenment and other requisites of 
+satipaṭṭhāna meditation, by the time he reaches the last four 
+stages in the practice of Ānāpānasati, the insight into  
+impermanence is already there to a certain extent. He is well 
+aware of the process of arising and passing away. 
+As this contemplation of impermanence deepens, as he 
+sees the incessant process of arising and passing away all the 
+more rapidly, the latter aspect, namely the aspect of passing 
+away, becomes more prominent to him. Just as in the case of one 
+trying to look at a mark in a rapidly turning wheel, the meditator 
+becomes more aware of the falling aspect. The rising aspect 
+becomes less prominent. It is the process of passing away, the 
+process of destruction, that is more striking to him now.
+
+14 
+ 
+This gives rise to detachment and dispassion. One takes in 
+a breath with cr aving which is on the side of ‘arising’ – 
+‘samudaya’. In breathing -in, one is dwelling on the arising 
+aspect, breathing -out is the c essation aspect. These are all 
+‘preparations’ – saṅkhāras. Craving is t he regenerator who is 
+responsible for all these preparations. These preparations are the 
+result of lust, desire or craving. 
+Now, when the rapid process of destruction and breaking 
+up becomes more prominent, dispassion sets in. One sees this as a 
+trouble. O ne is repelled by it, not attracted. The result of this 
+dispassion is the weakening  of craving, the regenerator – ‘taṇhā 
+ponobhavikā’. As craving thins out, the fact of cessation becomes 
+all the more clear, because it is this very craving that has been 
+concealing it all the time. 
+Why do we say that craving is concealing the fact of 
+cessation? Because craving is on the si de of ‘arising.’ As soon as 
+a cessation occurs, craving as the regenerator prompts a re -
+arising. As the phrase ‘ taṇhā ponobhavikā nandirāgasahagatā 
+tatratatrābhinandinī’3 implies, craving as the regenerator is 
+always out to make for re-becoming. It is accompanied by delight 
+and lust, and it delights now -here-now-there. Because of its very 
+nature of taking delight now  here-now there, craving says, ‘Don't 
+worry about the breath that is gone, catch hold of another brea th. 
+Take hold of another breath’ . It tempts and prompts. But when 
+dispassion sets in, this tendency to tempt and prompt becomes 
+less and less. It is reduced, with the resul t, that the cessation 
+aspect becomes more prominent – and with it, the passing away, 
+the breaking-up, the destruction. That way, one comes to see the 
+cessation of mind-objects also and that is nirodhānupassanā – the 
+contemplation of cessation. 
+                                                             
+3. Dhammacakkappavattana Sutta, S.N. V. 421
+
+15 
+ 
+So here too we see some order and sequence. From the 
+contemplation of impermanence to the contemplation of 
+detachment and from the contemplation of detachment to the 
+contemplation of cessation. Now when one sees this process of 
+cessation more clearly, one understands how vain and useless all 
+these attempts are. Even the process of breathing now appears to 
+him as a set of vain attempts. With a deep awareness of this 
+vanity, he now breathes in, simp ly to breathe out, to let go – 
+‘paṭinissaggānupassī’. This is the contemp lation of 
+relinquishment which is the sixteenth and last step in 
+Ānāpānasati meditation. 
+The insight developed through Ānāpānasati reaches its 
+climax here. The phenomenon of breathing has now become an 
+object-lesson in understanding the emptiness and not-self nature 
+of existence. ‘ Paṭinissaggānupassī assasissāmī’ – Contemplating 
+relinquishment I shall breathe in, even while breathing -in, one is 
+contemplating the idea of giving up. One is not going to grasp it 
+and make use of it. Similarly, ‘ Paṭinissaggānupassī 
+passasissāmī’. Needless to say then, while breathing out too, he is 
+contemplating the idea of giving up. So we can now revert to our 
+simile of the well. Only, in this context, it is not a case of drawing 
+water but a drawing in of breath. 
+One draws in a breath just to let go of it. Here is simply a 
+drawing in and a letting go. One has no idea of holding on to the 
+breath, to do something with it.  One is simply aware of it as a 
+certain natural phenomenon. There is no ‘I’  who holds on to the 
+breath. Breathing is simply a natural process connected with this 
+bodily frame. 
+By now, the meditator has passed through the stages of 
+insight connected with the seeing of breaking -up, fear and peril. 
+With the maturity of these insight knowledges, the medita tor is 
+now well poised to let go in order to be free. Breathing, as an 
+illustration of the natural law of arising and passing away, has
+
+16 
+ 
+now contributed to a deepening of insight i nto the three 
+characteristics, ‘ anicca’’dukkha’ and ‘ anattā’ – impermanence, 
+suffering and not-self. 
+Out of the two ends and the middle we earlier spoke 
+about, the  middle signified by ‘ upādāya’ (grasping), has 
+disappeared. So we are left with simply the two ends. It is the 
+middle that  justifies the discrimination b etween two ends. Now 
+that the significance of the middle is lost, the two ends also lose 
+their justification. Now the entire pro cess of breathing is 
+understood as a circular process. There is simply a process of 
+breathing in an d a breathing out. There is n o ‘one’ that breathes. 
+This, in fact, is the realization of the not -self nature. What has 
+happened is that a  disgust or a disenchantment – ‘nibbidā’ – has 
+been aroused by the insight knowledges relating to destruction, 
+fear and peril ( bhanga, bhaya, ādinava), with the result craving 
+has lost its sanction. When craving, the regenerator, g oes out of 
+action, there is no ‘upādāna’. There is no grip to grasp. 
+So breathing is now understood simply as a bodily 
+preparation ( kāyasaṅkhāra), not as an activit y impelled and 
+propelled by an ‘I’ . This way, one reaches a depth of insight that 
+is helpful in doing away with the ‘ āsavas’ or influxes which are 
+the net -result of one's saṁsāric habits. The word ‘ āsava’ 
+connotes both fermentation and intoxication. ‘ Āsavas’ are, 
+therefore, habits and habitual tendencies which we have stored up 
+in the past and which seek now to influence and infiltrate into our 
+everyday life. Deeply ingrained in all these saṁsāric habits, is a 
+tendency to grasp and hold on. One grasps and hol ds on to 
+sensuality, to views, to rites and rituals and to the assertion of a 
+self. 
+All these are modes of habitual grasping. It is the release 
+from this habitual grasping that brings about the extinction of the 
+influxes. The three influxes are, ‘ kāmāsavā’, ‘ bhavāsavā’ and 
+‘avijjāsavā’, i.e., the influxes relating to sensua lity, existence and
+
+17 
+ 
+ignorance. ‘ Khīṇāsava’ is the term for the arahant who has  
+extinguished these influxes. The arahants have reached that state 
+by giving up grasping and that is why we sometimes come across 
+the phr ase, ‘anupādāya cittassa vimokkho ’ – ‘the mind's release 
+by not grasping’. What it means is the freedom of the mind from 
+the tendency to grasp. So, when upādāna which is in the middle 
+is done away with, the two ends also  lose their significance. But 
+all this happens through understanding. That is, the understanding 
+of the two ends and the middle. In short, it boils down to the 
+understanding that the so-called object is merely a mirage. That is 
+to say, what one has so far taken as the object, what one has so 
+far conceived as an object, is, in fact, simply a mirage. 
+All the delusion in the world is traceable to the il lusion 
+that is in perception – ‘saññā’. It is because of ‘saññā’ perception 
+that knots and grips occur, so mu ch so that one who is free from  
+‘saññā’ is free from knots and grips also. That is why it is said in 
+the Māgandiya Sutta of the Sutta Nipāta. 
+‘Saññāvirattassa na santi ganthā 
+Paññāvimuttassa na santi mohā’ 
+‘To one detached from perception there are no knots and 
+to one released through wisdom there are no delusions.’ 
+So the purpose of this training in insight is that release from 
+perception. Until full detachment with regard to perception sets 
+in, knotting will go on. A sort of disgust or disenchantment has to 
+occur for detachment to set in. With the gradual refinement of the 
+mode of mental noting, one is able to eliminate these  knots 
+brought about by perception. As mentioned above, one has to 
+stop short at the bare awareness of seeing, hearing, feeling a nd so 
+forth. Thereby one does not take seriously those two pegs 
+between which perception occurs. One avoids thinking in  terms 
+of subject and object – ‘There is that form there, and here am I’ ; 
+‘There is that sound there, and here am I’ . Avoiding that way of
+
+18 
+ 
+thinking, one understands experience simply as a process of 
+seeing and hearing. But there  is something far more subtle which 
+leads one towards perception and that is, contact or ‘ phassa’. The 
+arising of contact is an extremely subtle  phenomenon. What is 
+generally understood as contact is the striking together of two 
+things. So, the notion of duality is already implicit there. But this 
+of course is the worldly way of understanding the phenomenon of 
+contact. That is why the Buddha also sometimes gives the 
+illustration of the striking together of two pieces of wood as a 
+simile for the phenomenon of contact. To contact or to strike  
+together there has to be two. The presence of two  things is 
+already presupposed. 
+There is, however, an import ant sutta in Majjhima Nikāya 
+which gives us a deeper insight into this phenomenon  of contact. 
+It is the Madhupiṇḍika Sutta. There we read: 
+‘Cakkhuñca pa ṭicca rūpe ca uppaj jati cakkhuviññā ṇaṁ, 
+tiṇṇaṁ saṅgati phasso, phassa paccayā vedanā.....’ 
+‘Dependent on  eye and forms, there arises eye -
+consciousness. The coming together of the three is contact, 
+dependent on contact is feeling ....’ and so forth. It is the first few 
+words that convey something extremely deep. 
+‘Cakkhuñca pa ṭicca r ūpe ca uppajjati cakkhuviññāṇaṁ. 
+Here we have the two words ‘ paṭicca’ and ‘ uppajjati’ which 
+remind us of the term ‘ paṭiccasamuppāda.’ ‘ Paṭicca’ means 
+‘dependent on’ or ‘ because of ’, what is implied here is that 
+consciousness is not something existing in itself or by itself . It is 
+not something abstract. It always arises dependent on something 
+or other, because of something or other. ‘ Paṭicca’ conveys the 
+idea of relationship or relativity. 
+For instance, eye -consciousness is a relationship between 
+the eye, the internal base, and forms, the external base. Here,
+
+19 
+ 
+then, we alre ady have an instance of ‘ paṭicca samuppāda’ – the 
+Law of Dependent Arising. 
+Consciousness has been compared to a conjuror 's trick – 
+to a magic -show. One has to get an insight into the back -stage 
+workings of this magic -show. There are the six dependently 
+arisen consciousnesses with mind -consciousness as the sixth. In 
+the phrase quoted above, the emphasi s should be placed on t he 
+word ‘ paṭicca.’ "Cakkhuñca paticca rūpe ca uppajjati 
+cakkhuviññānaṁ”. Eye consciousness arises dependent on  eye 
+and form and not independently. 
+Apparently, here again, we are faced with the question of 
+two things, but then let us take a peep into the backstage 
+workings of  consciousness. What is called ‘consciousness’  is a 
+form of discrimination. In fact, consciousness itself is the very 
+discrimination between an internal base and an external base – 
+eye and forms, ear and sounds and so on. 
+But the irony of the situation is this. The very 
+discrimination implies the ignoring of the relationship. That is 
+why the birth of consciousness is in itself the birth of ignorance. 
+Given this ignorance, there is the possibility of counting the three 
+factors – eye, forms and eye -consciousness. This, then, is the 
+triad – the three that are coming together to bring about contact. 
+‘Tiṇṇaṁ saṅgati phasso’. This is the most basic reckoning 
+– ‘phassa paññatti ’ which implies the counting as a three. This 
+might well appear as an extremely subtle problem for the 
+logician. It is because of eye and forms that eye -consciousness 
+has arisen. But once eye -consciousness has arisen, there is the 
+tendency to forget – to ig nore – the relationship and to make a 
+reckoning in which the third factor – the ‘tertium-quid’ – is that 
+very discrimination, ‘eye-consciousness’. In other words, there is 
+an implicit ignorance of the fact that consciousness is 
+dependently-arisen. Once thi s reckoning of the three as eye,
+
+20 
+ 
+forms, and eye -consciousness is taken s eriously, the stage is set 
+for ‘contact’ – ‘tiṇṇaṁ saṅgati phasso’: ‘The coming-together of 
+the three is contact.’ 
+In fact it is not simply a coming -together; it is a going -
+together as  well. It is a concurrence. So long as the three go 
+together in ignorance, there is contact. There is a pos sibility of a 
+situation called ‘ contact’. Earlier, we were talking about two 
+things to define ‘contact’. But here we seem to have three things. 
+But t here is no contradiction. What is meant is that there is an 
+ignorance of the fact that eye -consciousness which forms the 
+third is arisen dependent on the other two. 
+When eye becomes self conscious, it separates itself from 
+forms, and these are the two ends . With these two ends as pegs, a 
+measuring goes on which we call percepts, concepts and 
+knowledge. But in this so-called knowledge, the duality is already 
+implicit. There is a dichotomy betwe en an ‘internal’ and an 
+‘external’– between a subject and an object. That is why there is a 
+need for a more refined way of mental -noting in order to get rid 
+of this delusion. 
+Now let us take the case of a mirage. When a deer sees a 
+mirage at a distance, it does not know. It is ignorant of the fact 
+that it is a mirage. T hirsty as it is, it imagines the mirage to be 
+water. Its vision is biased and unclear. It lacks the wisdom to 
+understand the nature of the phenomenon which we call 'a 
+mirage'. It perceives and conceives water in the mirage. In the 
+language of the deer, the mirage would be called ‘water’. 
+Just as in th e world people call each other ‘man’ or 
+‘woman’, so the deer would call the mirage ‘water’.  If we are to 
+take seriously the duality and say: ‘ the form is out there and I am 
+here, the sound is out there and I am here’, we will be in a similar 
+position. So actually what we have here is just a bit of bare 
+experience. That too  comes about by giving recognition to the
+
+21 
+ 
+two ends – the internal base and the external base. By recognizing 
+them, by separating them, by disc riminating between them, there 
+arises a certain measuring. So the concept of two things striking 
+together also follows as a matter of course. Given two things, 
+there is a possibility of a con tact between them. And this is 
+‘contact’ as the world understands  it. Given this contact, there 
+arise dependent on it, feeling,  perception and all the rest of it. It 
+goes as far as thinking and logic. 
+Now, this is the delusion. This is the ignorance. What, 
+then, is the insight that helps one to unravel this state of affairs? It 
+is the understanding of the conditioned nature of consciousness – 
+that consciousness arises dependent on conditions. Even that 
+insight emerges through a refined way of attending. That is, by 
+accelerating the mental noting in such a way as not to g et caught 
+in the net of perception or saññā. In other words, to stop short at 
+bare awareness. It is by such a technique that one can get an 
+insight into the back stage workings of consciousness. For 
+instance, the insight that the eye -consciousness arises d ependent 
+on eye and forms and that the very discrimination between the 
+two ends is eye -consciousnsess, which is the middle. This story 
+of the two ends and the middle is beautifully presented in the 
+Pārāyaṇa Sutta found in the Section of the Sixes in the Aṅguttara 
+Nikāya. What forms the nucleus of that sutta is the following 
+verse quoted from the Pārāyaṇa Vagga of the Sutta Nipāta: 
+‘Yo ubhante viditvāna – majjhe mantā na lippati,  
+ Taṁ brūmi mahāpurisoti – so'dha sibbanimaccagā’ 
+This verse preached by the Buddha in reply to a question 
+put by Brahmin Tissa Metteyya, is quoted here for comment. In a 
+sort of a ‘seminar’ on the significance of this verse, six monks put 
+forward their individual opinions thereby drawing out the deeper 
+implications of the verse in question. The meaning of the verse, 
+asit stands, would be something like this:
+
+22 
+ 
+ ‘Yo ubhante viditvāna’ – He who having understood both 
+ends,  
+‘Majjhe mantā na lippati ’ – Does not get attached to the 
+middle through wisdom.  
+‘Taṁ brūmi mahāpurisoti’ – Him I call a great man  
+‘So idha sibbaniṁ accagā’ – It is he who has bypassed or 
+escaped the seamstress in this world. 
+‘Sibbanī’ or ‘seamstress’  is a term for craving. The 
+function of craving is conceived here as a process of stitching or 
+weaving. The underlying idea is the accumulation of knots. It is 
+craving that is responsible for the knotty nature of this existence . 
+The two ends and the middle re ferred to in this verse are just the 
+things necessary for making a knot. The significance of the two 
+ends and the middle has been variously interpreted in this sutta. 
+According to one interpretation that came up at this sympos ium, 
+the one -end means the six internal bases and the second end 
+means the six external bases and the middle is consciousness. 
+By consciousness is meant the six kinds of sense -
+consciousness. So according to this interpretation too, we find 
+that consciousne ss becomes the middle as a result of reckoning 
+the sense and its object as two ends. It is as if two pegs have been 
+driven as eye and forms for the measuring that is implicit in 
+sense-perception. 
+The arising of this basic discrimination is called th e 
+arising of the sense -bases – ‘āyatanuppāda’. And the insight into 
+this basic discrimination is called the seeing of the arising of 
+sense-bases. In the Soṇa Sutta, among the Sixes of the Aṅguttara 
+Nikāya, we find the following significant verse: 
+‘Taṇhakkhayādhimuttassa  
+Asammohañca cetaso  
+Disvā āyatanuppādaṁ  
+Sammā cittaṁ vimuccati’
+
+23 
+ 
+‘In one who is intent upon the destruction of craving and 
+the non -delusion of the mind, on seeing the arising of sense -
+bases, the mind is well released’. 
+One may well infer from this verse that it is by the not -
+seeing of the arising of the bases that one remains bound – that 
+the mind remains bound to saṁsāra. As we mentioned above, so 
+long as there is no proper understanding of the two -ends, a 
+middle creeps in. So long as one grasps eye and forms as the two 
+ends, eye-consciousness comes in. That is because what is called 
+eye-consciousness is the very discrimination of eye and form as 
+two things. Now, in the case o f the mirage, the deer thinks: ‘ I am 
+here, the water is out there ’. It is with this presumption that the 
+deer runs towards the mirage. But from the very outset, this 
+discrimination, this consciousness of water, is wrong. Therefore 
+the deer keeps on running after the mirage. It is a vain pursuit. 
+The more it approaches the more its object recedes. This is the 
+nature of a mirage. But what impels the deer in its pursuit is its 
+eye-consciousness. This consciousness acts like  two pegs. So the 
+deer thinks: “here is my eye and there is that water. If only I can 
+go there, I can see that real water and drink it”. 
+Similarly, when we grasp eye and forms as the two ends, 
+we have driven the two pegs down to the earth, as it were. We 
+have taken eye and forms as real. That very discrimination is eye -
+consciousness. 
+The best revelation of this state of affairs comes when one 
+has accelerated one's speed of mental -noting to such an extent 
+that when a thought comes to one's  mind, one  summarily 
+dismisses it as a mere thinking without being carried away by it. 
+Thereby one does not allow that thought to crystallize itself as an 
+object. Normally, an object is something that one clings to or 
+hangs on to. The mind which has been in the habit of clinging 
+throughout saṁsāra, always seeks to hang on to something or the 
+other, however frail it may be. That is because of the craving for
+
+24 
+ 
+existence. Just as a man falling down a precipice would hang on 
+even to the frail straw for fear of the fall, the e ver-new 
+regenerator, craving – ‘taṇhā ponobhavikā ’ – prompts one to 
+hang on to this that or the other. But the crux of the problem lies 
+where the mind meets its object. 
+Mind has the habit of hanging on to its object. Even when 
+the five external senses do not grasp their respective objects, 
+mind would grasp the thought as its object. O ne tends to think: 
+“Here am I, the thinker, and this is my mind -object”. So long as 
+this bifurcation, this duality, is there, there will also be a place for 
+mind-consciousness. In the magic -show of consciousness, mind -
+consciousness is the subtlest trick of all. Now in the verse quoted 
+above, it is said that the mind is well released on seeing the 
+arising of bases. How does this come about? When the meditator 
+attends to the objects of the six senses rapidly and in  a more 
+refined w ay, without clinging to them, summarily dismissing 
+them, in the course of his meditative attention – all of a sudden – 
+he discovers the mind -object as soon as it strikes the mind. The 
+relativity involved in the process of sense -contact is thereby 
+understood and the delusion regarding the magic -show of 
+consciousness is dispelled. Strange as it may appear, this very 
+insight into the dependent arising of sense bases has di smantled 
+those very sense-bases as-it were.  
+Of course, the process of cessation  was going on all the 
+time. But due to the regene rator  – craving – which had a 
+partiality for the arising aspect, the fact of cessation was not seen. 
+As it is said in Dvayatānupassanā Sutta of the Sutta Nipāta: 
+‘Ye ca rūpūpagā sattā  
+Ye ca arūpaṭṭhāyino  
+Nirodhaṁ appajānantā   
+Āgantāro punabbhavaṁ’
+
+25 
+ 
+‘Those beings who approach realms of form and those 
+that are in formless realms, not understanding well the fact of 
+cessation, come again and again to existence’. 
+What is meant is that impelled by craving, beings are 
+always keen on ever -new arisings to the neglect of the fact of 
+cessation. As soon as a thi ng breaks up, craving prompts: “ Don't 
+worry about this thing that is lost. Take hold of that thing out 
+there”. This renewing process goes on so rapidly in the mind, that 
+the process of mental-noting is something like a battle with Māra. 
+One has to speed up the process of mental -noting in such a way 
+as to eliminate the possibilities of  attachment and clinging. In 
+fact, it would be at a totally unexpected moment that the releasing 
+insight breaks forth. But once that insight dawns, one understands 
+for the first time the delusion one has been in, all this time. 
+Consciousness arises depend ent on conditions. There is no ‘I’  in 
+it. This way, one sees the law of Paṭiccasamuppāda with the help 
+of the six sense -bases. This is t he significance of the phrase: 
+‘Cakkhuñca paṭicca r ūpe ca uppajjati cakkhuviññā ṇaṁ’ quoted 
+above. 
+Eye-consciousness arises dependent on eye and forms. 
+And likewise, mind -consciousness arises dependent on mind and 
+mind-objects. So long as this fact is not seen, there is a tendency 
+to imagine th ree things in this situation – ‘tiṇṇaṁ saṅgati 
+phasso’, ‘ the concurrence of the three is contact ’. This 
+concurrence or the going -together is actually a going -together of 
+the delusion of the three. So this insight may be called the 
+understanding of contact or the understanding of consciousness or 
+the understanding of perception. 
+In short, it is the understanding of Paṭiccasamuppāda – 
+the Dependent Arising. Though it is the illusion of the mirage that 
+tempts the deer, what prompts its vain pursuit is a delusion. It is 
+when one understands this delusion concerning the sense -bases 
+that one attains to the influx -free position of the Arahant – the
+
+26 
+ 
+extinction of influxes. The tendency to grasp and cling which 
+leads to grips and knots wears off. That is why it was said:  
+‘Saññāvirattssa na santi ganthā ’ – ‘to one detached from sense -
+perception there are no knots’. This is the release from ‘Saññā’ or 
+perception. It was also said: ‘ paññāvimuttassa na santi mohā’ – 
+‘to one released through wisdom, there are no delusions ’. It is in 
+the light of wisdom that one discovers the secret of 
+consciousness. 
+‘Viññāṇaṁ pariññeyyaṁ, paññā bhāvetabbā’ 4  
+‘consciousness is to be comprehended and wisdom is to 
+be developed’. 
+ It is by the development of wisdom that one comes to 
+understand the true state of affairs with regard to consciousness. 
+It is something like taking a peep into the backstage workings of 
+a magic -show. Wi sdom is something penetrative (‘ nibbedhikā 
+paññā’). In fact, the culmination of all endeavours is the 
+development of wi sdom. Wisdom is the crest -gem. ‘ Paññā 
+narānaṁ ratanaṁ’ – ‘Wisdom is the jewel of mankind ’.5  It is 
+only through wisdom that one can understand the delusion 
+involved in consciousness. In the last analysis, the murk of 
+delusion, the darkness of ignorance, is dispelled only  by the 
+radiance of wisdom. 
+ The Buddha has declared that there are four radiances in 
+the world – the radiance of the moon, the radiance of the sun, the 
+radiance of fire and l astly the radiance of wisdom – 
+‘paññappabhā’. 6 He proclaimed that out of these four, the last, 
+the radiance of wisdom is the highest. It is the highest because the 
+darkness of ignorance is dispelled only by it. The influx -free 
+arahant’s mind is radiant with that ra diance of wisdom. So it is 
+                                                             
+4. Mahāvedalla Sutta, M.N. I 293(P.T.S) 
+5. Ajarasa Sutta, S.N. I 36 (P.T.S) 
+6. Ābhā Sutta, A.N. Il 139f'(P.T.S)
+
+27 
+ 
+said ‘khīṇāsavā jutimantā’. The fermenting influxes which  make 
+for intoxication are destroyed and with the insight into the nature 
+of consciousness through wisdom, his mind is radiant. Now, all 
+this shows that to see ‘Paṭiccasamuppāda’ is to be free from it. In 
+this Law of Dependent Arising, there are two aspects – arising 
+(samudaya) and cessation ( nirodha). Out of these two aspects, if 
+one has seen the  arising aspect, then and there, one has already 
+got an insight into the fact of cessation. One understands that 
+whatever is of a nature to arise is also of  a nature to ceas e. ‘Yaṁ 
+kiñci samudayadhammaṁ, sabbantaṁ nirodhadhammaṁ’. 
+What prevents th is insight is that grasping or ‘ upādāna’. 
+Generally in the world, very few are keen on emptying the well. 
+The majority simply draw water to make use of it. But there is no 
+end to this making use of the water. Only when one decides upon 
+emptying the well, will one be drawing water just to throw it 
+away without grasping. This is the position of those who are keen 
+on seeing the emptiness of the world, and it is they that are fully 
+appeased in the world.  The word ‘ parinibbutā’ in this context 
+does not mean that the arahants have passed away. They live in 
+the world fully appeased, having extinguished the fires of lust, 
+hate and delusion.  
+The word ‘ upādāna’ has two senses – ‘grasping’ as well 
+as ‘ fuel that ca tches fire’ . In fact, the totality of existence is a 
+raging fire kept up by the fuel of ‘ upādāna’, ‘ Bhavanirodho 
+nibbānaṁ’. The realization of the cessation of existence is at the 
+same time, the extinction of that raging fire which brings an 
+appeasement. Therefore the Arahants are those that dwell fully 
+appeased in the world, ha ving extinguished those fires.
+
+28 
+ 
+‘Yesaṁ sambodhi aṅ gesu – sammā cittaṁ subhāvitaṁ  
+Ādānapaṭinissagge – anupādāya ye ratā  
+Khīṇāsavā jutīmantā – te loke parinibbutā’
+
+29 
+ 
+By The Same Author 
+1. Concept and Reality in Early Buddhist Thought   
+2. Saṁyutta Nikaya – An Anthology  
+3. Ideal Solitude  
+4. The Magic of the Mind  
+5. Towards Calm and Insight   
+6. From Topsy-turvydom to Wisdom, Volume I  
+7. From Topsy-turvydom to Wisdom, Volume II  
+8. Seeing Through  
+9. Towards A Better World  
+10. Nibbāna – The Mind Stilled, Volume I  
+11. Nibbāna – The Mind Stilled, Volume II  
+12. Nibbāna – The Mind Stilled, Volume III  
+13. Nibbāna – The Mind Stilled, Volume IV  
+14. Nibbāna – The Mind Stilled, Volume V  
+15. Nibbāna – The Mind Stilled, Volume VI  
+16. Nibbāna – The Mind Stilled, Volume VII 
+17. Nibbāna – The Mind Stilled, Library Edition  
+18. Nibbāna and The Fire Simile  
+19. A Majestic Tree of Merit  
+20. The End of the World in Buddhist Perspective  
+21. The Law of Dependent Arising, Volume I  
+22. The Law of Dependent Arising, Volume II  
+23. Walk to Nibbāna   
+24. Deliverance of the Heart through Universal Love 
+All enquiries should be addressed to: 
+Kaṭukurunde Ñāṇananda Sadaham Senasun Bhāraya 
+Kirillawala Watta, Dammulla, Karandana 
+Phone: 0777127454 
+knssb@seeingthroughthenet.net
+
+30 
+ 
+කතු හිමියන්ග ් සිිංහල කෘති 
+1. උත්තරීතර හුදකලාව  
+2. පින් රුකකක මහිම       
+3. විදසුන් උපකදස්  
+4. නිවකන් නිවීම –  පළුමු කවළම   
+5. නිවකන් නිවීම – කදවන කවළම  
+6. නිවකන් නිවීම –  කතවන කවළම   
+7. නිවකන් නිවීම –  සිවුවන කවළම   
+8. නිවකන් නිවීම –  පස්වන කවළම   
+9. නිවකන් නිවීම –  සළුවන කවළම   
+10. නිවකන් නිවීම –  සත්වන කවළම   
+11. නිවකන් නිවීම –  මළුවන කවළම   
+12. නිවකන් නිවීම –  නවවන කවළම   
+13. නිවකන් නිවීම –  දසවන කවළම   
+14. නිවකන් නිවීම –  මකකාකළුාස්වන කවළම   
+15. නිවකන් නිවීම – පුස්තකාල මුද්‍රණයළු  පරථමම ාායළු 1 -6 වෙළුම්)   
+16. නිවකන් නිවීම – පුස්තකාල මුද්‍රණයළු  1 -   වෙළුම්) 
+17. පහන් කණයුව ධමම කද්නනා –   කවළම   
+18. පහන් කණයුව ධමම කද්නනා – 2 කවළම  
+19. පහන් කණයුව ධමම කද්නනා – 3 කවළම  
+20. පහන් කණයුව ධමම කද්නනා – 4 කවළම  
+21. පහන් කණයුව ධමම කද්නනා – 5 කවළම  
+22. පහන් කණයුව ධමම කද්නනා – 6 කවළම  
+23. පහන් කණයුව ධමම කද්නනා – 7 කවළම  
+24. පහන් කණයුව ධමම කද්නනා – 8 කවළම  
+25. පහන් කණයුව ධමම කද්නනා – 9 කවළම  
+26. හිතක මහිම –    
+27. හිතක මහිම – 2  
+28. හිතක මහිම – 3  
+29. හිත තුනීම  
+30. පුවුත්ම හා නුවුත්ම  
+31. ඇති හුටි දැක්ම  
+32. දිවි කතකේ සුඳෑ මඳූර  
+33. කළු මනුව යිළු සිහිළු  
+34. මා-පිළු උවුළුන
+
+31 
+ 
+35. පරතිපත්ති පජාාව  
+36. චලන චිතරළු  
+37. දිළු සුළුිළු  
+38. මබිනික්මන  
+39. බුදු සමළු පුද්යලළුා හා සමාාළු  
+40. මනකස් මාළුාව  
+41. ාාවනා මායගළු   
+42. සසුන් පිළුිකවත  
+43. පිළුිකවතින් පිළුිකවතළු  
+44. තිසරණය මහිම  
+45. කකළු් කතාව  
+46. කමත් සිකත් විමුක්තිළු  
+47. පටිච්ච සමුප්පාද ධමමළු – 1 කවළම  
+48. පටිච්ච සමුප්පාද ධමමළු – 2 කවළම  
+49. පටිච්ච සමුප්පාද ධමමළු – 3 කවළම  
+50. පටිච්ච සමුප්පාද ධමමළු – 4 කවළම  
+51. සක්මකන් නිවන  
+52. තකපෝ යුණය මහිම  
+53. කමම චකරකළුන් ධමම චකරළුළු  
+54. පුරණි කබෞද්ධ චින්තාකේ සංකල්පළු සහ ළුථමාථමමළු 
+ 
+නුවත මුද්‍රණයළු කරවීම පිළුිබඳ විමසීම් 
+කළුුකුරුන්කද් ඤාණයනන්‍ද සදහම් කසනසුන  
+කිරිල්ලෙලෙත්ත, දම්මුල්ල, කරඳන  
+ 
+දුරකථමනළු: 0777127454  
+knssb@seeingthroughthenet.net
