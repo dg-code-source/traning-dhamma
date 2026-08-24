@@ -31,7 +31,7 @@ python tools/web_page_pipeline.py --reprocess https://...
 python tools/web_page_pipeline.py --status
 """
 
-import os, sys, json, re, hashlib, argparse, time, urllib.request, urllib.error
+import os, sys, json, re, hashlib, argparse, time, urllib.request, urllib.error, urllib.parse
 from typing import List, Tuple, Optional
 from html.parser import HTMLParser
 
@@ -634,11 +634,47 @@ def find_page_entry(reg: dict, url: str) -> Optional[dict]:
     return None
 
 
+def extract_toc_links(html: str, base_url: str) -> List[str]:
+    """Extract ordered section/chapter links from a book index page or TOC."""
+    toc_links = []
+    
+    # 1. Look for explicit Table of Contents blocks (e.g., dhammatalks.org accordion or toc-nav)
+    patterns = [
+        r'class=["\'][^"\']*book-toc[^"\']*["\']>(.*?)</div>\s*</div>',
+        r'class=["\'][^"\']*(?:toc-nav|table-of-contents|book-contents)[^"\']*["\']>(.*?)</ul>',
+        r'<nav[^>]*id=["\'](?:bookToc|toc)[^>]*>(.*?)</nav>',
+    ]
+    
+    for pat in patterns:
+        m = re.search(pat, html, re.DOTALL | re.IGNORECASE)
+        if m:
+            block = m.group(1)
+            raw_hrefs = re.findall(r'href=["\']([^#"\'\s]+)["\']', block)
+            for href in raw_hrefs:
+                if href.lower().endswith((".html", ".htm", "/")):
+                    full = urllib.parse.urljoin(base_url, href)
+                    if full not in toc_links:
+                        toc_links.append(full)
+            if toc_links:
+                break
+
+    # 2. Fallback: Search the full HTML for relative section links if no TOC container matched
+    if not toc_links:
+        raw_hrefs = re.findall(r'href=["\']([^#"\'\s]*(?:Section|\d+|chapter)[^#"\'\s]*\.html?)["\']', html, re.IGNORECASE)
+        for href in raw_hrefs:
+            full = urllib.parse.urljoin(base_url, href)
+            if full not in toc_links:
+                toc_links.append(full)
+
+    return toc_links
+
+
 # ══════════════════════════════════════════════════════════════════════════════
 # Core Processing
 # ══════════════════════════════════════════════════════════════════════════════
 
-def process_url(url: str, force: bool = False) -> dict:
+
+def process_url(url: str, force: bool = False, min_words: int = 150) -> dict:
     """Fetch, extract, generate QA, and save dataset for one URL."""
     reg = load_registry()
     existing = find_page_entry(reg, url)
@@ -667,6 +703,21 @@ def process_url(url: str, force: bool = False) -> dict:
 
     word_count = len(body.split())
     print(f"  Title: {title} | {word_count} words")
+
+    if word_count < min_words:
+        print(f"  [SKIP] Word count ({word_count}) below minimum ({min_words} words) — likely a cover/titlepage/nav page.")
+        entry = existing or {"url": url, "slug": url_slug(url)}
+        entry.update({
+            "url": url,
+            "title": title,
+            "status": "SKIPPED_TOO_SHORT",
+            "word_count": word_count,
+            "qa_count": 0,
+            "processed_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
+        })
+        _upsert_entry(reg, entry)
+        save_registry(reg)
+        return entry
 
     # Save raw text
     slug = url_slug(url)
@@ -719,6 +770,34 @@ def process_url(url: str, force: bool = False) -> dict:
     _upsert_entry(reg, entry)
     save_registry(reg)
     return entry
+
+
+def process_book_url(book_url: str, force: bool = False, delay: float = 1.0) -> List[dict]:
+    """Fetch a book index/TOC page, discover all linked sections, and process them sequentially."""
+    print(f"\n[Book Pipeline] Inspecting Table of Contents at: {book_url}")
+    try:
+        html = fetch_url(book_url)
+    except Exception as e:
+        print(f"[Book Pipeline] Error fetching book index: {e}")
+        return []
+
+    section_links = extract_toc_links(html, book_url)
+    if not section_links:
+        print(f"[Book Pipeline] No sub-sections found in TOC. Processing as single page...")
+        return [process_url(book_url, force=force)]
+
+    print(f"[Book Pipeline] Found {len(section_links)} section(s) in Table of Contents:")
+    for idx, link in enumerate(section_links, 1):
+        print(f"   {idx:02d}. {link}")
+
+    results = []
+    for link in section_links:
+        res = process_url(link, force=force)
+        results.append(res)
+        time.sleep(delay)
+
+    return results
+
 
 
 def _upsert_entry(reg: dict, entry: dict):
@@ -800,7 +879,9 @@ def main():
         epilog=__doc__
     )
     parser.add_argument("--add", nargs="+", metavar="URL",
-                        help="Add and process one or more URLs")
+                        help="Add and process one or more individual URLs")
+    parser.add_argument("--book", nargs="+", metavar="BOOK_URL",
+                        help="Process complete book(s) by extracting all sections from Table of Contents")
     parser.add_argument("--file", metavar="FILE",
                         help="Process URLs from a text file (one per line)")
     parser.add_argument("--reprocess", metavar="URL",
@@ -826,6 +907,23 @@ def main():
         if not args.no_rebuild:
             print("\nRebuilding master splits...")
             rebuild_master_splits()
+        return
+
+    if args.book:
+        total_qa = 0
+        total_sections = 0
+        for b_url in args.book:
+            results = process_book_url(b_url)
+            comp = [r for r in results if r and r.get("status") == "COMPLETED"]
+            total_sections += len(comp)
+            total_qa += sum(r.get("qa_count", 0) for r in comp)
+        print(f"\n{'='*60}")
+        print(f"Book processing complete: {total_sections} substantive sections converted")
+        print(f"Total new QA pairs: {total_qa}")
+        if not args.no_rebuild and total_sections > 0:
+            print("\nRebuilding master splits...")
+            rebuild_master_splits()
+        print("\nAll done.")
         return
 
     urls = []
@@ -863,3 +961,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

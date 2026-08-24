@@ -10,6 +10,77 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0005_html_7c0be2.txt",
       "dataset_file": "web_books_heartreleased_section0005_html_7c0be2_qa.jsonl",
       "processed_at": "2026-08-24T19:18:23"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Cover.html",
+      "slug": "web_books_heartreleased_cover_html_c2b4cc",
+      "title": "Cover | A Heart Released",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 0,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:23:59"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0001.html",
+      "slug": "web_books_heartreleased_section0001_html_e31ea7",
+      "title": "Titlepage | A Heart Released",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 16,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:24:01"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0002.html",
+      "slug": "web_books_heartreleased_section0002_html_753b8b",
+      "title": "Copyright | A Heart Released",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 104,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:24:02"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0003.html",
+      "title": "Introduction | A Heart Released",
+      "slug": "web_books_heartreleased_section0003_html_d44626",
+      "status": "COMPLETED",
+      "word_count": 1479,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0003_html_d44626.txt",
+      "dataset_file": "web_books_heartreleased_section0003_html_d44626_qa.jsonl",
+      "processed_at": "2026-08-24T19:24:03"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0004.html",
+      "title": "A Heart Released | A Heart Released",
+      "slug": "web_books_heartreleased_section0004_html_a23044",
+      "status": "COMPLETED",
+      "word_count": 8361,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0004_html_a23044.txt",
+      "dataset_file": "web_books_heartreleased_section0004_html_a23044_qa.jsonl",
+      "processed_at": "2026-08-24T19:24:04"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0006.html",
+      "title": "The Ballad of Liberation from the Khandhas | A Heart Released",
+      "slug": "web_books_heartreleased_section0006_html_f5f951",
+      "status": "COMPLETED",
+      "word_count": 3067,
+      "qa_count": 12,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0006_html_f5f951.txt",
+      "dataset_file": "web_books_heartreleased_section0006_html_f5f951_qa.jsonl",
+      "processed_at": "2026-08-24T19:24:07"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/HeartReleased/Section0007.html",
+      "title": "Glossary | A Heart Released",
+      "slug": "web_books_heartreleased_section0007_html_223208",
+      "status": "COMPLETED",
+      "word_count": 403,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_heartreleased_section0007_html_223208.txt",
+      "dataset_file": "web_books_heartreleased_section0007_html_223208_qa.jsonl",
+      "processed_at": "2026-08-24T19:24:08"
     }
   ]
 }

@@ -83,10 +83,13 @@ Fetch any Dhamma web page (dhammatalks.org, accesstoinsight.org, etc.) and gener
 grounded QA training pairs tied directly to that page's actual content.
 
 ```bash
+# Process a complete online book via Table of Contents (crawls all chapters/sections automatically)
+python tools/web_page_pipeline.py --book https://www.dhammatalks.org/books/HeartReleased/
+
 # Process a single URL
 python tools/web_page_pipeline.py --add https://www.dhammatalks.org/books/HeartReleased/Section0005.html
 
-# Process multiple URLs at once
+# Process multiple individual URLs at once
 python tools/web_page_pipeline.py --add URL1 URL2 URL3
 
 # Process a batch from a text file (one URL per line, # = comment)
