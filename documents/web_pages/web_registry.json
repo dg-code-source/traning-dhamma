@@ -3596,6 +3596,17 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_authors_gunaratna_wheel102_html_1e71af.txt",
       "dataset_file": "web_lib_authors_gunaratna_wheel102_html_1e71af_qa.jsonl",
       "processed_at": "2026-08-24T20:03:50"
+    },
+    {
+      "url": "https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm",
+      "title": "Namo tassa bhagavato arahato samm�sambuddhassa",
+      "slug": "web_wp_content_uploads_2018_03_mind_stilled_html_htm_3daaf1",
+      "status": "COMPLETED",
+      "word_count": 282026,
+      "qa_count": 15,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_wp_content_uploads_2018_03_mind_stilled_html_htm_3daaf1.txt",
+      "dataset_file": "web_wp_content_uploads_2018_03_mind_stilled_html_htm_3daaf1_qa.jsonl",
+      "processed_at": "2026-08-24T20:10:07"
     }
   ]
 }

@@ -163,13 +163,14 @@ class DhammaHTMLParser(HTMLParser):
             return
 
         is_main_entry = (
-            tag in ("main", "article") or 
+            tag in ("main", "article", "body") or 
             any(k in tag_id for k in ("content", "h_content", "main-content", "truth", "body", "copyrighted_text")) or
             any(k in tag_class for k in ("content", "main-content", "entry-content", "post-content"))
         )
 
         if is_main_entry and self._main_depth == 0:
             self._main_depth = len(self._tag_stack)  # mark stack level where main started
+
 
         if tag == "title":
             self._in_title = True
@@ -254,8 +255,9 @@ def fetch_url(url: str, retries: int = 3, delay: float = 2.0) -> str:
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/125.0.0.0 Safari/537.36"
         ),
-        "Accept": "text/html,application/xhtml+xml",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive"
     }
     for attempt in range(retries):
         try:
