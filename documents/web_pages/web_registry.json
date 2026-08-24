@@ -3585,6 +3585,17 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_thai_lee_eyeof_html_d9a6a3.txt",
       "dataset_file": "web_lib_thai_lee_eyeof_html_d9a6a3_qa.jsonl",
       "processed_at": "2026-08-24T20:00:50"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/authors/gunaratna/wheel102.html",
+      "title": "Buddhist Reflections on Death",
+      "slug": "web_lib_authors_gunaratna_wheel102_html_1e71af",
+      "status": "COMPLETED",
+      "word_count": 13250,
+      "qa_count": 9,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_lib_authors_gunaratna_wheel102_html_1e71af.txt",
+      "dataset_file": "web_lib_authors_gunaratna_wheel102_html_1e71af_qa.jsonl",
+      "processed_at": "2026-08-24T20:03:50"
     }
   ]
 }
