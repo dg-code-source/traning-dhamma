@@ -883,6 +883,1181 @@
       "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_meditations13_section0051_html_7c7215.txt",
       "dataset_file": "web_books_meditations13_section0051_html_7c7215_qa.jsonl",
       "processed_at": "2026-08-24T19:31:10"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Cover.html",
+      "slug": "web_books_giftsheleftbehind_cover_html_ac57de",
+      "title": "Cover | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 0,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:08"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0001.html",
+      "slug": "web_books_giftsheleftbehind_section0001_html_7a3a60",
+      "title": "Titlepage | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 16,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:10"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0002.html",
+      "slug": "web_books_giftsheleftbehind_section0002_html_abe826",
+      "title": "Copyright | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 104,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:12"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0003.html",
+      "title": "A Biographical Sketch | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0003_html_8e5425",
+      "status": "COMPLETED",
+      "word_count": 210,
+      "qa_count": 6,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0003_html_8e5425.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0003_html_8e5425_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:14"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0004.html",
+      "title": "Introduction | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0004_html_3ac959",
+      "status": "COMPLETED",
+      "word_count": 370,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0004_html_3ac959.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0004_html_3ac959_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:16"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0005.html",
+      "slug": "web_books_giftsheleftbehind_section0005_html_467f11",
+      "title": "1. A Dhamma welcome | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 73,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:18"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0006.html",
+      "slug": "web_books_giftsheleftbehind_section0006_html_a57831",
+      "title": "2. No resistance | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 115,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:19"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0007.html",
+      "slug": "web_books_giftsheleftbehind_section0007_html_aa7426",
+      "title": "3. On the four noble truths | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 88,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:21"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0008.html",
+      "slug": "web_books_giftsheleftbehind_section0008_html_df5432",
+      "title": "4. Above & beyond words | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 112,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:23"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0009.html",
+      "slug": "web_books_giftsheleftbehind_section0009_html_086d5c",
+      "title": "5. A warning for heedless monks | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 46,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:25"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0010.html",
+      "slug": "web_books_giftsheleftbehind_section0010_html_9159e8",
+      "title": "6. Real, but not for real | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 118,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:27"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0011.html",
+      "title": "7. Letting go of visions | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0011_html_5a1d7f",
+      "status": "COMPLETED",
+      "word_count": 168,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0011_html_5a1d7f.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0011_html_5a1d7f_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:28"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0012.html",
+      "slug": "web_books_giftsheleftbehind_section0012_html_80d6cf",
+      "title": "8. External things | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 126,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:31"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0013.html",
+      "slug": "web_books_giftsheleftbehind_section0013_html_d77cfa",
+      "title": "9. Stopping to know | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 121,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:32"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0014.html",
+      "title": "10. Advancement or destruction | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0014_html_fbc5ff",
+      "status": "COMPLETED",
+      "word_count": 189,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0014_html_fbc5ff.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0014_html_fbc5ff_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:34"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0015.html",
+      "slug": "web_books_giftsheleftbehind_section0015_html_80db54",
+      "title": "11. On the ultimate level there’s no desire | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 125,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:36"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0016.html",
+      "title": "12. Teaching him a lesson? | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0016_html_c8cfb8",
+      "status": "COMPLETED",
+      "word_count": 228,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0016_html_c8cfb8.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0016_html_c8cfb8_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:38"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0017.html",
+      "slug": "web_books_giftsheleftbehind_section0017_html_0931b7",
+      "title": "13. Why do they suffer? | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 146,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:40"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0018.html",
+      "slug": "web_books_giftsheleftbehind_section0018_html_1a78cf",
+      "title": "14. Inspired words | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 129,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:42"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0019.html",
+      "title": "15. More inspired words | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0019_html_514eb8",
+      "status": "COMPLETED",
+      "word_count": 153,
+      "qa_count": 6,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0019_html_514eb8.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0019_html_514eb8_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:44"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0020.html",
+      "slug": "web_books_giftsheleftbehind_section0020_html_1e868d",
+      "title": "16. Still more inspired words | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 115,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:46"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0021.html",
+      "title": "17. What buddho is like | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0021_html_f36e7d",
+      "status": "COMPLETED",
+      "word_count": 228,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0021_html_f36e7d.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0021_html_f36e7d_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:47"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0022.html",
+      "title": "18. For those who want something good | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0022_html_fa0c30",
+      "status": "COMPLETED",
+      "word_count": 199,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0022_html_fa0c30.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0022_html_fa0c30_qa.jsonl",
+      "processed_at": "2026-08-24T19:35:50"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0023.html",
+      "slug": "web_books_giftsheleftbehind_section0023_html_6e1476",
+      "title": "19. He does, but he doesn’t | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 142,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:52"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0024.html",
+      "slug": "web_books_giftsheleftbehind_section0024_html_34fabe",
+      "title": "20. Aware in time | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 114,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:53"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0025.html",
+      "slug": "web_books_giftsheleftbehind_section0025_html_49270c",
+      "title": "21. Cutting no slack | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 105,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:56"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0026.html",
+      "slug": "web_books_giftsheleftbehind_section0026_html_4afa03",
+      "title": "22. Frugal with his words | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 135,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:57"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0027.html",
+      "slug": "web_books_giftsheleftbehind_section0027_html_5b5912",
+      "title": "23. Simple, but hard to do | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 137,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:35:59"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0028.html",
+      "slug": "web_books_giftsheleftbehind_section0028_html_573bb8",
+      "title": "24. Throw it away | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 141,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:01"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0029.html",
+      "slug": "web_books_giftsheleftbehind_section0029_html_dea15a",
+      "title": "25. A truth in line with the truth | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 117,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:03"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0030.html",
+      "slug": "web_books_giftsheleftbehind_section0030_html_467d61",
+      "title": "26. That wasn’t his aim | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 121,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:05"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0031.html",
+      "title": "27. Worlds apart | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0031_html_3241b2",
+      "status": "COMPLETED",
+      "word_count": 183,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0031_html_3241b2.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0031_html_3241b2_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:07"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0032.html",
+      "title": "28. One thing only | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0032_html_746c02",
+      "status": "COMPLETED",
+      "word_count": 161,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0032_html_746c02.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0032_html_746c02_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:09"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0033.html",
+      "title": "29. What to study and what not to study | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0033_html_91dd5b",
+      "status": "COMPLETED",
+      "word_count": 157,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0033_html_91dd5b.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0033_html_91dd5b_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:11"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0034.html",
+      "title": "30. What to watch | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0034_html_2e14cb",
+      "status": "COMPLETED",
+      "word_count": 204,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0034_html_2e14cb.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0034_html_2e14cb_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:13"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0035.html",
+      "title": "31. Problems & responsibilities | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0035_html_fcf1c0",
+      "status": "COMPLETED",
+      "word_count": 233,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0035_html_fcf1c0.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0035_html_fcf1c0_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:15"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0036.html",
+      "slug": "web_books_giftsheleftbehind_section0036_html_0d8227",
+      "title": "32. The poorer, the happier | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 136,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:16"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0037.html",
+      "slug": "web_books_giftsheleftbehind_section0037_html_99fc47",
+      "title": "33. The less, the better | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 135,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:18"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0038.html",
+      "title": "34. Didn’t think of that | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0038_html_4c2fad",
+      "status": "COMPLETED",
+      "word_count": 196,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0038_html_4c2fad.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0038_html_4c2fad_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:20"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0039.html",
+      "slug": "web_books_giftsheleftbehind_section0039_html_76250d",
+      "title": "35. Don’t aim in the wrong direction | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 148,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:22"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0040.html",
+      "slug": "web_books_giftsheleftbehind_section0040_html_cfcef6",
+      "title": "36. In the Buddha’s words | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 140,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:23"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0041.html",
+      "title": "37. Those with no fault by way of speech | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0041_html_ee1126",
+      "status": "COMPLETED",
+      "word_count": 164,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0041_html_ee1126.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0041_html_ee1126_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:25"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0042.html",
+      "title": "38. The perfection of endurance | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0042_html_1f1864",
+      "status": "COMPLETED",
+      "word_count": 189,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0042_html_1f1864.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0042_html_1f1864_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:27"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0043.html",
+      "title": "39. No trouble through his words | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0043_html_3dd2b3",
+      "status": "COMPLETED",
+      "word_count": 152,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0043_html_3dd2b3.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0043_html_3dd2b3_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:29"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0044.html",
+      "title": "40. Monks who victimize spirits | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0044_html_c0370f",
+      "status": "COMPLETED",
+      "word_count": 211,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0044_html_c0370f.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0044_html_c0370f_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:31"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0045.html",
+      "title": "41. Nice, but… | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0045_html_3f265d",
+      "status": "COMPLETED",
+      "word_count": 235,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0045_html_3f265d.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0045_html_3f265d_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:33"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0046.html",
+      "title": "42. Meditators who are uncertain | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0046_html_c30411",
+      "status": "COMPLETED",
+      "word_count": 233,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0046_html_c30411.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0046_html_c30411_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:35"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0047.html",
+      "slug": "web_books_giftsheleftbehind_section0047_html_f1c0ce",
+      "title": "43. When dwelling, dwell above | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 139,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:37"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0048.html",
+      "title": "44. Looking for new teachers | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0048_html_415c44",
+      "status": "COMPLETED",
+      "word_count": 188,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0048_html_415c44.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0048_html_415c44_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:39"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0049.html",
+      "title": "45. Holding on vs. putting aside | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0049_html_023601",
+      "status": "COMPLETED",
+      "word_count": 170,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0049_html_023601.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0049_html_023601_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:40"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0050.html",
+      "title": "46. When the mind resists growing still | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0050_html_f22bb8",
+      "status": "COMPLETED",
+      "word_count": 211,
+      "qa_count": 7,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0050_html_f22bb8.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0050_html_f22bb8_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:42"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0051.html",
+      "title": "47. The genuine basis of the Dhamma | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0051_html_38a94a",
+      "status": "COMPLETED",
+      "word_count": 157,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0051_html_38a94a.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0051_html_38a94a_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:44"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0052.html",
+      "title": "48. A warning not to be heedless | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0052_html_3ac3b7",
+      "status": "COMPLETED",
+      "word_count": 200,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0052_html_3ac3b7.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0052_html_3ac3b7_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:46"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0053.html",
+      "title": "49. Sometimes he came down hard | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0053_html_83fdf5",
+      "status": "COMPLETED",
+      "word_count": 246,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0053_html_83fdf5.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0053_html_83fdf5_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:48"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0054.html",
+      "title": "50. Not sidetracked | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0054_html_d2bacf",
+      "status": "COMPLETED",
+      "word_count": 158,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0054_html_d2bacf.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0054_html_d2bacf_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:50"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0055.html",
+      "title": "51. Simply a motion | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0055_html_b64520",
+      "status": "COMPLETED",
+      "word_count": 236,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0055_html_b64520.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0055_html_b64520_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:51"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0056.html",
+      "slug": "web_books_giftsheleftbehind_section0056_html_71afc3",
+      "title": "52. Seize the opportunity | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 145,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:53"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0057.html",
+      "slug": "web_books_giftsheleftbehind_section0057_html_d2b790",
+      "title": "53. The limits of science | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 120,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:55"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0058.html",
+      "slug": "web_books_giftsheleftbehind_section0058_html_ef59ba",
+      "title": "54. How to extinguish suffering | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 105,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:36:56"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0059.html",
+      "title": "55. The truth is always the same | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0059_html_9d36ab",
+      "status": "COMPLETED",
+      "word_count": 156,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0059_html_9d36ab.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0059_html_9d36ab_qa.jsonl",
+      "processed_at": "2026-08-24T19:36:58"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0060.html",
+      "slug": "web_books_giftsheleftbehind_section0060_html_61c534",
+      "title": "56. Refined | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 104,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:00"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0061.html",
+      "slug": "web_books_giftsheleftbehind_section0061_html_c93e24",
+      "title": "57. Empty | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 137,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:02"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0062.html",
+      "slug": "web_books_giftsheleftbehind_section0062_html_16646d",
+      "title": "58. Not all that clear | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 135,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:04"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0063.html",
+      "slug": "web_books_giftsheleftbehind_section0063_html_25454c",
+      "title": "59. Knowledge from study vs. knowledge from practice | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 148,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:05"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0064.html",
+      "slug": "web_books_giftsheleftbehind_section0064_html_46c579",
+      "title": "60. A strategy for loosening attachment | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 132,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:07"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0065.html",
+      "slug": "web_books_giftsheleftbehind_section0065_html_b22ff4",
+      "title": "61. On eating | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 142,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:09"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0066.html",
+      "title": "62. More on eating | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0066_html_5496f9",
+      "status": "COMPLETED",
+      "word_count": 211,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0066_html_5496f9.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0066_html_5496f9_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:11"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0067.html",
+      "title": "63. Still more on eating | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0067_html_3d3e59",
+      "status": "COMPLETED",
+      "word_count": 241,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0067_html_3d3e59.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0067_html_3d3e59_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:13"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0068.html",
+      "slug": "web_books_giftsheleftbehind_section0068_html_177f3a",
+      "title": "64. Business practices & Dhamma practice | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 137,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:14"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0069.html",
+      "title": "65. Buried memories | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0069_html_3af415",
+      "status": "COMPLETED",
+      "word_count": 157,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0069_html_3af415.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0069_html_3af415_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:16"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0070.html",
+      "slug": "web_books_giftsheleftbehind_section0070_html_dc321a",
+      "title": "66. In his own style | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 148,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:18"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0071.html",
+      "title": "67. “I want to do well in my studies…” | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0071_html_451259",
+      "status": "COMPLETED",
+      "word_count": 177,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0071_html_451259.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0071_html_451259_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:20"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0072.html",
+      "title": "68. The purpose of wandering | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0072_html_f3e674",
+      "status": "COMPLETED",
+      "word_count": 167,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0072_html_f3e674.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0072_html_f3e674_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:22"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0073.html",
+      "slug": "web_books_giftsheleftbehind_section0073_html_d5856d",
+      "title": "69. To stop you have to know how | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 124,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:23"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0074.html",
+      "slug": "web_books_giftsheleftbehind_section0074_html_c2ba9a",
+      "title": "70. Similar results, but not the same | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 129,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:26"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0075.html",
+      "slug": "web_books_giftsheleftbehind_section0075_html_6ec45e",
+      "title": "71. There’s only one place | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 147,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:28"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0076.html",
+      "slug": "web_books_giftsheleftbehind_section0076_html_f604dc",
+      "title": "72. The world vs. the Dhamma | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 146,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:30"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0077.html",
+      "title": "73. Should you ask? | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0077_html_1f2551",
+      "status": "COMPLETED",
+      "word_count": 156,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0077_html_1f2551.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0077_html_1f2551_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:32"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0078.html",
+      "title": "74. The purpose of the practice | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0078_html_b618bb",
+      "status": "COMPLETED",
+      "word_count": 177,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0078_html_b618bb.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0078_html_b618bb_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:34"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0079.html",
+      "title": "75. Hoping for far-off results | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0079_html_ff0bd8",
+      "status": "COMPLETED",
+      "word_count": 230,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0079_html_ff0bd8.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0079_html_ff0bd8_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:36"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0080.html",
+      "title": "76. Nothing more than that | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0080_html_cd2e0b",
+      "status": "COMPLETED",
+      "word_count": 199,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0080_html_cd2e0b.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0080_html_cd2e0b_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:38"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0081.html",
+      "title": "77. It’s easy if you’re not attached | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0081_html_22f84d",
+      "status": "COMPLETED",
+      "word_count": 193,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0081_html_22f84d.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0081_html_22f84d_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:39"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0082.html",
+      "title": "78. Sometimes what I heard amazed me | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0082_html_48e4d2",
+      "status": "COMPLETED",
+      "word_count": 164,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0082_html_48e4d2.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0082_html_48e4d2_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:41"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0083.html",
+      "slug": "web_books_giftsheleftbehind_section0083_html_9a3dd9",
+      "title": "79. Even this sort of question | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 118,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:43"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0084.html",
+      "slug": "web_books_giftsheleftbehind_section0084_html_0dc748",
+      "title": "80. A scolding | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 131,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:45"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0085.html",
+      "title": "81. Letting go of one thing to get stuck on another | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0085_html_603890",
+      "status": "COMPLETED",
+      "word_count": 190,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0085_html_603890.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0085_html_603890_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:46"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0086.html",
+      "slug": "web_books_giftsheleftbehind_section0086_html_e46fd9",
+      "title": "82. A comparison | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 148,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:48"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0087.html",
+      "title": "83. Another comparison | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0087_html_c87489",
+      "status": "COMPLETED",
+      "word_count": 296,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0087_html_c87489.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0087_html_c87489_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:50"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0088.html",
+      "title": "84. Things outside and in | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0088_html_c95e6f",
+      "status": "COMPLETED",
+      "word_count": 164,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0088_html_c95e6f.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0088_html_c95e6f_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:52"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0089.html",
+      "slug": "web_books_giftsheleftbehind_section0089_html_9b44cd",
+      "title": "85. Not even the five precepts | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 149,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:37:54"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0090.html",
+      "title": "86. Never perturbed | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0090_html_e73ced",
+      "status": "COMPLETED",
+      "word_count": 191,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0090_html_e73ced.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0090_html_e73ced_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:55"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0091.html",
+      "title": "87. How the Dhamma protects | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0091_html_fbc044",
+      "status": "COMPLETED",
+      "word_count": 212,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0091_html_fbc044.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0091_html_fbc044_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:57"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0092.html",
+      "title": "88. Only practice can resolve doubt | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0092_html_3919ef",
+      "status": "COMPLETED",
+      "word_count": 206,
+      "qa_count": 6,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0092_html_3919ef.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0092_html_3919ef_qa.jsonl",
+      "processed_at": "2026-08-24T19:37:59"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0093.html",
+      "title": "89. Is that all they want? | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0093_html_7fd358",
+      "status": "COMPLETED",
+      "word_count": 175,
+      "qa_count": 7,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0093_html_7fd358.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0093_html_7fd358_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:01"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0094.html",
+      "slug": "web_books_giftsheleftbehind_section0094_html_c68215",
+      "title": "90. No fables | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 126,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:03"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0095.html",
+      "title": "91. Strange | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0095_html_cadc44",
+      "status": "COMPLETED",
+      "word_count": 214,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0095_html_cadc44.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0095_html_cadc44_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:05"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0096.html",
+      "title": "92. Stranger still | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0096_html_3bd868",
+      "status": "COMPLETED",
+      "word_count": 189,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0096_html_3bd868.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0096_html_3bd868_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:06"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0097.html",
+      "title": "93. The truth as he saw it | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0097_html_7b4f0d",
+      "status": "COMPLETED",
+      "word_count": 218,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0097_html_7b4f0d.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0097_html_7b4f0d_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:08"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0098.html",
+      "title": "94. Answering questions with questions | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0098_html_89becd",
+      "status": "COMPLETED",
+      "word_count": 155,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0098_html_89becd.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0098_html_89becd_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:10"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0099.html",
+      "title": "95. Luang Pu’s habits | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0099_html_b0a99f",
+      "status": "COMPLETED",
+      "word_count": 205,
+      "qa_count": 2,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0099_html_b0a99f.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0099_html_b0a99f_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:11"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0100.html",
+      "slug": "web_books_giftsheleftbehind_section0100_html_c07ab1",
+      "title": "96. Heavy pain, but not heavy with pain | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 140,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:13"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0101.html",
+      "slug": "web_books_giftsheleftbehind_section0101_html_3d4701",
+      "title": "97. A safe shortcut | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 148,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:15"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0102.html",
+      "slug": "web_books_giftsheleftbehind_section0102_html_6e9ba1",
+      "title": "98. Everything comes from action | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 117,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:17"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0103.html",
+      "title": "99. Making no show | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0103_html_c26fd6",
+      "status": "COMPLETED",
+      "word_count": 262,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0103_html_c26fd6.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0103_html_c26fd6_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:19"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0104.html",
+      "title": "100. The end of rebirth | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0104_html_8087e0",
+      "status": "COMPLETED",
+      "word_count": 204,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0104_html_8087e0.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0104_html_8087e0_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:21"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0105.html",
+      "title": "101. A comparison | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0105_html_47ac6b",
+      "status": "COMPLETED",
+      "word_count": 234,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0105_html_47ac6b.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0105_html_47ac6b_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:22"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0106.html",
+      "slug": "web_books_giftsheleftbehind_section0106_html_55ac28",
+      "title": "102. The safest way to dwell | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 145,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:24"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0107.html",
+      "slug": "web_books_giftsheleftbehind_section0107_html_76eb25",
+      "title": "103. Continued | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 58,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:26"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0108.html",
+      "slug": "web_books_giftsheleftbehind_section0108_html_60a22f",
+      "title": "104. The end of stress | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 143,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:28"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0109.html",
+      "slug": "web_books_giftsheleftbehind_section0109_html_c42d6b",
+      "title": "105. His last illness | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 149,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:29"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0110.html",
+      "slug": "web_books_giftsheleftbehind_section0110_html_7a6e51",
+      "title": "106. Approaching death | Gifts He Left Behind",
+      "status": "SKIPPED_TOO_SHORT",
+      "word_count": 140,
+      "qa_count": 0,
+      "processed_at": "2026-08-24T19:38:31"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0111.html",
+      "title": "107. One last recollection of the Dhamma | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0111_html_546345",
+      "status": "COMPLETED",
+      "word_count": 216,
+      "qa_count": 5,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0111_html_546345.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0111_html_546345_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:33"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0112.html",
+      "title": "108. Final words | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0112_html_62dad8",
+      "status": "COMPLETED",
+      "word_count": 150,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0112_html_62dad8.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0112_html_62dad8_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:35"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0113.html",
+      "title": "109. A moment of wilderness in the city | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0113_html_9b6c33",
+      "status": "COMPLETED",
+      "word_count": 235,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0113_html_9b6c33.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0113_html_9b6c33_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:36"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0114.html",
+      "title": "110. Even the timing was apt | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0114_html_b26daf",
+      "status": "COMPLETED",
+      "word_count": 215,
+      "qa_count": 3,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0114_html_b26daf.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0114_html_b26daf_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:38"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0115.html",
+      "title": "111. No bad karma with regard to the body | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0115_html_3dafa9",
+      "status": "COMPLETED",
+      "word_count": 175,
+      "qa_count": 4,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0115_html_3dafa9.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0115_html_3dafa9_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:40"
+    },
+    {
+      "url": "https://www.dhammatalks.org/books/GiftsHeLeftBehind/Section0116.html",
+      "title": "Glossary | Gifts He Left Behind",
+      "slug": "web_books_giftsheleftbehind_section0116_html_fd304b",
+      "status": "COMPLETED",
+      "word_count": 773,
+      "qa_count": 8,
+      "text_file": "C:\\training-dhamma\\dhamma\\documents\\web_pages\\web_books_giftsheleftbehind_section0116_html_fd304b.txt",
+      "dataset_file": "web_books_giftsheleftbehind_section0116_html_fd304b_qa.jsonl",
+      "processed_at": "2026-08-24T19:38:42"
     }
   ]
 }
